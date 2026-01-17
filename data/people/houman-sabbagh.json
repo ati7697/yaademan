@@ -1,14 +1,23 @@
 {
   "id": "houman-sabbagh",
-  "firstName": "Houman",
-  "lastName": "Sabbagh",
+  "firstName": {
+    "fa": "هومن",
+    "en": "Houman"
+  },
+  "lastName": {
+    "fa": "صباغ",
+    "en": "Sabbagh"
+  },
   "age": 37,
   "birthDate": null,
   "deathDate": "2025-01-08",
   "causeOfDeath": null,
   "incidentDate": "2025-01-08",
   "location": {
-    "city": "Lahijan",
+    "city": {
+        "fa": "لاهیجان",
+        "en": "Lahijan"
+    },
     "country": "Iran"
   },
   "status": "killed",

@@ -1,11 +1,20 @@
 {
   "id": "arya-alidoust",
-  "firstName": "Arya",
-  "lastName": "Alidoust (Gharibabadi)",
+  "firstName": {
+    "fa": "آریا",
+    "en": "Arya"
+  },
+  "lastName": {
+    "fa": "علیدوست (غریب‌آبادی)",
+    "en": "Alidoust (Gharibabadi)"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-08",
-  "causeOfDeath": "Killed during protests",
+  "causeOfDeath": {
+    "fa": "کشته شدن در جریان اعتراضات",
+    "en": "Killed during protests"
+  },
   "incidentDate": "2026-01-08",
   "location": {
     "city": "Lahijan",

@@ -1,11 +1,20 @@
 {
   "id": "fereydoun-mahmoudi",
-  "firstName": "Fereydoun",
-  "lastName": "Mahmoudi",
+  "firstName": {
+    "fa": "فریدون",
+    "en": "Fereydoun"
+  },
+  "lastName": {
+    "fa": "محمودی",
+    "en": "Mahmoudi"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2022-09-19",
-  "causeOfDeath": "gunshot wounds",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی",
+    "en": "gunshot wounds"
+  },
   "incidentDate": "2022-09-19",
   "location": {
     "city": "Saqqez",

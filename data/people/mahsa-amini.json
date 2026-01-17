@@ -1,11 +1,20 @@
 {
   "id": "mahsa-amini",
-  "firstName": "Jina Mahsa",
-  "lastName": "Amini",
+  "firstName": {
+    "fa": "ژینا مهسا",
+    "en": "Jina Mahsa"
+  },
+  "lastName": {
+    "fa": "امینی",
+    "en": "Amini"
+  },
   "age": 22,
   "birthDate": "1999-09-21",
   "deathDate": "2022-09-16",
-  "causeOfDeath": "injuries sustained while in custody of morality police",
+  "causeOfDeath": {
+    "fa": "جراحات ناشی از بازداشت توسط گشت ارشاد",
+    "en": "injuries sustained while in custody of morality police"
+  },
   "incidentDate": "2022-09-13",
   "location": {
     "city": "Tehran",

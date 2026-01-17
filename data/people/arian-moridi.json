@@ -1,11 +1,20 @@
 {
   "id": "arian-moridi",
-  "firstName": "Arian",
-  "lastName": "Moridi",
+  "firstName": {
+    "fa": "آرین",
+    "en": "Arian"
+  },
+  "lastName": {
+    "fa": "مریدی",
+    "en": "Moridi"
+  },
   "age": 22,
   "birthDate": null,
   "deathDate": "2022-10-09",
-  "causeOfDeath": "gunshot wounds",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی",
+    "en": "gunshot wounds"
+  },
   "incidentDate": "2022-10-09",
   "location": {
     "city": "Javanrud",

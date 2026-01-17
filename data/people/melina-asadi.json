@@ -1,11 +1,20 @@
 {
   "id": "melina-asadi",
-  "firstName": "Melina",
-  "lastName": "Asadi",
+  "firstName": {
+    "fa": "ملینا",
+    "en": "Melina"
+  },
+  "lastName": {
+    "fa": "اسدی",
+    "en": "Asadi"
+  },
   "age": 3,
   "birthDate": null,
   "deathDate": "2026-01-08",
-  "causeOfDeath": "Shot in the head and body with pellet bullets during indiscriminate shooting by government forces",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله‌های ساچمه‌ای به سر و بدن در جریان تیراندازی کور توسط نیروهای حکومتی",
+    "en": "Shot in the head and body with pellet bullets during indiscriminate shooting by government forces"
+  },
   "incidentDate": "2026-01-08",
   "location": {
     "city": "Kermanshah",

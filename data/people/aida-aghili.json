@@ -1,11 +1,20 @@
 {
   "id": "aida-aghili",
-  "firstName": "Aida",
-  "lastName": "Aghili",
+  "firstName": {
+    "fa": "آیدا",
+    "en": "Aida"
+  },
+  "lastName": {
+    "fa": "عقیلی",
+    "en": "Aghili"
+  },
   "age": 34,
   "birthDate": null,
   "deathDate": null,
-  "causeOfDeath": "Shot in the head with war ammunition",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی به سر",
+    "en": "Shot in the head with war ammunition"
+  },
   "incidentDate": null,
   "location": {
     "city": "Tehran",

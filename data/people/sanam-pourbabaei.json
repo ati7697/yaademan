@@ -1,11 +1,20 @@
 {
   "id": "sanam-pourbabaei",
-  "firstName": "Sanam",
-  "lastName": "Pourbabaei",
+  "firstName": {
+    "fa": "صنم",
+    "en": "Sanam"
+  },
+  "lastName": {
+    "fa": "پوربابایی",
+    "en": "Pourbabaei"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2025-01-08",
-  "causeOfDeath": "Shot from long distance near Lahijan Governorate",
+  "causeOfDeath": {
+    "fa": "تیراندازی از فاصله دور در نزدیکی فرمانداری لاهیجان",
+    "en": "Shot from long distance near Lahijan Governorate"
+  },
   "incidentDate": "2025-01-08",
   "location": {
     "city": "Lahijan",

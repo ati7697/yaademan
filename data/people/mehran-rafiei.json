@@ -1,11 +1,20 @@
 {
   "id": "mehran-rafiei",
-  "firstName": "Mehran",
-  "lastName": "Rafiei",
+  "firstName": {
+    "fa": "مهران",
+    "en": "Mehran"
+  },
+  "lastName": {
+    "fa": "رفیعی",
+    "en": "Rafiei"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2025-01-08",
-  "causeOfDeath": "Killed during protests",
+  "causeOfDeath": {
+    "fa": "کشته شدن در جریان اعتراضات",
+    "en": "Killed during protests"
+  },
   "incidentDate": "2025-01-08",
   "location": {
     "city": "Lahijan",

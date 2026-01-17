@@ -1,11 +1,20 @@
 {
   "id": "daniyal-sabzikar",
-  "firstName": "Daniyal",
-  "lastName": "Sabzikar",
+  "firstName": {
+    "fa": "دانیال",
+    "en": "Daniyal"
+  },
+  "lastName": {
+    "fa": "سبزیکار",
+    "en": "Sabzikar"
+  },
   "age": 28,
   "birthDate": null,
   "deathDate": "2025-01-08",
-  "causeOfDeath": "Shot in the head by suppression forces with war ammunition",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی به سر توسط نیروهای سرکوب",
+    "en": "Shot in the head by suppression forces with war ammunition"
+  },
   "incidentDate": "2025-01-08",
   "location": {
     "city": "Qazvin",

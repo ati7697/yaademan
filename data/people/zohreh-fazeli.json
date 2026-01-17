@@ -1,11 +1,20 @@
 {
   "id": "zohreh-fazeli",
-  "firstName": "Zohreh",
-  "lastName": "Fazeli",
+  "firstName": {
+    "fa": "زهره",
+    "en": "Zohreh"
+  },
+  "lastName": {
+    "fa": "فاضلی",
+    "en": "Fazeli"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2025-01-09",
-  "causeOfDeath": "Killed",
+  "causeOfDeath": {
+    "fa": "کشته شده",
+    "en": "Killed"
+  },
   "incidentDate": "2025-01-09",
   "location": {
     "city": "Bushehr",

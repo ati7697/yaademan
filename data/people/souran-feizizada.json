@@ -1,11 +1,20 @@
 {
   "id": "souran-feizizada",
-  "firstName": "Souran",
-  "lastName": "Feizizada",
+  "firstName": {
+    "fa": "سوران",
+    "en": "Souran"
+  },
+  "lastName": {
+    "fa": "فیضی‌زاده",
+    "en": "Feizizada"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-09",
-  "causeOfDeath": "Severe torture with batons and repeated beatings during and after arrest, died from injuries in hospital",
+  "causeOfDeath": {
+    "fa": "شکنجه شدید با باتوم و ضرب‌وشتم مکرر در حین و پس از بازداشت، فوت بر اثر جراحات در بیمارستان",
+    "en": "Severe torture with batons and repeated beatings during and after arrest, died from injuries in hospital"
+  },
   "incidentDate": "2026-01-08",
   "location": {
     "city": "Bijar",

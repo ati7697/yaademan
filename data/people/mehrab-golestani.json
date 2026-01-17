@@ -1,11 +1,20 @@
 {
   "id": "mehrab-golestani",
-  "firstName": "Mehrab",
-  "lastName": "Golestani",
+  "firstName": {
+    "fa": "محراب",
+    "en": "Mehrab"
+  },
+  "lastName": {
+    "fa": "گلستانی",
+    "en": "Golestani"
+  },
   "age": 17,
   "birthDate": null,
   "deathDate": "2026-01-09",
-  "causeOfDeath": "Shot with war ammunition",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی",
+    "en": "Shot with war ammunition"
+  },
   "incidentDate": "2026-01-09",
   "location": {
     "city": "Isfahan",

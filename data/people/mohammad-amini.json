@@ -1,11 +1,20 @@
 {
   "id": "mohammad-amini",
-  "firstName": "Mohammad",
-  "lastName": "Amini",
+  "firstName": {
+    "fa": "محمد",
+    "en": "Mohammad"
+  },
+  "lastName": {
+    "fa": "امینی",
+    "en": "Amini"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2022-10-08",
-  "causeOfDeath": "gunshot wounds",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی",
+    "en": "gunshot wounds"
+  },
   "incidentDate": "2022-10-08",
   "location": {
     "city": "Sanandaj",

@@ -1,11 +1,20 @@
 {
   "id": "pedaram-saeedi",
-  "firstName": "Pedaram",
-  "lastName": "Saeedi",
+  "firstName": {
+    "fa": "پدارم",
+    "en": "Pedaram"
+  },
+  "lastName": {
+    "fa": "سعیدی",
+    "en": "Saeedi"
+  },
   "age": 28,
   "birthDate": null,
   "deathDate": "2025-01-09",
-  "causeOfDeath": "Shot directly in the left chest by government forces",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم به سمت چپ سینه توسط نیروهای حکومتی",
+    "en": "Shot directly in the left chest by government forces"
+  },
   "incidentDate": "2025-01-09",
   "location": {
     "city": "Isfahan",

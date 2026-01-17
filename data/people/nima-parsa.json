@@ -1,11 +1,20 @@
 {
   "id": "nima-parsa",
-  "firstName": "Nima",
-  "lastName": "Parsa",
+  "firstName": {
+    "fa": "نیما",
+    "en": "Nima"
+  },
+  "lastName": {
+    "fa": "پارسا",
+    "en": "Parsa"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-09",
-  "causeOfDeath": "Shot with live ammunition by state forces",
+  "causeOfDeath": {
+    "fa": "شلیک گلوله جنگی توسط نیروهای حکومتی",
+    "en": "Shot with live ammunition by state forces"
+  },
   "incidentDate": "2026-01-09",
   "location": {
     "city": "Tehran",

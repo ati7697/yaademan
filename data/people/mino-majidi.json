@@ -1,11 +1,20 @@
 {
   "id": "mino-majidi",
-  "firstName": "Mino",
-  "lastName": "Majidi",
+  "firstName": {
+    "fa": "مینو",
+    "en": "Mino"
+  },
+  "lastName": {
+    "fa": "مجیدی",
+    "en": "Majidi"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2022-09-21",
-  "causeOfDeath": "gunshot wounds",
+  "causeOfDeath": {
+    "fa": "اصابت گلوله جنگی",
+    "en": "gunshot wounds"
+  },
   "incidentDate": "2022-09-21",
   "location": {
     "city": "Kermanshah",

@@ -1,11 +1,20 @@
 {
   "id": "sara-behboudi",
-  "firstName": "Sara",
-  "lastName": "Behboudi",
+  "firstName": {
+    "fa": "سارا",
+    "en": "Sara"
+  },
+  "lastName": {
+    "fa": "بهبودی",
+    "en": "Behboudi"
+  },
   "age": 45,
   "birthDate": null,
   "deathDate": "2025-01-09",
-  "causeOfDeath": "Shot with war ammunition by suppression forces",
+  "causeOfDeath": {
+    "fa": "شلیک گلوله جنگی توسط نیروهای سرکوب",
+    "en": "Shot with war ammunition by suppression forces"
+  },
   "incidentDate": "2025-01-09",
   "location": {
     "city": "Rasht",

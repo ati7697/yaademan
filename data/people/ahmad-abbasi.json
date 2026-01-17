@@ -1,11 +1,20 @@
 {
   "id": "ahmad-abbasi",
-  "firstName": "Ahmad",
-  "lastName": "Abbasi",
+  "firstName": {
+    "fa": "احمد",
+    "en": "Ahmad"
+  },
+  "lastName": {
+    "fa": "عباسی",
+    "en": "Abbasi"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": null,
-  "causeOfDeath": "Shot on Piroozi Street",
+  "causeOfDeath": {
+    "fa": "تیرخوردن در خیابان پیروزی",
+    "en": "Shot on Piroozi Street"
+  },
   "incidentDate": null,
   "location": {
     "city": "Tehran",

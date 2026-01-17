@@ -1,7 +1,13 @@
 {
   "id": "matin-montazerzohor",
-  "firstName": "Matin",
-  "lastName": "Montazerzohor",
+  "firstName": {
+    "fa": "متین",
+    "en": "Matin"
+  },
+  "lastName": {
+    "fa": "منتظرظهور",
+    "en": "Montazerzohor"
+  },
   "age": 32,
   "birthDate": null,
   "deathDate": null,

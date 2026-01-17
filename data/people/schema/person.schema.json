@@ -41,6 +41,10 @@
       "type": ["string", "null"],
       "format": "date"
     },
+    "causeOfDeath" : {
+      "type": ["string", "null"],
+      "maxLength": 500
+    },
     "incidentDate": {
       "type": ["string", "null"],
       "format": "date"

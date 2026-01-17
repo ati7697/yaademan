@@ -1,6 +1,6 @@
 {
   "id": "mahsa-amini",
-  "firstName": "Mahsa",
+  "firstName": "Jina Mahsa",
   "lastName": "Amini",
   "fatherName": "Amjad",
   "motherName": null,
@@ -28,7 +28,7 @@
   },
   "events": ["2022-mahsa-amini-protests"],
   "images": [
-    "people/mahsa-amini/profile.jpg"
+    "images/people/mahsa-amini/profile.jpg"
   ],
   "links": [
     {

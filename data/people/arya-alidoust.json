@@ -1,0 +1,37 @@
+{
+  "id": "arya-alidoust",
+  "firstName": "Arya",
+  "lastName": "Alidoust (Gharibabadi)",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": "Killed during protests",
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Lahijan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "آریا علیدوست (غریب‌آبادی)، روز پنجشنبه ۱۸ دی ۱۴۰۴ در اعتراضات لاهیجان کشته شد.",
+    "en": "Arya Alidoust (Gharibabadi) was killed on Thursday, January 8, 2026 (18 Dey 1404) during protests in Lahijan."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/arya-alidoust/profile.jpeg",
+    "images/people/arya-alidoust/gallery-1.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/pkhwshhal/status/2012246313253876131",
+      "title": "Twitter/X Report on Arya Alidoust's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "aida-aghili",
+  "firstName": "Aida",
+  "lastName": "Aghili",
+  "age": 34,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": "Shot in the head with war ammunition",
+  "incidentDate": null,
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "آیدا عقیلی، ۳۴ ساله و ساکن تهران، بر اثر اصابت گلوله جنگی به سر جان باخت. به گفته منابع نزدیک به خانواده، پیکر او پس از مدتی جست‌وجو در میان پیکرهای منتقل‌شده به کهریزک شناسایی و پیدا شد. آیدا در شبکه‌های اجتماعی حضوری فعال داشت. آخرین استوری صفحه اینستاگرام او که مربوط به پنجم ژانویه بود، تصویری از خود او بود که با استفاده از هوش مصنوعی ساخته شده و در آن ایران را در آغوش گرفته بود؛ تصویری که پس از انتشار خبر مرگش بار دیگر مورد توجه کاربران قرار گرفت. نزدیکان آیدا از او به‌عنوان فردی عاشق زندگی، طبیعت، رقص و ایران یاد می‌کنند.",
+    "en": "Aida Aghili, 34 years old and a resident of Tehran, died from a war ammunition shot to the head. According to sources close to the family, her body was identified and found after a period of searching among bodies transferred to Kahrizak. Aida was active on social media. Her last Instagram story, from January 5, showed an AI-generated image of herself embracing Iran; an image that received renewed attention after news of her death was published. Those close to Aida remember her as someone who loved life, nature, dance, and Iran."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/aida-aghili/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/dadban4/status/2012206558470385855",
+      "title": "Twitter/X Report on Aida Aghili's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

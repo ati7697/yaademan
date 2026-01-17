@@ -1,0 +1,36 @@
+{
+  "id": "melina-asadi",
+  "firstName": "Melina",
+  "lastName": "Asadi",
+  "age": 3,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": "Shot in the head and body with pellet bullets during indiscriminate shooting by government forces",
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Kermanshah",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "ملینا اسدی، دختر بچه ۳ ساله کورد اهل کرمانشاه، شامگاه ۱۸ دی ۱۴۰۴ در بلوار طاق‌بستان جان خود را از دست داد. به گفته نزدیکان خانواده، ملینا همراه پدرش برای خرید روزانه بیرون رفته بود که ناگهان گروهی از معترضان در حال فرار از دست مأموران به آن محدوده رسیدند. در همین لحظه، مأموران حکومت ایران بدون هرگونه هدف‌گیری مشخص، به‌صورت کور تیراندازی کردند و گلوله‌های ساچمه‌ای شلیک‌شده به سر و بدن این کودک خردسال اصابت کرد و باعث جان‌باختن او شد. به‌گفته منابع مطلع و افراد نزدیک به خانواده اسدی، رژیم از همان ابتدا تلاش کرد کشته‌شدن ملینا را به معترضان نسبت دهد و خانواده را تحت فشار قرار دهد تا این روایت ساختگی را بپذیرند؛ روایتی که با شواهد موجود، شهادت شاهدان عینی و اظهارات نزدیکان خانواده در تضاد کامل است.",
+    "en": "Melina Asadi, a 3-year-old Kurdish girl from Kermanshah, lost her life on the evening of January 8, 2026 (18 Dey 1404) on Taq-e Bostan Boulevard. According to those close to the family, Melina had gone out with her father for daily shopping when suddenly a group of protesters fleeing from officers reached that area. At that moment, Iranian government forces fired indiscriminately without any specific targeting, and pellet bullets struck the head and body of this young child, causing her death. According to informed sources and people close to the Asadi family, the regime attempted from the beginning to attribute Melina's killing to protesters and put pressure on the family to accept this fabricated narrative; a narrative that is in complete contradiction with existing evidence, eyewitness testimony, and statements from those close to the family."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/melina-asadi/profile.jpg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/dilanm73/status/2012173426031485148",
+      "title": "Twitter/X Report on Melina Asadi's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

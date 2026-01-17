@@ -1,0 +1,36 @@
+{
+  "id": "ahmad-abbasi",
+  "firstName": "Ahmad",
+  "lastName": "Abbasi",
+  "age": null,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": "Shot on Piroozi Street",
+  "incidentDate": null,
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "احمد عباسی پس از آن‌که در خیابان پیروزی تیر خورد خودش را به یک کوچه رساند و گوشی‌اش را به یک نفر داده و گفته «به آخرین نفر در لیست تماس‌ها زنگ بزن». تا خانواده به خیابان پیروزی رسیدند احمد جانش را از دست داد. به دلیل وضعیت امنیتی و نبود آمبولانس در اطراف خیابان پیروزی، مادر احمد جنازه پسرش را شب تا صبح در همان کوچه در آغوش گرفت تا نیروهای امنیتی جسد فرزندش را از او نگیرند. اما در نهایت با انتقال جسد احمد به پزشکی قانونی کهریزک، نیروهای لباس شخصی جسد احمد را ربودند و برای تحویل دادن جسد به خانواده درخواست یک میلیارد تومان «حق تیر» کردند.",
+    "en": "Ahmad Abbasi, after being shot on Piroozi Street, managed to reach an alley and gave his phone to someone, saying 'call the last person in my contact list.' By the time his family reached Piroozi Street, Ahmad had lost his life. Due to security conditions and lack of ambulances around Piroozi Street, Ahmad's mother held her son's body in that alley from night until morning to prevent security forces from taking her child's body. However, when Ahmad's body was eventually transferred to Kahrizak Legal Medicine, plainclothes forces seized Ahmad's body and are now demanding one billion tomans as 'bullet fee' to return the body to the family."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/ahmad-abbasi/profile.jpg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/Soranmansournia/status/2012136313844117727",
+      "title": "Twitter/X Report on Ahmad Abbasi's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

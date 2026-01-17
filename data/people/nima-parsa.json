@@ -1,0 +1,37 @@
+{
+  "id": "nima-parsa",
+  "firstName": "Nima",
+  "lastName": "Parsa",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": "Shot with live ammunition by state forces",
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "نیما پارسا، دانشجوی سابق دانشگاه بولونیا، معلم محبوب زبان انگلیسی و ایتالیایی، یوتیوبر سخاوتمندی که ویدیوهای آموزشی را به صورت رایگان به اشتراک می‌گذاشت، و بنیانگذار موسسه نیپا، روز ۹ ژانویه ۲۰۲۶ (۱۹ دی ۱۴۰۴) در ونک تهران با گلوله جنگی به قتل رسید. زندگی‌ای که وقف دانش و به اشتراک‌گذاری بود، توسط خشونت دولتی به طرز وحشیانه‌ای خاموش شد.",
+    "en": "Nima Parsa, former Bologna University student, beloved Italian and English teacher, generous YouTuber who freely shared educational videos, and founder of Nipa Institute, was shot dead with live ammunition in Vanak, Tehran on January 9, 2026 (19 Dey 1404). A life dedicated to knowledge and sharing, brutally extinguished by state violence."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/nima-parsa/profile.jpeg",
+    "images/people/nima-parsa/gallery-1.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/longlosthills/status/2012173489013219629",
+      "title": "Twitter/X Report on Nima Parsa's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

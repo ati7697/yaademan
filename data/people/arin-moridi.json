@@ -1,0 +1,32 @@
+{
+  "id": "arin-moridi",
+  "firstName": "Arin",
+  "lastName": "Moridi",
+  "age": 22,
+  "birthDate": null,
+  "deathDate": "2022-10-09",
+  "causeOfDeath": "gunshot wounds",
+  "incidentDate": "2022-10-09",
+  "location": {
+    "city": "Javanrud",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "آرین مریدی، ۲۲ ساله، پس از اصابت گلوله جنگی در جریان اعتراضات جوانرود مجروح شد و پس از انتقال به بیمارستان جان باخت.",
+    "en": "Arin Moridi, aged 22, was wounded by gunfire during protests in Javanrud and later died after being transferred to hospital."
+  },
+  "events": ["2022-mahsa-amini-protests"],
+  "images": [
+    "images/people/arin-moridi/profile.jpg"
+  ],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%DB%8C%D9%86_%D9%85%D8%B1%DB%8C%D8%AF%DB%8C",
+      "title": "Wikipedia: Arin Moridi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

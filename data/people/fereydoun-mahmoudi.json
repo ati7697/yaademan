@@ -1,0 +1,30 @@
+{
+  "id": "fereydoun-mahmoudi",
+  "firstName": "Fereydoun",
+  "lastName": "Mahmoudi",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2022-09-19",
+  "causeOfDeath": "gunshot wounds",
+  "incidentDate": "2022-09-19",
+  "location": {
+    "city": "Saqqez",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "فریدون محمودی در جریان اعتراضات شهریور ۱۴۰۱ در سقز با اصابت گلوله جنگی کشته شد. مراسم چهلم او با محدودیت‌های شدید امنیتی برگزار شد.",
+    "en": "Fereydoun Mahmoudi was killed by gunshot wounds during the September 2022 protests in Saqqez. His memorial ceremony was held under heavy security restrictions."
+  },
+  "events": ["2022-mahsa-amini-protests"],
+  "images": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%DB%8C%D8%AF%D9%88%D9%86_%D9%85%D8%AD%D9%85%D9%88%D8%AF%DB%8C",
+      "title": "Wikipedia: Fereydoun Mahmoudi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

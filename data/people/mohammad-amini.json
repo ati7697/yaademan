@@ -1,0 +1,32 @@
+{
+  "id": "mohammad-amini",
+  "firstName": "Mohammad",
+  "lastName": "Amini",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2022-10-08",
+  "causeOfDeath": "gunshot wounds",
+  "incidentDate": "2022-10-08",
+  "location": {
+    "city": "Sanandaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "محمد امینی در جریان اعتراضات مهر ۱۴۰۱ در سنندج بر اثر اصابت گلوله جنگی کشته شد.",
+    "en": "Mohammad Amini was killed by gunshot wounds during the October 2022 protests in Sanandaj."
+  },
+  "events": ["2022-mahsa-amini-protests"],
+  "images": [
+    "images/people/mohammad-amini/profile.jpg"
+  ],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86#cite_note-:iranhrs1-56",
+      "title": "Wikipedia: Casualties of the 2022 Iranian protests",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

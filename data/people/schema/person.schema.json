@@ -64,7 +64,7 @@
     },
     "status": {
       "type": "string",
-      "enum": ["unknown", "martyred", "arrested", "missing", "released"],
+      "enum": ["unknown", "killed", "arrested", "missing", "released"],
       "description": "Current status of the person"
     },
     "description": {

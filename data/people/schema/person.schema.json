@@ -27,14 +27,6 @@
       "minLength": 1,
       "maxLength": 100
     },
-    "fatherName": {
-      "type": ["string", "null"],
-      "maxLength": 100
-    },
-    "motherName": {
-      "type": ["string", "null"],
-      "maxLength": 100
-    },
     "age": {
       "type": ["integer", "null"],
       "minimum": 0,
@@ -60,10 +52,6 @@
           "type": ["string", "null"],
           "maxLength": 100
         },
-        "province": {
-          "type": ["string", "null"],
-          "maxLength": 100
-        },
         "country": {
           "type": "string",
           "default": "Iran"
@@ -85,32 +73,6 @@
         "en": {
           "type": ["string", "null"],
           "maxLength": 5000
-        }
-      }
-    },
-    "story": {
-      "type": "object",
-      "properties": {
-        "fa": {
-          "type": ["string", "null"],
-          "maxLength": 10000
-        },
-        "en": {
-          "type": ["string", "null"],
-          "maxLength": 10000
-        }
-      }
-    },
-    "legacy": {
-      "type": "object",
-      "properties": {
-        "fa": {
-          "type": ["string", "null"],
-          "maxLength": 10000
-        },
-        "en": {
-          "type": ["string", "null"],
-          "maxLength": 10000
         }
       }
     },
@@ -151,15 +113,6 @@
         }
       }
     },
-    "submittedBy": {
-      "type": "string",
-      "maxLength": 200,
-      "description": "Name of person who submitted (can be anonymous)"
-    },
-    "submittedDate": {
-      "type": "string",
-      "format": "date"
-    },
     "verified": {
       "type": "boolean",
       "default": false,
@@ -169,10 +122,6 @@
       "type": "boolean",
       "default": false,
       "description": "Whether the memorial is publicly visible"
-    },
-    "verificationNotes": {
-      "type": ["string", "null"],
-      "description": "Internal notes about verification process"
     }
   }
 }

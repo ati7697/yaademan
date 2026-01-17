@@ -2,29 +2,19 @@
   "id": "mahsa-amini",
   "firstName": "Jina Mahsa",
   "lastName": "Amini",
-  "fatherName": "Amjad",
-  "motherName": null,
   "age": 22,
   "birthDate": "1999-09-21",
   "deathDate": "2022-09-16",
   "incidentDate": "2022-09-13",
   "location": {
     "city": "Tehran",
-    "province": "Tehran",
     "country": "Iran"
   },
   "status": "martyred",
   "description": {
-    "fa": "مهسا امینی دختر جوان کوردی که به دست گشت ارشاد در تهران بازداشت و کشته شد.",
-    "en": "Mahsa Amini was a young Kurdish woman who was arrested and killed by morality police in Tehran."
-  },
-  "story": {
-    "fa": "مهسا امینی (ژینا) در ۱۳ سپتامبر ۲۰۲۲ در تهران توسط گشت ارشاد بازداشت شد. او سه روز بعد در بیمارستان درگذشت. مرگ او موجب اعتراضات سراسری در ایران شد.",
-    "en": "Mahsa (Zhina) Amini was arrested by morality police in Tehran on September 13, 2022. She died three days later in hospital. Her death sparked nationwide protests in Iran."
-  },
-  "legacy": {
-    "fa": "مرگ مهسا امینی جرقه جنبش «زن، زندگی، آزادی» شد که تا امروز ادامه دارد.",
-    "en": "Mahsa Amini's death sparked the 'Woman, Life, Freedom' movement that continues today."
+    "fa": "مهسا امینی دختر جوان کوردی که به دست گشت ارشاد در تهران بازداشت و کشته شد.مهسا امینی (ژینا) در ۱۳ سپتامبر ۲۰۲۲ در تهران توسط گشت ارشاد بازداشت شد. او سه روز بعد در بیمارستان درگذشت. مرگ او موجب اعتراضات سراسری در ایران شد.",
+
+    "en": "Mahsa Amini was a young Kurdish woman who was arrested and killed by morality police in Tehran. Mahsa (Zhina) Amini was arrested by morality police in Tehran on September 13, 2022. She died three days later in hospital. Her death sparked nationwide protests in Iran."
   },
   "events": ["2022-mahsa-amini-protests"],
   "images": [
@@ -37,9 +27,6 @@
       "type": "news"
     }
   ],
-  "submittedBy": "Anonymous",
-  "submittedDate": "2024-01-15",
   "verified": true,
-  "published": true,
-  "verificationNotes": "Widely documented case"
+  "published": true
 }

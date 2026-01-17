@@ -1,6 +1,6 @@
 {
-  "id": "arin-moridi",
-  "firstName": "Arin",
+  "id": "arian-moridi",
+  "firstName": "Arian",
   "lastName": "Moridi",
   "age": 22,
   "birthDate": null,
@@ -14,16 +14,14 @@
   "status": "killed",
   "description": {
     "fa": "آرین مریدی، ۲۲ ساله، پس از اصابت گلوله جنگی در جریان اعتراضات جوانرود مجروح شد و پس از انتقال به بیمارستان جان باخت.",
-    "en": "Arin Moridi, aged 22, was wounded by gunfire during protests in Javanrud and later died after being transferred to hospital."
+    "en": "Arian Moridi, aged 22, was wounded by gunfire during protests in Javanrud and later died after being transferred to hospital."
   },
   "events": ["2022-mahsa-amini-protests"],
-  "images": [
-    "images/people/arin-moridi/profile.jpg"
-  ],
+  "images": [],
   "links": [
     {
       "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%B1%DB%8C%D9%86_%D9%85%D8%B1%DB%8C%D8%AF%DB%8C",
-      "title": "Wikipedia: Arin Moridi",
+      "title": "Wikipedia: Arian Moridi",
       "type": "news"
     }
   ],

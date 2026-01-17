@@ -1,0 +1,32 @@
+{
+  "id": "zohreh-fazeli",
+  "firstName": "Zohreh",
+  "lastName": "Fazeli",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2025-01-09",
+  "causeOfDeath": "Killed",
+  "incidentDate": "2025-01-09",
+  "location": {
+    "city": "Bushehr",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "زهره فاضلی، روز ۱۹ دی ۱۴۰۴ در بوشهر به قتل رسید.",
+    "en": "Zohreh Fazeli was killed on January 9, 2025 (19 Dey 1404) in Bushehr."
+  },
+  "events": [],
+  "images": [
+    "images/people/zohreh-fazeli/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/NickSotoudeh/status/2012328399264456856",
+      "title": "Twitter/X Report on Zohreh Fazeli's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": false,
+  "published": false
+}

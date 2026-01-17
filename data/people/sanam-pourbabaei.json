@@ -1,0 +1,32 @@
+{
+  "id": "sanam-pourbabaei",
+  "firstName": "Sanam",
+  "lastName": "Pourbabaei",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2025-01-08",
+  "causeOfDeath": "Shot from long distance near Lahijan Governorate",
+  "incidentDate": "2025-01-08",
+  "location": {
+    "city": "Lahijan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "صنم پوربابایی، معلم ویولون و نوازنده با استعداد و پرتلاش، روز پنجشنبه ۱۸ دی ۱۴۰۴ در محوطه فرمانداری لاهیجان کشته شد. او اهل سیاهکل بود و در بقعه برفجان آن شهرستان به خاک سپرده شد. گزارش‌های متعدد از منابع مختلف حاکی از آن است که نحوه کشته شدن وی غیرعادی بوده و تیراندازی در محوطه فرمانداری از فاصله دور انجام شده است.",
+    "en": "Sanam Pourbabaei, a talented and hardworking violin instructor and musician, was killed on Thursday, January 8, 2025 (18 Dey 1404) in the vicinity of the Lahijan Governorate. She was originally from Siahkal and was buried in the Bogh'e Barfjan shrine in that county. Several reports from sources indicate that the manner of her killing was unusual, with the shooting in the governorate area carried out from a long distance."
+  },
+  "events": [],
+  "images": [
+    "images/people/sanam-pourbabaei/profile.jpg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/longlosthills/status/2012474184207663571?s=20",
+      "title": "Report on Sanam Pourbabaei's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": false,
+  "published": false
+}

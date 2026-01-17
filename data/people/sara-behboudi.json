@@ -1,0 +1,32 @@
+{
+  "id": "sara-behboudi",
+  "firstName": "Sara",
+  "lastName": "Behboudi",
+  "age": 45,
+  "birthDate": null,
+  "deathDate": "2025-01-09",
+  "causeOfDeath": "Shot with war ammunition by suppression forces",
+  "incidentDate": "2025-01-09",
+  "location": {
+    "city": "Rasht",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سارا بهبودی، شهروند معترض ۴۵ ساله ساکن رشت، شب جمعه ۱۹ دی‌ماه ۱۴۰۴ در این شهر به‌دست نیروهای سرکوب‌گر نظام جمهوری اسلامی کشته شد. به گزارش ایران‌وایر، وی در اثر اصابت گلوله جنگی جان باخت. سارا کوهنورد بود و قله‌های بلندی چون قله کمال به ارتفاع ۳۷۰۰ متر را در منطقه سهند در استان آذربایجان شرقی و قله شاه معلم به ارتفاع ۳۰۵۰ متر را در استان گیلان فتح کرده بود.",
+    "en": "Sara Behboudi, a 45-year-old protesting citizen residing in Rasht, was killed on Friday night, January 9, 2025 (19 Dey 1404) in this city by the suppression forces of the Islamic Republic regime. According to IranWire, she was killed by war ammunition. Sara was a mountaineer who had climbed high peaks including Mount Kamal at 3,700 meters altitude in the Sahand region of East Azerbaijan province and Mount Shah Moallem at 3,050 meters altitude in Gilan province."
+  },
+  "events": [],
+  "images": [
+    "images/people/sara-behboudi/profile.png"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/iranwire/status/2012272017555272165",
+      "title": "IranWire Report on Sara Behboudi's Death",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

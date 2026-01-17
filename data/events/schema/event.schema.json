@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Event",
+  "description": "Schema for an event/protest in Iranian history",
+  "type": "object",
+  "required": [
+    "id",
+    "name"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (slug format)",
+      "pattern": "^[a-z0-9-]+$",
+      "minLength": 5,
+      "maxLength": 100
+    },
+    "name": {
+      "type": "object",
+      "required": ["fa", "en"],
+      "properties": {
+        "fa": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        },
+        "en": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 200
+        }
+      }
+    },
+    "description": {
+      "type": "object",
+      "properties": {
+        "fa": {
+          "type": ["string", "null"],
+          "maxLength": 5000
+        },
+        "en": {
+          "type": ["string", "null"],
+          "maxLength": 5000
+        }
+      }
+    },
+    "startDate": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "endDate": {
+      "type": ["string", "null"],
+      "format": "date"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 50
+      },
+      "uniqueItems": true,
+      "description": "Tags like 'protest', 'crackdown', 'nationwide', etc."
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["url", "title"],
+        "properties": {
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "title": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string",
+            "enum": ["wikipedia", "news", "video", "document", "other"]
+          }
+        }
+      }
+    }
+  }
+}

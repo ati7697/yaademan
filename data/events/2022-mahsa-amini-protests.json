@@ -1,0 +1,21 @@
+{
+  "id": "2022-mahsa-amini-protests",
+  "name": {
+    "fa": "اعتراضات سراسری ۱۴۰۱ - زن، زندگی، آزادی",
+    "en": "2022 Mahsa Amini Protests - Woman, Life, Freedom"
+  },
+  "description": {
+    "fa": "اعتراضات سراسری که پس از مرگ مهسا امینی در سپتامبر ۲۰۲۲ آغاز شد و ماه‌ها ادامه یافت.",
+    "en": "Nationwide protests that began after the death of Mahsa Amini in September 2022 and continued for months."
+  },
+  "startDate": "2022-09-16",
+  "endDate": null,
+  "tags": ["protest", "woman-life-freedom", "nationwide", "2022"],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/Mahsa_Amini_protests",
+      "title": "Wikipedia: Mahsa Amini protests",
+      "type": "wikipedia"
+    }
+  ]
+}

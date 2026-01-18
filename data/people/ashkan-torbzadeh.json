@@ -1,0 +1,43 @@
+{
+  "id": "ashkan-torbzadeh",
+  "firstName": {
+    "fa": "اشکان",
+    "en": "Ashkan"
+  },
+  "lastName": {
+    "fa": "توربزاده",
+    "en": "Torbzadeh"
+  },
+  "age": 41,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی به خودرو با قصد آشکار برای کشتن",
+    "en": "Deliberately shot by security forces, with his car riddled with bullets"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Mashhad",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "اشکان توربزاده، ۴۱ ساله، آرایشگر و پدر یک دختر ۱۴ ساله، شامگاه ۱۹ دی‌ماه ۱۴۰۴ در مشهد با شلیک نیروهای سرکوبگر جمهوری اسلامی جان خود را از دست داد. خودروی او در بلوار وکیل‌آباد هدف ده‌ها گلوله قرار گرفت که نشان‌دهنده قصد آشکار برای کشتن بود. اشکان به کار خود افتخار می‌کرد، به‌ویژه در زمینه آراستن دامادها، و صفحه اینستاگرامش بازتابی از علاقه و اشتیاق او به حرفه‌اش بود.",
+    "en": "Ashkan Torbzadeh, 41, a hairdresser and father of a 14-year-old daughter, was fatally shot on the evening of January 9, 2026, in Mashhad by Iran’s repressive Islamic Republic forces. His car on Vakil Abad Boulevard was riddled with dozens of bullets, indicating a deliberate intent to kill. Proud of his profession—especially grooming grooms—his Instagram page reflected his passion for his work."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/ashkan-torbzadeh/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/longlosthills/status/2012624953053425854",
+      "title": "Social media report on the killing of Ashkan Torbzadeh",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

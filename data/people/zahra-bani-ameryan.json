@@ -1,0 +1,44 @@
+{
+  "id": "zahra-bani-ameryan",
+  "firstName": {
+    "fa": "زهرا",
+    "en": "Zahra"
+  },
+  "lastName": {
+    "fa": "بنی‌عامریان",
+    "en": "Bani Ameryan"
+  },
+  "age": 48,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن بر اثر تیراندازی مستقیم نیروهای سرکوب نظامی داخل خودرو",
+    "en": "Killed by direct gunfire from security forces while inside the vehicle"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "زهرا بنی‌عامریان، ۴۸ ساله، بازنشسته سازمان تأمین اجتماعی و همسر بیژن مصطفوی، روز ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی کرج همراه با اعضای خانواده‌اش داخل خودروی شخصی هدف تیراندازی نیروهای سرکوب نظامی قرار گرفت و جان باخت.",
+    "en": "Zahra Bani Ameryan, 48, a retired Social Security Organization employee and wife of Bijan Mostafavi, was killed on January 9, 2026, when security forces opened fire on the family’s car during protests in Karaj."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/zahra-bani-ameryan/profile.png",
+    "images/people/zahra-bani-ameryan/gallery-1.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://kurdpa.net/fa/news/2026/01/63",
+      "title": "Kurdpa report on the killing of Zahra Bani Ameryan",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "amirali-jalilian",
+  "firstName": {
+    "fa": "امیرعلی",
+    "en": "Amirali"
+  },
+  "lastName": {
+    "fa": "جلیلیان",
+    "en": "Jalilian"
+  },
+  "age": 65,
+  "birthDate": null,
+  "deathDate": "2026-01-14",
+  "causeOfDeath": {
+    "fa": "جان‌باختن بر اثر شدت جراحات ناشی از اصابت گلوله نیروهای سرکوب پس از چند روز بستری",
+    "en": "Died from severe injuries caused by gunshot wounds inflicted by security forces after several days of hospitalization"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "IslamAbad-e Gharb",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "امیرعلی جلیلیان، ۶۵ ساله، راننده کامیون و اهل اسلام‌آباد غرب، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات هدف گلوله نیروهای سرکوب قرار گرفت. او پس از پنج روز بستری به دلیل شدت جراحات، روز چهارشنبه ۲۴ دی‌ماه ۱۴۰۴ در بیمارستان جان باخت.",
+    "en": "Amirali Jalilian, 65, a truck driver from IslamAbad-e Gharb, was shot by security forces during protests on January 8, 2026. He succumbed to the severity of his injuries after five days in hospital on January 14, 2026."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/amiralijelilian/profile.png"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-117-1",
+      "title": "Hengaw report on the death of Amirali Jalilian",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

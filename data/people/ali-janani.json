@@ -1,0 +1,43 @@
+{
+  "id": "ali-janani",
+  "firstName": {
+    "fa": "علی",
+    "en": "Ali"
+  },
+  "lastName": {
+    "fa": "جانانی",
+    "en": "Janani"
+  },
+  "age": 20,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "اصابت تیر جنگی توسط نیروهای سرکوبگر در جریان اعتراضات",
+    "en": "Killed by military-grade gunfire from security forces during protests"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Islamshahr",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "علی جانانی، ۲۰ ساله، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات در اسلامشهر هدف تیر جنگی نیروهای سرکوبگر قرار گرفت و جان خود را از دست داد. پیکر او دوشنبه ۲۲ دی‌ماه به خاک سپرده شد.",
+    "en": "Ali Janani, 20, was killed on Friday, January 9, 2026, after being shot with live ammunition by security forces during protests in Islamshahr. His body was buried on Monday, January 12."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/ali-janani/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/iranwire/status/2011456164416892964",
+      "title": "IranWire report on the killing of Ali Janani",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

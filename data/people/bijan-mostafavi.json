@@ -1,0 +1,45 @@
+{
+  "id": "bijan-mostafavi",
+  "firstName": {
+    "fa": "بیژن",
+    "en": "Bijan"
+  },
+  "lastName": {
+    "fa": "مصطفوی",
+    "en": "Mostafavi"
+  },
+  "age": 55,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "هدف قرار گرفتن با رگبار مرگبار نیروهای سرکوب نظامی داخل خودروی شخصی",
+    "en": "Killed by a deadly barrage of gunfire from security forces while inside his personal car"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "بیژن مصطفوی، ۵۵ ساله، بازنشسته آموزش و پرورش و پدر خانواده، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی کرج، در حالی که داخل خودروی شخصی خود بود، هدف رگبار مرگبار نیروهای سرکوب نظامی قرار گرفت و جان خود را از دست داد.",
+    "en": "Bijan Mostafavi, 55, a retired education worker and head of the family, was killed on Friday, January 9, 2026, during public protests in Karaj after security forces opened deadly fire on his personal vehicle."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/bijan-mostafavi/profile.jpeg",
+    "images/people/bijan-mostafavi/gallery-1.png"
+
+  ],
+  "links": [
+    {
+      "url": "https://kurdpa.net/fa/news/2026/01/63",
+      "title": "Kurdpa report on the killing of Bijan Mostafavi and his family",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

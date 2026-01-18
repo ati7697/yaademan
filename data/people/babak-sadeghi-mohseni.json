@@ -1,0 +1,43 @@
+{
+  "id": "babak-sadeghi-mohseni",
+  "firstName": {
+    "fa": "بابک",
+    "en": "Babak"
+  },
+  "lastName": {
+    "fa": "صادقی محسنی",
+    "en": "Sadeghi Mohseni"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم گلوله جنگی توسط نیروهای امنیتی در جریان سرکوب اعتراضات",
+    "en": "Killed by direct gunfire from security forces during protest suppression"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "بابک صادقی محسنی، جوان متولد ۱۳۷۳ و ساکن همدان، روز ۱۹ دی‌ماه ۱۴۰۴ در اعتراضات شامگاه جمعه در تهران با اصابت تیر جنگی نیروهای سرکوب‌گر جمهوری اسلامی کشته شد.",
+    "en": "Babak Sadeghi Mohseni, a young man born in 1994 and resident of Hamedan, was killed on the evening of January 9, 2026, in Tehran after being struck by gunfire from security forces during protests."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/babak-sadeghi-mohseni/profile.webp"
+  ],
+  "links": [
+    {
+      "url": "https://iranwire.com/fa/news-1/147662-%D8%A8%D8%A7%D8%A8%DA%A9-%D8%B5%D8%A7%D8%AF%D9%82%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%AA%DB%8C%D8%B1-%D8%AC%D9%86%DA%AF%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+      "title": "IranWire report on the killing of Babak Sadeghi Mohseni",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

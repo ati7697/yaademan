@@ -1,0 +1,43 @@
+{
+  "id": "sajjad-arduni-kavir",
+  "firstName": {
+    "fa": "سجاد",
+    "en": "Sajjad"
+  },
+  "lastName": {
+    "fa": "اردونی کویر",
+    "en": "Arduni Kavir"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": "شلیک نیروهای رژیم جمهوری اسلامی در جریان اعتراضات",
+    "en": "Killed by gunfire from Islamic Republic forces during protests"
+  },
+  "incidentDate": "2026-01",
+  "location": {
+    "city": "Sabzevar",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سجاد اردونی کویر در دی‌ماه ۱۴۰۴ در سبزوار توسط نیروهای رژیم جمهوری اسلامی کشته شد.",
+    "en": "Sajjad Arduni Kavir was killed in January 2026 in Sabzevar by Islamic Republic forces during protests."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/sajjad-arduni-kavir/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/Daikatuo/status/2012207885086830728",
+      "title": "Social media report on the killing of Sajjad Arduni Kavir",
+      "type": "social_media"
+    }
+  ],
+  "verified": false,
+  "published": true
+}

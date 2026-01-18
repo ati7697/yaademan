@@ -1,0 +1,43 @@
+{
+  "id": "mohammadreza-zamini",
+  "firstName": {
+    "fa": "محمدرضا",
+    "en": "Mohammadreza"
+  },
+  "lastName": {
+    "fa": "زمینی",
+    "en": "Zamini"
+  },
+  "age": 41,
+  "birthDate": "1985-01-03",
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم گلوله توسط ماموران امنیتی",
+    "en": "Killed by direct gunfire from security forces"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "محمدرضا زمینی، متولد ۱۳ دی ۱۳۶۳، شامگاه ۱۹ دی‌ماه ۱۴۰۴ حوالی ساعت ۲۱ در گلشهر کرج هدف شلیک مستقیم گلوله ماموران امنیتی قرار گرفت و جان خود را از دست داد.",
+    "en": "Mohammadreza Zamini, born on 3 January 1985 (13 Dey 1363), was shot directly by security forces on the evening of 19 Dey 1404 (January 9, 2026) around 21:00 in Golshahr, Karaj and died from his injuries."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/mohammadreza-zamini/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://www.iranintl.com/202601175662",
+      "title": "Iran International report on the killing of Mohammadreza Zamini",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

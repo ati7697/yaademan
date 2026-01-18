@@ -14,10 +14,7 @@
   "causeOfDeath": null,
   "incidentDate": "2025-01-08",
   "location": {
-    "city": {
-        "fa": "لاهیجان",
-        "en": "Lahijan"
-    },
+    "city":  "Lahijan",
     "country": "Iran"
   },
   "status": "killed",

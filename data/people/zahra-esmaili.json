@@ -1,0 +1,36 @@
+{
+  "id": "zahra-esmaili",
+  "firstName": "Zahra",
+  "lastName": "Esmaili",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": "Shot in the head and body with pellet bullets by motorcycle forces",
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Shiraz",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "زهرا اسماعیلی، روز ۱۸ دی ۱۴۰۴ در شیراز کشته شد. به گواهی شاهد عینی (دختر او، پریسا)، نیروهای موتورسوار در حالی که شعار «حیدر، حیدر» می‌دادند، ابتدا بدن او را با گلوله‌های ساچمه‌ای نشانه گرفتند و سپس به سرش شلیک کردند. دخترش زهرا را روی پاهایش گذاشت و او آخرین کلامش را گفت: «پریسا...» قبل از اینکه جانش را از دست بدهد.",
+    "en": "Zahra Esmaili was killed on January 8, 2026 (18 Dey 1404) in Shiraz. According to eyewitness testimony from her daughter Parisa, motorcycle forces chanting 'Heydar, Heydar' first shattered her body with pellet bullets, then shot her in the head. Her daughter laid her on her legs as Zahra spoke her last word: 'Parisa...' before losing her life."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/zahra-esmaili/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/__Injaneb96/status/2012642393158295703",
+      "title": "Eyewitness Testimony on Zahra Esmaili's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

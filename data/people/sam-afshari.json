@@ -1,0 +1,36 @@
+{
+  "id": "sam-afshari",
+  "firstName": "Sam",
+  "lastName": "Afshari",
+  "age": 17,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": "Shot directly by government suppression forces",
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سام افشاری، کودک ۱۷ ساله تُرک و اهل کرج، در جریان اعتراضات شامگاه پنج‌شنبه ۱۸ دی ۱۴۰۴ با شلیک مستقیم نیروهای سرکوبگر حکومتی کشته شد. به گزارش سازمان حقوق بشری هه‌نگاو، این نوجوان در اعتراضات کرج جان باخت.",
+    "en": "Sam Afshari, a 17-year-old Turkish child from Karaj, was killed by direct shooting from government suppression forces during protests on Thursday evening, January 8, 2026 (18 Dey 1404). According to the Hengaw Human Rights Organization, this teenager lost his life during protests in Karaj."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/sam-afshari/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/HengawO/status/2012502028228907473",
+      "title": "Hengaw Report on Sam Afshari's Death",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

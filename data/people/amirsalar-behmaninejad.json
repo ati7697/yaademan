@@ -1,0 +1,36 @@
+{
+  "id": "amirsalar-behmaninejad",
+  "firstName": "Amirsalar",
+  "lastName": "Behmaninejad",
+  "age": 16,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": "Shot with war ammunition above the heart, died in hospital",
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "امیرسالار بهمنی‌نژاد، ۱۶ ساله، جمعه ۱۹ دی ۱۴۰۴ در محوطه بیرونی ایستگاه مترو خیابان جابر انصاری اصفهان با اصابت گلوله جنگی به بالای قلبش زخمی شد و در بیمارستان دکتر غرضی اصفهان جان باخت. گفته شده بعد از نزدیک به یک هفته جنازه‌اش را به خانواده‌اش تحویل دادند.",
+    "en": "Amirsalar Behmaninejad, 16 years old, was wounded by war ammunition shot above his heart on Friday, January 9, 2026 (19 Dey 1404) in the outer area of Jaber Ansari Street metro station in Isfahan and died at Dr. Gharazi Hospital in Isfahan. It is reported that his body was returned to his family after nearly a week."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/amirsalar-behmaninejad/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/FSeifikaran/status/2012304760829771827",
+      "title": "Report on Amirsalar Behmaninejad's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

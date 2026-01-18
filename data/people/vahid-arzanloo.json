@@ -1,0 +1,37 @@
+{
+  "id": "vahid-arzanloo",
+  "firstName": "Vahid",
+  "lastName": "Arzanloo",
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-17",
+  "causeOfDeath": "Shot twice in the neck by security forces while trying to help his brother, fell into coma and died in hospital",
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "وحید ارزانلو، پدر سه کودک خردسال، در تاریخ ۱۸ دی‌ماه ۱۴۰۴ در منطقه تهرانپارس تهران هنگامی که برای کمک به برادرش حمید رفته بود، با شلیک دو گلوله به ناحیه گردن هدف قرار گرفت و به کما رفت. او در تاریخ ۲۷ دی‌ماه ۱۴۰۴ در بیمارستان درگذشت. به گفته منابع نزدیک به خانواده، نهادهای امنیتی برای تحویل پیکر این دو برادر مبلغ یک میلیارد و پانصد میلیون تومان از خانواده دریافت کردند و آن‌ها را وادار به امضای تعهد کردند که علت مرگ را «سکته مغزی» اعلام کنند. همچنین شرط تحویل اجساد، حضور خانواده در راهپیمایی حکومتی میدان انقلاب بود. وحید سه کودک خردسال به یتیمی گذاشت.",
+    "en": "Vahid Arzanloo, father of three young children, was shot twice in the neck by security forces on January 8, 2026 (18 Dey 1404) in the Tehranpars area of Tehran while going to help his brother Hamid, and fell into a coma. He died in the hospital on January 17, 2026 (27 Dey 1404). According to sources close to the family, security agencies received 1.5 billion tomans from the family for the return of the two brothers' bodies and forced them to sign a pledge stating the cause of death as 'stroke.' Additionally, the condition for returning the bodies was the family's attendance at a government rally in Enghelab Square. Vahid left behind three young orphaned children."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/vahid-arzanloo/profile.jpeg",
+    "images/people/vahid-arzanloo/gallery-1.png"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/allahbakhshii/status/2012612857955779023",
+      "title": "Report on Hamid and Vahid Arzanloo's Deaths",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

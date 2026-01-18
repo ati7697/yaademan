@@ -1,7 +1,13 @@
 {
   "id": "arezou-abedi",
-  "firstName": "Arezou",
-  "lastName": "Abedi",
+  "firstName": {
+    "fa": "آرزو",
+    "en": "Arezou"
+  },
+  "lastName": {
+    "fa": "عابدی",
+    "en": "Abedi"
+  },
   "age": 50,
   "birthDate": null,
   "deathDate": "2026-01-09",

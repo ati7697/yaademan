@@ -1,7 +1,13 @@
 {
   "id": "zahra-esmaili",
-  "firstName": "Zahra",
-  "lastName": "Esmaili",
+  "firstName": {
+    "fa": "زهرا",
+    "en": "Zahra"
+  },
+  "lastName": {
+    "fa": "اسماعیلی",
+    "en": "Esmaili"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-08",

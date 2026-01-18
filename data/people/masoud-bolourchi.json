@@ -1,7 +1,13 @@
 {
   "id": "masoud-bolourchi",
-  "firstName": "Masoud",
-  "lastName": "Bolourchi",
+  "firstName": {
+    "fa": "مسعود",
+    "en": "Masoud"
+  },
+  "lastName": {
+    "fa": "بلورچی",
+    "en": "Bolourchi"
+  },
   "age": 37,
   "birthDate": null,
   "deathDate": null,

@@ -1,7 +1,13 @@
 {
   "id": "amirsalar-behmaninejad",
-  "firstName": "Amirsalar",
-  "lastName": "Behmaninejad",
+  "firstName": {
+    "fa": "امیرسالار",
+    "en": "Amirsalar"
+  },
+  "lastName": {
+    "fa": "بهمنی‌نژاد",
+    "en": "Behmaninejad"
+  },
   "age": 16,
   "birthDate": null,
   "deathDate": "2026-01-09",

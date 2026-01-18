@@ -1,7 +1,13 @@
 {
   "id": "sam-afshari",
-  "firstName": "Sam",
-  "lastName": "Afshari",
+  "firstName": {
+    "fa": "سام",
+    "en": "Sam"
+  },
+  "lastName": {
+    "fa": "افشاری",
+    "en": "Afshari"
+  },
   "age": 17,
   "birthDate": null,
   "deathDate": "2026-01-08",

@@ -1,7 +1,13 @@
 {
   "id": "hamid-arzanloo",
-  "firstName": "Hamid",
-  "lastName": "Arzanloo",
+  "firstName": {
+    "fa": "حمید",
+    "en": "Hamid"
+  },
+  "lastName": {
+    "fa": "ارزانلو",
+    "en": "Arzanloo"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-11",

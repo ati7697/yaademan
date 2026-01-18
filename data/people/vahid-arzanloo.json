@@ -1,7 +1,13 @@
 {
   "id": "vahid-arzanloo",
-  "firstName": "Vahid",
-  "lastName": "Arzanloo",
+  "firstName": {
+    "fa": "وحید",
+    "en": "Vahid"
+  },
+  "lastName": {
+    "fa": "ارزانلو",
+    "en": "Arzanloo"
+  },
   "age": null,
   "birthDate": null,
   "deathDate": "2026-01-17",

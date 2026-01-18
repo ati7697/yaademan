@@ -1,7 +1,14 @@
 {
   "id": "maedeh-moradi-kia",
-  "firstName": "Maedeh",
-  "lastName": "Moradi Kia",
+  "firstName": {
+    "fa": "مائده",
+    "en": "Maedeh"
+  },
+  "lastName":
+    {
+        "fa": "مرادی کیا",
+        "en": "Moradi Kia",
+    },
   "age": 22,
   "birthDate": null,
   "deathDate": "2026-01-09",

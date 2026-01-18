@@ -10,12 +10,12 @@
   },
   "age": null,
   "birthDate": null,
-  "deathDate": "2025-01-08",
+  "deathDate": "2026-01-08",
   "causeOfDeath": {
     "fa": "کشته شدن در جریان اعتراضات",
     "en": "Killed during protests"
   },
-  "incidentDate": "2025-01-08",
+  "incidentDate": "2026-01-08",
   "location": {
     "city": "Lahijan",
     "country": "Iran"
@@ -23,9 +23,9 @@
   "status": "killed",
   "description": {
     "fa": "مهران رفیعی، آرایشگر لاهیجانی، روز پنجشنبه ۱۸ دی ۱۴۰۴ در اعتراضات لاهیجان در محدوده میدان انقلاب کشته شد. او اهل روستای زمیدان بود.",
-    "en": "Mehran Rafiei, a barber from Lahijan, was killed on Thursday, January 8, 2025 (18 Dey 1404) during protests in Lahijan in the vicinity of Enghelab Square. He was from Zamidan village."
+    "en": "Mehran Rafiei, a barber from Lahijan, was killed on Thursday, January 8, 2026 (18 Dey 1404) during protests in Lahijan in the vicinity of Enghelab Square. He was from Zamidan village."
   },
-  "events": [],
+  "events": ["2025-2026-iran-protests"],
   "images": [
     "images/people/mehran-rafiei/profile.jpeg",
     "images/people/mehran-rafiei/gallery-1.jpeg"

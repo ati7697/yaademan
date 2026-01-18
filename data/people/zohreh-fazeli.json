@@ -10,12 +10,12 @@
   },
   "age": null,
   "birthDate": null,
-  "deathDate": "2025-01-09",
+  "deathDate": "2026-01-09",
   "causeOfDeath": {
     "fa": "کشته شده",
     "en": "Killed"
   },
-  "incidentDate": "2025-01-09",
+  "incidentDate": "2026-01-09",
   "location": {
     "city": "Bushehr",
     "country": "Iran"
@@ -23,9 +23,9 @@
   "status": "killed",
   "description": {
     "fa": "زهره فاضلی، روز ۱۹ دی ۱۴۰۴ در بوشهر به قتل رسید.",
-    "en": "Zohreh Fazeli was killed on January 9, 2025 (19 Dey 1404) in Bushehr."
+    "en": "Zohreh Fazeli was killed on January 9, 2026 (19 Dey 1404) in Bushehr."
   },
-  "events": [],
+  "events": ["2025-2026-iran-protests"],
   "images": [
     "images/people/zohreh-fazeli/profile.jpeg"
   ],

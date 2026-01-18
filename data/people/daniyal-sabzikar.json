@@ -10,12 +10,12 @@
   },
   "age": 28,
   "birthDate": null,
-  "deathDate": "2025-01-08",
+  "deathDate": "2026-01-08",
   "causeOfDeath": {
     "fa": "اصابت گلوله جنگی به سر توسط نیروهای سرکوب",
     "en": "Shot in the head by suppression forces with war ammunition"
   },
-  "incidentDate": "2025-01-08",
+  "incidentDate": "2026-01-08",
   "location": {
     "city": "Qazvin",
     "country": "Iran"
@@ -23,7 +23,7 @@
   "status": "killed",
   "description": {
     "fa": "دانیال سبزیکار، ۲۸ ساله، اهل رامهرمز خوزستان و از هم‌وطنان لُر، روز ۱۸ دی‌ماه ۱۴۰۳ در قزوین با اصابت تیر جنگی توسط نیروهای سرکوبگر جان باخت. بنا بر گزارش‌ها، گلوله به ناحیه سر او اصابت کرده است. دانیال مکانیک برق خودرو بود و حدود پنج تا شش ماه پیش برای تأمین زندگی بهتر از خوزستان به قزوین مهاجرت کرده بود؛ جوانی زحمتکش که برای آینده‌اش تلاش می‌کرد، اما به دست سرکوبگران و با شلیک گلوله، زندگی‌اش به پایان رسید.",
-    "en": "Daniyal Sabzikar, 28 years old, from Ramhormoz in Khuzestan province and of Lur ethnicity, was killed on January 8, 2025 (18 Dey 1403) in Qazvin when shot with war ammunition by suppression forces. According to reports, the bullet struck his head. Daniyal was an automotive electrician who had migrated from Khuzestan to Qazvin about five to six months earlier to build a better life. He was a hardworking young man striving for his future, but his life was ended by suppression forces with a gunshot."
+    "en": "Daniyal Sabzikar, 28 years old, from Ramhormoz in Khuzestan province and of Lur ethnicity, was killed on January 8, 2026 (18 Dey 1403) in Qazvin when shot with war ammunition by suppression forces. According to reports, the bullet struck his head. Daniyal was an automotive electrician who had migrated from Khuzestan to Qazvin about five to six months earlier to build a better life. He was a hardworking young man striving for his future, but his life was ended by suppression forces with a gunshot."
   },
   "events": [
     "2026-iran-protests"

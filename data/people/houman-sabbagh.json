@@ -10,9 +10,9 @@
   },
   "age": 37,
   "birthDate": null,
-  "deathDate": "2025-01-08",
+  "deathDate": "2026-01-08",
   "causeOfDeath": null,
-  "incidentDate": "2025-01-08",
+  "incidentDate": "2026-01-08",
   "location": {
     "city":  "Lahijan",
     "country": "Iran"
@@ -20,7 +20,7 @@
   "status": "killed",
   "description": {
     "fa": "هومن صباغ، ۳۷ ساله، مدیر مجتمع فنی لاهیجان، در اعتراضات روز پنجشنبه ۱۸ دی ۱۴۰۴ در خیابان شیشه‌گران لاهیجان کشته شد.",
-    "en": "Houman Sabbagh, 37 years old, director of Lahijan Technical Complex, was killed during protests on Thursday, January 8, 2025 (18 Dey 1404) on Shishehgaran Street in Lahijan."
+    "en": "Houman Sabbagh, 37 years old, director of Lahijan Technical Complex, was killed during protests on Thursday, January 8, 2026 (18 Dey 1404) on Shishehgaran Street in Lahijan."
   },
   "events": [],
   "images": [

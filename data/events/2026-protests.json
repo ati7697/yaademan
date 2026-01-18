@@ -1,0 +1,41 @@
+{
+  "id": "2025-2026-iran-protests",
+  "name": {
+    "fa": "اعتراضات سراسری دی ۱۴۰۴ ایران",
+    "en": "2025–2026 Iran Protests"
+  },
+  "description": {
+    "fa": "موجی از اعتراضات سراسری که از ۷ دی ۱۴۰۴ (۲۸ دسامبر ۲۰۲۵) در واکنش به بحران اقتصادی، سقوط ارزش ریال و افزایش شدید قیمت‌ها آغاز شد. این اعتراضات ابتدا با اعتصاب و تعطیلی مغازه‌ها (از جمله بازار تهران) و تجمعات صنفی شروع شد و سپس به شهرهای دیگر گسترش یافت و با سرکوب امنیتی، بازداشت‌های گسترده و محدودیت‌های شدید اینترنت همراه شد. (این رویداد تا زمان تهیه این داده ادامه‌دار گزارش شده است.)",
+    "en": "A wave of nationwide protests that began on December 28, 2025, amid severe economic turmoil, a collapsing rial, and soaring prices. The protests reportedly started with strikes and shop closures (including Tehran’s Grand Bazaar), spread to other cities, and were met with a heavy security crackdown, mass arrests, and major internet restrictions. (Reported as ongoing at the time this entry was prepared.)"
+  },
+  "startDate": "2025-12-28",
+  "endDate": null,
+  "tags": ["protest", "nationwide", "economic-crisis", "strike", "crackdown", "internet-shutdown", "2025", "2026"],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%DB%8C_%DB%B1%DB%B4%DB%B0%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "title": "ویکی‌پدیا: اعتراضات دی ۱۴۰۴ ایران",
+      "type": "wikipedia"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/1/12/what-we-know-about-the-protests-sweeping-iran",
+      "title": "Al Jazeera: What we know about the protests sweeping Iran",
+      "type": "news"
+    },
+    {
+      "url": "https://www.reuters.com/world/china/iran-protests-abate-after-deadly-crackdown-residents-rights-group-say-2026-01-16/",
+      "title": "Reuters: Iran protests abate after deadly crackdown, residents, rights group say (Jan 16, 2026)",
+      "type": "news"
+    },
+    {
+      "url": "https://www.amnesty.org/en/latest/news/2026/01/iran-massacre-of-protesters-demands-global-diplomatic-action-to-signal-an-end-to-impunity/",
+      "title": "Amnesty International: Iran crackdown on protesters calls for global action (Jan 2026)",
+      "type": "news"
+    },
+    {
+      "url": "https://parsi.euronews.com/2026/01/17/21st-day-of-protests-very-limited-internet-access-in-iran",
+      "title": "یورونیوز فارسی: تحولات روزانه اعتراضات و محدودیت اینترنت (۱۷ ژانویه ۲۰۲۶)",
+      "type": "news"
+    }
+  ]
+}

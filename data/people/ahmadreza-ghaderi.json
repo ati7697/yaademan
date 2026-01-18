@@ -10,7 +10,7 @@
   },
   "age": null,
   "birthDate": null,
-  "deathDate": "2025-01-08",
+  "deathDate": "2026-01-08",
   "causeOfDeath": {
     "fa": "کشته شدن در جریان اعتراضات",
     "en": "Killed during protests"
@@ -25,7 +25,7 @@
     "fa": "احمدرضا قادری، دانشجوی ورودی ۹۹ مهندسی ساخت و تولید دانشگاه نوشیروانی بابل، شب پنجشنبه ۱۸ دی ۱۴۰۴ در اعتراضات کشته شد.",
     "en": "Ahmadreza Ghaderi, a 2020 entry student of Manufacturing Engineering at Noshirvani University of Babol, was killed on Thursday night, January 8, 2025 (18 Dey 1404) during protests."
   },
-  "events": [],
+  "events": ["2025-2026-iran-protests"],
   "images": [
     "images/people/ahmadreza-ghaderi/profile.jpeg"
   ],

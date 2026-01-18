@@ -1,0 +1,43 @@
+{
+  "id": "milad-gholami",
+  "firstName": {
+    "fa": "میلاد",
+    "en": "Milad"
+  },
+  "lastName": {
+    "fa": "غلامی",
+    "en": "Gholami"
+  },
+  "age": 25,
+  "birthDate": null,
+  "deathDate": "2026-01-14",
+  "causeOfDeath": {
+    "fa": "شلیک گلوله به سر در تهرانپارس",
+    "en": "Shot in the head in Tehranpars"
+  },
+  "incidentDate": null,
+  "location": {
+    "city": "Tehran (Tehranpars)",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "میلاد غلامی، ۲۵ ساله، با شلیک گلوله به سر در منطقه تهرانپارس تهران کشته شد. خانواده او تا شش روز هیچ اطلاعی از وضعیت فرزندشان نداشتند تا اینکه در تاریخ ۲۵ دی‌ماه با آنها تماس گرفته شد و از آنان خواسته شد برای شناسایی به پزشکی قانونی مراجعه کنند. خانواده در آنجا پیکر میلاد را شناسایی کردند. میلاد یک خواهر دوقلو داشت.",
+    "en": "Milad Gholami, 25 years old, was killed after being shot in the head in the Tehranpars area of Tehran. His family had no information about his whereabouts for six days until they were contacted on January 14 and asked to go to the Legal Medicine Organization for identification, where they found Milad’s body. Milad had a twin sister."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/milad-gholami/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/FSeifikaran/status/2012563524921307604",
+      "title": "Social media report on the killing of Milad Gholami",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

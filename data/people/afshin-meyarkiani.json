@@ -1,0 +1,43 @@
+{
+  "id": "afshin-meyarkiani",
+  "firstName": {
+    "fa": "افشین",
+    "en": "Afshin"
+  },
+  "lastName": {
+    "fa": "میارکیانی",
+    "en": "Meyarkiani"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "اصابت سه گلوله در جریان راهپیمایی اعتراضی",
+    "en": "Killed after being shot three times during a protest march"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Chalus",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "افشین میارکیانی، قهرمان تکواندو و مربی ورزشی، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در شهر چالوس جان خود را از دست داد. بر اساس گزارش‌ها، او به همراه اعضای خانواده‌اش در یک راهپیمایی اعتراضی شرکت کرده بود که در نزدیکی یکی از کلانتری‌های شهر هدف تیراندازی قرار گرفت. منابع مطلع می‌گویند وی بر اثر اصابت سه گلوله جان باخته است. شاهدان اعلام کرده‌اند که تیراندازی از سوی نیروهای انتظامی صورت گرفته و او پیش از اصابت گلوله‌های مرگبار تلاش کرده به دیگر شهروندان کمک کند.",
+    "en": "Afshin Meyarkiani, a taekwondo champion and sports coach, lost his life on Thursday, January 8, 2026, in the city of Chalus. According to reports, he was participating in a protest march with his family when he was shot near a local police station. Informed sources state that he was killed after being hit by three bullets. Witnesses reported that the shooting was carried out by law enforcement forces and that Afshin had attempted to help other civilians before being fatally shot."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/afshin-meyarkiani/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/HyrcaniHRM/status/2012628020096291177",
+      "title": "HyrcaniHRM report on the killing of Afshin Meyarkiani",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

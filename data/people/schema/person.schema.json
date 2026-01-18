@@ -119,12 +119,12 @@
     },
     "verified": {
       "type": "boolean",
-      "default": false,
+      "default": true,
       "description": "Whether the information has been verified"
     },
     "published": {
       "type": "boolean",
-      "default": false,
+      "default": true,
       "description": "Whether the memorial is publicly visible"
     }
   }

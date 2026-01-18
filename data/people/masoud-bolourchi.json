@@ -1,0 +1,36 @@
+{
+  "id": "masoud-bolourchi",
+  "firstName": "Masoud",
+  "lastName": "Bolourchi",
+  "age": 37,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": "Shot in the back of the head by Islamic Republic regime forces",
+  "incidentDate": null,
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "مسعود بلورچی، ۳۷ ساله، فیزیوتراپیست و بنیانگذار کلینیک راش در تهران، در جریان اعتراضات ژانویه ۲۰۲۶ (دی ۱۴۰۴) توسط نیروهای رژیم جمهوری اسلامی به طرز وحشیانه‌ای از پشت سر به سرش شلیک شد. این عمل ظالمانه زندگی‌ای پر از اشتیاق به کار و علم را نابود کرد. خانواده‌اش پیکرش را در کهریزک شناسایی کردند و پس از تحمل تهدیدهای شدید، فشار و پرداخت اجباری پول، آن را دریافت کردند و او را در سکوت به خاک سپردند.",
+    "en": "Masoud Bolourchi, 37, physiotherapist and founder of Rush Clinic in Tehran, was savagely shot in the back of the head by Islamic Republic regime forces during the January 2026 protests (Dey 1404). This cruel act shattered a life brimming with passion for his work and science. His family identified his body in Kahrizak, and after suffering intense threats, pressure, and forced payment, they received it and buried him in silence."
+  },
+  "events": [
+    "2026-protest",
+    "iran-massacre",
+    "2026-revolution"
+  ],
+  "images": [
+    "images/people/masoud-bolourchi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/longlosthills/status/2012686535536128005",
+      "title": "Report on Masoud Bolourchi's Death",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

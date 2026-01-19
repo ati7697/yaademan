@@ -1,0 +1,44 @@
+{
+  "id": "hamed-basiri",
+  "firstName": {
+    "fa": "حامد",
+    "en": "Hamed"
+  },
+  "lastName": {
+    "fa": "بصیری",
+    "en": "Basiri"
+  },
+  "age": 35,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "incidentDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی به صورت در جریان اعتراضات مردمی",
+    "en": "Killed by gunfire to the face from government forces during public protests"
+  },
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "حامد بصیری، ۳۵ ساله، اهل کرج و پدر یک فرزند، شامگاه جمعه ۱۹ دی ماه ۱۴۰۴ در جریان اعتراضات مردمی در فردیس کرج از ناحیه صورت هدف شلیک نیروهای حکومتی قرار گرفت و جان خود را از دست داد. خانواده وی با اعمال فشار برای دفن به‌عنوان عضو بسیج یا پرداخت یک میلیارد تومان مخالفت کردند و پس از چهار روز، پیکر را با محدودیت و بدون حق برگزاری مراسم در اشتهارد کرج تحویل گرفتند.",
+    "en": "Hamed Basiri, 35, from Karaj and father of one child, was fatally shot in the face by government forces on the evening of January 9, 2026, during public protests in Fardis, Karaj. His family refused the authorities' demand to bury him as a Basij member or pay one billion tomans, and after four days, they received the body under restrictions without being allowed to hold a funeral, and it was buried in Eshtehard, Karaj."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/hamed-basiri/profile.png"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-128-1",
+      "title": "Hengaw report on the killing of Hamed Basiri",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}
+b

@@ -1,0 +1,41 @@
+{
+  "id": "yadollah-heydari",
+  "firstName": {
+    "fa": "یدالله",
+    "en": "Yadollah"
+  },
+  "lastName": {
+    "fa": "حیدری",
+    "en": "Heydari"
+  },
+  "age": 40,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": "شلیک نیروهای حکومتی در جریان اعتراضات مردمی",
+    "en": "Killed by gunfire from government forces during public protests"
+  },
+  "incidentDate": null,
+  "location": {
+    "city": "Chamestan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "یدالله حیدری، ۴۰ ساله و اهل عبدال‌آباد، در دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی شهر چمستان با شلیک نیروهای جمهوری اسلامی کشته شد.",
+    "en": "Yadollah Heydari, 40, from Abdolabad, was killed in January 2026 in Chamestan during public protests after being shot by Islamic Republic forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
+      "title": "Hengaw report on the killing of Yadollah Heydari",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

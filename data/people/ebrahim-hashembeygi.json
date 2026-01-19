@@ -1,0 +1,43 @@
+{
+  "id": "ebrahim-hashembeygi",
+  "firstName": {
+    "fa": "ابراهیم",
+    "en": "Ebrahim"
+  },
+  "lastName": {
+    "fa": "هاشم‌بیگی",
+    "en": "Hashembeygi"
+  },
+  "age": 42,
+  "birthDate": null,
+  "deathDate": "2026-01-08T21:30:00",
+  "incidentDate": "2026-01-08T21:30:00",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای سرکوبگر جمهوری اسلامی در جریان اعتراضات مردمی",
+    "en": "Fatally shot by repressive forces of the Islamic Republic during public protests"
+  },
+  "location": {
+    "city": "Neyriz",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "ابراهیم هاشم‌بیگی، ۴۲ ساله، مربی فوتسال و پدر دو فرزند، شامگاه پنجشنبه ۱۸ دی‌ماه ساعت ۲۱:۳۰ در میدان اصلی شهر نی‌ریز استان فارس با شلیک مستقیم نیروهای سرکوبگر کشته شد.",
+    "en": "Ebrahim Hashembeygi, 42, futsal coach and father of two, was fatally shot by repressive forces at the main square of Neyriz, Fars province, on the evening of January 8, 2026."
+  },
+  "events": [
+    "2026-iran-protests"
+  ],
+  "images": [
+    "images/people/ebrahim-hashembeygi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/Tavaana/status/2012459772478693640?s=20",
+      "title": "Report on Ebrahim Hashembeygi's death",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

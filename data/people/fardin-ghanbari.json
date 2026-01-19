@@ -1,0 +1,41 @@
+{
+  "id": "fardin-ghanbari",
+  "firstName": {
+    "fa": "فردین",
+    "en": "Fardin"
+  },
+  "lastName": {
+    "fa": "قنبری",
+    "en": "Ghanbari"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": "شدت جراحات ناشی از اصابت گلوله نیروهای سرکوبگر حکومتی",
+    "en": "Died from severe injuries caused by gunfire from government security forces"
+  },
+  "incidentDate": null,
+  "location": {
+    "city": "Sari",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "فردین قنبری، شهروند اهل ساری، در جریان اعتراضات مردمی ۱۸ و ۱۹ دی‌ماه ۱۴۰۴ در محل کار خود هدف تیراندازی نیروهای سرکوبگر قرار گرفت و پس از چند روز بستری، روز چهارشنبه ۲۴ دی‌ماه بر اثر شدت جراحات جان باخت.",
+    "en": "Fardin Ghanbari, a resident of Sari, was shot by government forces at his workplace during the January 2026 protests and died a few days later on January 14, 2026, due to the severity of his injuries."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
+      "title": "Hengaw report on the killing of Fardin Ghanbari",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

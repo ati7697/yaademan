@@ -1,0 +1,43 @@
+{
+  "id": "sonya-salehi-rad",
+  "firthName": {
+    "fa": "سونیا",
+    "en": "Sonya"
+  },
+  "lastName": {
+    "fa": "صالحی‌راد",
+    "en": "Salehi-Rad"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "incidentDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای امنیتی در جریان اعتراضات مردمی",
+    "en": "Fatally shot by security forces during public protests"
+  },
+  "location": {
+    "city": "Shiraz",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سونیا صالحی‌راد روز پنجشنبه ۱۸ دی‌ماه، با شلیک گلوله نیروهای امنیتی در صدرای شیراز کشته شد.",
+    "en": "Sonya Salehi-Rad was fatally shot by security forces in Sedra, Shiraz, on Thursday, January 8, 2026, during public protests."
+  },
+  "events": [
+    "2026-iran-protests"
+  ],
+  "images": [
+    "images/people/sonya-salehi-rad/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/Daikatuo/status/2012513727615058000?s=20",
+      "title": "Report on Sonya Salehi-Rad's death",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

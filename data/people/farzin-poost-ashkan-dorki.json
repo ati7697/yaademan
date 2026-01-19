@@ -1,0 +1,43 @@
+{
+  "id": "farzin-poost-ashkan-dorki",
+  "firstName": {
+    "fa": "فرزین",
+    "en": "Farzin"
+  },
+  "lastName": {
+    "fa": "پوست آشکن دورکی",
+    "en": "Poost Ashkan Dorki"
+  },
+  "age": 25,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "incidentDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات مردمی",
+    "en": "Killed by gunfire from government forces during public protests"
+  },
+  "location": {
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "فرزین پوست آشکن دورکی، ۲۵ ساله، آرایشگر و اهل روستای دورک شاهپوری چهارمحال و بختیاری، ساکن اصفهان، جمعه ۱۹ دی ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر با شلیک مستقیم نیروهای حکومتی کشته شد.",
+    "en": "Farzin Poost Ashkan Dorki, 25, a hairdresser from the village of Dork Shahpouri in Chaharmahal and Bakhtiari and resident of Isfahan, was killed by direct gunfire from government forces on Friday, January 9, 2026, during public protests in Isfahan."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/farzin-poost-ashkan-dorki/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
+      "title": "Hengaw report on the killing of Farzin Poost Ashkan Dorki",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "sina-saranoush",
+  "firstName": {
+    "fa": "سینا",
+    "en": "Sina"
+  },
+  "lastName": {
+    "fa": "سرانوش",
+    "en": "Saranoush"
+  },
+  "age": 32,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "incidentDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات مردمی",
+    "en": "Killed by gunfire from government forces during public protests"
+  },
+  "location": {
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سینا سرانوش، ٣٢ ساله، در جریان اعتراضات مردمی اصفهان در منطقه ملک شهر با شلیک مستقیم نیروهای حکومتی کشته شد.",
+    "en": "Sina Saranoush, 32, was killed by direct gunfire from government forces during public protests in the Malek Shahr area of Isfahan in January 2026."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/sina-saranoush/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
+      "title": "Hengaw report on the killing of Sina Saranoush",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

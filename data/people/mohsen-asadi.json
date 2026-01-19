@@ -1,0 +1,43 @@
+{
+  "id": "mohsen-asadi",
+  "firstName": {
+    "fa": "محسن",
+    "en": "Mohsen"
+  },
+  "lastName": {
+    "fa": "اسدی",
+    "en": "Asadi"
+  },
+  "age": 63,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومت در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "محسن اسدی، ۶۳ ساله، بازنشسته اداره برق اصفهان و اهل روستای دورک شاهپوری چهارمحال و بختیاری که ساکن اصفهان بود، در جریان اعتراضات مردمی ۱۹ دی‌ماه ۱۴۰۴ در اصفهان با شلیک مستقیم نیروهای حکومت کشته شد.",
+    "en": "Mohsen Asadi, 63, a retired employee of the Isfahan Electricity Department originally from the village of Dorak Shahpouri in Chaharmahal and Bakhtiari Province and resident of Isfahan, was killed on January 9, 2026 during public protests in Isfahan after being shot by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/mohsen-asadi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/ManotoNews/status/2011513650146918590",
+      "title": "Manoto News report on the killing of Mohsen Asadi",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

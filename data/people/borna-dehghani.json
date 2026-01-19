@@ -1,0 +1,43 @@
+{
+  "id": "borna-dehghani",
+  "firstName": {
+    "fa": "برنا",
+    "en": "Borna"
+  },
+  "lastName": {
+    "fa": "دهقانی",
+    "en": "Dehghani"
+  },
+  "age": 17,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "برنا دهقانی، دانش‌آموز ۱۷ ساله اهل کرج، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر با شلیک مستقیم نیروهای حکومتی کشته شد.",
+    "en": "Borna Dehghani, 17, a student from Karaj, was killed on Friday, January 9, 2026 during public protests in the city after being shot directly by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/borna-dehghani/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-132-1",
+      "title": "Hengaw report on the killing of Borna Dehghani",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

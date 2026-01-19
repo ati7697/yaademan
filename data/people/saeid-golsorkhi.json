@@ -1,0 +1,43 @@
+{
+  "id": "saeid-golsorkhi",
+  "firstName": {
+    "fa": "سعید",
+    "en": "Saeid"
+  },
+  "lastName": {
+    "fa": "گلسرخی",
+    "en": "Golsorkhi"
+  },
+  "age": 31,
+  "birthDate": null,
+  "deathDate": "2026-01-11",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات مردمی",
+    "en": "Killed by direct gunfire from government forces during public protests"
+  },
+  "incidentDate": "2026-01-11",
+  "location": {
+    "city": "Shahrud",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سعید گلسرخی، ۳۱ ساله و قهرمان پاورلیفتینگ اهل شاهرود، روز یکشنبه ۲۱ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر با شلیک نیروهای حکومتی کشته شد.",
+    "en": "Saeid Golsorkhi, a 31-year-old powerlifting champion from Shahrud, was killed on January 11, 2026 during public protests after being shot by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/saeid-golsorkhi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
+      "title": "Hengaw report on the killing of Saeid Golsorkhi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

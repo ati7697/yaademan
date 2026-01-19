@@ -1,0 +1,43 @@
+{
+  "id": "mohammadmahdi-jarchi",
+  "firstName": {
+    "fa": "محمدمهدی",
+    "en": "Mohammadmahdi"
+  },
+  "lastName": {
+    "fa": "جارچی",
+    "en": "Jarchi"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-10",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-10",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "محمدمهدی جارچی در تاریخ ۱۹ دی‌ماه ۱۴۰۴ در کرج توسط نیروهای حکومتی کشته شد.",
+    "en": "Mohammadmahdi Jarchi was killed on January 10, 2026 in Karaj by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/mohammadmahdi-jarchi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/Daikatuo/status/2012217391527117076?s=20",
+      "title": "Social media report on the killing of Mohammadmahdi Jarchi",
+      "type": "social_media"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "shayan-azadi",
+  "firstName": {
+    "fa": "شایان",
+    "en": "Shayan"
+  },
+  "lastName": {
+    "fa": "آزادی",
+    "en": "Azadi"
+  },
+  "age": 25,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "شایان آزادی، ۲۵ ساله و اهل گوهردشت کرج، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی با شلیک نیروهای حکومتی کشته شد.",
+    "en": "Shayan Azadi, 25, from Gohardasht, Karaj, was killed on the evening of Thursday, January 8, 2026 during public protests after being shot by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/shayan-azadi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-136-1",
+      "title": "Hengaw report on the killing of Shayan Azadi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pedram-saidi",
+  "firstName": {
+    "fa": "پدرام",
+    "en": "Pedram"
+  },
+  "lastName": {
+    "fa": "سعیدی",
+    "en": "Saidi"
+  },
+  "age": 28,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم به ناحیه قلب توسط نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by a gunshot to the heart from government forces during protests"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "پدرام سعیدی، ۲۸ ساله و اهل اصفهان، شامگاه جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر در منطقه «خانه اصفهان» از ناحیه قلب هدف شلیک نیروهای حکومتی قرار گرفت و جان باخت.",
+    "en": "Pedram Saidi, 28, from Isfahan, was killed on the evening of Friday, January 9, 2026 during public protests in the 'Khaneh Isfahan' area after being shot in the heart by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/pedram-saidi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
+      "title": "Hengaw report on the killing of Pedram Saidi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

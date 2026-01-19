@@ -1,0 +1,43 @@
+{
+  "id": "tiam-kiani-mansh",
+  "firstName": {
+    "fa": "تیام",
+    "en": "Tiam"
+  },
+  "lastName": {
+    "fa": "کیانی‌منش",
+    "en": "Kiani-Mansh"
+  },
+  "age": 26,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "استنشاق حجم بالای گاز اشک‌آور در جریان اعتراضات",
+    "en": "Death due to inhalation of a high volume of tear gas during protests"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Kermanshah",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "تیام کیانی‌منش، ۲۶ ساله و اهل کرمانشاه، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات این شهر جان خود را از دست داد. پیکر وی روز جمعه ۲۶ دی در مزارستان باغ فردوس کرمانشاه به خاک سپرده شد. گزارش‌ها حاکی از آن است که علت مرگ استنشاق حجم بالای گاز اشک‌آور بوده است.",
+    "en": "Tiam Kiani-Mansh, 26, from Kermanshah, died on Thursday, January 8, 2026 during protests in the city. His body was buried on Friday, January 16, 2026 at Baghe Ferdows Cemetery in Kermanshah. Reports indicate that the cause of death was inhalation of a high volume of tear gas."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/tiam-kiani-mansh/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-135-1",
+      "title": "Hengaw report on the death of Tiam Kiani-Mansh",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

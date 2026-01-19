@@ -1,0 +1,43 @@
+{
+  "id": "amir-mohammad-arbab-pouri",
+  "firstName": {
+    "fa": "امیرمحمد",
+    "en": "AmirMohammad"
+  },
+  "lastName": {
+    "fa": "ارباب پوری",
+    "en": "Arbab-Pouri"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Kermanshah",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "امیرمحمد ارباب پوری، کودک اهل روستای بریوه سفلی از توابع هرسین، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات شهرک معلم کرمانشاه با شلیک مستقیم نیروهای حکومتی جان خود را از دست داد.",
+    "en": "AmirMohammad Arbab-Pouri, a child from the village of Beryveh Sofla in Harsin, was killed on Thursday, January 8, 2026 during protests in Moallem town, Kermanshah, after being shot directly by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/amir-mohammad-arbab-pouri/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hanahr.org/fa/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%AF%DB%8C-%D9%85%D8%A7%DB%95-%D8%AC%D8%A7%D9%86%D8%A8%D8%A7%D8%AE%D8%AA%D9%86-%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D8%B1%D8%A8/",
+      "title": "Report on the death of AmirMohammad Arbab-Pouri",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

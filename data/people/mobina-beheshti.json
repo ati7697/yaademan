@@ -1,0 +1,43 @@
+{
+  "id": "mobina-beheshti",
+  "firstName": {
+    "fa": "مبینا",
+    "en": "Mobina"
+  },
+  "lastName": {
+    "fa": "بهشتی",
+    "en": "Beheshti"
+  },
+  "age": 21,
+  "birthDate": null,
+  "deathDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای سرکوبگر حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-08",
+  "location": {
+    "city": "Gorgan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "مبینا بهشتی، شهروند ۲۱ ساله اهل گرگان، روز پنج‌شنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی با شلیک مستقیم نیروهای سرکوبگر حکومتی کشته شد. پیکر او روز شنبه ۲۰ دی‌ماه به خانواده تحویل داده و به خاک سپرده شد.",
+    "en": "Mobina Beheshti, 21, a citizen from Gorgan, was killed on Thursday, January 8, 2026 during public protests after being shot directly by government forces. Her body was returned to her family and buried on Saturday, January 10, 2026."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/mobina-beheshti/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-123-1",
+      "title": "Hengaw report on the killing of Mobina Beheshti",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pouya-akbarzadeh",
+  "firstName": {
+    "fa": "پویا",
+    "en": "Pouya"
+  },
+  "lastName": {
+    "fa": "اکبرزاده",
+    "en": "Akbarzadeh"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": "Tehran",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "پویا اکبرزاده، روز ۱۸ یا ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در منطقه ۲۰ (دولت‌آباد) تهران با شلیک نیروهای حکومتی کشته شد.",
+    "en": "Pouya Akbarzadeh was killed on January 9, 2026 (18 or 19 Dey 1404) during public protests in District 20 (Dowlatabad) of Tehran after being shot by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/pouya-akbarzadeh/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-125-1",
+      "title": "Hengaw report on the killing of Pouya Akbarzadeh",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "soran-faizizadeh",
+  "firstName": {
+    "fa": "سوران",
+    "en": "Soran"
+  },
+  "lastName": {
+    "fa": "فیضی‌زاده",
+    "en": "Faizizadeh"
+  },
+  "age": 40,
+  "birthDate": null,
+  "deathDate": "2026-01-07",
+  "causeOfDeath": {
+    "fa": "کشته شده در بازداشتگاه زیر شکنجه نیروهای حکومتی",
+    "en": "Killed under torture in a government detention center"
+  },
+  "incidentDate": "2026-01-07",
+  "location": {
+    "city": "Bijar",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سوران فیضی‌زاده، شهروند ۴۰ ساله اهل سقز، که روز چهارشنبه ۱۷ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در بیجار بازداشت شده بود، در یکی از بازداشتگاه‌های این شهر زیر شکنجه نیروهای حکومتی کشته شد. همسر وی اهل بیجار بود و از ۷ سال پیش در این شهر زندگی می‌کرد.",
+    "en": "Soran Faizizadeh, 40, a citizen from Saqez, was arrested on Wednesday, January 7, 2026 during public protests in Bijar and was killed under torture in a detention center by government forces. His wife is from Bijar and had been living there for 7 years."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/soran-faizizadeh/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-124-2",
+      "title": "Hengaw report on the killing of Soran Faizizadeh",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

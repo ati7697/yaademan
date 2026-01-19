@@ -1,0 +1,43 @@
+{
+  "id": "amirali-latifi",
+  "firstName": {
+    "fa": "امیرعلی",
+    "en": "Amirali"
+  },
+  "lastName": {
+    "fa": "لطیفی",
+    "en": "Latifi"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-11",
+  "causeOfDeath": {
+    "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات",
+    "en": "Killed by direct gunfire from government forces during protests"
+  },
+  "incidentDate": "2026-01-11",
+  "location": {
+    "city": "Gilan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "امیرعلی لطیفی، کارمند هلال احمر در استان گیلان، روز ۲۰ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی با شلیک مستقیم نیروهای حکومتی کشته شد. در این اعتراضات پنج نفر دیگر نیز زخمی شدند.",
+    "en": "Amirali Latifi, a Red Crescent employee in Gilan province, was killed on January 11, 2026 during public protests after being shot directly by government forces. Five other people were also injured during these protests."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/amirali-latifi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://iranwire.com/fa/news-1/147700-%DB%8C%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D9%88-%D9%BE%D9%86%D8%AC-%D8%B2%D8%AE%D9%85%DB%8C-%D8%A7%D8%B2-%D9%86%DB%8C%D8%B1%D9%88%D9%87%D8%A7%DB%8C-%D9%87%D9%84%D8%A7%D9%84-%D8%A7%D8%AD%D9%85%D8%B1-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA/",
+      "title": "IranWire report on the killing of Amirali Latifi",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

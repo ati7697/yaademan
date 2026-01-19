@@ -1,0 +1,43 @@
+{
+  "id": "seyed-abolfazl-kia",
+  "firstName": {
+    "fa": "سیدابوالفضل",
+    "en": "Seyed Abolfazl"
+  },
+  "lastName": {
+    "fa": "کیا",
+    "en": "Kia"
+  },
+  "age": 25,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": "شلیک نیروهای حکومتی در جریان اعتراضات مردمی",
+    "en": "Killed by gunfire from government forces during public protests"
+  },
+  "incidentDate": null,
+  "location": {
+    "city": "Chamestan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سیدابوالفضل کیا، ۲۵ ساله و اهل آهودشت، در دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی شهر چمستان با شلیک نیروهای جمهوری اسلامی کشته شد.",
+    "en": "Seyed Abolfazl Kia, 25, from Ahoudasht, was killed in January 2026 in Chamestan during public protests after being shot by Islamic Republic forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    //"images/people/seyed-abolfazl-kia/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
+      "title": "Hengaw report on the killing of Seyed Abolfazl Kia",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

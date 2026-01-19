@@ -1,12 +1,12 @@
 {
-  "id": "meysam-khezini",
+  "id": "meysam-khazini",
   "firstName": {
     "fa": "میثم",
     "en": "Meysam"
   },
   "lastName": {
     "fa": "خزینی",
-    "en": "Khezini"
+    "en": "Khazini"
   },
   "age": 37,
   "birthDate": null,
@@ -23,18 +23,18 @@
   "status": "killed",
   "description": {
     "fa": "میثم خزینی، ۳۷ ساله و اهل گرگان، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر با شلیک مستقیم نیروهای حکومتی کشته شد. وی پدر یک دختر ۵ ساله و سرآشپز هتل و رستوران بود.",
-    "en": "Meysam Khezini, 37, from Gorgan, was killed on Friday, January 10, 2026 during public protests in the city after being shot directly by government forces. He was the father of a 5-year-old daughter and worked as a chef in hotels and restaurants."
+    "en": "Meysam Khazini, 37, from Gorgan, was killed on Friday, January 10, 2026 during public protests in the city after being shot directly by government forces. He was the father of a 5-year-old daughter and worked as a chef in hotels and restaurants."
   },
   "events": [
     "2025-2026-iran-protests"
   ],
   "images": [
-    "images/people/meysam-khezini/profile.jpeg"
+    "images/people/meysam-khazini/profile.png"
   ],
   "links": [
     {
       "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
-      "title": "Hengaw report on the killing of Meysam Khezini",
+      "title": "Hengaw report on the killing of Meysam Khazini",
       "type": "news"
     }
   ],

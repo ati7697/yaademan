@@ -1,0 +1,39 @@
+{
+  "id": "mohsen-armak",
+  "name": {
+    "fa": "محسن آرمک",
+    "en": "Mohsen Armak"
+  },
+  "age": null,
+  "deathDate": "2026-01-04",
+  "incidentDate": "2026-01-04",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن با شلیک مستقیم نیروهای حکومتی",
+    "en": "Killed by direct gunfire from government forces"
+  },
+  "location": {
+    "city": "Hafshejan",
+    "province": "Chaharmahal and Bakhtiari",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "محسن آرمک، شهروند اهل هفشجان، روز یکشنبه ۱۴ دی‌ماه ۱۴۰۴ (۴ ژانویه ۲۰۲۶) با شلیک مستقیم نیروهای حکومتی جان خود را از دست داد.",
+    "en": "Mohsen Armak, a citizen from Hafshejan, was killed on Sunday, January 4, 2026, after being shot by government forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/mohsen-armak/profile.png"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-139-1",
+      "title": "Hengaw report on Mohsen Armak",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

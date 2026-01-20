@@ -1,0 +1,40 @@
+{
+  "id": "saeid-ebrahimi-azadi",
+  "name": {
+    "fa": "سعید ابراهیمی (آزادی)",
+    "en": "Saeid Ebrahimi (Azadi)"
+  },
+  "age": null,
+  "deathDate": "2026-01-08",
+  "incidentDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن توسط نیروهای جمهوری اسلامی ایران",
+    "en": "Killed by forces of the Islamic Republic of Iran"
+  },
+  "location": {
+    "city": "Qir va Karzin",
+    "province": "Fars",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "سعید ابراهیمی (معروف به آزادی) در روز پنج‌شنبه ۱۸ دی‌ماه ۱۴۰۴ (۸ ژانویه ۲۰۲۶) در شهرستان قیروکارزین استان فارس توسط نیروهای جمهوری اسلامی ایران کشته شد.",
+    "en": "Saeid Ebrahimi (also known as Azadi) was killed on Thursday, January 8, 2026, in Qir va Karzin, Fars province, by forces of the Islamic Republic of Iran."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/saeid-ebrahimi-azadi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://iranwire.com/fa/features/147799-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%D9%85%D9%88%D8%B5%D9%84%D9%88-%D9%88-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%DB%8C%D8%B1/",
+      "title": "IranWire report on Saeid Ebrahimi (Azadi)",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}
+

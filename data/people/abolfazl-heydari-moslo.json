@@ -1,0 +1,37 @@
+{
+  "id": "abolfazl-heydari-moslo",
+  "name": {
+    "fa": "ابوالفضل حیدری‌موصلو",
+    "en": "Abolfazl Heydari Moslo"
+  },
+  "age": 17,
+  "deathDate": "2026-01-08",
+  "incidentDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن توسط نیروهای جمهوری اسلامی ایران",
+    "en": "Killed by forces of the Islamic Republic of Iran"
+  },
+  "location": {
+    "city": "Qir va Karzin",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "ابوالفضل حیدری‌موصلو، نوجوان ۱۷ ساله، روز پنج‌شنبه ۱۸ دی‌ماه ۱۴۰۴ (۸ ژانویه ۲۰۲۶) در شهرستان قیروکارزین استان فارس توسط نیروهای جمهوری اسلامی ایران کشته شد.",
+    "en": "Abolfazl Heydari Moslo, a 17-year-old teenager, was killed on Thursday, January 8, 2026, in Qir va Karzin, Fars province, by forces of the Islamic Republic of Iran."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://iranwire.com/fa/features/147799-%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84-%D8%AD%DB%8C%D8%AF%D8%B1%DB%8C-%D9%85%D9%88%D8%B5%D9%84%D9%88-%D9%88-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85-%D8%B3%D8%B9%DB%8C%D8%AF-%D8%A2%D8%B2%D8%A7%D8%AF%DB%8C-%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA%DA%AF%D8%A7%D9%86-%D8%B4%D9%87%D8%B1-%DA%A9%D9%88%DA%86%DA%A9-%D9%82%DB%8C%D8%B1/",
+      "title": "IranWire report on Abolfazl Heydari Moslo",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}
+

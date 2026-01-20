@@ -1,0 +1,43 @@
+{
+  "id": "hamid-kochak-koutiani",
+  "firstName": {
+    "fa": "حمید",
+    "en": "Hamid"
+  },
+  "lastName": {
+    "fa": "کوچک‌کوتیانی",
+    "en": "Kochak-Koutiani"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-17",
+  "incidentDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "مرگ در بیمارستان بر اثر شدت جراحات ناشی از شلیک نیروهای حکومتی",
+    "en": "Died in hospital from wounds inflicted by government forces"
+  },
+  "location": {
+    "city": "Dezful",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "حمید کوچک‌کوتیانی در جریان اعتراضات دی‌ماه ۱۴۰۴ در دزفول توسط نیروهای جمهوری اسلامی زخمی شد و پس از بستری در بیمارستان، در ۲۸ دی‌ماه جان باخت.",
+    "en": "Hamid Kochak-Koutiani was wounded by government forces during the January 2026 protests in Dezful and died in hospital on January 17, 2026 due to the severity of his injuries."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/hamid-kochak-koutiani/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://x.com/FSeifikaran/status/2012851468504563868?s=20",
+      "title": "Social media report on the death of Hamid Kochak-Koutiani",
+      "type": "social_media"
+    }
+  ],
+  "verified": false,
+  "published": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "shahram-maghsoudi",
+  "name": {
+    "fa": "شهرام مقصودی",
+    "en": "Shahram Maghsoudi"
+  },
+  "age": 32,
+  "deathDate": "2026-01-09",
+  "incidentDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن توسط نیروهای جمهوری اسلامی در جریان اعتراضات مردمی",
+    "en": "Killed by Islamic Republic forces during public protests"
+  },
+  "location": {
+    "city": "Baharestan",
+    "province": "Isfahan",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "شهرام مقصودی، ۳۲ ساله، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در بهارستان اصفهان توسط نیروهای جمهوری اسلامی کشته شد.",
+    "en": "Shahram Maghsoudi, 32, was killed on Friday, January 9, 2026, during public protests in Baharestan, Isfahan, by Islamic Republic forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/shahram-maghsoudi/profile.jpeg"
+  ],
+  "links": [
+    {
+      "url": "https://www.iranintl.com/202601146335",
+      "title": "Report on Shahram Maghsoudi's killing",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

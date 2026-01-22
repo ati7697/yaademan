@@ -1,8 +1,12 @@
 {
   "id": "kamran-akbari",
-  "name": {
-    "fa": "کامران اکبری",
-    "en": "Kamran Akbari"
+  "firstName": {
+    "fa": "کامران",
+    "en": "Kamran"
+  },
+  "lastName": {
+    "fa": "اکبری",
+    "en": "Akbari"
   },
   "age": 45,
   "deathDate": "2026-01-08",

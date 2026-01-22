@@ -1,8 +1,12 @@
 {
   "id": "mohsen-armak",
-  "name": {
-    "fa": "محسن آرمک",
-    "en": "Mohsen Armak"
+  "firstName": {
+    "fa": "محسن",
+    "en": "Mohsen"
+  },
+  "lastName": {
+    "fa": "آرمک",
+    "en": "Armak"
   },
   "age": null,
   "deathDate": "2026-01-04",

@@ -1,8 +1,12 @@
 {
   "id": "abolfazl-heydari-moslo",
-  "name": {
-    "fa": "ابوالفضل حیدری‌موصلو",
-    "en": "Abolfazl Heydari Moslo"
+  "firstName": {
+    "fa": "ابوالفضل",
+    "en": "Abolfazl"
+  },
+  "lastName": {
+    "fa": "حیدری‌موصلو",
+    "en": "Heydari Moslo"
   },
   "age": 17,
   "deathDate": "2026-01-08",
@@ -34,4 +38,3 @@
   "verified": true,
   "published": true
 }
-

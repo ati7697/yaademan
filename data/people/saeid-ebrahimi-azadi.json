@@ -1,8 +1,12 @@
 {
   "id": "saeid-ebrahimi-azadi",
-  "name": {
-    "fa": "سعید ابراهیمی (آزادی)",
-    "en": "Saeid Ebrahimi (Azadi)"
+  "firstName": {
+    "fa": "سعید",
+    "en": "Saeid"
+  },
+  "lastName": {
+    "fa": "ابراهیمی (آزادی)",
+    "en": "Ebrahimi (Azadi)"
   },
   "age": null,
   "deathDate": "2026-01-08",

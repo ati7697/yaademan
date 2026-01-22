@@ -1,8 +1,12 @@
 {
   "id": "shahram-maghsoudi",
-  "name": {
-    "fa": "شهرام مقصودی",
-    "en": "Shahram Maghsoudi"
+  "firstName": {
+    "fa": "شهرام",
+    "en": "Shahram"
+  },
+  "lastName": {
+    "fa": "مقصودی",
+    "en": "Maghsoudi"
   },
   "age": 32,
   "deathDate": "2026-01-09",

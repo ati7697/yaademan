@@ -1,8 +1,12 @@
 {
   "id": "navid-alamchehre",
-  "name": {
-    "fa": "نوید عالم‌چهره",
-    "en": "Navid Alamchehre"
+  "firstName": {
+    "fa": "نوید",
+    "en": "Navid"
+    },
+    "lastName": {
+    "fa": "عالم‌چهره",
+    "en": "Alamchehre"
   },
   "age": 40,
   "deathDate": "2026-01",

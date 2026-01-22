@@ -1,0 +1,43 @@
+{
+  "id": "kamran-akbari",
+  "firstName": {
+    "fa": "کامران",
+    "en": "Kamran"
+  },
+  "lastName": {
+    "fa": "اکبری",
+    "en": "Akbari"
+  },
+  "age": 45,
+  "deathDate": "2026-01-08",
+  "incidentDate": "2026-01-08",
+  "causeOfDeath": {
+    "fa": "کشته‌شدن با شلیک مستقیم نیروهای سرکوبگر حکومتی",
+    "en": "Killed by direct gunfire from government security forces"
+  },
+  "location": {
+    "city": "Kermanshah (Elahiyeh Township)",
+    "province": "Kermanshah",
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "کامران اکبری، ۴۵ ساله، معلم و پدر یک فرزند و اهل شهرستان اسلام‌آباد غرب، روز پنج‌شنبه ۱۸ دی‌ماه ۱۴۰۴ (۸ ژانویه ۲۰۲۶) در جریان اعتراضات مردمی در شهرک الهیه کرمانشاه با شلیک مستقیم نیروهای سرکوبگر حکومتی جان خود را از دست داد.",
+    "en": "Kamran Akbari, a 45-year-old teacher, father of one, and a resident of Eslamabad-e Gharb, was killed on Thursday, January 8, 2026, during popular protests in the Elahiyeh township of Kermanshah after being shot by government security forces."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [
+    "images/people/kamran-akbari/profile.png"
+  ],
+  "links": [
+    {
+      "url": "https://hengaw.net/fa/news/2026/01/article-141-1",
+      "title": "Hengaw report on Kamran Akbari",
+      "type": "news"
+    }
+  ],
+  "verified": true,
+  "published": true
+}

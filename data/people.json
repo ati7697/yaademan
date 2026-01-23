@@ -5394,103 +5394,6 @@
     "published": true
   },
   {
-    "id": "nymaparsa-128",
-    "firstName": {
-      "fa": "نیما",
-      "en": "Nima"
-    },
-    "lastName": {
-      "fa": "پارسا",
-      "en": "Parsa"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": null,
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "نیما پارسا کشته شد مدرس زبان، پیج آموزشی یوتیوب: https://www.youtube.com/@NIPA.ACADEMY",
-      "en": "Nima Parsa was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/morgomirrr/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://www.instagram.com/reel",
-        "title": "Source 2",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-125-1",
-        "title": "Source 3",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "mhsnasdy-131",
-    "firstName": {
-      "fa": "محسن",
-      "en": "Mohsen"
-    },
-    "lastName": {
-      "fa": "اسدی",
-      "en": "Asdi"
-    },
-    "age": 63,
-    "birthDate": null,
-    "deathDate": "2026-01-09",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-09",
-    "location": {
-      "city": "اصفهان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "محسن اسدی در تاریخ 2026-01-09 در اصفهان کشته شد.",
-      "en": "Mohsen Asdi was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/ManotoNews/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-120-1",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "alymla-aghayy-rvzbhany-132",
     "firstName": {
       "fa": "علی",
@@ -7088,47 +6991,6 @@
     "published": true
   },
   {
-    "id": "nsympvraghayy-177",
-    "firstName": {
-      "fa": "نسیم",
-      "en": "Nasim"
-    },
-    "lastName": {
-      "fa": "پورآقایی",
-      "en": "Poraqayi"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "نسیم پورآقایی در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Nasim Poraqayi was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-123-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "armin-moatamedamini-180",
     "firstName": {
       "fa": "آرمین",
@@ -7386,47 +7248,6 @@
         "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
         "title": "Source 2",
         "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "mhmdmhdyjarchy-190",
-    "firstName": {
-      "fa": "محمدمهدی",
-      "en": "Mohammad Mehdi"
-    },
-    "lastName": {
-      "fa": "جارچی",
-      "en": "Jarchi"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-09",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-09",
-    "location": {
-      "city": "فردیس",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "محمدمهدی جارچی در تاریخ 2026-01-09 در فردیس کشته شد گزارش شده در دایرکت توییتر",
-      "en": "Mohammad Mehdi Jarchi was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/Blackzebra2001/status",
-        "title": "Source 1",
-        "type": "social_media"
       }
     ],
     "verified": true,
@@ -7704,52 +7525,6 @@
     "published": true
   },
   {
-    "id": "mhrabglstany-207",
-    "firstName": {
-      "fa": "محراب",
-      "en": "Mehrab"
-    },
-    "lastName": {
-      "fa": "گلستانی",
-      "en": "Golestani"
-    },
-    "age": 17,
-    "birthDate": null,
-    "deathDate": "2026-01-09",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-09",
-    "location": {
-      "city": "اصفهان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "محراب گلستانی در تاریخ 2026-01-09 در اصفهان کشته شد.",
-      "en": "Mehrab Golestani was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/iranwire/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-142-1",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "syd-abvalfzlkya-209",
     "firstName": {
       "fa": "سید ابوالفضل",
@@ -7775,47 +7550,6 @@
     "description": {
       "fa": "سید ابوالفضل کیا در چمستان کشته شد اهل آهودشت از توابع بخش چمستان",
       "en": "Seyed Abolfazl Kya was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "ydallhhydry-210",
-    "firstName": {
-      "fa": "یدالله",
-      "en": "Yadollah"
-    },
-    "lastName": {
-      "fa": "حیدری",
-      "en": "Heydari"
-    },
-    "age": 40,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "چمستان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "یدالله حیدری در چمستان کشته شد.",
-      "en": "Yadollah Heydari was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -7989,108 +7723,6 @@
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
         "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "hvmnsbagh-217",
-    "firstName": {
-      "fa": "هومن",
-      "en": "Homn"
-    },
-    "lastName": {
-      "fa": "صباغ",
-      "en": "Sbagh"
-    },
-    "age": 37,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Lahijan",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "هومن صباغ در تاریخ 2026-01-08 در لاهیجان کشته شد.",
-      "en": "Homn Sbagh was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/HyrcaniHRM/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-145-1",
-        "title": "Source 2",
-        "type": "other"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/G-3Jt_CXYAAX6nm?format=jpg&name=large",
-        "title": "Photo",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "mstfytbryzy-218",
-    "firstName": {
-      "fa": "مصطفی",
-      "en": "Mostafa"
-    },
-    "lastName": {
-      "fa": "تبریزی",
-      "en": "Tabrizi"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "ساری",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "مصطفی تبریزی در تاریخ 2026-01-08 در ساری کشته شد تاریخ فوت 18 یا 19 دی ماه",
-      "en": "Mostafa Tabrizi was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/HyrcaniHRM/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-145-1",
-        "title": "Source 2",
-        "type": "other"
-      },
-      {
-        "url": "https://pbs.twimg.com/media/G-21dVHXEAAgWsn?format=jpg&name=large",
-        "title": "Photo",
         "type": "other"
       }
     ],
@@ -8401,47 +8033,6 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-137-2",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "nvydaalm-chhrh-234",
-    "firstName": {
-      "fa": "نوید",
-      "en": "Navid"
-    },
-    "lastName": {
-      "fa": "عالم چهره",
-      "en": "Alam Chehreh"
-    },
-    "age": 40,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "اصفهان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "نوید عالم چهره در اصفهان کشته شد.",
-      "en": "Navid Alam Chehreh was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-120-1",
         "title": "Source 1",
         "type": "other"
       }
@@ -9916,52 +9507,6 @@
     "published": true
   },
   {
-    "id": "myladghlamy-274",
-    "firstName": {
-      "fa": "میلاد",
-      "en": "Milad"
-    },
-    "lastName": {
-      "fa": "غلامی",
-      "en": "Gholami"
-    },
-    "age": 25,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "میلاد غلامی در تهران کشته شد.",
-      "en": "Milad Gholami was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/FSeifikaran/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-151-1",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "mazyarmvdt-275",
     "firstName": {
       "fa": "مازیار",
@@ -10355,47 +9900,6 @@
         "url": "https://x.com/shadisadr/status",
         "title": "Source 1",
         "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "vhydarzanlv-286",
-    "firstName": {
-      "fa": "وحید",
-      "en": "Vahid"
-    },
-    "lastName": {
-      "fa": "ارزانلو",
-      "en": "Arzanlo"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-17",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "وحید ارزانلو در تاریخ 2026-01-17 در تهران کشته شد برادر حمید",
-      "en": "Vahid Arzanlo was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news",
-        "title": "Source 1",
-        "type": "other"
       }
     ],
     "verified": true,
@@ -19906,7 +19410,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-      "images/people/mohsen-rashidi/profile.jpeg"
+      "images/people/mohsen-rashidi/profile.png"
     ],
     "links": [
       {
@@ -20217,6 +19721,11 @@
       {
         "url": "https://x.com/longlosthills/status/2012173489013219629",
         "title": "Twitter/X Report on Nima Parsa's Death",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.youtube.com/@NIPA.ACADEMY",
+        "title": "Nipa Academy YouTube Channel",
         "type": "social_media"
       }
     ],

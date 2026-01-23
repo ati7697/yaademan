@@ -23336,87 +23336,85 @@
     "published": true
   },
   {
-    "id": “sina-kazemi-556",
+    "id": "sina-kazemi-556",
     "firstName": {
-    "fa": "علی",
-    "en": “Sina"
+      "fa": "علی",
+      "en": "Sina"
     },
     "lastName": {
-    "fa": "رهبر",
-    "en": “Kazemi"
+      "fa": "رهبر",
+      "en": "Kazemi"
     },
     "age": 22,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
-    "fa":"شلیک مستقیم نیروهای حکومتی به پهلو در جریان اعتراضاشته ",
-    "en": “Shot from behind on January 8, 2026 by the Islamic regime"
+      "fa": "شلیک مستقیم نیروهای حکومتی به پهلو در جریان اعتراضاشته ",
+      "en": "Shot from behind on January 8, 2026 by the Islamic regime"
     },
-    "incidentDate": "2026-01-08"
+    "incidentDate": "2026-01-08",
     "location": {
-    "city": “Tehran",
-    "country": "Iran"
+      "city": "Tehran",
+      "country": "Iran"
     },
-    "status": “killed",
+    "status": "killed",
     "description": {
-    "fa": "سینا در ۱۸ دی‌ماه  توسط رژیم اسلامی از پشت مورد اصابت گلوله قرار گرفت. او دانشجوی ترم آخر مهندسی نرم‌افزار، گیتاریست و کیک بوکسور بود.  به دلیل قطعی اینترنت در ایران خواهرش پس از یک هفته متوجه شد که برادرش کشته شده است."
-    "en": “Sina got Shot from behind on January 8 2026 by the Islamic regime. He was a software engineering student, a guitarist, and a kickboxer. Because of digital blackout in Iran, her sister learned that her brother had been killed after one week, because of digital blackout in Iran."
+      "fa": "سینا در ۱۸ دی‌ماه  توسط رژیم اسلامی از پشت مورد اصابت گلوله قرار گرفت. او دانشجوی ترم آخر مهندسی نرم‌افزار، گیتاریست و کیک بوکسور بود.  به دلیل قطعی اینترنت در ایران خواهرش پس از یک هفته متوجه شد که برادرش کشته شده است."
+      "en": "Sina got Shot from behind on January 8 2026 by the Islamic regime. He was a software engineering student, a guitarist, and a kickboxer. Because of digital blackout in Iran, her sister learned that her brother had been killed after one week, because of digital blackout in Iran."
     },
     "events": [
-    "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [],
     "links": [
-    {
-    "url": "[https://x.com/i/status/2014449949078130746](https://x.com/i/status/2014449949078130746)",
-    "title": "Twitter/X",
-    "type": "social_media”
-    },
-
-       {
-    "url": "[__https://x.com/i/status/2014364120242401613__](https://x.com/i/status/2014364120242401613)",
-    "title": "Twitter/X",
-    "type": "social_media"
-    }
+      {
+        "url": "[https://x.com/i/status/2014449949078130746](https://x.com/i/status/2014449949078130746)",
+        "title": "Twitter/X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2014364120242401613",
+        "title": "Twitter/X",
+        "type": "social_media"
+      }
     ],
     "verified": true,
     "published": true
   },
   {
-    "id": “benyamin-afra-556",
+    "id": "benyamin-afra-556",
     "firstName": {
-    "fa": “بنیامین",
-    "en": “Benyamin"
+      "fa": "بنیامین",
+      "en": "Benyamin"
     },
     "lastName": {
-    "fa": “افرا",
-    "en": “Afra"
+      "fa": "افرا",
+      "en": "Afra"
     },
     "age": 26,
     "birthDate": null,
-    "deathDate”: null,
+    "deathDate": null,
     "causeOfDeath": null,
-    "incidentDate": "2026-01-08"
+    "incidentDate": "2026-01-08",
     "location": {
-    "city": “Yasuj",
-    "country": "Iran"
+      "city": "Yasuj",
+      "country": "Iran"
     },
-    "status": “arrested",
+    "status": "arrested",
     "description": {
-    "fa": "بنیامین افرا، ۲۶ ساله، ساعت ۵–۶ صبح روز ۱۸ دی‌ماه در اطراف یاسوج (یکی از روستاهای اطراف) توسط مأموران امنیتی بازداشت و به زندان مرکزی یاسوج منتقل شد... نذاریم جون یکی دیگه ازمون کم بشه”,
-
-       "en": “Benjamin Afra, 26 years old, was arrested by security officers around 5-6 am on January 8th in the vicinity of Yasuj (one of the surrounding villages) and transferred to Yasuj Central Prison."
+      "fa": "بنیامین افرا، ۲۶ ساله، ساعت ۵–۶ صبح روز ۱۸ دی‌ماه در اطراف یاسوج (یکی از روستاهای اطراف) توسط مأموران امنیتی بازداشت و به زندان مرکزی یاسوج منتقل شد... نذاریم جون یکی دیگه ازمون کم بشه",
+      "en": "Benjamin Afra, 26 years old, was arrested by security officers around 5-6 am on January 8th in the vicinity of Yasuj (one of the surrounding villages) and transferred to Yasuj Central Prison."
     },
     "events": [
-    "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [],
     "links": [
-    {
-    "url": "[https://x.com/i/status/2014442461205237915](https://x.com/i/status/2014442461205237915)",
-    "title": "Twitter/X",
-    "type": "social_media”
-    }
+      {
+        "url": "[https://x.com/i/status/2014442461205237915](https://x.com/i/status/2014442461205237915)",
+        "title": "Twitter/X",
+        "type": "social_media"
+      }
     ],
     "verified": true,
     "published": true

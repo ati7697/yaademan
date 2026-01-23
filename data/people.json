@@ -21128,7 +21128,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "images/people/mehdi-jafari-558/profile.jpeg"
+      "images/people/mehcdi-jafari-558/profile.jpeg"
     ],
     "links": [
       {
@@ -21140,6 +21140,418 @@
         "url": "https://x.com/begooazadi/status/2014590813330694437?s=20",
         "title": "Twitter/X",
         "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "nika-shakarami",
+    "firstName": {
+      "fa": "نیکا",
+      "en": "Nika"
+    },
+    "lastName": {
+      "fa": "شاکرمی",
+      "en": "Shakarami"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-20",
+    "causeOfDeath": {
+      "fa": "ضربات مکرر باتوم و تجاوز ",
+      "en": "Repeated baton and sexual assault"
+    },
+    "incidentDate": "2022-09-20",
+    "location": {
+      "city": "Tehran",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نیکا شاکرمی، ۱۶ ساله، در جریان خیزش ۱۴۰۱ در تهران کشته شد. در جدولِ «کودکان کشته‌شده» علت مرگ به ضرب‌وشتم شدید و تعرض نسبت داده شده است.",
+      "en": "Nika Shakarami (16) was killed during the 2022 nationwide protests in Tehran. The “killed children” table attributes her death to severe beating and sexual assault."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "images/people/nika-shakarami/profile.png"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "zakaria-khial",
+    "firstName": {
+      "fa": "زکریا",
+      "en": "Zakaria"
+    },
+    "lastName": {
+      "fa": "خیال",
+      "en": "Khial"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-20",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-20",
+    "location": {
+      "city": "Piranshahr",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "زکریا خیال، ۱۶ ساله، در پیرانشهر در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد.",
+      "en": "Zakaria Khial (16) was killed in Piranshahr during the 2022 protests after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "siavash-mahmoudi-600",
+    "firstName": {
+      "fa": "سیاوش",
+      "en": "Siavash"
+    },
+    "lastName": {
+      "fa": "محمودی",
+      "en": "Mahmoudi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Tehran",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سیاوش محمودی، ۱۶ ساله، در تهران در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد. در جدول اشاره شده که مادر او در یک کلیپ افشاگری کرده است.",
+      "en": "Siavash Mahmoudi (16) was killed in Tehran during the 2022 protests after being shot with live ammunition. The table notes that his mother publicly spoke out in a video."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amin-maroufi-601",
+    "firstName": {
+      "fa": "امین",
+      "en": "Amin"
+    },
+    "lastName": {
+      "fa": "معروفی",
+      "en": "Maroufi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به سر",
+      "en": "Shot in the head with live ammunition"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Oshnavieh",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امین معروفی، ۱۶ ساله، در اشنویه در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی به سر کشته شد.",
+      "en": "Amin Maroufi (16) was killed in Oshnavieh during the 2022 protests after being shot in the head with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "abolfazl-bao-602",
+    "firstName": {
+      "fa": "ابوالفضل",
+      "en": "Abolfazl"
+    },
+    "lastName": {
+      "fa": "بائو",
+      "en": "Bao"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "شلیک گلوله به قلب",
+      "en": "Shot in the heart"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Qaemshahr",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ابوالفضل بائو، ۱۶ ساله، در قائم‌شهر در جریان خیزش ۱۴۰۱ با شلیک گلوله به قلب کشته شد.",
+      "en": "Abolfazl Bao (16) was killed in Qaemshahr during the 2022 protests after being shot in the heart."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "abdollah-mohammadpour-603",
+    "firstName": {
+      "fa": "عبدالله",
+      "en": "Abdollah"
+    },
+    "lastName": {
+      "fa": "محمدپور",
+      "en": "Mohammadpour"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": "Urmia",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عبدالله محمدپور، ۱۷ ساله، در ارومیه در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد.",
+      "en": "Abdollah Mohammadpour (17) was killed in Urmia during the 2022 protests after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirmehdi-malek-mohammadi-604",
+    "firstName": {
+      "fa": "امیرمهدی",
+      "en": "Amirmehdi"
+    },
+    "lastName": {
+      "fa": "ملک‌محمدی",
+      "en": "Malek Mohammadi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Tehran",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرمهدی ملک‌محمدی، ۱۷ ساله، در تهران در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد.",
+      "en": "Amirmehdi Malek Mohammadi (17) was killed in Tehran during the 2022 protests after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadreza-sarvi-605",
+    "firstName": {
+      "fa": "محمدرضا",
+      "en": "Mohammadreza"
+    },
+    "lastName": {
+      "fa": "سروی",
+      "en": "Sarvi"
+    },
+    "age": 13,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی (خونریزی و له‌شدگی مغز طبق توضیح جدول)",
+      "en": "Live ammunition impact (brain bleeding/crushing noted in the table)"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Tehran",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدرضا سروی، ۱۳ ساله، در تهران در جریان خیزش ۱۴۰۱ کشته شد. جدول علت را اصابت گلوله و آسیب شدید مغزی ذکر می‌کند.",
+      "en": "Mohammadreza Sarvi (13) was killed in Tehran during the 2022 protests. The table reports death due to live ammunition impact and severe brain injury."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "seyyed-mehdi-mousavi-606",
+    "firstName": {
+      "fa": "سیدمهدی",
+      "en": "Seyyed Mehdi"
+    },
+    "lastName": {
+      "fa": "موسوی",
+      "en": "Mousavi"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": "Zanjan",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سیدمهدی موسوی، ۱۵ ساله، در زنجان در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد. در توضیح جدول به ضربات متعدد باتوم نیز اشاره شده است.",
+      "en": "Seyyed Mehdi Mousavi (15) was killed in Zanjan during the 2022 protests after being shot with live ammunition. The table also mentions multiple baton ضربات."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amir-nourozi-607",
+    "firstName": {
+      "fa": "امیر",
+      "en": "Amir"
+    },
+    "lastName": {
+      "fa": "نوروزی",
+      "en": "Nourozi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-22",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-22",
+    "location": {
+      "city": "Bandar-e Anzali",
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیر نوروزی، ۱۶ ساله، در بندرانزلی در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد.",
+      "en": "Amir Nourozi (16) was killed in Bandar-e Anzali during the 2022 protests after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
+        "type": "news"
       }
     ],
     "verified": true,

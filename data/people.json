@@ -23286,5 +23286,53 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "ali-rahbar-555",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "رهبر",
+      "en": "Rahbar"
+    },
+    "age": 33,
+    "birthDate": null,
+    "deathDate": "2026-01-22",
+    "causeOfDeath": {
+      "fa": "اعدام",
+      "en": "Executed"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": "Mashhad",
+      "country": "Iran"
+    },
+    "status": "executed",
+    "description": {
+      "fa": "علی رهبر، از معترضانی که در جریان خیزش ملی در مشهد بازداشت شده بود، پنجشنبه صبح  دوم بهمن ۱۴۰۴ اعدام شده است. علی رهبر، ۳۳ ساله، مربی باشگاه بدنسازی اهل مشهد  بود.",
+      "en": ". Ali Rahbar, a protester who was arrested during the national uprising in Mashhad, was executed on Thursday morning, January 22, 2026. Ali Rahbar, 33, was a fitness club instructor from Mashhad"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "images/people/ali-rahbar-555/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://t.me/rodast_omiddana/61924",
+        "title": "Omid Dana Telegram Channel",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/i/status/2014388202010804343",
+        "title": "Twitter/X",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

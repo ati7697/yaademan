@@ -18,7 +18,7 @@
   "incidentDate": "2022-09-13",
   "location": {
     "city": {
-      "fa": null,
+      "fa": "تهران",
       "en": "Tehran"
     },
     "country": "Iran"

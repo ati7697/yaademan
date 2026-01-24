@@ -43,7 +43,7 @@
     "published": true
   },
   {
-    "id": "amyrhsamkhdayary-frd-2",
+    "id": "amirhesam-khodayari-fard-2",
     "firstName": {
       "fa": "امیرحسام",
       "en": "Amir Hesam"
@@ -76,12 +76,12 @@
     "links": [
       {
         "url": "https://www.iranintl.com/202601019105",
-        "title": "Source 1",
+        "title": "Iran International report on the killing of Amirhesam Khodayari Fard",
         "type": "news"
       },
       {
         "url": "https://iranwire.com/fa/features/147240",
-        "title": "Source 2",
+        "title": "Iran Wire report on the killing of Amirhesam Khodayari Fard",
         "type": "other"
       }
     ],
@@ -137,7 +137,7 @@
     "published": true
   },
   {
-    "id": "sjadzylayy-4",
+    "id": "sajjad-valamanesh-zilayi-4",
     "firstName": {
       "fa": "سجاد",
       "en": "Sajjad"
@@ -163,22 +163,20 @@
       "fa": "سجاد  والامنش (زیلایی) در تاریخ در روز ۱۱ دی ۱۴۰۴ در لردگان کشته شد.",
       "en": "Sajjad Valamanesh (Zilayi) was killed on 2026-01-01 in Lordegan."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-4",
-        "title": "Source 1",
-        "type": "other"
+        "title": "Hengaw report on the killing of Sajjad Valamanesh (Zilayi)",
+        "type": "news"
       }
     ],
     "verified": true,
     "published": true
   },
   {
-    "id": "shayanasdalhy-5",
+    "id": "shayan-asadollahi-5",
     "firstName": {
       "fa": "شایان",
       "en": "Shayan"
@@ -201,7 +199,7 @@
     },
     "status": "killed",
     "description": {
-      "fa": "شایان اسدالهی درشامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ (١ ژانویه ٢٠٢٦) در ازنا کشته شد.",
+      "fa": "شایان اسدالهی درشامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ در ازنا کشته شد.",
       "en": "Shayan Asadollahi was killed on 2026-01-01 in Azna."
     },
     "events": [
@@ -211,12 +209,12 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-5",
-        "title": "Source 1",
-        "type": "other"
+        "title": "Hengaw report on the killing of Shayan Asadollahi",
+        "type": "news"
       },
       {
         "url": "https://www.iranintl.com/202601021703",
-        "title": "Source 2",
+        "title": "Iran International report on the killing of Shayan Asadollahi",
         "type": "news"
       }
     ],
@@ -224,7 +222,7 @@
     "published": true
   },
   {
-    "id": "vhabmvsvy-6",
+    "id": "vahab-mousavi-6",
     "firstName": {
       "fa": "وهاب",
       "en": "Vahab"
@@ -247,7 +245,7 @@
     },
     "status": "killed",
     "description": {
-      "fa": "وهاب موسوی در درشامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ (١ ژانویه ٢٠٢٦) در ازنا کشته شد.",
+      "fa": "وهاب موسوی در درشامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ در ازنا کشته شد.",
       "en": "Vahab Mousavi was killed on 2026-01-01 in Azna."
     },
     "events": [
@@ -257,12 +255,12 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-5",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Vahab Mousavi",
         "type": "news"
       },
       {
         "url": "https://ir.voanews.com/a/8098302.html",
-        "title": "Source 2",
+        "title": "Voice of America report on the killing of Vahab Mousavi",
         "type": "news"
       }
     ],
@@ -20076,6 +20074,46 @@
         "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
         "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
         "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "saeed-doroudi-608",
+    "firstName": {
+      "fa": "سعید",
+      "en": "Saeed"
+    },
+    "lastName": {
+      "fa": "درودی",
+      "en": "Doroudi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": null,
+    "incidentDate": null,
+    "location": {
+      "city": "Tehran",
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بر اساس گزارش های رسیده به دانشجویان متحد، سعید درودی، دانشجوی رشته نمایش عروسکی دانشگاه هنر تهران، در جریان اعتراضات سال ۱۴۰۴ توسط نیروهای امنیتی بازداشت شده",
+      "en": "According to reports received by United Students, Saeed Doroudi, a student of Puppet Theater at Tehran University of Art, was arrested by security forces during the 2025-2026 protests."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "images/people/saeed-doroudi-608/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/anjmotahed/status/2014664502399177000?s=20",
+        "title": "Twitter/X post about Saeed Doroudi's arrest",
+        "type": "social_media"
       }
     ],
     "verified": true,

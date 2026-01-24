@@ -17,7 +17,10 @@
   },
   "incidentDate": "2026-01-08",
   "location": {
-    "city": "Borujerd",
+    "city": {
+      "fa": null,
+      "en": "Borujerd"
+    },
     "country": "Iran"
   },
   "status": "killed",
@@ -25,7 +28,9 @@
     "fa": "آریانا ارجمندی، ۲۳ ساله و دانشجوی رشته روان‌شناسی، روز پنج‌شنبه ۱۸ دی ۱۴۰۴ ساعت ۱۸:۳۰ در اعتراضات بروجرد کشته شد. محمدرضا، نزدیک‌ترین رفیق آریانا، درباره او، نحوه قتل و آنچه خانواده آریانا از سر می‌گذرانند با آیدا قجر گفت‌وگو کرده است.",
     "en": "Ariana Arjmandi, 23 years old and a psychology student, was killed during protests in Borujerd on Thursday, January 8, 2025 (18 Dey 1404) at 6:30 PM. Mohammadreza, Ariana's closest friend, spoke with Aida Ghajar about her, the manner of her killing, and what Ariana's family is going through."
   },
-  "events": ["2025-2026-iran-protests"],
+  "events": [
+    "2025-2026-iran-protests"
+  ],
   "images": [
     "images/people/ariana-arjmandi/profile.jpeg"
   ],

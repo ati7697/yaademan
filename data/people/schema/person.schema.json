@@ -53,8 +53,11 @@
       "type": "object",
       "properties": {
         "city": {
-          "type": ["string", "null"],
-          "maxLength": 100
+          "type": "object",
+          "properties": {
+            "fa": { "type": ["string", "null"], "maxLength": 100 },
+            "en": { "type": ["string", "null"], "maxLength": 100 }
+          }
         },
         "country": {
           "type": "string",

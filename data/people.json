@@ -175,7 +175,9 @@
       "fa": "سجاد  والامنش (زیلایی) در تاریخ در روز ۱۱ دی ۱۴۰۴ در لردگان کشته شد.",
       "en": "Sajjad Valamanesh (Zilayi) was killed on 2026-01-01 in Lordegan."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -315,7 +317,9 @@
       "fa": "مصطفی فلاحی در شامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ (١ ژانویه ٢٠٢٦) در ازنا کشته شد.",
       "en": "Mostafa Fallahi was killed on 2026-01-01 in Azna."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -723,7 +727,7 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city":{
+      "city": {
         "fa": "یزدانشهر",
         "en": "Yazdanshahr"
       },
@@ -920,7 +924,9 @@
       "fa": "سروش سلیمانی در تاریخ شنبه ۱۳ دی ۱۴۰۴ در هفشجان کشته شد.",
       "en": "Soroush Soleimani was killed on Saturday, January 3, 2026, in Hafshejan."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -972,7 +978,9 @@
       "fa": "امیرمحمد کوهکن در تاریخ 2026-01-03 در نی‌ریز کشته شد.",
       "en": "Amir Mohammad Koohkan was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1019,7 +1027,9 @@
       "fa": "طاها صفری در تاریخ 2026-01-01 در ازنا کشته شد دانش‌آموز ۱۵ ساله لُر اهل کامفیروز استان فارس و ساکن ازنا از توابع استان لرستان",
       "en": "Taha Safari was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1110,7 +1120,9 @@
       "fa": "محمد نوری در تاریخ ۱۲ دی ۱۴۰۴ در قم کشته شد.",
       "en": "Mohammad Nori was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1157,7 +1169,9 @@
       "fa": "رضا کدیوریان، ٢٠ ساله و اهل شهرک دیپین کرمانشاه با شلیک مستقیم نیروی حکومتی در جریان اعتراضات مردمی در محله جعفرآباد این شهر به کما رفته بود، در بیمارستان طالقانی جان باخت. برادر کوچکتر او، رسول کدیوریان، با تیراندازی مستقیم نیروهای سرکوبگر بلافاصله کشته شد",
       "en": "Reza Kadivoryan, 20 years old and from Dipin town of Kermanshah, was shot directly by government forces during the popular protests in the Jafarabad neighborhood of this city and fell into a coma. He died in Taleghani Hospital. His younger brother, Rasoul Kadivoryan, was immediately killed by direct shooting of the suppressive forces."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1199,7 +1213,9 @@
       "fa": "رسول کدیوریان ۱۷ ساله کورد درشامگاه شنبه ١٣ دی ماه  به همراه برادر بزرگترش رضا کدیوریان در کرمانشاه کشته شد.",
       "en": "Rasoul Kadivoryan, a 17-year-old Kurd, was killed on the evening of Saturday, January 3, along with his older brother Reza Kadivoryan in Kermanshah."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1241,7 +1257,9 @@
       "fa": "رضا قنبری ۱۷ ساله و  کودک کارگر اهل کرمانشاه در اعتراضات محله جعفرآباد این شهر با شلیک  مستقیم نیروهای سپاه پاسداران کشته شد.",
       "en": "Reza Ghanbari, a 17-year-old child worker from Kermanshah, was killed in the protests in the Jafarabad neighborhood of this city by direct shooting of the IRGC forces."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1288,7 +1306,9 @@
       "fa": "حسین ربیعی در تاریخ ۱۲ دی در قم کشته شد کشته شدن حسین ربیعی تاکنون توسط هیچ سازمان حقوق‌بشری یا خبرگزاری یا خبرنگار مستقل تایید نشده. اما بدلیل تکرر خبر و وجود خبرهای حاشیه‌ای از وی و همچنین انتشار اعلامیه مراسم تشییع جنازه و سوم و هفتم در لیست کشته‌شدگان قرار گرفته است.",
       "en": "Hossein Rabie was killed during protests. The killing of Hossein Rabie has not yet been confirmed by any human rights organization, news agency, or independent journalist. However, due to the frequency of news and the existence of peripheral news about him, as well as the publication of the funeral and seventh-day ceremony announcement, he has been included in the list of the killed."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1335,7 +1355,9 @@
       "fa": "علی کریمی در تاریخ ۱۲ دی در ملکشاهی کشته شد.",
       "en": "Ali Karimi was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1377,7 +1399,9 @@
       "fa": "رضا مرادی عبدلوند در تاریخ ۱۵ دی ماه در ازنا کشته شد وی در تاریخ ۱۱ دی‌ماه ۱۴۰۴ مجروح شده بود و در تاریخ ۱۵ دی‌ماه ۱۴۰۴ جان باخت.",
       "en": "Reza Moradi Abdolvand was injured on December 11, 2025, and died on January 5, 2026."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1424,7 +1448,9 @@
       "fa": "محمدرضا کرمی سه شنبه ۱۶ دی ۱۴۰۴ در ملکشاهی کشته شد.",
       "en": "Mohammadreza Karami was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1471,7 +1497,9 @@
       "fa": "مبین یعقوب‌زاده در تاریخ 2026-01-07 در خشکبیجار کشته شد.",
       "en": "Mobin Yqob Zadeh was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1557,7 +1585,9 @@
       "fa": "روح‌الله ستاره مشتری در تاریخ 2026-01-07 در چناران کشته شد.",
       "en": "Rouhollah Setareh Moshtari was killed during protests."
     },
-    "events": ["2025-2026-iran-protests"],
+    "events": [
+      "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -1764,7 +1794,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1805,7 +1838,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1846,7 +1882,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1887,7 +1926,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1928,7 +1970,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1969,7 +2014,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2010,7 +2058,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2051,7 +2102,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "ملارد",
+      "city": {
+        "fa": "ملارد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2092,7 +2146,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2133,7 +2190,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "دره دریژ",
+      "city": {
+        "fa": "دره دریژ",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2174,7 +2234,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "دره دریژ",
+      "city": {
+        "fa": "دره دریژ",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2220,7 +2283,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "دره دریژ",
+      "city": {
+        "fa": "دره دریژ",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2266,7 +2332,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "دره دریژ",
+      "city": {
+        "fa": "دره دریژ",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2307,7 +2376,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "دره دریژ",
+      "city": {
+        "fa": "دره دریژ",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2348,7 +2420,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2389,7 +2464,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2435,7 +2513,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2476,7 +2557,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2522,7 +2606,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2563,7 +2650,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2604,7 +2694,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "قشم",
+      "city": {
+        "fa": "قشم",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2650,7 +2743,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2691,7 +2787,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2732,7 +2831,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2773,7 +2875,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2814,7 +2919,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اهواز",
+      "city": {
+        "fa": "اهواز",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2855,7 +2963,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "قشم",
+      "city": {
+        "fa": "قشم",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2901,7 +3012,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2942,7 +3056,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Sarvabad",
+      "city": {
+        "fa": null,
+        "en": "Sarvabad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -2983,7 +3100,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3029,7 +3149,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3075,7 +3198,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3116,7 +3242,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3162,7 +3291,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3208,7 +3340,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3254,7 +3389,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "شهر ری",
+      "city": {
+        "fa": "شهر ری",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3300,7 +3438,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3346,7 +3487,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3392,7 +3536,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3438,7 +3585,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "فولادشهر",
+      "city": {
+        "fa": "فولادشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3479,7 +3629,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3520,7 +3673,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3561,7 +3717,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3602,7 +3761,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3648,7 +3810,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "زرنه",
+      "city": {
+        "fa": "زرنه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3694,7 +3859,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3735,7 +3903,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3776,7 +3947,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3817,7 +3991,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بوشهر",
+      "city": {
+        "fa": "بوشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3858,7 +4035,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بوشهر",
+      "city": {
+        "fa": "بوشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3899,7 +4079,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "روستای زرین آباد",
+      "city": {
+        "fa": "روستای زرین آباد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3940,7 +4123,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -3986,7 +4172,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4032,7 +4221,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4078,7 +4270,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4119,7 +4314,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4165,7 +4363,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "تنکابن/شهسوار",
+      "city": {
+        "fa": "تنکابن/شهسوار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4211,7 +4412,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "فولادشهر",
+      "city": {
+        "fa": "فولادشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4252,7 +4456,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4293,7 +4500,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "شهسوار",
+      "city": {
+        "fa": "شهسوار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4344,7 +4554,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4390,7 +4603,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4436,7 +4652,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4477,7 +4696,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4518,7 +4740,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "قائمشهر",
+      "city": {
+        "fa": "قائمشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4564,7 +4789,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Borujerd",
+      "city": {
+        "fa": null,
+        "en": "Borujerd"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4622,7 +4850,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Bandar Anzali",
+      "city": {
+        "fa": null,
+        "en": "Bandar Anzali"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4670,7 +4901,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4716,7 +4950,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Pasikhan",
+      "city": {
+        "fa": null,
+        "en": "Pasikhan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4762,7 +4999,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4808,7 +5048,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4854,7 +5097,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4900,7 +5146,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4941,7 +5190,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -4987,7 +5239,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5033,7 +5288,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5074,7 +5332,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "ورامین",
+      "city": {
+        "fa": "ورامین",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5120,7 +5381,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5161,7 +5425,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5207,7 +5474,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5253,7 +5523,10 @@
     },
     "incidentDate": "2026-01-05",
     "location": {
-      "city": "ساوه",
+      "city": {
+        "fa": "ساوه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5299,7 +5572,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5340,7 +5616,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بدره",
+      "city": {
+        "fa": "بدره",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5386,7 +5665,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "رامسر",
+      "city": {
+        "fa": "رامسر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5432,7 +5714,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5478,7 +5763,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "منجیل",
+      "city": {
+        "fa": "منجیل",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5524,7 +5812,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "رستم‌آباد",
+      "city": {
+        "fa": "رستم‌آباد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5570,7 +5861,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "رشت یا بندر انزلی",
+      "city": {
+        "fa": "رشت یا بندر انزلی",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5616,7 +5910,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "چالوس",
+      "city": {
+        "fa": "چالوس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5662,7 +5959,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5708,7 +6008,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5754,7 +6057,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "فردیس",
+      "city": {
+        "fa": "فردیس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5800,7 +6106,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "چنارشاهیجان(قائمیە)",
+      "city": {
+        "fa": "چنارشاهیجان(قائمیە)",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5841,7 +6150,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5882,7 +6194,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5928,7 +6243,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -5969,7 +6287,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6010,7 +6331,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6056,7 +6380,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6097,7 +6424,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6138,7 +6468,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6179,7 +6512,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6220,7 +6556,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6261,7 +6600,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6302,7 +6644,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6343,7 +6688,10 @@
     },
     "incidentDate": "2026-01-9",
     "location": {
-      "city": "Gorgan",
+      "city": {
+        "fa": null,
+        "en": "Gorgan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6389,7 +6737,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6437,7 +6788,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6478,7 +6832,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6524,7 +6881,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6559,7 +6919,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6600,7 +6963,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "اسلام آباد غرب",
+      "city": {
+        "fa": "اسلام آباد غرب",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6641,7 +7007,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "اسلام آباد غرب",
+      "city": {
+        "fa": "اسلام آباد غرب",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6682,7 +7051,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6723,7 +7095,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6764,7 +7139,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6812,7 +7190,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "سبزوار",
+      "city": {
+        "fa": "سبزوار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6858,7 +7239,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6899,7 +7283,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6940,7 +7327,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "آستانه اشرفیه",
+      "city": {
+        "fa": "آستانه اشرفیه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -6991,7 +7381,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7037,7 +7430,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7080,7 +7476,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7121,7 +7520,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "خمینی‌شهر",
+      "city": {
+        "fa": "خمینی‌شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7162,7 +7564,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "خمینی‌شهر",
+      "city": {
+        "fa": "خمینی‌شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7203,7 +7608,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7259,7 +7667,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7294,7 +7705,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7335,7 +7749,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7376,7 +7793,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7417,7 +7837,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7458,7 +7881,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7504,7 +7930,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7545,7 +7974,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "شاباد",
+      "city": {
+        "fa": "شاباد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7591,7 +8023,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7637,7 +8072,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بندرانزلی",
+      "city": {
+        "fa": "بندرانزلی",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7683,7 +8121,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "خشکبیجار",
+      "city": {
+        "fa": "خشکبیجار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7729,7 +8170,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بیجار",
+      "city": {
+        "fa": "بیجار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7770,7 +8214,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7811,7 +8258,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7852,7 +8302,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7893,7 +8346,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7934,7 +8390,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -7975,7 +8434,10 @@
     },
     "incidentDate": "2026-01-12",
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8016,7 +8478,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8057,7 +8522,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8098,7 +8566,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8144,7 +8615,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8190,7 +8664,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8236,7 +8713,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8287,7 +8767,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8328,7 +8811,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بندرانزلی",
+      "city": {
+        "fa": "بندرانزلی",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8374,7 +8860,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "روستای چاف",
+      "city": {
+        "fa": "روستای چاف",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8415,7 +8904,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8456,7 +8948,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "شاهین‌شهر",
+      "city": {
+        "fa": "شاهین‌شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8497,7 +8992,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8538,7 +9036,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8579,7 +9080,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "ملک‌شهر",
+      "city": {
+        "fa": "ملک‌شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8625,7 +9129,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8666,7 +9173,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "اسفراین",
+      "city": {
+        "fa": "اسفراین",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8712,7 +9222,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اسفراین",
+      "city": {
+        "fa": "اسفراین",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8753,7 +9266,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "یزدانشهر",
+      "city": {
+        "fa": "یزدانشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8794,7 +9310,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8835,7 +9354,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8876,7 +9398,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8917,7 +9442,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -8958,7 +9486,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "فولادشهر",
+      "city": {
+        "fa": "فولادشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9004,7 +9535,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9045,7 +9579,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9086,7 +9623,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9127,7 +9667,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9168,7 +9711,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "خرم آباد",
+      "city": {
+        "fa": "خرم آباد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9209,7 +9755,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "اسلامشهر",
+      "city": {
+        "fa": "اسلامشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9250,7 +9799,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "پرند",
+      "city": {
+        "fa": "پرند",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9291,7 +9843,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "تالش",
+      "city": {
+        "fa": "تالش",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9332,7 +9887,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9373,7 +9931,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نسیم شهر",
+      "city": {
+        "fa": "نسیم شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9419,7 +9980,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9460,7 +10024,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9501,7 +10068,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اراک",
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9542,7 +10112,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9583,7 +10156,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9624,7 +10200,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "بابل",
+      "city": {
+        "fa": "بابل",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9665,7 +10244,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9706,7 +10288,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "آستانه اشرفیه",
+      "city": {
+        "fa": "آستانه اشرفیه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9757,7 +10342,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "ملکشهر",
+      "city": {
+        "fa": "ملکشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9798,7 +10386,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "کرمان",
+      "city": {
+        "fa": "کرمان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9839,7 +10430,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "ساری",
+      "city": {
+        "fa": "ساری",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9880,7 +10474,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9921,7 +10518,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -9962,7 +10562,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "شهریار",
+      "city": {
+        "fa": "شهریار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10003,7 +10606,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10044,7 +10650,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10085,7 +10694,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "لردگان",
+      "city": {
+        "fa": "لردگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10126,7 +10738,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10167,7 +10782,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10213,7 +10831,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10254,7 +10875,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10305,7 +10929,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10346,7 +10973,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10387,7 +11017,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "گرگان",
+      "city": {
+        "fa": "گرگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10428,7 +11061,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10469,7 +11105,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "الوند",
+      "city": {
+        "fa": "الوند",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10510,7 +11149,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": null,
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10551,7 +11193,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "فولادشهر",
+      "city": {
+        "fa": "فولادشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10592,7 +11237,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10633,7 +11281,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10674,7 +11325,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "گرگان",
+      "city": {
+        "fa": "گرگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10715,7 +11369,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "بابل",
+      "city": {
+        "fa": "بابل",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10756,7 +11413,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10797,7 +11457,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10838,7 +11501,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "بزدانشهر",
+      "city": {
+        "fa": "بزدانشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10879,7 +11545,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10920,7 +11589,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -10961,7 +11633,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "گرگان",
+      "city": {
+        "fa": "گرگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11002,7 +11677,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11043,7 +11721,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11084,7 +11765,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11125,7 +11809,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11171,7 +11858,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11212,7 +11902,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11253,7 +11946,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "شیراز",
+      "city": {
+        "fa": "شیراز",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11299,7 +11995,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11345,7 +12044,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11391,7 +12093,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11437,7 +12142,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11488,7 +12196,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": null,
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11529,7 +12240,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "چالوس",
+      "city": {
+        "fa": "چالوس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11570,7 +12284,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11611,7 +12328,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "شاهین‌شهر",
+      "city": {
+        "fa": "شاهین‌شهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11652,7 +12372,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11693,7 +12416,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "باغبادران /باغ بهادران",
+      "city": {
+        "fa": "باغبادران /باغ بهادران",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11734,7 +12460,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11775,7 +12504,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "قلعه حسن خان",
+      "city": {
+        "fa": "قلعه حسن خان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11816,7 +12548,10 @@
     },
     "incidentDate": "2036-01-10",
     "location": {
-      "city": "اسلامشهر",
+      "city": {
+        "fa": "اسلامشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11857,7 +12592,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11898,7 +12636,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "شهریار",
+      "city": {
+        "fa": "شهریار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11939,7 +12680,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -11980,7 +12724,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12021,7 +12768,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12062,7 +12812,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "ورامین",
+      "city": {
+        "fa": "ورامین",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12103,7 +12856,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12144,7 +12900,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12185,7 +12944,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12226,7 +12988,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "بندر گناوه",
+      "city": {
+        "fa": "بندر گناوه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12267,7 +13032,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "بوشهر",
+      "city": {
+        "fa": "بوشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12308,7 +13076,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12349,7 +13120,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12390,7 +13164,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "بوشهر",
+      "city": {
+        "fa": "بوشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12436,7 +13213,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12477,7 +13257,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "اصفهان",
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12518,7 +13301,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12559,7 +13345,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12605,7 +13394,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12651,7 +13443,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "فیروزآباد راسک",
+      "city": {
+        "fa": "فیروزآباد راسک",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12692,7 +13487,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12738,7 +13536,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12784,7 +13585,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12825,7 +13629,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12866,7 +13673,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "معشور ماهشهر",
+      "city": {
+        "fa": "معشور ماهشهر",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12907,7 +13717,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12948,7 +13761,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -12989,7 +13805,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13035,7 +13854,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "دیزیچه",
+      "city": {
+        "fa": "دیزیچه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13086,7 +13908,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "دیزیچه",
+      "city": {
+        "fa": "دیزیچه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13137,7 +13962,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Dizicheh",
+      "city": {
+        "fa": null,
+        "en": "Dizicheh"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13190,7 +14018,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "دیزیچه",
+      "city": {
+        "fa": "دیزیچه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13241,7 +14072,10 @@
     },
     "incidentDate": "2026-01-15",
     "location": {
-      "city": "مبارکه",
+      "city": {
+        "fa": "مبارکه",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13292,7 +14126,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13333,7 +14170,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13374,7 +14214,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13415,7 +14258,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13456,7 +14302,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13497,7 +14346,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "آبادان",
+      "city": {
+        "fa": "آبادان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13543,7 +14395,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "شهسوار",
+      "city": {
+        "fa": "شهسوار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13584,7 +14439,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "مشهد",
+      "city": {
+        "fa": "مشهد",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13625,7 +14483,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "سبزوار",
+      "city": {
+        "fa": "سبزوار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13666,7 +14527,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13707,7 +14571,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13748,7 +14615,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13789,7 +14659,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13830,7 +14703,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13871,7 +14747,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13912,7 +14791,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13953,7 +14835,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -13994,7 +14879,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "نیشابور",
+      "city": {
+        "fa": "نیشابور",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14040,7 +14928,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "گرگان",
+      "city": {
+        "fa": "گرگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14081,7 +14972,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "گرگان",
+      "city": {
+        "fa": "گرگان",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14116,7 +15010,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": null,
+      "city": {
+        "fa": null,
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14157,7 +15054,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14198,7 +15098,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14244,7 +15147,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": null,
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14285,7 +15191,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "فریدون کنار",
+      "city": {
+        "fa": "فریدون کنار",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14326,7 +15235,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "قزوین",
+      "city": {
+        "fa": "قزوین",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14377,7 +15289,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14418,7 +15333,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14459,7 +15377,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14500,7 +15421,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "بندرعباس",
+      "city": {
+        "fa": "بندرعباس",
+        "en": null
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14535,7 +15459,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14576,7 +15503,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14617,7 +15547,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14658,7 +15591,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14699,7 +15635,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14740,7 +15679,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14781,7 +15723,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": null,
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14822,7 +15767,10 @@
     },
     "incidentDate": "2026-01",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14862,7 +15810,10 @@
       "en": "Killed by forces of the Islamic Republic of Iran"
     },
     "location": {
-      "city": "Qir va Karzin",
+      "city": {
+        "fa": null,
+        "en": "Qir va Karzin"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14903,7 +15854,10 @@
     },
     "incidentDate": "2026-01",
     "location": {
-      "city": "Sabzevar",
+      "city": {
+        "fa": null,
+        "en": "Sabzevar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14946,7 +15900,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Chalus",
+      "city": {
+        "fa": null,
+        "en": "Chalus"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -14989,7 +15946,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15037,7 +15997,10 @@
     },
     "incidentDate": "2025-01-08",
     "location": {
-      "city": "Babol",
+      "city": {
+        "fa": null,
+        "en": "Babol"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15080,7 +16043,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15123,7 +16089,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Islamshahr",
+      "city": {
+        "fa": null,
+        "en": "Islamshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15166,7 +16135,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Andisheh",
+      "city": {
+        "fa": null,
+        "en": "Andisheh"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15209,7 +16181,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15250,7 +16225,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Mashhad",
+      "city": {
+        "fa": null,
+        "en": "Mashhad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15291,7 +16269,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "IslamAbad-e Gharb",
+      "city": {
+        "fa": null,
+        "en": "IslamAbad-e Gharb"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15334,7 +16315,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "Gilan",
+      "city": {
+        "fa": null,
+        "en": "Gilan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15375,7 +16359,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15416,7 +16403,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15459,7 +16449,10 @@
     },
     "incidentDate": "2022-10-09",
     "location": {
-      "city": "Javanrud",
+      "city": {
+        "fa": null,
+        "en": "Javanrud"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15500,7 +16493,10 @@
       "en": "Killed by gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Arak",
+      "city": {
+        "fa": null,
+        "en": "Arak"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15543,7 +16539,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15591,7 +16590,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15635,7 +16637,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Mashhad",
+      "city": {
+        "fa": null,
+        "en": "Mashhad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15678,7 +16683,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15721,7 +16729,10 @@
       "en": "Killed by direct gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15764,7 +16775,10 @@
       "en": "Killed by direct gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15805,7 +16819,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Astaneh Ashrafiyeh",
+      "city": {
+        "fa": null,
+        "en": "Astaneh Ashrafiyeh"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15846,7 +16863,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15890,7 +16910,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15931,7 +16954,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -15975,7 +17001,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Qazvin",
+      "city": {
+        "fa": null,
+        "en": "Qazvin"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16018,7 +17047,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "Gilan-e Gharb",
+      "city": {
+        "fa": null,
+        "en": "Gilan-e Gharb"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16059,7 +17091,10 @@
       "en": "Fatally shot by repressive forces of the Islamic Republic during public protests"
     },
     "location": {
-      "city": "Neyriz",
+      "city": {
+        "fa": null,
+        "en": "Neyriz"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16102,7 +17137,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16145,7 +17183,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16188,7 +17229,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Sari",
+      "city": {
+        "fa": null,
+        "en": "Sari"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16229,7 +17273,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16275,7 +17322,10 @@
       "en": "Killed by gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16318,7 +17368,10 @@
     },
     "incidentDate": "2022-09-19",
     "location": {
-      "city": "Saqqez",
+      "city": {
+        "fa": null,
+        "en": "Saqqez"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16359,7 +17412,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Qazvin",
+      "city": {
+        "fa": null,
+        "en": "Qazvin"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16402,7 +17458,10 @@
       "en": "Killed by gunfire to the face from government forces during public protests"
     },
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16445,7 +17504,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16489,7 +17551,10 @@
       "en": "Died in hospital from wounds inflicted by government forces"
     },
     "location": {
-      "city": "Dezful",
+      "city": {
+        "fa": null,
+        "en": "Dezful"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16531,7 +17596,10 @@
       "en": "Fatally shot by government forces during public protests"
     },
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16571,7 +17639,10 @@
     "causeOfDeath": null,
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16612,7 +17683,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Meybod",
+      "city": {
+        "fa": null,
+        "en": "Meybod"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16654,7 +17728,10 @@
       "en": "Killed by direct gunfire from government security forces"
     },
     "location": {
-      "city": "Kermanshah (Elahiyeh Township)",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah (Elahiyeh Township)"
+      },
       "province": "Kermanshah",
       "country": "Iran"
     },
@@ -16698,7 +17775,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16741,7 +17821,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Islamshahr",
+      "city": {
+        "fa": null,
+        "en": "Islamshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16784,7 +17867,10 @@
     },
     "incidentDate": "2022-09-13",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16827,7 +17913,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16868,7 +17957,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16911,7 +18003,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16951,7 +18046,10 @@
     "causeOfDeath": null,
     "incidentDate": null,
     "location": {
-      "city": "Gorgan",
+      "city": {
+        "fa": null,
+        "en": "Gorgan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -16999,7 +18097,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17040,7 +18141,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Babol",
+      "city": {
+        "fa": null,
+        "en": "Babol"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17083,7 +18187,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17126,7 +18233,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17170,7 +18280,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17213,7 +18326,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Gorgan",
+      "city": {
+        "fa": null,
+        "en": "Gorgan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17256,7 +18372,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17299,7 +18418,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Tehran (Tehranpars)",
+      "city": {
+        "fa": null,
+        "en": "Tehran (Tehranpars)"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17342,7 +18464,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17385,7 +18510,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17428,7 +18556,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Gorgan",
+      "city": {
+        "fa": null,
+        "en": "Gorgan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17469,7 +18600,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Mashhad",
+      "city": {
+        "fa": null,
+        "en": "Mashhad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17510,7 +18644,10 @@
     },
     "incidentDate": "2022-10-08",
     "location": {
-      "city": "Sanandaj",
+      "city": {
+        "fa": null,
+        "en": "Sanandaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17551,7 +18688,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Sari",
+      "city": {
+        "fa": null,
+        "en": "Sari"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17594,7 +18734,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17637,7 +18780,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17680,7 +18826,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17722,7 +18871,10 @@
       "en": "Killed by direct gunfire from government forces"
     },
     "location": {
-      "city": "Hafshejan",
+      "city": {
+        "fa": null,
+        "en": "Hafshejan"
+      },
       "province": "Chaharmahal and Bakhtiari",
       "country": "Iran"
     },
@@ -17766,7 +18918,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17807,7 +18962,10 @@
       "en": "Killed by direct gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17855,7 +19013,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17898,7 +19059,10 @@
       "en": "Killed by gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Sari",
+      "city": {
+        "fa": null,
+        "en": "Sari"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17941,7 +19105,10 @@
     },
     "incidentDate": "2026-01",
     "location": {
-      "city": "Sabzevar",
+      "city": {
+        "fa": null,
+        "en": "Sabzevar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -17984,7 +19151,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18031,7 +19201,10 @@
       "en": "Killed by Islamic Republic forces during public protests"
     },
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "province": "Isfahan",
       "country": "Iran"
     },
@@ -18075,7 +19248,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18116,7 +19292,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18165,7 +19344,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "Mashhad",
+      "city": {
+        "fa": null,
+        "en": "Mashhad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18208,7 +19390,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18251,7 +19436,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18292,7 +19480,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18333,7 +19524,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "Shiraz",
+      "city": {
+        "fa": null,
+        "en": "Shiraz"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18375,7 +19569,10 @@
       "en": "Killed by forces of the Islamic Republic of Iran"
     },
     "location": {
-      "city": "Qir va Karzin",
+      "city": {
+        "fa": null,
+        "en": "Qir va Karzin"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18418,7 +19615,10 @@
     },
     "incidentDate": "2026-01-11",
     "location": {
-      "city": "Shahrud",
+      "city": {
+        "fa": null,
+        "en": "Shahrud"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18461,7 +19661,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18504,7 +19707,10 @@
     },
     "incidentDate": "2026-01",
     "location": {
-      "city": "Sabzevar",
+      "city": {
+        "fa": null,
+        "en": "Sabzevar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18547,7 +19753,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18590,7 +19799,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18631,7 +19843,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18672,7 +19887,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Lahijan",
+      "city": {
+        "fa": null,
+        "en": "Lahijan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18715,7 +19933,10 @@
     },
     "incidentDate": "2025-01-09",
     "location": {
-      "city": "Rasht",
+      "city": {
+        "fa": null,
+        "en": "Rasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18758,7 +19979,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Chamestan",
+      "city": {
+        "fa": null,
+        "en": "Chamestan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18798,7 +20022,10 @@
       "en": "Killed by Islamic Republic forces during public protests"
     },
     "location": {
-      "city": "Baharestan",
+      "city": {
+        "fa": null,
+        "en": "Baharestan"
+      },
       "province": "Isfahan",
       "country": "Iran"
     },
@@ -18842,7 +20069,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18883,7 +20113,10 @@
       "en": "Killed by direct gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Chaf",
+      "city": {
+        "fa": null,
+        "en": "Chaf"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18926,7 +20159,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Gorgan",
+      "city": {
+        "fa": null,
+        "en": "Gorgan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -18967,7 +20203,10 @@
       "en": "Killed by gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Isfahan",
+      "city": {
+        "fa": null,
+        "en": "Isfahan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19006,7 +20245,10 @@
       "en": "Fatally shot by security forces during public protests"
     },
     "location": {
-      "city": "Shiraz",
+      "city": {
+        "fa": null,
+        "en": "Shiraz"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19053,7 +20295,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "Bijar",
+      "city": {
+        "fa": null,
+        "en": "Bijar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19101,7 +20346,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": null,
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19142,7 +20390,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19186,7 +20437,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Chamestan",
+      "city": {
+        "fa": null,
+        "en": "Chamestan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19227,7 +20481,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Karaj",
+      "city": {
+        "fa": null,
+        "en": "Karaj"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19271,7 +20528,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Shiraz",
+      "city": {
+        "fa": null,
+        "en": "Shiraz"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19314,7 +20574,10 @@
       "en": "Killed by direct gunfire from government forces during public protests"
     },
     "location": {
-      "city": "Nishapur",
+      "city": {
+        "fa": null,
+        "en": "Nishapur"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19357,7 +20620,10 @@
     },
     "incidentDate": "2026-01-10",
     "location": {
-      "city": "Bushehr",
+      "city": {
+        "fa": null,
+        "en": "Bushehr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19398,7 +20664,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Mashhad",
+      "city": {
+        "fa": null,
+        "en": "Mashhad"
+      },
       "country": "Iran"
     },
     "status": "executed",
@@ -19446,7 +20715,10 @@
     },
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19489,7 +20761,10 @@
     "causeOfDeath": null,
     "incidentDate": "2026-01-08",
     "location": {
-      "city": "Yasuj",
+      "city": {
+        "fa": null,
+        "en": "Yasuj"
+      },
       "country": "Iran"
     },
     "status": "arrested",
@@ -19530,7 +20805,10 @@
     },
     "incidentDate": "2026-01-09",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19578,7 +20856,10 @@
     },
     "incidentDate": "2022-09-20",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19621,7 +20902,10 @@
     },
     "incidentDate": "2022-09-20",
     "location": {
-      "city": "Piranshahr",
+      "city": {
+        "fa": null,
+        "en": "Piranshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19662,7 +20946,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19703,7 +20990,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Oshnavieh",
+      "city": {
+        "fa": null,
+        "en": "Oshnavieh"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19744,7 +21034,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Qaemshahr",
+      "city": {
+        "fa": null,
+        "en": "Qaemshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19785,7 +21078,10 @@
     },
     "incidentDate": null,
     "location": {
-      "city": "Urmia",
+      "city": {
+        "fa": null,
+        "en": "Urmia"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19826,7 +21122,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19867,7 +21166,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19908,7 +21210,10 @@
     },
     "incidentDate": "2022-09-21",
     "location": {
-      "city": "Zanjan",
+      "city": {
+        "fa": null,
+        "en": "Zanjan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19949,7 +21254,10 @@
     },
     "incidentDate": "2022-09-22",
     "location": {
-      "city": "Bandar-e Anzali",
+      "city": {
+        "fa": null,
+        "en": "Bandar-e Anzali"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -19987,7 +21295,10 @@
     "causeOfDeath": null,
     "incidentDate": null,
     "location": {
-      "city": "Tehran",
+      "city": {
+        "fa": null,
+        "en": "Tehran"
+      },
       "country": "Iran"
     },
     "status": "arrested",
@@ -19999,7 +21310,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "images/people/saeed-doroudi-608/profile.jpg"
+      "images/people/saeed-doroudi-608/profile.jpg"
     ],
     "links": [
       {

@@ -891,7 +891,7 @@
     "published": true
   },
   {
-    "id": "srvshslymany-20",
+    "id": "soroush-soleimani-20",
     "firstName": {
       "fa": "سروش",
       "en": "Soroush"
@@ -909,17 +909,18 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "هفشجان",
+      "city": {
+        "fa": "هفشجان",
+        "en": "Hafshejan"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "سروش سلیمانی در تاریخ 2026-01-03 در هفشجان کشته شد.",
-      "en": "Soroush Soleimani was killed during protests."
+      "fa": "سروش سلیمانی در تاریخ شنبه ۱۳ دی ۱۴۰۴ در هفشجان کشته شد.",
+      "en": "Soroush Soleimani was killed on Saturday, January 3, 2026, in Hafshejan."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -942,7 +943,7 @@
     "published": true
   },
   {
-    "id": "amyrmhmdkvhkn-21",
+    "id": "amirmohammad-koohkan-21",
     "firstName": {
       "fa": "امیرمحمد",
       "en": "Amir Mohammad"
@@ -960,7 +961,10 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "نی‌ریز",
+      "city": {
+        "fa": "نی‌ریز",
+        "en": "Neyriz"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -968,9 +972,7 @@
       "fa": "امیرمحمد کوهکن در تاریخ 2026-01-03 در نی‌ریز کشته شد.",
       "en": "Amir Mohammad Koohkan was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -988,7 +990,7 @@
     "published": true
   },
   {
-    "id": "tahasfry-22",
+    "id": "taha-safari-22",
     "firstName": {
       "fa": "طاها",
       "en": "Taha"
@@ -1006,7 +1008,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "ازنا",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1014,9 +1019,7 @@
       "fa": "طاها صفری در تاریخ 2026-01-01 در ازنا کشته شد دانش‌آموز ۱۵ ساله لُر اهل کامفیروز استان فارس و ساکن ازنا از توابع استان لرستان",
       "en": "Taha Safari was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1034,7 +1037,7 @@
     "published": true
   },
   {
-    "id": "ltyfkrymy-23",
+    "id": "latif-karimi-23",
     "firstName": {
       "fa": "لطیف",
       "en": "Latif"
@@ -1052,13 +1055,16 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "لطیف کریمی در تاریخ 2026-01-03 در ملکشاهی کشته شد پسرش در صفحه شخصی خود تأیید کرده است که پدرش مستقیماً توسط نیروهای حکومتی کشته شده است.",
-      "en": "Latif Karimi was killed during protests."
+      "fa": "لطیف کریمی در تاریخ ۱۳ دی ۱۴۰۴ در ملکشاهی کشته شد پسرش در صفحه شخصی خود تأیید کرده است که پدرش مستقیماً توسط نیروهای حکومتی کشته شده است.",
+      "en": "Latif Karimi was killed during protests. His son confirmed on his personal page that his father was directly killed by government forces."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -1075,14 +1081,14 @@
     "published": true
   },
   {
-    "id": "mhmdnvry-24",
+    "id": "mohammad-noori-24",
     "firstName": {
       "fa": "محمد",
       "en": "Mohammad"
     },
     "lastName": {
       "fa": "نوری",
-      "en": "Nori"
+      "en": "Noori"
     },
     "age": 17,
     "birthDate": null,
@@ -1093,17 +1099,18 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "قم",
+      "city": {
+        "fa": "قم",
+        "en": "Qom"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "محمد نوری در تاریخ 2026-01-02 در قم کشته شد.",
+      "fa": "محمد نوری در تاریخ ۱۲ دی ۱۴۰۴ در قم کشته شد.",
       "en": "Mohammad Nori was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1121,7 +1128,7 @@
     "published": true
   },
   {
-    "id": "rzakdyvryan-25",
+    "id": "reza-kadivoryan-25",
     "firstName": {
       "fa": "رضا",
       "en": "Reza"
@@ -1139,17 +1146,18 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رضا کدیوریان در تاریخ 2026-01-03 در کرمانشاه کشته شد برادر رسول که پس از یک روز بستری بودن جان باخت",
-      "en": "Reza Kadivoryan was killed during protests."
+      "fa": "رضا کدیوریان، ٢٠ ساله و اهل شهرک دیپین کرمانشاه با شلیک مستقیم نیروی حکومتی در جریان اعتراضات مردمی در محله جعفرآباد این شهر به کما رفته بود، در بیمارستان طالقانی جان باخت. برادر کوچکتر او، رسول کدیوریان، با تیراندازی مستقیم نیروهای سرکوبگر بلافاصله کشته شد",
+      "en": "Reza Kadivoryan, 20 years old and from Dipin town of Kermanshah, was shot directly by government forces during the popular protests in the Jafarabad neighborhood of this city and fell into a coma. He died in Taleghani Hospital. His younger brother, Rasoul Kadivoryan, was immediately killed by direct shooting of the suppressive forces."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1162,10 +1170,10 @@
     "published": true
   },
   {
-    "id": "rsvlkdyvryan-26",
+    "id": "rasoul-kadivoryan-26",
     "firstName": {
       "fa": "رسول",
-      "en": "Rsol"
+      "en": "Rasoul"
     },
     "lastName": {
       "fa": "کدیوریان",
@@ -1180,17 +1188,18 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رسول کدیوریان در تاریخ 2026-01-03 در کرمانشاه کشته شد.",
-      "en": "Rsol Kadivoryan was killed during protests."
+      "fa": "رسول کدیوریان ۱۷ ساله کورد درشامگاه شنبه ١٣ دی ماه  به همراه برادر بزرگترش رضا کدیوریان در کرمانشاه کشته شد.",
+      "en": "Rasoul Kadivoryan, a 17-year-old Kurd, was killed on the evening of Saturday, January 3, along with his older brother Reza Kadivoryan in Kermanshah."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1203,7 +1212,7 @@
     "published": true
   },
   {
-    "id": "rzaghnbry-27",
+    "id": "reza-ghanbari-27",
     "firstName": {
       "fa": "رضا",
       "en": "Reza"
@@ -1221,17 +1230,18 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "Kermanshah",
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رضا قنبری در تاریخ 2026-01-03 در کرمانشاه کشته شد کودک کار",
-      "en": "Reza Ghanbari was killed during protests."
+      "fa": "رضا قنبری ۱۷ ساله و  کودک کارگر اهل کرمانشاه در اعتراضات محله جعفرآباد این شهر با شلیک  مستقیم نیروهای سپاه پاسداران کشته شد.",
+      "en": "Reza Ghanbari, a 17-year-old child worker from Kermanshah, was killed in the protests in the Jafarabad neighborhood of this city by direct shooting of the IRGC forces."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1249,7 +1259,7 @@
     "published": true
   },
   {
-    "id": "hsynrbyay-28",
+    "id": "hossein-rabie-28",
     "firstName": {
       "fa": "حسین",
       "en": "Hossein"
@@ -1267,17 +1277,18 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "قم",
+      "city": {
+        "fa": "قم",
+        "en": "Qom"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "حسین ربیعی در تاریخ 2026-01-02 در قم کشته شد کشته شدن حسین ربیعی تاکنون توسط هیچ سازمان حقوق‌بشری یا خبرگزاری یا خبرنگار مستقل تایید نشده. اما بدلیل تکرر خبر و وجود خبرهای حاشیه‌ای از وی و همچنین انتشار اعلامیه مراسم تشییع جنازه و سوم و هفتم در لیست کشته‌شدگان قرار گرفته است.",
-      "en": "Hossein Rabie was killed during protests."
+      "fa": "حسین ربیعی در تاریخ ۱۲ دی در قم کشته شد کشته شدن حسین ربیعی تاکنون توسط هیچ سازمان حقوق‌بشری یا خبرگزاری یا خبرنگار مستقل تایید نشده. اما بدلیل تکرر خبر و وجود خبرهای حاشیه‌ای از وی و همچنین انتشار اعلامیه مراسم تشییع جنازه و سوم و هفتم در لیست کشته‌شدگان قرار گرفته است.",
+      "en": "Hossein Rabie was killed during protests. The killing of Hossein Rabie has not yet been confirmed by any human rights organization, news agency, or independent journalist. However, due to the frequency of news and the existence of peripheral news about him, as well as the publication of the funeral and seventh-day ceremony announcement, he has been included in the list of the killed."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1291,11 +1302,11 @@
         "type": "social_media"
       }
     ],
-    "verified": true,
+    "verified": false,
     "published": true
   },
   {
-    "id": "alykrymy-29",
+    "id": "ali-karimi-29",
     "firstName": {
       "fa": "علی",
       "en": "Ali"
@@ -1313,24 +1324,20 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "علی کریمی در تاریخ 2026-01-02 در ملکشاهی کشته شد.",
+      "fa": "علی کریمی در تاریخ ۱۲ دی در ملکشاهی کشته شد.",
       "en": "Ali Karimi was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
-      {
-        "url": "https://x.com/eisabazyar1/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
       {
         "url": "https://kurdpa.net/fa/news/2026/01/14",
         "title": "Source 2",
@@ -1341,7 +1348,7 @@
     "published": true
   },
   {
-    "id": "rzamrady-abdlvnd-30",
+    "id": "reza-moradi-abdolvand-30",
     "firstName": {
       "fa": "رضا",
       "en": "Reza"
@@ -1357,19 +1364,20 @@
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": "2026-01-05",
+    "incidentDate": "2025-12-11",
     "location": {
-      "city": "ازنا",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رضا مرادی عبدلوند در تاریخ 2026-01-05 در ازنا کشته شد وی در تاریخ ۱۱ دی‌ماه مجروح شده بود و در تاریخ ۱۵ دی‌ماه جان باخت.",
-      "en": "Reza Moradi Abdolvand was killed during protests."
+      "fa": "رضا مرادی عبدلوند در تاریخ ۱۵ دی ماه در ازنا کشته شد وی در تاریخ ۱۱ دی‌ماه ۱۴۰۴ مجروح شده بود و در تاریخ ۱۵ دی‌ماه ۱۴۰۴ جان باخت.",
+      "en": "Reza Moradi Abdolvand was injured on December 11, 2025, and died on January 5, 2026."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1387,7 +1395,7 @@
     "published": true
   },
   {
-    "id": "mhmdrzakrmy-31",
+    "id": "mohammadreza-karami-31",
     "firstName": {
       "fa": "محمدرضا",
       "en": "Mohammadreza"
@@ -1405,17 +1413,18 @@
     },
     "incidentDate": "2026-01-06",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "محمدرضا کرمی در تاریخ 2026-01-06 در ملکشاهی کشته شد.",
+      "fa": "محمدرضا کرمی سه شنبه ۱۶ دی ۱۴۰۴ در ملکشاهی کشته شد.",
       "en": "Mohammadreza Karami was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -1433,7 +1442,7 @@
     "published": true
   },
   {
-    "id": "mbynyaghvb-zadh-32",
+    "id": "mbin-yqob-zadeh-32",
     "firstName": {
       "fa": "مبین",
       "en": "Mobin"
@@ -1451,7 +1460,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "خشکبیجار",
+      "city": {
+        "fa": "خشکبیجار",
+        "en": "Khoshkebijar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1459,13 +1471,11 @@
       "fa": "مبین یعقوب‌زاده در تاریخ 2026-01-07 در خشکبیجار کشته شد.",
       "en": "Mobin Yqob Zadeh was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
-        "url": "https://x.com/HengawO/status",
+        "url": "https://x.com/HengawO/status/2009028538372866390?s=20",
         "title": "Source 1",
         "type": "social_media"
       }
@@ -1474,7 +1484,7 @@
     "published": true
   },
   {
-    "id": "myladghlamzadh-33",
+    "id": "milad-gholamzadeh-33",
     "firstName": {
       "fa": "میلاد",
       "en": "Milad"
@@ -1492,7 +1502,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "خشکبیجار",
+      "city": {
+        "fa": "خشکبیجار",
+        "en": "Khoshkebijar"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1506,7 +1519,7 @@
     "images": [],
     "links": [
       {
-        "url": "https://x.com/HengawO/status",
+        "url": "https://x.com/HengawO/status/2009033547231740277?s=20",
         "title": "Source 1",
         "type": "social_media"
       }
@@ -1515,7 +1528,7 @@
     "published": true
   },
   {
-    "id": "rvh-allhstarh-mshtry-34",
+    "id": "rouhollah-setareh-moshtari-34",
     "firstName": {
       "fa": "روح الله",
       "en": "Rouhollah"
@@ -1533,7 +1546,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "چناران",
+      "city": {
+        "fa": "چناران",
+        "en": "Chenaran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1541,13 +1557,11 @@
       "fa": "روح‌الله ستاره مشتری در تاریخ 2026-01-07 در چناران کشته شد.",
       "en": "Rouhollah Setareh Moshtari was killed during protests."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
-        "url": "https://x.com/HengawO/status",
+        "url": "https://x.com/HengawO/status/2009239061089665039?s=20",
         "title": "Source 1",
         "type": "social_media"
       }
@@ -1556,7 +1570,7 @@
     "published": true
   },
   {
-    "id": "mrtzyjhanbkhsh-35",
+    "id": "morteza-jahanbakhsh-35",
     "firstName": {
       "fa": "مرتضی",
       "en": "Morteza"
@@ -1574,7 +1588,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "چناران",
+      "city": {
+        "fa": "چناران",
+        "en": "Chenaran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1588,7 +1605,7 @@
     "images": [],
     "links": [
       {
-        "url": "https://x.com/HengawO/status",
+        "url": "https://x.com/HengawO/status/2009253669624033666?s=20",
         "title": "Source 1",
         "type": "social_media"
       }
@@ -1597,7 +1614,7 @@
     "published": true
   },
   {
-    "id": "mhdyghrbandvst-36",
+    "id": "mehdi-ghorbandoost-36",
     "firstName": {
       "fa": "مهدی",
       "en": "Mehdi"
@@ -1615,7 +1632,10 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "چناران",
+      "city": {
+        "fa": "چناران",
+        "en": "Chenaran"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -1638,14 +1658,14 @@
     "published": true
   },
   {
-    "id": "mhdyvly-dvst-37",
+    "id": "mehdi-validoost-37",
     "firstName": {
       "fa": "مهدی",
       "en": "Mehdi"
     },
     "lastName": {
       "fa": "ولی دوست",
-      "en": "Vli Doost"
+      "en": "Vali Doost"
     },
     "age": null,
     "birthDate": null,
@@ -1656,13 +1676,16 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "چناران",
+      "city": {
+        "fa": "چناران",
+        "en": "Chenaran"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "مهدی ولی‌دوست در تاریخ 2026-01-07 در چناران کشته شد.",
-      "en": "Mehdi Vli Doost was killed during protests."
+      "en": "Mehdi Vali Doost was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -1679,7 +1702,7 @@
     "published": true
   },
   {
-    "id": "mhmdrzagrvhy-38",
+    "id": "mohammadreza-gorouhi-38",
     "firstName": {
       "fa": "محمدرضا",
       "en": "Mohammadreza"
@@ -1697,12 +1720,15 @@
     },
     "incidentDate": "2026-01-07",
     "location": {
-      "city": "چناران",
+      "city": {
+        "fa": "چناران",
+        "en": "Chenaran"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "محمدرضا گروهی در تاریخ 2026-01-07 در چناران کشته شد.",
+      "fa": "محمدرضا گروهی در تاریخ ۱۷ دی ۱۴۰۴ در چناران کشته شد.",
       "en": "Mohammadreza Gorouhi was killed during protests."
     },
     "events": [

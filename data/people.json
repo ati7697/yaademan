@@ -1796,7 +1796,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -1884,7 +1884,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -1928,7 +1928,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -1972,7 +1972,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -2016,7 +2016,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -2060,7 +2060,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -2465,7 +2465,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -2607,7 +2607,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -2744,7 +2744,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -2788,7 +2788,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -3057,7 +3057,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سروآباد",
         "en": "Sarvabad"
       },
       "country": "Iran"
@@ -3101,7 +3101,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -3150,7 +3150,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -3243,7 +3243,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -3292,7 +3292,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -3341,7 +3341,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -3674,7 +3674,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -4653,7 +4653,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -4697,7 +4697,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -4790,7 +4790,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بروجرد",
         "en": "Borujerd"
       },
       "country": "Iran"
@@ -4851,15 +4851,15 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
-        "en": "Bandar Anzali"
+        "fa": "بندرانزلی",
+        "en": "Bandar-e Anzali"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "سعید ابراهیمی در تاریخ ۱۹ دی ۱۴۰۴ در بندر انزلی کشته شد.",
-      "en": "Saeed Ebrahimi was killed in Bandar Anzali on January 9, 2026."
+      "en": "Saeed Ebrahimi was killed in Bandar-e Anzali on January 9, 2026."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -4902,7 +4902,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -4951,7 +4951,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "پسیخان",
         "en": "Pasikhan"
       },
       "country": "Iran"
@@ -5000,7 +5000,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -5049,7 +5049,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -5098,7 +5098,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -5289,7 +5289,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -5715,7 +5715,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -5960,7 +5960,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -6009,7 +6009,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -6557,7 +6557,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -6645,7 +6645,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -6689,7 +6689,7 @@
     "incidentDate": "2026-01-9",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گرگان",
         "en": "Gorgan"
       },
       "country": "Iran"
@@ -6833,7 +6833,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -7052,7 +7052,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -7431,7 +7431,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -7609,7 +7609,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -7706,7 +7706,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -7750,7 +7750,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -7794,7 +7794,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -8024,7 +8024,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -8303,7 +8303,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -9443,7 +9443,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -9668,7 +9668,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -10245,7 +10245,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -10696,7 +10696,7 @@
     "location": {
       "city": {
         "fa": "لردگان",
-        "en": null
+        "en": "Lordegan"
       },
       "country": "Iran"
     },
@@ -11062,7 +11062,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -11150,7 +11150,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مرودشت",
         "en": "Marvdasht"
       },
       "country": "Iran"
@@ -11282,7 +11282,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -11590,7 +11590,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -11722,7 +11722,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -11810,7 +11810,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -12197,7 +12197,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مرودشت",
         "en": "Marvdasht"
       },
       "country": "Iran"
@@ -12769,7 +12769,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -12857,7 +12857,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -12945,7 +12945,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -13077,7 +13077,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -13121,7 +13121,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -13346,7 +13346,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -13488,7 +13488,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -13537,7 +13537,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -13586,7 +13586,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -13963,7 +13963,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "دیزیچه",
         "en": "Dizicheh"
       },
       "country": "Iran"
@@ -14215,7 +14215,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -14259,7 +14259,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -14303,7 +14303,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -15055,7 +15055,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15148,7 +15148,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مرودشت",
         "en": "Marvdasht"
       },
       "country": "Iran"
@@ -15378,7 +15378,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15460,7 +15460,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15504,7 +15504,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15636,7 +15636,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15680,7 +15680,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15724,7 +15724,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مرودشت",
         "en": "Marvdasht"
       },
       "country": "Iran"
@@ -15768,7 +15768,7 @@
     "incidentDate": "2026-01",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -15811,7 +15811,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "قیروکارزین",
         "en": "Qir va Karzin"
       },
       "country": "Iran"
@@ -15855,7 +15855,7 @@
     "incidentDate": "2026-01",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سبزوار",
         "en": "Sabzevar"
       },
       "country": "Iran"
@@ -15901,7 +15901,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "چالوس",
         "en": "Chalus"
       },
       "country": "Iran"
@@ -15998,7 +15998,7 @@
     "incidentDate": "2025-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بابل",
         "en": "Babol"
       },
       "country": "Iran"
@@ -16090,7 +16090,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اسلامشهر",
         "en": "Islamshahr"
       },
       "country": "Iran"
@@ -16136,7 +16136,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اندیشه",
         "en": "Andisheh"
       },
       "country": "Iran"
@@ -16182,7 +16182,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -16226,7 +16226,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مشهد",
         "en": "Mashhad"
       },
       "country": "Iran"
@@ -16270,15 +16270,15 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
-        "en": "IslamAbad-e Gharb"
+        "fa": "اسلام آباد غرب",
+        "en": "Eslamabad-e-Gharb"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "امیرعلی جلیلیان، ۶۵ ساله، راننده کامیون و اهل اسلام‌آباد غرب، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات هدف گلوله نیروهای سرکوب قرار گرفت. او پس از پنج روز بستری به دلیل شدت جراحات، روز چهارشنبه ۲۴ دی‌ماه ۱۴۰۴ در بیمارستان جان باخت.",
-      "en": "Amirali Jalilian, 65, a truck driver from IslamAbad-e Gharb, was shot by security forces during protests on January 8, 2026. He succumbed to the severity of his injuries after five days in hospital on January 14, 2026."
+      "en": "Amirali Jalilian, 65, a truck driver from Eslamabad-e-Gharb, was shot by security forces during protests on January 8, 2026. He succumbed to the severity of his injuries after five days in hospital on January 14, 2026."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -16316,7 +16316,7 @@
     "incidentDate": "2026-01-11",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گیلان",
         "en": "Gilan"
       },
       "country": "Iran"
@@ -16404,7 +16404,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -16450,7 +16450,7 @@
     "incidentDate": "2022-10-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "جوانرود",
         "en": "Javanrud"
       },
       "country": "Iran"
@@ -16494,7 +16494,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اراک",
         "en": "Arak"
       },
       "country": "Iran"
@@ -16540,7 +16540,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -16591,7 +16591,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -16638,7 +16638,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مشهد",
         "en": "Mashhad"
       },
       "country": "Iran"
@@ -16820,7 +16820,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "آستانه اشرفیه",
         "en": "Astaneh Ashrafiyeh"
       },
       "country": "Iran"
@@ -16864,7 +16864,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -16911,7 +16911,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -16955,7 +16955,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -17002,7 +17002,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "قزوین",
         "en": "Qazvin"
       },
       "country": "Iran"
@@ -17048,7 +17048,7 @@
     "incidentDate": "2026-01-07",
     "location": {
       "city": {
-        "fa": null,
+        "fa": " گیلانغرب",
         "en": "Gilan-e Gharb"
       },
       "country": "Iran"
@@ -17092,7 +17092,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "نی ریز",
         "en": "Neyriz"
       },
       "country": "Iran"
@@ -17184,7 +17184,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -17230,7 +17230,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "ساری",
         "en": "Sari"
       },
       "country": "Iran"
@@ -17323,7 +17323,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -17369,7 +17369,7 @@
     "incidentDate": "2022-09-19",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سقز",
         "en": "Saqqez"
       },
       "country": "Iran"
@@ -17413,7 +17413,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "قزوین",
         "en": "Qazvin"
       },
       "country": "Iran"
@@ -17459,7 +17459,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -17552,7 +17552,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "دزفول",
         "en": "Dezful"
       },
       "country": "Iran"
@@ -17640,7 +17640,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -17684,7 +17684,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "میبد",
         "en": "Meybod"
       },
       "country": "Iran"
@@ -17729,8 +17729,8 @@
     },
     "location": {
       "city": {
-        "fa": null,
-        "en": "Kermanshah (Elahiyeh Township)"
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
       },
       "province": "Kermanshah",
       "country": "Iran"
@@ -17822,7 +17822,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اسلامشهر",
         "en": "Islamshahr"
       },
       "country": "Iran"
@@ -17958,7 +17958,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -18047,7 +18047,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گرگان",
         "en": "Gorgan"
       },
       "country": "Iran"
@@ -18142,7 +18142,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بابل",
         "en": "Babol"
       },
       "country": "Iran"
@@ -18188,7 +18188,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -18234,7 +18234,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -18281,7 +18281,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -18327,7 +18327,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گرگان",
         "en": "Gorgan"
       },
       "country": "Iran"
@@ -18373,7 +18373,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -18419,8 +18419,8 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
-        "en": "Tehran (Tehranpars)"
+        "fa": "تهران",
+        "en": "Tehran"
       },
       "country": "Iran"
     },
@@ -18465,7 +18465,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -18511,7 +18511,7 @@
     "incidentDate": "2022-09-21",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -18557,7 +18557,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گرگان",
         "en": "Gorgan"
       },
       "country": "Iran"
@@ -18601,7 +18601,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مشهد",
         "en": "Mashhad"
       },
       "country": "Iran"
@@ -18645,7 +18645,7 @@
     "incidentDate": "2022-10-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سنندج",
         "en": "Sanandaj"
       },
       "country": "Iran"
@@ -18689,7 +18689,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "ساری",
         "en": "Sari"
       },
       "country": "Iran"
@@ -18735,7 +18735,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -18781,7 +18781,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -18827,7 +18827,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -18872,7 +18872,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "هفشجان",
         "en": "Hafshejan"
       },
       "province": "Chaharmahal and Bakhtiari",
@@ -18919,7 +18919,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -18963,7 +18963,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -19014,7 +19014,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -19060,7 +19060,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "ساری",
         "en": "Sari"
       },
       "country": "Iran"
@@ -19106,7 +19106,7 @@
     "incidentDate": "2026-01",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سبزوار",
         "en": "Sabzevar"
       },
       "country": "Iran"
@@ -19202,7 +19202,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "province": "Isfahan",
@@ -19345,7 +19345,7 @@
     "incidentDate": "2026-01-11",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مشهد",
         "en": "Mashhad"
       },
       "country": "Iran"
@@ -19391,7 +19391,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -19525,7 +19525,7 @@
     "incidentDate": "2026-01-07",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "شیراز",
         "en": "Shiraz"
       },
       "country": "Iran"
@@ -19570,7 +19570,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "قیروکارزین",
         "en": "Qir va Karzin"
       },
       "country": "Iran"
@@ -19616,7 +19616,7 @@
     "incidentDate": "2026-01-11",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "شاهرود",
         "en": "Shahrud"
       },
       "country": "Iran"
@@ -19662,7 +19662,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -19708,7 +19708,7 @@
     "incidentDate": "2026-01",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "سبزوار",
         "en": "Sabzevar"
       },
       "country": "Iran"
@@ -19754,7 +19754,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -19844,7 +19844,7 @@
     "incidentDate": "2026-01-07",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -19888,7 +19888,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "لاهیجان",
         "en": "Lahijan"
       },
       "country": "Iran"
@@ -19934,7 +19934,7 @@
     "incidentDate": "2025-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "رشت",
         "en": "Rasht"
       },
       "country": "Iran"
@@ -19980,7 +19980,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "چمستان",
         "en": "Chamestan"
       },
       "country": "Iran"
@@ -20023,7 +20023,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بهارستان",
         "en": "Baharestan"
       },
       "province": "Isfahan",
@@ -20070,7 +20070,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -20114,7 +20114,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "چاف",
         "en": "Chaf"
       },
       "country": "Iran"
@@ -20160,7 +20160,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "گرگان",
         "en": "Gorgan"
       },
       "country": "Iran"
@@ -20204,7 +20204,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اصفهان",
         "en": "Isfahan"
       },
       "country": "Iran"
@@ -20246,7 +20246,7 @@
     },
     "location": {
       "city": {
-        "fa": null,
+        "fa": "شیراز",
         "en": "Shiraz"
       },
       "country": "Iran"
@@ -20296,7 +20296,7 @@
     "incidentDate": "2026-01-07",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بیجار",
         "en": "Bijar"
       },
       "country": "Iran"
@@ -20347,7 +20347,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرمانشاه",
         "en": "Kermanshah"
       },
       "country": "Iran"
@@ -20438,7 +20438,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "چمستان",
         "en": "Chamestan"
       },
       "country": "Iran"
@@ -20482,7 +20482,7 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "کرج",
         "en": "Karaj"
       },
       "country": "Iran"
@@ -20529,7 +20529,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "شیراز",
         "en": "Shiraz"
       },
       "country": "Iran"
@@ -20575,15 +20575,15 @@
     },
     "location": {
       "city": {
-        "fa": null,
-        "en": "Nishapur"
+        "fa": "نیشابور",
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "زیبا دستجردی، ۳۳ ساله و اهل نیشابور، روز جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی این شهر با شلیک مستقیم نیروهای حکومتی کشته شد. به گفته منابع آگاه او پیشتر در سال ۱۴۰۱ به یکسال و نیم حبس تعزیری محکوم شده بود و اخیراً نیز در پروندهای دیگر به یک سال دیگر حبس محکوم شده و در انتظار رسیدگی در دادگاه تجدیدنظر به سر می برد.",
-      "en": "Ziba Dastjerdi, 33, from Nishapur, was killed on Friday, January 10, 2026 during public protests in her city after being shot directly by government forces. According to informed sources, she had previously been sentenced to one and a half years in prison in 2022 and had recently been sentenced to another year in a separate case and was awaiting appeal."
+      "en": "Ziba Dastjerdi, 33, from Neyshabur, was killed on Friday, January 10, 2026 during public protests in her city after being shot directly by government forces. According to informed sources, she had previously been sentenced to one and a half years in prison in 2022 and had recently been sentenced to another year in a separate case and was awaiting appeal."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -20621,7 +20621,7 @@
     "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بوشهر",
         "en": "Bushehr"
       },
       "country": "Iran"
@@ -20665,7 +20665,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "مشهد",
         "en": "Mashhad"
       },
       "country": "Iran"
@@ -20762,7 +20762,7 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "یاسوج",
         "en": "Yasuj"
       },
       "country": "Iran"
@@ -20903,7 +20903,7 @@
     "incidentDate": "2022-09-20",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "پیرانشهر",
         "en": "Piranshahr"
       },
       "country": "Iran"
@@ -20991,7 +20991,7 @@
     "incidentDate": "2022-09-21",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "اشنویه",
         "en": "Oshnavieh"
       },
       "country": "Iran"
@@ -21035,7 +21035,7 @@
     "incidentDate": "2022-09-21",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "قائم شهر",
         "en": "Qaemshahr"
       },
       "country": "Iran"
@@ -21079,7 +21079,7 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
+        "fa": "ارومیه",
         "en": "Urmia"
       },
       "country": "Iran"
@@ -21211,7 +21211,7 @@
     "incidentDate": "2022-09-21",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "زنجان",
         "en": "Zanjan"
       },
       "country": "Iran"
@@ -21255,7 +21255,7 @@
     "incidentDate": "2022-09-22",
     "location": {
       "city": {
-        "fa": null,
+        "fa": "بندرانزلی",
         "en": "Bandar-e Anzali"
       },
       "country": "Iran"

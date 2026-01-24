@@ -143,8 +143,8 @@
       "en": "Sajjad"
     },
     "lastName": {
-      "fa": "زیلایی",
-      "en": "Zilaei"
+      "fa": "والامنش (زیلایی)",
+      "en": "Valamanesh (Zilayi)"
     },
     "age": 28,
     "birthDate": null,
@@ -160,8 +160,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "سجاد زیلایی در تاریخ در روز ۱۱ دی ۱۴۰۴ در لردگان کشته شد.",
-      "en": "Sajjad Zilayi was killed on 2026-01-01 in Lordegan."
+      "fa": "سجاد  والامنش (زیلایی) در تاریخ در روز ۱۱ دی ۱۴۰۴ در لردگان کشته شد.",
+      "en": "Sajjad Valamanesh (Zilayi) was killed on 2026-01-01 in Lordegan."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -763,8 +763,8 @@
   {
     "id": "farsaghamhmdy-18",
     "firstName": {
-      "fa": "فارص",
-      "en": "Fars"
+      "fa": "فارز",
+      "en": "Farz"
     },
     "lastName": {
       "fa": "آقامحمدی",
@@ -784,8 +784,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "فارص آقامحمدی در تاریخ 2026-01-03 در ملکشاهی کشته شد این شهروند کُرد روز شنبه ۱۳ دی ۱۴۰۴، در جریان اعتراضات مردمی ملکشاهی، از ناحیه سر هدف اصابت گلوله قرار گرفت و پس از انتقال به بخش مراقبت‌های ویژه بیمارستان خمینی ایلام، با سطح هوشیاری پایین بستری بود.» به گفته این منبع، عصر روز دوشنبه ۱۵ دی ۱۴۰۴، فارص پس از سه روز بستری ‌شدن، به دلیل شدت جراحات وارده در بیمارستان جان خود را از دست داد.",
-      "en": "Fars Aqamhmdi lost his life on 2026-01-03 in Malekshahi. This Kurdish citizen was shot in the head during the Malekshahi protests on Saturday, January 3, 2026, and was hospitalized in the intensive care unit of Khomeini Hospital in Ilam with a low level of consciousness. On the evening of Monday, January 5, 2026, Fars passed away after three days of hospitalization due to the severity of his injuries."
+      "fa": "فارز آقامحمدی در تاریخ 2026-01-03 در ملکشاهی کشته شد این شهروند کُرد روز شنبه ۱۳ دی ۱۴۰۴، در جریان اعتراضات مردمی ملکشاهی، از ناحیه سر هدف اصابت گلوله قرار گرفت و پس از انتقال به بخش مراقبت‌های ویژه بیمارستان خمینی ایلام، با سطح هوشیاری پایین بستری بود.» به گفته این منبع، عصر روز دوشنبه ۱۵ دی ۱۴۰۴، فارص پس از سه روز بستری ‌شدن، به دلیل شدت جراحات وارده در بیمارستان جان خود را از دست داد.",
+      "en": "Farz Aqamhmdi lost his life on 2026-01-03 in Malekshahi. This Kurdish citizen was shot in the head during the Malekshahi protests on Saturday, January 3, 2026, and was hospitalized in the intensive care unit of Khomeini Hospital in Ilam with a low level of consciousness. On the evening of Monday, January 5, 2026, Fars passed away after three days of hospitalization due to the severity of his injuries."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -4124,52 +4124,6 @@
     "published": true
   },
   {
-    "id": "abvalfzlarvyn-tlb-99",
-    "firstName": {
-      "fa": "ابوالفضل",
-      "en": "Abolfazl"
-    },
-    "lastName": {
-      "fa": "آروین طلب",
-      "en": "Arvin Talab"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "Karaj",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "ابوالفضل آروین طلب در کرج کشته شد.",
-      "en": "Abolfazl Arvin Talab was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/ShahramSadidi/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-119-1",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "mjydvaazy-100",
     "firstName": {
       "fa": "مجید",
@@ -4748,7 +4702,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "images/people/saeed-ebrahimi/profile.jpeg"
+    ],
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-104",
@@ -6443,88 +6399,6 @@
     "published": true
   },
   {
-    "id": "alyrzaslmany-156",
-    "firstName": {
-      "fa": "علیرضا",
-      "en": "Alireza"
-    },
-    "lastName": {
-      "fa": "سلمانی",
-      "en": "Salmani"
-    },
-    "age": 27,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "علیرضا سلمانی در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Alireza Salmani was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-116-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "alyjanany-158",
-    "firstName": {
-      "fa": "علی",
-      "en": "Ali"
-    },
-    "lastName": {
-      "fa": "جانانی",
-      "en": "Janani"
-    },
-    "age": 20,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "علی جانانی در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Ali Janani was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-116-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "syd-myladrhymy-162",
     "firstName": {
       "fa": "سید میلاد",
@@ -6566,47 +6440,6 @@
     "published": true
   },
   {
-    "id": "amyralyjlylyan-163",
-    "firstName": {
-      "fa": "امیرعلی",
-      "en": "Amir Ali"
-    },
-    "lastName": {
-      "fa": "جلیلیان",
-      "en": "Jalilian"
-    },
-    "age": 65,
-    "birthDate": null,
-    "deathDate": "2026-01-14",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-14",
-    "location": {
-      "city": "اسلام‌آباد غرب (شاباد)",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "امیرعلی جلیلیان در تاریخ 2026-01-14 در اسلام‌آباد غرب (شاباد) کشته شد.",
-      "en": "Amir Ali Jalilian was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://kurdistanhumanrights.org/fa",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "mysmyaghvby-164",
     "firstName": {
       "fa": "میثم",
@@ -6640,47 +6473,6 @@
     "links": [
       {
         "url": "https://x.com/HyrcaniHRM/status",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "jlyldvstyar-brahvyy-165",
-    "firstName": {
-      "fa": "جلیل",
-      "en": "Jalil"
-    },
-    "lastName": {
-      "fa": "دوستیار براهویی",
-      "en": "Dostyar Barahouei"
-    },
-    "age": 22,
-    "birthDate": null,
-    "deathDate": "2026-01-09",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-09",
-    "location": {
-      "city": "مبید",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "جلیل دوستیار براهویی در تاریخ 2026-01-09 در مبید کشته شد.",
-      "en": "Jalil Dostyar Barahouei was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/haalvsh/status",
         "title": "Source 1",
         "type": "social_media"
       }
@@ -7341,98 +7133,6 @@
     "published": true
   },
   {
-    "id": "tyamkyany-mnsh-198",
-    "firstName": {
-      "fa": "تیام",
-      "en": "Tyam"
-    },
-    "lastName": {
-      "fa": "کیانی منش",
-      "en": "Kiani Manesh"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Kermanshah",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "تیام کیانی منش در کرمانشاه کشته شد.",
-      "en": "Tyam Kiani Manesh was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/kermanshahvoice/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://x.com/HengawO/status/2012474806541722014?s=20",
-        "title": "Source 2",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-135-1",
-        "title": "Source 3",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "amyrmhmdarbab-pvry-199",
-    "firstName": {
-      "fa": "امیرمحمد",
-      "en": "Amir Mohammad"
-    },
-    "lastName": {
-      "fa": "ارباب پوری",
-      "en": "Arbab Pouri"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Kermanshah",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "امیرمحمد ارباب‌ پوری در تاریخ 2026-01-08 در کرمانشاه کشته شد اهل هرسین",
-      "en": "Amir Mohammad Arbab Pouri was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/kermanshahvoice/status",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "amyrhsynmhmdzadh-201",
     "firstName": {
       "fa": "امیرحسین",
@@ -7525,88 +7225,6 @@
     "published": true
   },
   {
-    "id": "syd-abvalfzlkya-209",
-    "firstName": {
-      "fa": "سید ابوالفضل",
-      "en": "Seyed Abolfazl"
-    },
-    "lastName": {
-      "fa": "کیا",
-      "en": "Kya"
-    },
-    "age": 25,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "چمستان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "سید ابوالفضل کیا در چمستان کشته شد اهل آهودشت از توابع بخش چمستان",
-      "en": "Seyed Abolfazl Kya was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "frdynghnbry-211",
-    "firstName": {
-      "fa": "فردین",
-      "en": "Fardin"
-    },
-    "lastName": {
-      "fa": "قنبری",
-      "en": "Ghanbari"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-14",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "ساری",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "فردین قنبری در تاریخ 2026-01-14 در ساری کشته شد 18 دی ماه زخمی شده",
-      "en": "Fardin Ghanbari was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-131-1",
-        "title": "Source 1",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "mhmdabrahymy-212",
     "firstName": {
       "fa": "محمد",
@@ -7683,47 +7301,6 @@
         "url": "https://x.com/kermanshahvoice/status",
         "title": "Source 1",
         "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "synasranvsh-216",
-    "firstName": {
-      "fa": "سینا",
-      "en": "Sina"
-    },
-    "lastName": {
-      "fa": "سرانوش",
-      "en": "Sranosh"
-    },
-    "age": 32,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "اصفهان",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "سینا سرانوش در اصفهان کشته شد.",
-      "en": "Sina Sranosh was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-133-1",
-        "title": "Source 1",
-        "type": "other"
       }
     ],
     "verified": true,
@@ -8111,57 +7688,6 @@
         "url": "https://hengaw.net/fa/news/2026/01/article-141-1",
         "title": "Source 1",
         "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "abvalfzlhydry-mvslv-237",
-    "firstName": {
-      "fa": "ابوالفضل",
-      "en": "Abolfazl"
-    },
-    "lastName": {
-      "fa": "حیدری موصلو",
-      "en": "Heydari Mosloo"
-    },
-    "age": 17,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "قیروکارزین",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "ابوالفضل حیدری موصلو در قیروکارزین کشته شد.",
-      "en": "Abolfazl Heydari Mosloo was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-142-1",
-        "title": "Source 1",
-        "type": "other"
-      },
-      {
-        "url": "https://x.com/IranIntl/status/2012597199725645917?s=20",
-        "title": "Source 2",
-        "type": "social_media"
-      },
-      {
-        "url": "https://x.com/avatoday_news/status/2012200981576987060?s=20",
-        "title": "Source 3",
-        "type": "social_media"
       }
     ],
     "verified": true,
@@ -10064,47 +9590,6 @@
         "url": "https://www.iranintl.com/202601180830",
         "title": "Source 1",
         "type": "news"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "saydtvklyan-dshmn-zyary-291",
-    "firstName": {
-      "fa": "سعید",
-      "en": "Saeed"
-    },
-    "lastName": {
-      "fa": "توکلیان دشمن زیاری",
-      "en": "Tavakolian Dashmn Ziari"
-    },
-    "age": 26,
-    "birthDate": null,
-    "deathDate": "2026-01-07",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-07",
-    "location": {
-      "city": "شیراز",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "سعید توکلیان دشمن زیاری در تاریخ 2026-01-07 در شیراز کشته شد.",
-      "en": "Saeed Tavakolian Dashmn Ziari was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/IranRights_org/status",
-        "title": "Source 1",
-        "type": "social_media"
       }
     ],
     "verified": true,
@@ -16406,8 +15891,8 @@
       "en": "Abolfazl"
     },
     "lastName": {
-      "fa": "آروین‌طلب",
-      "en": "Arvin‑Talab"
+      "fa": "آروین ‌طلب",
+      "en": "Arvin Talab"
     },
     "age": null,
     "birthDate": null,
@@ -16447,7 +15932,7 @@
       "en": "Abolfazl"
     },
     "lastName": {
-      "fa": "حیدری‌موصلو",
+      "fa": "حیدری‌ موصلو",
       "en": "Heydari Mosloo"
     },
     "age": 17,
@@ -19776,10 +19261,10 @@
     "published": true
   },
   {
-    "id": "pedaram-saeedi-526",
+    "id": "pedram-saeedi-526",
     "firstName": {
-      "fa": "پدارم",
-      "en": "Pedaram"
+      "fa": "پدرام",
+      "en": "Pedram"
     },
     "lastName": {
       "fa": "سعیدی",
@@ -19799,8 +19284,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "پدارم سعیدی، شهروند ۲۸ ساله و اهل اصفهان، روز جمعه ۱۹ دی ماه ۱۴۰۴ بر اثر شلیک مستقیم نیروهای حکومتی به سمت چپ سینه‌اش در میانه اعتراضات این شهر، بلافاصله جان خود را از دست داد. به گزارش هه‌نگاو، او در محل حادثه جان باخت.",
-      "en": "Pedaram Saeedi, a 28-year-old citizen from Isfahan, died immediately on Friday, January 9, 2026 (19 Dey 1404) after being shot directly in the left chest by government forces during protests in the city. According to Hengaw, he died at the scene."
+      "fa": "پدرام سعیدی، شهروند ۲۸ ساله و اهل اصفهان، روز جمعه ۱۹ دی ماه ۱۴۰۴ بر اثر شلیک مستقیم نیروهای حکومتی به سمت چپ سینه‌اش در میانه اعتراضات این شهر، بلافاصله جان خود را از دست داد. به گزارش هه‌نگاو، او در محل حادثه جان باخت.",
+      "en": "Pedram Saeedi, a 28-year-old citizen from Isfahan, died immediately on Friday, January 9, 2026 (19 Dey 1404) after being shot directly in the left chest by government forces during protests in the city. According to Hengaw, he died at the scene."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -19973,7 +19458,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-      "images/people/saeid-ebrahimi-azadi/profile.jpeg"
+      "images/people/saeid-ebrahimi-azadi/profile.web"
     ],
     "links": [
       {
@@ -20675,7 +20160,7 @@
       "en": "Tiam"
     },
     "lastName": {
-      "fa": "کیانی‌منش",
+      "fa": "کیانی ‌منش",
       "en": "Kiani Mnash"
     },
     "age": 26,
@@ -20692,7 +20177,7 @@
     },
     "status": "killed",
     "description": {
-      "fa": "تیام کیانی‌منش، ۲۶ ساله و اهل کرمانشاه، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات این شهر جان خود را از دست داد. پیکر وی روز جمعه ۲۶ دی در مزارستان باغ فردوس کرمانشاه به خاک سپرده شد. گزارش‌ها حاکی از آن است که علت مرگ استنشاق حجم بالای گاز اشک‌آور بوده است.",
+      "fa": "تیام کیانی ‌منش، ۲۶ ساله و اهل کرمانشاه، روز پنجشنبه ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات این شهر جان خود را از دست داد. پیکر وی روز جمعه ۲۶ دی در مزارستان باغ فردوس کرمانشاه به خاک سپرده شد. گزارش‌ها حاکی از آن است که علت مرگ استنشاق حجم بالای گاز اشک‌آور بوده است.",
       "en": "Tiam Kiani-Mansh, 26, from Kermanshah, died on Thursday, January 8, 2026 during protests in the city. His body was buried on Friday, January 16, 2026 at Baghe Ferdows Cemetery in Kermanshah. Reports indicate that the cause of death was inhalation of a high volume of tear gas."
     },
     "events": [
@@ -21016,11 +20501,11 @@
   {
     "id": "sina-kazemi-556",
     "firstName": {
-      "fa": "علی",
+      "fa": "سینا",
       "en": "Sina"
     },
     "lastName": {
-      "fa": "رهبر",
+      "fa": "کاظمی",
       "en": "Kazemi"
     },
     "age": 22,
@@ -21046,7 +20531,7 @@
     "images": [],
     "links": [
       {
-        "url": "[https://x.com/i/status/2014449949078130746](https://x.com/i/status/2014449949078130746)",
+        "url": "https://x.com/i/status/2014449949078130746",
         "title": "Twitter/X",
         "type": "social_media"
       },

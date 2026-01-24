@@ -21321,5 +21321,401 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "pedram-azarnoush-609",
+    "firstName": {
+      "fa": "پدرام",
+      "en": "Pedram"
+    },
+    "lastName": {
+      "fa": "آذرنوش",
+      "en": "Azarnoush"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-22",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-22",
+    "location": {
+      "city": {
+        "fa": "دهدشت",
+        "en": "Dehdasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پدرام آذرنوش، ۱۶ ساله، در دهدشت در جریان خیزش ۱۴۰۱ با اصابت گلوله جنگی کشته شد.",
+      "en": "Pedram Azarnoush (16) was killed in Dehdasht during the 2022 protests after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "setareh-tajik-610",
+    "firstName": {
+      "fa": "ستاره",
+      "en": "Setareh"
+    },
+    "lastName": {
+      "fa": "تاجیک",
+      "en": "Tajik"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-22",
+    "causeOfDeath": {
+      "fa": "صدمات شدید ناشی از برخورد با جسم سخت",
+      "en": "Severe injuries caused by impact with a hard object"
+    },
+    "incidentDate": "2022-09-22",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ستاره تاجیک، ۱۷ ساله، در جریان خیزش ۱۴۰۱ جان باخت. علت مرگ طبق گزارش پزشکی قانونی صدمات شدید اعلام شد.",
+      "en": "Setareh Tajik (17) died during the 2022 protests. Forensic reports cited severe injuries."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sarina-esmailzadeh-611",
+    "firstName": {
+      "fa": "سارینا",
+      "en": "Sarina"
+    },
+    "lastName": {
+      "fa": "اسماعیل‌زاده",
+      "en": "Esmailzadeh"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-23",
+    "causeOfDeath": {
+      "fa": "ضربات مکرر باتوم",
+      "en": "Repeated baton blows"
+    },
+    "incidentDate": "2022-09-23",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سارینا اسماعیل‌زاده، ۱۶ ساله، در مهرشهر کرج بر اثر ضربات باتوم در جریان خیزش ۱۴۰۱ کشته شد.",
+      "en": "Sarina Esmailzadeh (16) was killed in Mehrshahr, Karaj, after repeated baton blows during the 2022 protests."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/سارینا_اسماعیل‌زاده",
+        "title": "Wikipedia (FA): Sarina Esmailzadeh",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "parsa-rezadoust-612",
+    "firstName": {
+      "fa": "پارسا",
+      "en": "Parsa"
+    },
+    "lastName": {
+      "fa": "رضادوست",
+      "en": "Rezadoust"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-23",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-23",
+    "location": {
+      "city": {
+        "fa": "هشتگرد",
+        "en": "Hashtgerd"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پارسا رضادوست، ۱۷ ساله، در هشتگرد با اصابت گلوله جنگی کشته شد.",
+      "en": "Parsa Rezadoust (17) was killed in Hashtgerd after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "ehsan-alibazi-613",
+    "firstName": {
+      "fa": "احسان",
+      "en": "Ehsan"
+    },
+    "lastName": {
+      "fa": "علی‌بازی",
+      "en": "Alibazi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-23",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-23",
+    "location": {
+      "city": {
+        "fa": "شهر قدس",
+        "en": "Shahr-e Qods"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "احسان علی‌بازی، ۱۶ ساله، در شهر قدس با اصابت گلوله جنگی کشته شد.",
+      "en": "Ehsan Alibazi (16) was killed in Shahr-e Qods after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "pooya-ahmadpour-pasikhani-614",
+    "firstName": {
+      "fa": "پویا",
+      "en": "Pouya"
+    },
+    "lastName": {
+      "fa": "احمدپور پسیخانی",
+      "en": "Ahmadpour Pasikhani"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-23",
+    "causeOfDeath": {
+      "fa": "ضرب‌وشتم مأموران امنیتی",
+      "en": "Beaten by security forces"
+    },
+    "incidentDate": "2022-09-23",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پویا احمدپور پسیخانی، ۱۷ ساله، در رشت پس از ضرب‌وشتم مأموران امنیتی به کما رفت و جان باخت.",
+      "en": "Pouya Ahmadpour Pasikhani (17) fell into a coma after being beaten by security forces in Rasht and later died."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirmehdi-farrokhipour-615",
+    "firstName": {
+      "fa": "امیرمهدی",
+      "en": "Amirmehdi"
+    },
+    "lastName": {
+      "fa": "فرخی ‌پور",
+      "en": "Farrokhipour"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-28",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-28",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرمهدی فرخی‌پور، ۱۷ ساله، در تهران با اصابت گلوله جنگی کشته شد.",
+      "en": "Amirmehdi Farrokhipour (17) was killed in Tehran after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "ali-brahui-616",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "براهوئی",
+      "en": "Brahui"
+    },
+    "age": 12,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به سر و گردن",
+      "en": "Shot in the head and neck with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "علی براهوئی، ۱۲ ساله، در زاهدان در جریان جمعه خونین با اصابت گلوله جنگی کشته شد.",
+      "en": "Ali Brahui (12) was killed in Zahedan during Bloody Friday after being shot in the head and neck."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "hasti-naroui-617",
+    "firstName": {
+      "fa": "هستی",
+      "en": "Hasti"
+    },
+    "lastName": {
+      "fa": "نارویی",
+      "en": "Naroui"
+    },
+    "age": 7,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گاز اشک‌آور و استنشاق گاز سمی",
+      "en": "Tear gas impact and toxic gas inhalation"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "هستی نارویی، ۷ ساله، در زاهدان بر اثر استنشاق گازهای سمی جان باخت.",
+      "en": "Hasti Naroui (7) died in Zahedan after exposure to toxic tear gas."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

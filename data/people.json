@@ -18,7 +18,10 @@
     },
     "incidentDate": "2025-12-31",
     "location": {
-      "city": "فولادشهر",
+      "city": {
+        "fa": "فولادشهر",
+        "en": "Fooladshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -61,7 +64,10 @@
     },
     "incidentDate": "2025-12-31",
     "location": {
-      "city": "Kuhdasht",
+      "city": {
+        "fa": "کوهدشت",
+        "en": "Kuhdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -107,7 +113,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Lordegan",
+      "city": {
+        "fa": "لردگان",
+        "en": "Lordegan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -155,7 +164,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Lordegan",
+      "city": {
+        "fa": "لردگان",
+        "en": "Lordegan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -194,7 +206,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Azna",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -240,7 +255,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Azna",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -268,7 +286,7 @@
     "published": true
   },
   {
-    "id": "mstfyflahy-7",
+    "id": "mostafa-fallahi-7",
     "firstName": {
       "fa": "مصطفی",
       "en": "Mostafa"
@@ -286,7 +304,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Azna",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -294,9 +315,7 @@
       "fa": "مصطفی فلاحی در شامگاه پنجشنبه ١١ دی ماه ۱۴۰۴ (١ ژانویه ٢٠٢٦) در ازنا کشته شد.",
       "en": "Mostafa Fallahi was killed on 2026-01-01 in Azna."
     },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
+    "events": ["2025-2026-iran-protests"],
     "images": [],
     "links": [
       {
@@ -309,7 +328,7 @@
     "published": true
   },
   {
-    "id": "khdadadshyrvany-mnfrd-8",
+    "id": "khoddadad-shirvani-monfared-8",
     "firstName": {
       "fa": "خداداد",
       "en": "Khoddadad"
@@ -327,7 +346,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": "مرودشت",
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -342,20 +364,15 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-6",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Khoddadad Shirvani Monfared",
         "type": "other"
-      },
-      {
-        "url": "https://x.com/iranwire/status",
-        "title": "Source 2",
-        "type": "social_media"
       }
     ],
     "verified": true,
     "published": true
   },
   {
-    "id": "ahmdrzaamany-9",
+    "id": "ahmadreza-amani-9",
     "firstName": {
       "fa": "احمدرضا",
       "en": "Ahmad Reza"
@@ -373,7 +390,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "Azna",
+      "city": {
+        "fa": "ازنا",
+        "en": "Azna"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -388,12 +408,12 @@
     "links": [
       {
         "url": "https://iranwire.com/fa/news-1/147255",
-        "title": "Source 1",
-        "type": "other"
+        "title": "Iran Wire report on the killing of Ahmadreza Amani",
+        "type": "news"
       },
       {
         "url": "https://www.iranintl.com/fa/202601036486",
-        "title": "Source 2",
+        "title": "Iran International report on the killing of Ahmadreza Amani",
         "type": "news"
       }
     ],
@@ -401,7 +421,7 @@
     "published": true
   },
   {
-    "id": "ahdabrahym-pvr-abdly-10",
+    "id": "ahad-ebrahimpour-abdoli-10",
     "firstName": {
       "fa": "احد",
       "en": "Ahad"
@@ -419,7 +439,10 @@
     },
     "incidentDate": "2026-01-01",
     "location": {
-      "city": "نورآباد",
+      "city": {
+        "fa": "نورآباد",
+        "en": "Noorabad"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -434,12 +457,12 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-9",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Ahad Ebrahimpour Abdoli",
         "type": "other"
       },
       {
         "url": "https://kurdistanhumanrights.org/fa",
-        "title": "Source 2",
+        "title": "Kurdistan Human Rights report on the killing of Ahad Ebrahimpour Abdoli",
         "type": "other"
       }
     ],
@@ -447,7 +470,7 @@
     "published": true
   },
   {
-    "id": "alyazyzy-jafrabady-11",
+    "id": "ali-azizi-jafarabadi-11",
     "firstName": {
       "fa": "علی",
       "en": "Ali"
@@ -465,7 +488,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "هرسین",
+      "city": {
+        "fa": "هرسین",
+        "en": "Harsin"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -480,12 +506,12 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-14",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Ali Azizi Jafarabadi",
         "type": "other"
       },
       {
         "url": "https://kurdistanhumanrights.org/fa",
-        "title": "Source 2",
+        "title": "Kurdistan Human Rights report on the killing of Ali Azizi Jafarabadi",
         "type": "other"
       }
     ],
@@ -493,7 +519,7 @@
     "published": true
   },
   {
-    "id": "arfanbzrgy-12",
+    "id": "erfan-bozorgi-12",
     "firstName": {
       "fa": "عرفان",
       "en": "Erfan"
@@ -511,7 +537,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": "مرودشت",
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -526,12 +555,12 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-38",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Erfan Bozorgi",
         "type": "other"
       },
       {
         "url": "https://www.iranintl.com/fa/202601041182",
-        "title": "Source 2",
+        "title": "Iran International report on the killing of Erfan Bozorgi",
         "type": "news"
       }
     ],
@@ -539,7 +568,7 @@
     "published": true
   },
   {
-    "id": "mnsvrmkhtary-13",
+    "id": "mansour-mokhtari-13",
     "firstName": {
       "fa": "منصور",
       "en": "Mansour"
@@ -557,7 +586,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": "مرودشت",
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -572,27 +604,22 @@
     "links": [
       {
         "url": "https://iranwire.com/fa/news-1/147260",
-        "title": "Source 1",
+        "title": "Iran Wire report",
         "type": "other"
-      },
-      {
-        "url": "https://x.com/HengawO/status",
-        "title": "Source 2",
-        "type": "social_media"
       }
     ],
     "verified": true,
     "published": true
   },
   {
-    "id": "mhmdghasm-rvsta-14",
+    "id": "mohammad-ghasem-roosta-14",
     "firstName": {
       "fa": "محمد",
       "en": "Mohammad"
     },
     "lastName": {
       "fa": "قاسم روستا",
-      "en": "Ghasem Ravasta"
+      "en": "Ghasem Roosta"
     },
     "age": 14,
     "birthDate": null,
@@ -603,7 +630,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "Marvdasht",
+      "city": {
+        "fa": "مرودشت",
+        "en": "Marvdasht"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -618,12 +648,12 @@
     "links": [
       {
         "url": "https://iranwire.com/fa/news-1/147293",
-        "title": "Source 1",
+        "title": "Iran Wire report",
         "type": "other"
       },
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-142-1",
-        "title": "Source 2",
+        "title": "Hengaw report",
         "type": "other"
       }
     ],
@@ -631,7 +661,7 @@
     "published": true
   },
   {
-    "id": "amyrhsynbyaty-15",
+    "id": "amirhossein-bayati-15",
     "firstName": {
       "fa": "امیرحسین",
       "en": "Amir Hossein"
@@ -649,7 +679,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "همدان",
+      "city": {
+        "fa": "همدان",
+        "en": "Hamedan"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -664,7 +697,7 @@
     "links": [
       {
         "url": "https://hengaw.net/fa/news/2026/01/article-19",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Amir Hossein Bayati",
         "type": "other"
       }
     ],
@@ -672,7 +705,7 @@
     "published": true
   },
   {
-    "id": "frshydmkhtary-16",
+    "id": "farshid-mokhtari-16",
     "firstName": {
       "fa": "فرشید",
       "en": "Farshid"
@@ -690,7 +723,10 @@
     },
     "incidentDate": "2026-01-02",
     "location": {
-      "city": "Yazdanshahr",
+      "city":{
+        "fa": "یزدانشهر",
+        "en": "Yazdanshahr"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -705,7 +741,7 @@
     "links": [
       {
         "url": "https://t.me/Hengaw_Org/27699",
-        "title": "Source 1",
+        "title": "Hengaw report on the killing of Farshid Mokhtari",
         "type": "social_media"
       }
     ],
@@ -713,7 +749,7 @@
     "published": true
   },
   {
-    "id": "rzaazym-zadh-17",
+    "id": "reza-azimzadeh-17",
     "firstName": {
       "fa": "رضا",
       "en": "Reza"
@@ -731,7 +767,10 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -759,7 +798,7 @@
     "published": true
   },
   {
-    "id": "farsaghamhmdy-18",
+    "id": "farz-aghamohammadi-18",
     "firstName": {
       "fa": "فارز",
       "en": "Farz"
@@ -777,7 +816,10 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
@@ -805,7 +847,7 @@
     "published": true
   },
   {
-    "id": "mhdyamamy-pvr-19",
+    "id": "mehdi-emami-pour-19",
     "firstName": {
       "fa": "مهدی",
       "en": "Mehdi"
@@ -823,12 +865,15 @@
     },
     "incidentDate": "2026-01-03",
     "location": {
-      "city": "ملکشاهی",
+      "city": {
+        "fa": "ملکشاهی",
+        "en": "Malekshahi"
+      },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "مهدی امامی پور در تاریخ 2026-01-03 در ملکشاهی کشته شد.",
+      "fa": "مهدی امامی پور در تاریخ ۱۳ دی ۱۴۰۴ در ملکشاهی کشته شد.",
       "en": "Mehdi Emami Pour was killed during protests."
     },
     "events": [
@@ -837,8 +882,8 @@
     "images": [],
     "links": [
       {
-        "url": "https://x.com/KurdistanHRN/status",
-        "title": "Source 1",
+        "url": "https://x.com/KurdistanHRN/status/2007763903330369896?s=20",
+        "title": "Kurdistan Human Rights Network report on the killing of Mehdi Emami Pour",
         "type": "social_media"
       }
     ],
@@ -2965,52 +3010,6 @@
     "description": {
       "fa": "محمد جعفری در تاریخ 2026-01-08 در کرمانشاه کشته شد.",
       "en": "Mohammad Jafari was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/KurdistanHRN/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-93",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "arfanjamh-shvrany-70",
-    "firstName": {
-      "fa": "عرفان",
-      "en": "Erfan"
-    },
-    "lastName": {
-      "fa": "جامه شورانی",
-      "en": "Jamh Shorani"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Kermanshah",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "عرفان جامه‌شورانی در تاریخ 2026-01-08 در کرمانشاه کشته شد.",
-      "en": "Erfan Jamh Shorani was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -6394,47 +6393,6 @@
     "published": true
   },
   {
-    "id": "rzaaskndrpvr-184",
-    "firstName": {
-      "fa": "رضا",
-      "en": "Reza"
-    },
-    "lastName": {
-      "fa": "اسکندرپور",
-      "en": "Askndr-pour"
-    },
-    "age": 37,
-    "birthDate": null,
-    "deathDate": "2026-01-08",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-08",
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "رضا اسکندرپور در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Reza Askndr-pour was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/HengawO/status",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "shbnmfrdvsy-192",
     "firstName": {
       "fa": "شبنم",
@@ -6469,52 +6427,6 @@
       {
         "url": "https://x.com/HengawO/status",
         "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
-    "id": "amyrhsynmhmdzadh-201",
-    "firstName": {
-      "fa": "امیرحسین",
-      "en": "Amir Hossein"
-    },
-    "lastName": {
-      "fa": "محمدزاده",
-      "en": "Mohammad-zadeh"
-    },
-    "age": 18,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "Tehran",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "امیرحسین محمدزاده در تهران کشته شد تیم فوتبال جوانان دلوارافراز تهران",
-      "en": "Amir Hossein Mohammad-zadeh was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/iranintlsport/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://x.com/iranintlsport/status/2012263510797873546?s=20",
-        "title": "Source 2",
         "type": "social_media"
       }
     ],
@@ -6601,52 +6513,6 @@
     "links": [],
     "verified": false,
     "published": false
-  },
-  {
-    "id": "abrahymhashm-bygy-226",
-    "firstName": {
-      "fa": "ابراهیم",
-      "en": "Ebrahim"
-    },
-    "lastName": {
-      "fa": "هاشم بیگی",
-      "en": "Hashem Beigi"
-    },
-    "age": 42,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": "نی ریز",
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "ابراهیم هاشم‌ بیگی در نی ریز کشته شد.",
-      "en": "Ebrahim Hashem Beigi was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/Tavaana/status",
-        "title": "Source 1",
-        "type": "social_media"
-      },
-      {
-        "url": "https://hengaw.net/fa/news/2026/01/article-139-1",
-        "title": "Source 2",
-        "type": "other"
-      }
-    ],
-    "verified": true,
-    "published": true
   },
   {
     "id": "alybhrvzdvst-230",

@@ -22001,5 +22001,46 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "mehrab-tahaghoghi-624",
+    "firstName": {
+      "fa": "محراب",
+      "en": "Mehrab"
+    },
+    "lastName": {
+      "fa": "تحققی",
+      "en": "Tahaghoghi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+        "fa": "کشته شده در ۱۹ دی",
+        "en": "Killed on January 9th"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کشته شده تو هفت تیر مشهد، ۱۹ دی",
+      "en": "Killed in Haft Tir, Mashhad, January 9th"
+
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/mehrab-tahaghoghi-624/profile.webp"
+    ],
+    "links": [],
+    "verified": true,
+    "published": true
   }
 ]

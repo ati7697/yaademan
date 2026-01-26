@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--394",
+    "firstName": {
+      "fa": "علیرضا",
+      "en": null
+    },
+    "lastName": {
+      "fa": "سیدصالح",
+      "en": null
+    },
+    "age": 44,
+    "birthDate": null,
+    "deathDate": "2026-01-18",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-18",
+    "location": {
+      "city": {
+        "fa": "فولادشهر",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148013-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B3%DB%8C%D8%AF%D8%B5%D8%A7%D9%84%D8%AD-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "https://iranwire.com/fa/news-1/148013-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B3%DB%8C%D8%AF%D8%B5%D8%A7%D9%84%D8%AD-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

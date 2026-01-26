@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--985",
+    "firstName": {
+      "fa": "سحر",
+      "en": null
+    },
+    "lastName": {
+      "fa": "بیات",
+      "en": null
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-18",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-18",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "تایید نشده",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/Mahestane_iran/status/2013670598992392345?s=20",
+        "title": "https://x.com/Mahestane_iran/status/2013670598992392345?s=20",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

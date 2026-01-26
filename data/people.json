@@ -22239,39 +22239,41 @@
     "published": true
   },
   {
-    "id": "---814",
+    "id": "behzad-abbasi-gorajoubi-500",
     "firstName": {
       "fa": "بهزاد",
-      "en": null
+      "en": "Behzad"
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en": null
+      "en":"Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "شلیک مستقیم نیروهای امنیتی",
-      "en": null
+      "en": "Killed by direct gunfire from security forces"
     },
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "تهران",
-        "en": null
+        "en": "Tehran"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "وی اهل شهرستان قصر شیرین بود.",
-      "en": null
+      "en": "He was from Qasr Shirin County."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/behzad-abbasi-gorajouri-500/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://kurdpa.net/fa/news/2026/01/110",
@@ -22289,7 +22291,7 @@
         "type": "news"
       }
     ],
-    "verified": false,
-    "published": false
+    "verified": true,
+    "published": true
   }
 ]

@@ -22589,5 +22589,235 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "matin-habibi-574",
+    "firstName": {
+      "fa": "متین",
+      "en": "Matin"
+    },
+    "lastName": {
+      "fa": "حبیبی",
+      "en": "Habibi"
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنابر اطلاع ایران وایر، «متین حبیبی» ۲۲ ساله، پنجشنبه ۱۸دی۱۴۰۴ در اعتراضات خیابان «سلسبیل» تهران با شلیک نیروهای جمهوری اسلامی کشته شد. ماموران سر متین حبیبی را هدف شلیک قرار دادند. پیکر متین حبیبی یکی از پیکرهای کشته های اعتراضات در مرکز پزشکی قانونی «کهریزک» بود.",
+      "en": "According to IranWire information, 'Matin Habibi,' 22, was killed on Thursday, January 08, 2026, during protests on Salsabil Street in Tehran by gunfire from the Islamic Republic forces. Agents targeted Matin Habibi's head with gunfire. Matin Habibi's body was one of the bodies of protest victims at the 'Kahrizak' forensic medicine center."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/matin-habibi-574/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/147996-%D9%85%D8%AA%DB%8C%D9%86-%D8%AD%D8%A8%DB%8C%D8%A8%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "shokoofeh-abdi-909",
+    "firstName": {
+      "fa": "شکوفه",
+      "en": "Shokoofeh"
+    },
+    "lastName": {
+      "fa": "عبدی",
+      "en": "Abdi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "وی اهل شازند و در یک آتلیه عکاسی مشغول به کار بود.",
+      "en": "She was from Shazand and worked in a photography studio."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/shokoofeh-abdi-909/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-191-1",
+        "title": "Hengaw news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-mirzaie-noushabadi-910",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "میرزایی نوش‌آبادی",
+      "en": "Mirzaie Noush-abadi"
+    },
+    "age": 37,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "ساری",
+        "en": "Sari"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمد میرزایی‌‌نو‌ش‌آبادی مجرد بود و کار ساختمان‌سازی مشغول بود. شب ۱۸ دی در شهر ساری با شلیک گلوله جنگی به شکمش کشته شد. پیکر او شنبه ۲۰دی، در روستای زید علیا در حومه ساری به خاک سپرده شد.",
+      "en": "Mohammad Mirzaie Noush-abadi was single and worked in construction. On the night of January 8 in the city of Sari, he was killed by a gunshot to the stomach. His body was buried on Saturday, January 10, in the village of Zeyd Olya on the outskirts of Sari."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/mohammad-mirzaie-noushabadi-910/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148010-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%DB%8C%D8%B1%D8%B2%D8%A7%DB%8C%DB%8C%D9%86%D9%88%D8%B4%D8%A2%D8%A8%D8%A7%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%B3%D8%A7%D8%B1%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "misagh-alidoust-126",
+    "firstName": {
+      "fa": "میثاق",
+      "en": "Misagh"
+    },
+    "lastName": {
+      "fa": "علیدوست",
+      "en": "Alidoust"
+    },
+    "age": 30,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کیاشهر",
+        "en": "Kiashahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنابر اطلاع ایران وایر، «میثاق علیدوست» معترض ۳۰ ساله، در اعتراضات پنج شنبه ۱۸دی۱۴۰۴ در «کیاشهر» استان گیلان با شلیک نیروهای جمهوری اسلامی کشته شد.",
+      "en": "According to IranWire information, 'Misagh Alidoust,' a 30-year-old protester, was killed on Thursday, January 08, 2026, during protests in 'Kiashahr' in Gilan Province by gunfire from the Islamic Republic forces."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/misagh-alidoust-126/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148011-%D9%85%DB%8C%D8%AB%D8%A7%D9%82-%D8%B9%D9%84%DB%8C%D8%AF%D9%88%D8%B3%D8%AA-%D8%AF%D8%B1-%DA%A9%DB%8C%D8%A7%D8%B4%D9%87%D8%B1-%DA%AF%DB%8C%D9%84%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "alireza-seyed-saleh-911",
+    "firstName": {
+      "fa": "علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "سیدصالح",
+      "en": "Seyed Saleh"
+    },
+    "age": 44,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "فولادشهر",
+        "en": "Fooladshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنابر اطلاع ایران وایر، «علیرضا سیدصالح» ۴۴ ساله، پنجشنبه ۱۸دی۱۴۰۴ در اعتراضات «فولادشهر» اصفهان با شلیک نیروهای جمهوری اسلامی کشته شد. علیرضا سیدصالح پدر دو فرزند بود.",
+      "en": "According to IranWire information, 'Alireza Seyed Saleh,' 44, was killed on Thursday, January 08, 2026, during protests in 'Fooladshahr' in Isfahan by gunfire from the Islamic Republic forces. Alireza Seyed Saleh was a father of two children."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/alireza-seyed-saleh-911/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148013-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%B3%DB%8C%D8%AF%D8%B5%D8%A7%D9%84%D8%AD-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D9%81%D9%88%D9%84%D8%A7%D8%AF%D8%B4%D9%87%D8%B1-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

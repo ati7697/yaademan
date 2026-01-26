@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--465",
+    "firstName": {
+      "fa": "پوریا",
+      "en": null
+    },
+    "lastName": {
+      "fa": "حمزه‌ای",
+      "en": null
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-19",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-19",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پوریا حمزه‌ای، ۲۰ ساله مجرد و اهل اصفهان، در چهارراه آبشار این شهر با شلیک گلوله توسط تک تیرانداز مستقر در پشت بام بانک ملی ایران از ناحیه کتف زخمی و به بیمارستان صدوقی اصفهان (بیمارستان سپاه) منتقل شد. حین بستری بودن این شهروند به خانواده او اجازه ملاقات داده نمی‌شد و پس از یک هفته و با پیگیری مداوم بستگان پوریا، نهادهای مربوطه اعلام کرده‌اند که به باغ رضوان مراجعه کنند. نزدیکان این شهروند حین دیدن جنازه او متوجه آثار شلیک تیر خلاص به سینه این شهروند شده‌اند درحالیکه که زخم کتف وی باندپیچی شده بود.",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-195-2",
+        "title": "https://hengaw.net/fa/news/2026/01/article-195-2",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

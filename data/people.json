@@ -22272,7 +22272,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-moradian-763/profile.jpg"
+      "people/matin-moradian-763/profile.jpg"
     ],
     "links": [
       {
@@ -22348,7 +22348,7 @@
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en":"Abbasi-Gorajoubi"
+      "en": "Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
@@ -22527,7 +22527,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mehrzad-nazari-907/profile.jpg"
+      "people/mehrzad-nazari-907/profile.jpg"
     ],
     "links": [
       {
@@ -22573,7 +22573,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hajar-eshaghi-908/profile.webp"
+      "people/hajar-eshaghi-908/profile.webp"
     ],
     "links": [
       {
@@ -22589,5 +22589,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "ali-asadolahi-769",
+    "firstName": {
+      "fa": "‎علی ",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "اسداللهی",
+      "en": "Asadolahi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-25",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "شب گذشته نیروهای امنیتی به منزل ‎علی اسداللهی، شاعر و عضو کانون نویسندگان ایران یورش برده و با خشونت او را بازداشت کردند.\nتاکنون از محل نگهداری علی اسداللهی و نهاد بازداشت‌کننده اطلاعی در دست نیست.\n\nاو برادر آنیشا اسداللهی، فعال کارگری زندانی است.",
+      "en": "On January 25, 2026, security forces raided the home of Ali Asadollahi, a poet and member of the Iranian Writers' Association, and violently arrested him.\n\nThere is no information yet on Ali Asadollahi's whereabouts or the arresting agency.\n\nHe is the brother of imprisoned labor activist Anisha Asadollahi."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015552482177376269",
+        "title": "X Post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

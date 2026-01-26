@@ -22239,6 +22239,57 @@
     "published": true
   },
   {
+    "id": "matin-moradian-763",
+    "firstName": {
+      "fa": "متین ",
+      "en": "Matin"
+    },
+    "lastName": {
+      "fa": "مرادیان",
+      "en": "Moradian"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-17",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "‏بر اساس اطلاعات رسیده به ایران‌وایر، متین مرادیان، از کادر درمان بیمارستان امام‌رضا در مشهد، روز ۲۷ دی‌ماه با یورش نیروهای امنیتی به منزل شخصی‌اش بازداشت شده است.\n\nبه گفته منابع مطلع، ماموران امنیتی با ورود به خانه متین مرادیان، او را بازداشت و از محل منتقل کرده‌اند. تا کنون هیچ توضیح رسمی درباره دلیل بازداشت یا اتهامات احتمالی علیه این عضو کادر درمان منتشر نشده است.",
+      "en": "According to information received by IranWire, Matin Moradian, a medical staff member at Imam Reza Hospital in Mashhad, was arrested on January 17, 2026, when security forces raided his private home.\n\nAccording to informed sources, security agents entered Matin Moradian’s home, arrested him, and removed him from the scene. No official explanation has been released yet regarding the reason for the arrest or possible charges against the medical staff member."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/matin-moradian-763/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015509963922194933",
+        "title": "IranWire X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148132-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D9%85%D8%AA%DB%8C%D9%86-%D9%85%D8%B1%D8%A7%D8%AF%DB%8C%D8%A7%D9%86-%D8%A7%D8%B2-%D8%A7%D8%B9%D8%B6%D8%A7%DB%8C-%DA%A9%D8%A7%D8%AF%D8%B1-%D8%AF%D8%B1%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D9%85%D8%B4%D9%87%D8%AF/",
+        "title": "IranWire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "pouya-jafari-367",
     "firstName": {
       "fa": "پویا",
@@ -22271,7 +22322,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/pouya-jafari-367/profile.webp"
+    ],
     "links": [
       {
         "url": "https://x.com/EditclipI/status/2014013342680048087?s=20",
@@ -22284,7 +22337,7 @@
         "type": "social_media"
       }
     ],
-    "verified": false,
-    "published": false
+    "verified": true,
+    "published": true
   }
 ]

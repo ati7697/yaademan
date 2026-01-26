@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,54 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--515",
+    "firstName": {
+      "fa": "جمیله",
+      "en": null
+    },
+    "lastName": {
+      "fa": "شفیعی",
+      "en": null
+    },
+    "age": 66,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/147984-%D8%AC%D9%85%DB%8C%D9%84%D9%87-%D8%B4%D9%81%DB%8C%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DB%B1%DB%B9-%D8%AF%DB%8C-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "https://iranwire.com/fa/news-1/147984-%D8%AC%D9%85%DB%8C%D9%84%D9%87-%D8%B4%D9%81%DB%8C%D8%B9%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DB%B1%DB%B9-%D8%AF%DB%8C-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "type": "news"
+      },
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-191-1",
+        "title": "https://hengaw.net/fa/news/2026/01/article-191-1",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

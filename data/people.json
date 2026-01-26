@@ -22288,5 +22288,56 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "pouya-jafari-367",
+    "firstName": {
+      "fa": "پویا",
+      "en": "Pouya"
+    },
+    "lastName": {
+      "fa": "جعفری",
+      "en": "Jafari"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک کلاشینکف به سرش",
+      "en": "Shot in the head with a Kalashnikov"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": " لپویی",
+        "en": "Lapuee"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پویا جعفری، 15 ساله از شهر 13 هزار نفره ی لپویی در استان فارس در شب 18 دی با شلیک کلاشینکف به سرش کشته شد.",
+      "en": "Pouya Jafari, 15, from the city of Lepoi, a city of 13,000 people in Fars Province, was killed by a Kalashnikov gunshot to the head on the night of January 9."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/pouya-jafari-367/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/EditclipI/status/2014013342680048087?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/EditclipI/status/2015349964348535155?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

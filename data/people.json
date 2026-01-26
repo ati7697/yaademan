@@ -6898,7 +6898,7 @@
     "images": [],
     "links": [],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "alybhrvzdvst-230",
@@ -8281,7 +8281,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "rzachgny-270",
@@ -8325,7 +8325,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "manysfrpvr-271",
@@ -8467,7 +8467,7 @@
     },
     "lastName": {
       "fa": "مودت",
-      "en": "Modt"
+      "en": "Movadat"
     },
     "age": null,
     "birthDate": null,
@@ -8487,7 +8487,7 @@
     "status": "killed",
     "description": {
       "fa": "مازیار مودت کشته شد.",
-      "en": "Mazyar Modt was killed during protests."
+      "en": "Mazyar was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -8501,7 +8501,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mysmsabry-276",
@@ -8927,7 +8927,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "davvdjlyly-288",
@@ -9211,7 +9211,7 @@
     },
     "lastName": {
       "fa": "رباط جزی",
-      "en": "Rbat Jzi"
+      "en": "Robat Jazi"
     },
     "age": 22,
     "birthDate": null,
@@ -9224,14 +9224,14 @@
     "location": {
       "city": {
         "fa": "اسفراین",
-        "en": null
+        "en": "Esfarayen"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "سورنا رباط جزی در تاریخ 2026-01-09 در اسفراین کشته شد.",
-      "en": "Soorna Rbat Jzi was killed during protests."
+      "en": "Soorna Robat Jazi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9245,7 +9245,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "shylzylaby-297",
@@ -9465,7 +9465,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "sphrmvsvy-302",
@@ -9520,7 +9520,7 @@
     "id": "sfafrzanfr-303",
     "firstName": {
       "fa": "صفا",
-      "en": "Sfa"
+      "en": "Safa"
     },
     "lastName": {
       "fa": "فرزانفر",
@@ -9544,7 +9544,7 @@
     "status": "killed",
     "description": {
       "fa": "صفا فرزانفر کشته شد.",
-      "en": "Sfa Farzanfar was killed during protests."
+      "en": "Safa Farzanfar was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9558,7 +9558,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "msavdfghyh-zadh-304",
@@ -9656,7 +9656,7 @@
     },
     "lastName": {
       "fa": "داوری",
-      "en": "Daori"
+      "en": "Davari"
     },
     "age": null,
     "birthDate": null,
@@ -9676,7 +9676,7 @@
     "status": "killed",
     "description": {
       "fa": "اکبر داوری در تاریخ 2026-01-08 در کرج کشته شد.",
-      "en": "Akbar Daori was killed during protests."
+      "en": "Akbar Davari was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9690,7 +9690,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "hsynyghmayy-307",
@@ -9757,7 +9757,7 @@
     "location": {
       "city": {
         "fa": "اسلامشهر",
-        "en": null
+        "en": "Islamshahr"
       },
       "country": "Iran"
     },
@@ -9778,7 +9778,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhyarkakazadh-309",
@@ -9801,13 +9801,13 @@
     "location": {
       "city": {
         "fa": "پرند",
-        "en": null
+        "en": "Parand"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "مهیار کاکازاده در تاریخ 2026-01-08 در پرند کشته شد.",
+      "fa": "مهیار کاکازاده در تاریخ ۱۸ دی ۱۴۰۴ در پرند کشته شد.",
       "en": "Mahyar Kaka-zadeh was killed during protests."
     },
     "events": [
@@ -9822,7 +9822,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mtynkhsrvy-310",
@@ -10541,7 +10541,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mysmkhzayy-327",
@@ -10629,7 +10629,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "abvalghasmbabayy-329",
@@ -10673,7 +10673,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "alykhaldy-330",
@@ -10810,7 +10810,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mrymklath-333",
@@ -10854,7 +10854,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "arfanabdy-pvr-334",
@@ -10952,7 +10952,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "saydkyany-336",
@@ -10962,7 +10962,7 @@
     },
     "lastName": {
       "fa": "کیانی",
-      "en": "Kyani"
+      "en": "Kiani"
     },
     "age": 30,
     "birthDate": null,
@@ -10981,8 +10981,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "سعید کیانی در تاریخ 2026-01-09 در اصفهان کشته شد.",
-      "en": "Saeed Kyani was killed during protests."
+      "fa": "سعید کیانی در تاریخ ۱۹ دی ۱۴۰۴ در اصفهان کشته شد.",
+      "en": "Saeed Kiani was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -10996,7 +10996,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "zbydhrhymy-337",
@@ -11019,7 +11019,7 @@
     "location": {
       "city": {
         "fa": "گرگان",
-        "en": null
+        "en": "Gorgan"
       },
       "country": "Iran"
     },
@@ -11040,7 +11040,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "arshyakykhayy-338",
@@ -11436,7 +11436,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mjydjlylyan-347",
@@ -11502,8 +11502,8 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": "بزدانشهر",
-        "en": null
+        "fa": "یزدانشهر",
+        "en": "Yazdanshahr"
       },
       "country": "Iran"
     },
@@ -11524,7 +11524,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "yasynalhy-349",
@@ -11612,7 +11612,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mstfyghrbany-351",
@@ -11635,7 +11635,7 @@
     "location": {
       "city": {
         "fa": "گرگان",
-        "en": null
+        "en": "Gorgan"
       },
       "country": "Iran"
     },
@@ -11656,7 +11656,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "armyalachyany-352",
@@ -11679,13 +11679,13 @@
     "location": {
       "city": {
         "fa": "اصفهان",
-        "en": null
+        "en": "Isfahan"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "ارمیا لاچیانی در تاریخ 2026-01-08 در اصفهان کشته شد.",
+      "fa": "ارمیا لاچیانی در تاریخ ۱۸ دی ۱۴۰۴ در اصفهان کشته شد.",
       "en": "Armia Lachiani was killed during protests."
     },
     "events": [
@@ -11700,7 +11700,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "sjadpvrhsny-mghdm-353",
@@ -11744,7 +11744,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "rzamhmdy-354",
@@ -11798,7 +11798,7 @@
     },
     "lastName": {
       "fa": "یوسفی",
-      "en": "Yosfi"
+      "en": "Yousefi"
     },
     "age": 21,
     "birthDate": null,
@@ -11818,7 +11818,7 @@
     "status": "killed",
     "description": {
       "fa": "مانی یوسفی در تاریخ 2026-01-08 در کرج کشته شد.",
-      "en": "Mani Yosfi was killed during protests."
+      "en": "Mani Yousefi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -11837,7 +11837,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "aymannvrvzy-356",
@@ -11881,7 +11881,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhdyrhymy-shamlv-357",
@@ -11925,7 +11925,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "samanafsry-358",
@@ -11948,7 +11948,7 @@
     "location": {
       "city": {
         "fa": "شیراز",
-        "en": null
+        "en": "Shiraz"
       },
       "country": "Iran"
     },
@@ -11974,7 +11974,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "pvryaghlamaly-359",
@@ -12121,7 +12121,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhsadzfvlyan-krmanshahy-362",
@@ -12219,7 +12219,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "ramtynbzrg-mgham-364",
@@ -12483,7 +12483,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhmdnvbkht-370",
@@ -12713,7 +12713,7 @@
     },
     "lastName": {
       "fa": "رازگردانی شراهی",
-      "en": "Razgrdani Shrahi"
+      "en": "Razgrdani Sharahi"
     },
     "age": 25,
     "birthDate": null,
@@ -12733,7 +12733,7 @@
     "status": "killed",
     "description": {
       "fa": "امیرمهدی رازگردانی شراهی در تهران کشته شد.",
-      "en": "Amir Mehdi Razgrdani Shrahi was killed during protests."
+      "en": "Amir Mehdi Razgrdani Sharahi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -12747,7 +12747,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "hsynkhybry-376",
@@ -12879,7 +12879,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "myragharzayy-379",
@@ -12967,7 +12967,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "krymhydry-381",
@@ -13383,7 +13383,7 @@
     },
     "lastName": {
       "fa": "مهرابی",
-      "en": "Mhrabi"
+      "en": "Mehrabi"
     },
     "age": 18,
     "birthDate": null,
@@ -13403,7 +13403,7 @@
     "status": "killed",
     "description": {
       "fa": "پرهام مهرابی در تاریخ 2026-01-08 در مشهد کشته شد.",
-      "en": "Parham Mhrabi was killed during protests."
+      "en": "Parham Mehrabi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -13422,7 +13422,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "ayvbrsanh-391",
@@ -13652,7 +13652,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhmdhsynaman-396",
@@ -13706,7 +13706,7 @@
     },
     "lastName": {
       "fa": "مایلی",
-      "en": "Mayli"
+      "en": "Mayeli"
     },
     "age": 17,
     "birthDate": null,
@@ -13726,7 +13726,7 @@
     "status": "killed",
     "description": {
       "fa": "محسن مایلی کشته شد.",
-      "en": "Mohsen Mayli was killed during protests."
+      "en": "Mohsen Mayeli was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -13740,7 +13740,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "abvalfzlaghayy-398",
@@ -13784,7 +13784,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "ghzlghlndry-399",
@@ -14428,7 +14428,7 @@
     },
     "lastName": {
       "fa": "شیخ بو",
-      "en": "Sheikh Bo"
+      "en": "Sheikh Bou"
     },
     "age": 24,
     "birthDate": null,
@@ -14441,14 +14441,14 @@
     "location": {
       "city": {
         "fa": "مشهد",
-        "en": null
+        "en": "Mashhad"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "امیرحسین شیخ بو در تاریخ 2026-01-08 در مشهد کشته شد.",
-      "en": "Amir Hossein Sheikh Bo was killed during protests."
+      "en": "Amir Hossein Sheikh Bou was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -14462,7 +14462,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "bhnambrabady-413",
@@ -14472,7 +14472,7 @@
     },
     "lastName": {
       "fa": "برآبادی",
-      "en": "Br-abadi"
+      "en": "Barabadi"
     },
     "age": null,
     "birthDate": null,
@@ -14485,14 +14485,14 @@
     "location": {
       "city": {
         "fa": "سبزوار",
-        "en": null
+        "en": "Sabzevar"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "بهنام برآبادی در تاریخ 2026-01-09 در سبزوار کشته شد.",
-      "en": "Behnam Br-abadi was killed during protests."
+      "en": "Behnam Barabadi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -14506,7 +14506,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "bnyamynblvchy-414",
@@ -14516,7 +14516,7 @@
     },
     "lastName": {
       "fa": "بلوچی",
-      "en": "Blochi"
+      "en": "Balochi"
     },
     "age": 29,
     "birthDate": null,
@@ -14529,14 +14529,14 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "بنیامین بلوچی در تاریخ 2026-01-09 در نیشابور کشته شد.",
-      "en": "Benyamin Blochi was killed during protests."
+      "en": "Benyamin Balochi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -14550,7 +14550,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhmdamynkhatm-415",
@@ -14661,7 +14661,7 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
@@ -14682,7 +14682,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "amyrmhmdkhyat-418",
@@ -14705,7 +14705,7 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
@@ -14726,7 +14726,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mhdymhmdy-419",
@@ -14749,7 +14749,7 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
@@ -14770,7 +14770,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "alydyzabady-420",
@@ -14793,7 +14793,7 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
@@ -14814,7 +14814,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "hydrkrymy-421",
@@ -14837,7 +14837,7 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
@@ -14858,13 +14858,13 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "bharshadmhry-422",
     "firstName": {
       "fa": "بهار",
-      "en": "Bhar"
+      "en": "Bahar"
     },
     "lastName": {
       "fa": "شادمهری",
@@ -14881,14 +14881,14 @@
     "location": {
       "city": {
         "fa": "نیشابور",
-        "en": null
+        "en": "Neyshabur"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "بهار شادمهری در تاریخ 2026-01-09 در نیشابور کشته شد.",
-      "en": "Bhar Shadmhri was killed during protests."
+      "en": "Bahar Shadmhri was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -14907,7 +14907,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "tynahsyny-423",
@@ -14995,11 +14995,11 @@
     "id": "shrbyat-425",
     "firstName": {
       "fa": "سحر",
-      "en": "Shr"
+      "en": "Sahar"
     },
     "lastName": {
       "fa": "بیات",
-      "en": "Byat"
+      "en": "Bayat"
     },
     "age": null,
     "birthDate": null,
@@ -15019,7 +15019,7 @@
     "status": "killed",
     "description": {
       "fa": "سحر بیات کشته شد.",
-      "en": "Shr Byat was killed during protests."
+      "en": "Sahar Bayat was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -15033,7 +15033,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "ashkanalypvr-426",
@@ -15077,7 +15077,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "nrgsalmy-427",
@@ -15087,7 +15087,7 @@
     },
     "lastName": {
       "fa": "علمی",
-      "en": "Lmi"
+      "en": "Elmi"
     },
     "age": 20,
     "birthDate": null,
@@ -15107,7 +15107,7 @@
     "status": "killed",
     "description": {
       "fa": "نرگس علمی در تاریخ 2026-01-11 در تهران کشته شد.",
-      "en": "Narges Lmi was killed during protests."
+      "en": "Narges Elmi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -15126,7 +15126,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "alyrzasaydy-frd-428",
@@ -15170,7 +15170,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "khsrvasdy-knary-429",
@@ -15180,7 +15180,7 @@
     },
     "lastName": {
       "fa": "اسدی کناری",
-      "en": "Asdi Knari"
+      "en": "Asadi Kenari"
     },
     "age": 20,
     "birthDate": null,
@@ -15193,14 +15193,14 @@
     "location": {
       "city": {
         "fa": "فریدون کنار",
-        "en": null
+        "en": "Fereydunkenar"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "خسرو اسدی کناری در تاریخ 2026-01-08 در فریدون کنار کشته شد.",
-      "en": "Khosro Asdi Knari was killed during protests."
+      "en": "Khosro Asadi Kenari was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -15214,7 +15214,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "naznynasmy-khany-430",
@@ -15312,7 +15312,7 @@
       }
     ],
     "verified": false,
-    "published": false
+    "published": true
   },
   {
     "id": "mbynghnbry-432",
@@ -22067,7 +22067,7 @@
       "en": null
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [],
     "links": [
@@ -22111,7 +22111,7 @@
       "en": "Dr. Ameneh Soleimani was brutally arrested in Ardabil by Iran’s Islamic Revolutionary Guard Corps (IRGC) Intelligence agents for providing medical assistance to people injured during the protests.\n"
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
       "people/ameneh-soleimani-237/profile.jpeg"
@@ -22162,10 +22162,10 @@
       "en": "Masoud was full of life. His kidney transplant was not successful, but he lived. His dream was to build a greenhouse and he was going to have another kidney transplant. But he also had other dreams, one of which was extinguished in January of this year."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/masoud-sotoudehmehr-390/profile.jpeg"
+      "people/masoud-sotoudehmehr-390/profile.jpeg"
     ],
     "links": [
       {
@@ -22182,6 +22182,57 @@
         "url": "https://x.com/abrahamic_/status/2015246408303976535?s=20",
         "title": "Twitter/X",
         "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadreza-najafi-906",
+    "firstName": {
+      "fa": "محمدرضا",
+      "en": "Mohammadreza"
+    },
+    "lastName": {
+      "fa": "نجفی",
+      "en": "Najafi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Direct shooting by security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "شازند",
+        "en": "Shazand"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدرضا نجفی تنها فرزند پسر خانواده و فرزند یکی از آسیب‌دیدگان جنگ ایران و عراق بوده است. او در محدوده روبه‌روی آبشار شهر شازند، از روبه‌رو هدف شلیک تیر جنگی قرار گرفته و راویان می‌گویند ضاربان او ماموران سپاه پاسداران بوده‌اند. محمدرضا نجفی به‌عنوان راننده ماشین سنگین مشغول به کار بود و به گفته اطرافیان، علاقه‌ زیادی به موتور و موتورسواری داشت.",
+      "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
+    },
+    "events": [
+        "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/mohammadreza-najafi-906/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/147978-%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7-%D9%86%D8%AC%D9%81%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DB%B1%DB%B9%D8%AF%DB%8C-%D8%B4%D8%A7%D8%B2%D9%86%D8%AF-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "iranwire.com: Mohammadreza Najafi was killed in Shazand protests",
+        "type": "news"
+      },
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-190-1",
+        "title": "Hengaw.net: Mohammadreza Najafi was killed in Shazand protests",
+        "type": "news"
       }
     ],
     "verified": true,

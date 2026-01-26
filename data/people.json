@@ -22272,7 +22272,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-moradian-763/profile.jpg"
+      "people/matin-moradian-763/profile.jpg"
     ],
     "links": [
       {
@@ -22348,7 +22348,7 @@
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en":"Abbasi-Gorajoubi"
+      "en": "Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
@@ -22527,7 +22527,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mehrzad-nazari-907/profile.jpg"
+      "people/mehrzad-nazari-907/profile.jpg"
     ],
     "links": [
       {
@@ -22573,7 +22573,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hajar-eshaghi-908/profile.webp"
+      "people/hajar-eshaghi-908/profile.webp"
     ],
     "links": [
       {
@@ -22589,5 +22589,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "payam-faridian-532",
+    "firstName": {
+      "fa": "پیام ",
+      "en": "Payam"
+    },
+    "lastName": {
+      "fa": "فریدیان",
+      "en": "Faridian"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-22",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "ماموران امنیتی پنجشنبه۲بهمن۱۴۰۴ با یورش به کارگاه سفالگری پیام فریدیان، هنرمند عکاس و سفالگر ساکن مشهد او را بازداشت کردند از نهاد بازداشت کننده و اتهامات این هنرمند جوان مشهدی اطلاعی در دست نیست \nبازداشت شدگان را فراموش نکنیم",
+      "en": "Security agents raided the pottery workshop of Payam Faridian, a photographer and potter living in Mashhad, on 2026. There is no information about the arresting agency or the charges against this young artist. \nLet's not forget the detainees"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015661357165838820",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

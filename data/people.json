@@ -22395,5 +22395,51 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "bahar-hosseini-934",
+    "firstName": {
+      "fa": "بهار",
+      "en": "Bahar"
+    },
+    "lastName": {
+      "fa": "حسینی",
+      "en": "Hosseini"
+    },
+    "age": 3,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "نیشابور",
+        "en": "Neyshabur"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "توسط خبرگزاری‌های معتبر هنوز تایید نشده",
+      "en": "Not yet confirmed by reputable news agencies."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/bahar-hosseini-934/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/ShahramSadidi/status/2013977286840607199?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
   }
 ]

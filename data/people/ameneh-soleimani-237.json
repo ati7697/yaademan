@@ -1,0 +1,36 @@
+{
+  "id": "ameneh-soleimani-237",
+  "firstName": {
+    "fa": "آمنه",
+    "en": "Ameneh"
+  },
+  "lastName": {
+    "fa": "سلیمانی",
+    "en": "Soleimani"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": null,
+    "en": null
+  },
+  "incidentDate": null,
+  "location": {
+    "city": {
+      "fa": "اردبیل",
+      "en": "Ardabil"
+    },
+    "country": "Iran"
+  },
+  "status": "arrested",
+  "description": {
+    "fa": "دکتر آمنه سلیمانی به دلیل کمک و درمان معترضین دستگیر شده و معلوم نیست کجاست.",
+    "en": "Dr. Ameneh Soleimani was brutally arrested in Ardabil by Iran’s Islamic Revolutionary Guard Corps (IRGC) Intelligence agents for providing medical assistance to people injured during the protests.\n"
+  },
+  "events": [],
+  "images": [],
+  "links": [],
+  "verified": false,
+  "published": false
+}

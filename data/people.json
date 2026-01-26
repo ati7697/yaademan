@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,54 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "pouya-jafari-367",
+    "firstName": {
+      "fa": "پویا",
+      "en": "Pouya"
+    },
+    "lastName": {
+      "fa": "جعفری",
+      "en": "Jafari"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک کلاشینکف به سرش",
+      "en": "Shot in the head with a Kalashnikov"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": " لپویی",
+        "en": "Lapuee"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پویا جعفری، 15 ساله از شهر 13 هزار نفره ی لپویی در استان فارس در شب 18 دی با شلیک کلاشینکف به سرش کشته شد.",
+      "en": "Pouya Jafari, 15, from the city of Lepoi, a city of 13,000 people in Fars Province, was killed by a Kalashnikov gunshot to the head on the night of January 9."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/EditclipI/status/2014013342680048087?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/EditclipI/status/2015349964348535155?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

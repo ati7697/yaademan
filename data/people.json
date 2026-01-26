@@ -22819,5 +22819,187 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "ali-aali-pour-912",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "عالی ‌پور",
+      "en": "Aali-Pour"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-10",
+    "causeOfDeath": {
+      "fa": "ایست قلبی یک روز پس از آزادی از بازداشت",
+      "en": "Heart attack one day after being released from detention"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "پلدختر",
+        "en": "Poldokhtar"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "هنوز توسط سایت‌های دیگر تایید نشده. اما اطلاعات رسیده به ایران اینترنشنال نشان می دهد علی عالی پور، رییس هیات بوکس پلدختر یک روز پس از بازداشت در جریان انقلاب ملی ایرانیان، جان باخت. بنا بر این گزارش، او در ۱۹ دی ۱۴۰۴ بازداشت شد، اما شب هنگام آزاد شد، اما صبح روز بعد به دلیل سکته قلبی جان باخت.",
+      "en": "Not yet confirmed by other sites. However, information received by Iran International indicates that Ali Aali-Pour, the head of the boxing board in Poldokhtar, died one day after being detained during the National Iranian Revolution. According to this report, he was arrested on January 09, 2026, but was released that night, only to die the next morning due to a heart attack."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/ali-aali-pour-912/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/p/DT2bkTvklPO/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Iran Internation Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "hamed-shushtari-913",
+    "firstName": {
+      "fa": "حامد",
+      "en": "Hamed"
+    },
+    "lastName": {
+      "fa": "شوشتری",
+      "en": "Shushtari"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "تایید نشده",
+      "en": "Not confirmed yet"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/hamed-shushtari-913/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DTmFLpVEb9K/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "amirhossein-dolatabadi-914",
+    "firstName": {
+      "fa": "امیرحسین",
+      "en": "Amirhossein"
+    },
+    "lastName": {
+      "fa": "دولت‌آبادی",
+      "en": "Dolatabadi"
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرحسین دولت آبادی، ١٩ ساله در جریان اعتراضات مردمی در شهر اراک با شلیک مستقیم نیروهای حکومتی کشته شد",
+      "en": "Amirhossein Dolatabadi, 19, was killed during protests in Arak city by direct gunfire from government forces."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-184-1",
+        "title": "Hengaw news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sepehr-shokri-915",
+    "firstName": {
+      "fa": "سپهر",
+      "en": "Sepehr"
+    },
+    "lastName": {
+      "fa": "شکری",
+      "en": "Shokri"
+    },
+    "age": 25,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ویدئوی وایرال موسوم به «سپهر بابا کجایی؟» مربوط به پدر سپهر شکری است.",
+      "en": "The viral video known as 'Sepehr Baba Kojaei?' is related to Sepehr Shokri's father."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/sepehr-shokri-915/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DT86W6WE4np/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Iran International Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

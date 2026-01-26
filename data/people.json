@@ -15724,15 +15724,15 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": "مرودشت",
-        "en": "Marvdasht"
+        "fa": "اصفهان",
+        "en": "Isfahan"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "علی اصغر استخر در تاریخ 2026-01-09 در مرودشت کشته شد.",
-      "en": "Ali Asghar Estakhr was killed during protests."
+      "fa": "علی اصغر استخر اهل مرودشت در تاریخ 19 دی در اصفهان کشته شد.",
+      "en": "Ali Asghar Estakhr from Marvdasht was killed on January 9, 2026, in Isfahan during protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21854,12 +21854,12 @@
   {
     "id": "mohammad-goli-karbalayi-621",
     "firstName": {
-      "fa": "محمد گلی",
-      "en": "Mohammad Goli"
+      "fa": " کربلایی محمد",
+      "en": "Karbalaie Mohammad"
     },
     "lastName": {
-      "fa": "کربلایی",
-      "en": "Karbalayi"
+      "fa": "گلی",
+      "en": "Goli"
     },
     "age": null,
     "birthDate": null,
@@ -22063,10 +22063,12 @@
     },
     "status": "arrested",
     "description": {
-      "fa": "“مبین ارغوان” ۱۹ دی در گرگان دستگیر شده.\nبا خانوادش گرفته و گفته وضع خرابه و خواسته از هر طریق ممکن پیگیرش بشن.\nخانوادش تحت فشار شدیدن در‌حال حاضر. ",
+      "fa": "“مبین ارغوان” ۱۹ دی در گرگان دستگیر شده. با خانوادش گرفته و گفته وضع خرابه و خواسته از هر طریق ممکن پیگیرش بشن.خانوادش تحت فشار شدیدن در‌حال حاضر. ",
       "en": null
     },
-    "events": [],
+    "events": [
+        "2025-2026-iran-protests"
+    ],
     "images": [],
     "links": [
       {
@@ -22108,9 +22110,11 @@
       "fa": "دکتر آمنه سلیمانی به دلیل کمک و درمان معترضین دستگیر شده و معلوم نیست کجاست.",
       "en": "Dr. Ameneh Soleimani was brutally arrested in Ardabil by Iran’s Islamic Revolutionary Guard Corps (IRGC) Intelligence agents for providing medical assistance to people injured during the protests.\n"
     },
-    "events": [],
+    "events": [
+        "2025-2026-iran-protests"
+    ],
     "images": [
-        "people/ameneh-soleimani-237/profile.jpeg"
+      "people/ameneh-soleimani-237/profile.jpeg"
     ],
     "links": [
       {
@@ -22121,6 +22125,62 @@
       {
         "url": "https://x.com/pari_D_warrior/status/2015550002966204858?s=20",
         "title": "Twitter/X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "masoud-sotoudehmehr-390",
+    "firstName": {
+      "fa": "مسعود",
+      "en": "Masoud"
+    },
+    "lastName": {
+      "fa": "ستوده‌ مهر",
+      "en": "Sotoudehmehr"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "دزفول",
+        "en": "Dezful"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مسعود، پر از زندگی بود. پیوند کلیه‌ ش موفقیت‌ آمیز نبود، اما زندگی می‌کرد. آرزوش این بود گلخونه بزنه و قرار بود دوباره کلیه پیوند بزنه. اما آرزوهای دیگه هم داشت که برای یکی از اونها دی ماه امسال خاموش شد.",
+      "en": "Masoud was full of life. His kidney transplant was not successful, but he lived. His dream was to build a greenhouse and he was going to have another kidney transplant. But he also had other dreams, one of which was extinguished in January of this year."
+    },
+    "events": [
+        "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/masoud-sotoudehmehr-390/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/kn_wlm/status/2015171976264835485?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/nargeso0/status/2015600368852643888?s=20",
+        "title": "Twitter/X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/abrahamic_/status/2015246408303976535?s=20",
+        "title": "Twitter/X",
         "type": "social_media"
       }
     ],

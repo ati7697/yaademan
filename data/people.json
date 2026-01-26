@@ -22218,10 +22218,10 @@
       "en": "Mohammadreza Najafi was the only son of the family and the child of one of the victims of the Iran-Iraq war. He was targeted by gunfire in front of the waterfall area of Shazand city, and witnesses say his assailants were members of the IRGC. Mohammadreza Najafi worked as a heavy vehicle driver and, according to those around him, had a great interest in motorcycles and motorcycling."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammadreza-najafi-906/profile.webp"
+      "people/mohammadreza-najafi-906/profile.webp"
     ],
     "links": [
       {
@@ -22237,5 +22237,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--470",
+    "firstName": {
+      "fa": "مهرزاد",
+      "en": null
+    },
+    "lastName": {
+      "fa": "نظری",
+      "en": null
+    },
+    "age": 28,
+    "birthDate": null,
+    "deathDate": "2026-01-19",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-19",
+    "location": {
+      "city": {
+        "fa": "ممسنی",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهرزاد نظری، جوان ۲۸‌ساله لُر اهل روستای مراسخون از توابع شهرستان رستم استان فارس، روز ۱۹‌دی۱۴۰۴ در اعتراضات ممسنی در استان فارس با گلوله ماموران حکومت کشته شد\n",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/147985-%D9%85%D9%87%D8%B1%D8%B2%D8%A7%D8%AF-%D9%86%D8%B8%D8%B1%DB%8C-%D9%85%D8%B9%D8%AA%D8%B1%D8%B6-%DB%B2%DB%B8%D8%B3%D8%A7%D9%84%D9%87-%DB%B1%DB%B9%D8%AF%DB%8C-%D8%AF%D8%B1-%D9%85%D9%85%D8%B3%D9%86%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "https://iranwire.com/fa/news-1/147985-%D9%85%D9%87%D8%B1%D8%B2%D8%A7%D8%AF-%D9%86%D8%B8%D8%B1%DB%8C-%D9%85%D8%B9%D8%AA%D8%B1%D8%B6-%DB%B2%DB%B8%D8%B3%D8%A7%D9%84%D9%87-%DB%B1%DB%B9%D8%AF%DB%8C-%D8%AF%D8%B1-%D9%85%D9%85%D8%B3%D9%86%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

@@ -22272,7 +22272,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-moradian-763/profile.jpg"
+      "people/matin-moradian-763/profile.jpg"
     ],
     "links": [
       {
@@ -22348,7 +22348,7 @@
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en":"Abbasi-Gorajoubi"
+      "en": "Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
@@ -22527,7 +22527,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mehrzad-nazari-907/profile.jpg"
+      "people/mehrzad-nazari-907/profile.jpg"
     ],
     "links": [
       {
@@ -22573,7 +22573,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hajar-eshaghi-908/profile.webp"
+      "people/hajar-eshaghi-908/profile.webp"
     ],
     "links": [
       {
@@ -22589,5 +22589,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "shervin-bagheriyan-jebeli-373",
+    "firstName": {
+      "fa": "شروین ",
+      "en": "Shervin"
+    },
+    "lastName": {
+      "fa": "باقریان جبلی",
+      "en": "Bagheriyan Jebeli"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "جمهوری اسلامی «شروین باقریان جبلی» ۱۸ ساله ساکن اصفهان رو برده جلو دوربین، ازش به اتهام‌های واهی اعتراف گرفته و همون جلوی دوربین مزدور رژیم بهش گفته حکمت محاربه‌ست.\n\nشروین می‌پرسه محاربه یعنی چی؟!\nطرف میگه یعنی اعدام، و این جوون شروع می‌کنه به گریه.",
+      "en": "The Islamic Republic of Iran has taken 18-year-old Shervin Bagherian Jabali, a resident of Isfahan, in front of a camera, made him confess to trumped-up charges, and right in front of the camera, the regime's mercenary told him that the wisdom of war is war.\n\nShervin asks what does war mean?!\nThe other party says it means execution, and the young man starts crying."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015487133629534410",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

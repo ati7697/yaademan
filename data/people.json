@@ -21744,7 +21744,6 @@
     "description": {
       "fa": "بشير اكرامى ٢٢ ساله دانشجو از مشهد. اطلاعات اومده دنبالش اونو بردن هيج خبرى ازش نداريم.",
       "en": "Bashir Ekrami, 22, a student from Mashhad. According to the information we have, someone from the ministry of intelligence came and was taken away and there has been no news about him since."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21782,7 +21781,6 @@
     "description": {
       "fa": "یاسمین حجتی قمی دختر ۲۴ ساله که به همراه مادرش (هلن) زندگی میکرد به مدت یک هفته است که نه خبری از خودش هست و نه از مادرش.",
       "en": "Yasamin Hojati Qomi, 24, who lived with her mother (Helen), has been missing for a week, with no news about either of them."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21831,7 +21829,6 @@
     "description": {
       "fa": "نگینِ  رو روز ۲۲ دی ماه بردند و از مکانش اطلاعی ندارند. فقط تونسته تماسی با مادرش داشته باشه اما نمیدونسته کجاست",
       "en": "Yasamin Hojati Qomi, 24, who lived with her mother (Helen), has been missing for a week, with no news about either of them."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21880,7 +21877,6 @@
     "description": {
       "fa": "محمد گلی کشته شده اعتراضات نجف آباد در ۱۸ دی ماه محمد وقتی دید که مسئولان کلانتری نجف آباد دارند از سمت کلانتری به طرف مردم تیراندازی می کنند، با ماشین آتش نشانی به جلوی درب کلانتری حرکت کرد تا از معترضان حفاظت کند. بیش از ۱۱ تیر به بدنش اصابت کرد و همانجا کشته شد.",
       "en": "Mohammad Goli was killed in the Najaf Abad protests on January 8th. When he saw that the Najaf Abad police were shooting towards the people from the police station, he drove a fire truck to the front of the police station to protect the protesters. He was hit by more than 11 bullets and died on the spot."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21934,7 +21930,6 @@
     "description": {
       "fa": "امین پورفرهنگ، فارغ التحصیل مهندسی شیمی از دانشگاه صنعتی شریف و دانشجوی داروسازی دانشگاه فردوسی مشهد، در جریان اعتراضات اخیر در شهر شیروان (استان خراسان شمالی) بازداشت شد.",
       "en": "Amin Pourfarhang, a chemical engineering graduate from Sharif University of Technology and a pharmacy student at Ferdowsi University of Mashhad, was arrested during recent protests in Shirvan (North Khorasan Province)."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -21983,7 +21978,6 @@
     "description": {
       "fa": "ارسلان تراب آذری، ۱۷ ساله، در ایران بازداشت شده و خانواده‌اش هیچ خبری از او ندارند.",
       "en": "Arsalan Torab Azari, 17, has been arrested in Iran and his family does not know anything about him."
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -22016,8 +22010,8 @@
     "birthDate": null,
     "deathDate": "2026-01-09",
     "causeOfDeath": {
-        "fa": "کشته شده در ۱۹ دی",
-        "en": "Killed on January 9th"
+      "fa": "کشته شده در ۱۹ دی",
+      "en": "Killed on January 9th"
     },
     "incidentDate": "2026-01-09",
     "location": {
@@ -22031,7 +22025,6 @@
     "description": {
       "fa": "کشته شده تو هفت تیر مشهد، ۱۹ دی",
       "en": "Killed in Haft Tir, Mashhad, January 9th"
-
     },
     "events": [
       "2025-2026-iran-protests"
@@ -22042,6 +22035,48 @@
     "links": [],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "mobin-arghavan-905",
+    "firstName": {
+      "fa": "مبین",
+      "en": "Mobin"
+    },
+    "lastName": {
+      "fa": "ارغوان",
+      "en": "Arghavan"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "گرگان",
+        "en": "Gorgan"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "“مبین ارغوان” ۱۹ دی در گرگان دستگیر شده.\nبا خانوادش گرفته و گفته وضع خرابه و خواسته از هر طریق ممکن پیگیرش بشن.\nخانوادش تحت فشار شدیدن در‌حال حاضر. ",
+      "en": null
+    },
+    "events": [],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/Paya992/status/2015535878098047324?s=20",
+        "title": "Twitter/X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   },
   {
     "id": "ameneh-soleimani-237",

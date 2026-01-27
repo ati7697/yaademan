@@ -22272,7 +22272,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-moradian-763/profile.jpg"
+      "people/matin-moradian-763/profile.jpg"
     ],
     "links": [
       {
@@ -22348,7 +22348,7 @@
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en":"Abbasi-Gorajoubi"
+      "en": "Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
@@ -22527,7 +22527,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mehrzad-nazari-907/profile.jpg"
+      "people/mehrzad-nazari-907/profile.jpg"
     ],
     "links": [
       {
@@ -22573,7 +22573,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hajar-eshaghi-908/profile.webp"
+      "people/hajar-eshaghi-908/profile.webp"
     ],
     "links": [
       {
@@ -22624,7 +22624,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-habibi-574/profile.jpg"
+      "people/matin-habibi-574/profile.jpg"
     ],
     "links": [
       {
@@ -22670,7 +22670,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/shokoofeh-abdi-909/profile.webp"
+      "people/shokoofeh-abdi-909/profile.webp"
     ],
     "links": [
       {
@@ -22716,7 +22716,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammad-mirzaie-noushabadi-910/profile.jpg"
+      "people/mohammad-mirzaie-noushabadi-910/profile.jpg"
     ],
     "links": [
       {
@@ -22762,7 +22762,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/misagh-alidoust-126/profile.jpg"
+      "people/misagh-alidoust-126/profile.jpg"
     ],
     "links": [
       {
@@ -22808,7 +22808,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/alireza-seyed-saleh-911/profile.jpg"
+      "people/alireza-seyed-saleh-911/profile.jpg"
     ],
     "links": [
       {
@@ -22854,7 +22854,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-aali-pour-912/profile.jpg"
+      "people/ali-aali-pour-912/profile.jpg"
     ],
     "links": [
       {
@@ -22900,7 +22900,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hamed-shushtari-913/profile.jpg"
+      "people/hamed-shushtari-913/profile.jpg"
     ],
     "links": [
       {
@@ -22990,7 +22990,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/sepehr-shokri-915/profile.jpg"
+      "people/sepehr-shokri-915/profile.jpg"
     ],
     "links": [
       {
@@ -23001,5 +23001,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "soheil-karimi-624",
+    "firstName": {
+      "fa": "سهیل ",
+      "en": "Soheil"
+    },
+    "lastName": {
+      "fa": "کریمی",
+      "en": "Karimi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "missing",
+    "description": {
+      "fa": "سهیل کریمی ولی وقتی دید دارن یه دختر رو می‌زنن، وایساد و کمک کرد. همون‌جا با باتوم و قمه افتادن به جونش.  نیمه‌جون بود که بردنش.\nاز ۱۹ دی تا الان، نه کسی گفته بازداشته، نه کسی گفته زنده‌ست، نه حتی خبری از جسدش هست.\nسهیل رو فراموش نکنیم.",
+      "en": "When Soheil Karimi saw a girl being beaten, he stopped and helped her. They attacked him with batons and machetes right there. He was half dead when they took him away.\nFrom January 9, 2026, to now, no one has said he was arrested, no one has said he is alive, and there is not even any news of his body.\nLet's not forget Soheil."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015825859257475365",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

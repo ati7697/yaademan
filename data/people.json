@@ -22272,7 +22272,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-moradian-763/profile.jpg"
+      "people/matin-moradian-763/profile.jpg"
     ],
     "links": [
       {
@@ -22348,7 +22348,7 @@
     },
     "lastName": {
       "fa": "عباسی گوراجوبی",
-      "en":"Abbasi-Gorajoubi"
+      "en": "Abbasi-Gorajoubi"
     },
     "age": null,
     "birthDate": null,
@@ -22527,7 +22527,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mehrzad-nazari-907/profile.jpg"
+      "people/mehrzad-nazari-907/profile.jpg"
     ],
     "links": [
       {
@@ -22573,7 +22573,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hajar-eshaghi-908/profile.webp"
+      "people/hajar-eshaghi-908/profile.webp"
     ],
     "links": [
       {
@@ -22624,7 +22624,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/matin-habibi-574/profile.jpg"
+      "people/matin-habibi-574/profile.jpg"
     ],
     "links": [
       {
@@ -22670,7 +22670,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/shokoofeh-abdi-909/profile.webp"
+      "people/shokoofeh-abdi-909/profile.webp"
     ],
     "links": [
       {
@@ -22716,7 +22716,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammad-mirzaie-noushabadi-910/profile.jpg"
+      "people/mohammad-mirzaie-noushabadi-910/profile.jpg"
     ],
     "links": [
       {
@@ -22762,7 +22762,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/misagh-alidoust-126/profile.jpg"
+      "people/misagh-alidoust-126/profile.jpg"
     ],
     "links": [
       {
@@ -22808,7 +22808,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/alireza-seyed-saleh-911/profile.jpg"
+      "people/alireza-seyed-saleh-911/profile.jpg"
     ],
     "links": [
       {
@@ -22854,7 +22854,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-aali-pour-912/profile.jpg"
+      "people/ali-aali-pour-912/profile.jpg"
     ],
     "links": [
       {
@@ -22900,7 +22900,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hamed-shushtari-913/profile.jpg"
+      "people/hamed-shushtari-913/profile.jpg"
     ],
     "links": [
       {
@@ -22990,7 +22990,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/sepehr-shokri-915/profile.jpg"
+      "people/sepehr-shokri-915/profile.jpg"
     ],
     "links": [
       {
@@ -23001,5 +23001,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "sepehr-koushbaghi-790",
+    "firstName": {
+      "fa": "سپهر ",
+      "en": "Sepehr"
+    },
+    "lastName": {
+      "fa": "کوشکباغی",
+      "en": "Koushbaghi"
+    },
+    "age": 31,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-11",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "‏بر اساس گزارش رسیده به هه‌نگاو، در ادامه موج جدید بازداشت شهروندان بهایی، سپهر کوشکباغی، شهروند ۳۱ ساله بهایی و ساکن مشهد در تاریخ ٢١ دی ماه توسط نیروهای اداره اطلاعات بازداشت و به زندان مرکزی مشهد (وکیل‌آباد) منتقل شده است",
+      "en": "According to a report received by Hengaw, in the continuation of the new wave of arrests of Baha'i citizens, Sepehr Koushkbaghi, a 31-year-old Baha'i citizen and resident of Mashhad, was arrested by the Intelligence Department on January 11 and transferred to Mashhad Central Prison (Vakilabad)."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015895554648138016",
+        "title": "Hengaw Post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

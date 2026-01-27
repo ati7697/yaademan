@@ -23001,5 +23001,342 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "soheil-karimi-624",
+    "firstName": {
+      "fa": "سهیل ",
+      "en": "Soheil"
+    },
+    "lastName": {
+      "fa": "کریمی",
+      "en": "Karimi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "لاهیجان",
+        "en": "Lahijan"
+      },
+      "country": "Iran"
+    },
+    "status": "missing",
+    "description": {
+      "fa": "سهیل کریمی ولی وقتی دید دارن یه دختر رو می‌زنن، وایساد و کمک کرد. همون‌جا با باتوم و قمه افتادن به جونش.  نیمه‌جون بود که بردنش. از ۱۹ دی تا الان، نه کسی گفته بازداشته، نه کسی گفته زنده‌ست، نه حتی خبری از جسدش هست.سهیل رو فراموش نکنیم.",
+      "en": "When Soheil Karimi saw a girl being beaten, he stopped and helped her. They attacked him with batons and machetes right there. He was half dead when they took him away. From January 9, 2026, to now, no one has said he was arrested, no one has said he is alive, and there is not even any news of his body. Let's not forget Soheil."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/soheil-karimi-624/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015825859257475365",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/RealMeAban/status/2015190040394014850?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "venous-hossein-nejad-809",
+    "firstName": {
+      "fa": "ونوس",
+      "en": "Venous"
+    },
+    "lastName": {
+      "fa": "حسین نژاد",
+      "en": "Hossein-nejad"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-15",
+    "location": {
+      "city": {
+        "fa": "کرمان",
+        "en": "Kerman"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "ونوس حسین نژاد ، ۲۵ دی ۱۴۰۴ در کرمان بازداشت شده و تا امروز خبری از او نیست",
+      "en": "Venus Hossein Nejad was arrested on January 15, 2026 in Kerman and has not been heard from to this day."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/venous-hossein-nejad-809/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015735370659320185",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015512963143135322",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sepehr-koushbaghi-790",
+    "firstName": {
+      "fa": "سپهر ",
+      "en": "Sepehr"
+    },
+    "lastName": {
+      "fa": "کوشکباغی",
+      "en": "Koushkbaghi"
+    },
+    "age": 31,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-11",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هه‌نگاو، در ادامه موج جدید بازداشت شهروندان بهایی، سپهر کوشکباغی، شهروند ۳۱ ساله بهایی و ساکن مشهد در تاریخ ٢١ دی ماه توسط نیروهای اداره اطلاعات بازداشت و به زندان مرکزی مشهد (وکیل‌آباد) منتقل شده است",
+      "en": "According to a report received by Hengaw, in the continuation of the new wave of arrests of Baha'i citizens, Sepehr Koushkbaghi, a 31-year-old Baha'i citizen and resident of Mashhad, was arrested by the Intelligence Department on January 11 and transferred to Mashhad Central Prison (Vakilabad)."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/sepehr-koushbaghi-790/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015895554648138016",
+        "title": "Hengaw Post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "behrang-norouzi-269",
+    "firstName": {
+      "fa": "بهرنگ ",
+      "en": "Behrang"
+    },
+    "lastName": {
+      "fa": "نوروزی",
+      "en": "Norouzi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بهرنگ نوروزی، دستگیر شده در رشت و درخطر اعدام",
+      "en": "Behrang Norouzi, arrested in Rasht and at risk of execution"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/behrang-norouzi-269/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015807418022649900",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "ali-asadolahi-769",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "اسداللهی",
+      "en": "Asadolahi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-25",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "شب گذشته نیروهای امنیتی به منزل علی اسداللهی، شاعر و عضو کانون نویسندگان ایران یورش برده و با خشونت او را بازداشت کردند. تاکنون از محل نگهداری علی اسداللهی و نهاد بازداشت‌کننده اطلاعی در دست نیست. او برادر آنیشا اسداللهی، فعال کارگری زندانی است.",
+      "en": "On January 25, 2026, security forces raided the home of Ali Asadollahi, a poet and member of the Iranian Writers' Association, and violently arrested him. There is no information yet on Ali Asadollahi's whereabouts or the arresting agency.He is the brother of imprisoned labor activist Anisha Asadollahi."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/ali-asadolahi-769/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015552482177376269",
+        "title": "X Post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "shervin-bagheriyan-jebeli-373",
+    "firstName": {
+      "fa": "شروین ",
+      "en": "Shervin"
+    },
+    "lastName": {
+      "fa": "باقریان جبلی",
+      "en": "Bagheriyan Jebeli"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "جمهوری اسلامی «شروین باقریان جبلی» ۱۸ ساله ساکن اصفهان رو برده جلو دوربین، ازش به اتهام‌های واهی اعتراف گرفته و همون جلوی دوربین مزدور رژیم بهش گفته حکمت محاربه‌ست. شروین می‌پرسه محاربه یعنی چی؟! طرف میگه یعنی اعدام، و این جوون شروع می‌کنه به گریه.",
+      "en": "The Islamic Republic of Iran has taken 18-year-old Shervin Bagherian Jabali, a resident of Isfahan, in front of a camera, made him confess to trumped-up charges, and right in front of the camera, the regime's mercenary told him that his sentence is Moharebeh (waging war against God). Shervin asks, 'What does Moharebeh mean?!' The person replies, 'It means execution,' and this young man starts to cry."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/shervin-bagheriyan-jebeli-373/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015487133629534410",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/gh0lch0magh/status/2015489213198672339?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "payam-faridian-532",
+    "firstName": {
+      "fa": "پیام",
+      "en": "Payam"
+    },
+    "lastName": {
+      "fa": "فریدیان",
+      "en": "Faridian"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-22",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "ماموران امنیتی پنجشنبه ۲ بهمن ۱۴۰۴ با یورش به کارگاه سفالگری پیام فریدیان، هنرمند عکاس و سفالگر ساکن مشهد او را بازداشت کردند از نهاد بازداشت کننده و اتهامات این هنرمند جوان مشهدی اطلاعی در دست نیست بازداشت شدگان را فراموش نکنیم",
+      "en": "Security agents raided the pottery workshop of Payam Faridian, a photographer and potter living in Mashhad, on 2026. There is no information about the arresting agency or the charges against this young artist. Let's not forget the detainees"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/payam-faridian-532/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015661357165838820",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

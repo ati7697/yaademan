@@ -23338,5 +23338,56 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "roham-saadati-916",
+    "firstName": {
+      "fa": "رهام",
+      "en": "Roham"
+    },
+    "lastName": {
+      "fa": "سعادتی",
+      "en": "Saadati"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ماموران امنیتی جمهوری اسلامی، شامگاه پنج‌شنبه ۱۸ دی ۱۴۰۴ «رهام سعادتی»، نوجوان ۱۷ ساله و عضو تیم والیبال «ستارگان البرز» را با شلیک گلوله جنگی به قتل رساندند. رهام سعادتی متولد بهمن ۱۳۸۷ در کرج بود. والیبال را به صورت حرفه‌ای از دو سال قبل آغاز کرد و در صفحه اینستاگرامش، خود را هوادار استقلال و رئال مادرید معرفی کرده بود. او پنج‌شنبه ۱۸دی برای شرکت در اعتراضات سراسری در منطقه «چهارراه مصباح» کرج به تعدادی از دوستان و اقوامش می‌پیوندند ولی نیروهای امنیتی به قفسه سینه‌اش شلیک می‌کنند. یک منبع آگاه به ایران وایر گفته است که دوستانش پیکر بی‌جان او را ابتدا به درمانگاهی در چهارراه مصباح می‌برند. او گفته که دقایقی بعد خانواده رهام سعادتی به آن درمانگاه آمده و با وجود اصرار پرستاران و پزشک‌ها مبنی بر این‌که رهام فوت کرده، پیکر او را به بیمارستان خصوصی «آرام» کرج می‌برند. بامداد جمعه ۱۹دی گواهی فوت رهام سعادتی صادر می‌شود، اما خانواده‌اش یک روز بعد می‌توانند پیکر او را تحویل بگیرند.",
+      "en": "On the evening of Thursday, January 8, 2026, security agents of the Islamic Republic killed Roham Saadati, a 17-year-old teenager and member of the Alborz Stars volleyball team, with a gunshot. Roham Saadati was born in January 2009 in Karaj. He started playing volleyball professionally two years ago and introduced himself as a fan of Esteghlal and Real Madrid on his Instagram page. On Thursday, January 8, he joined several friends and relatives to participate in nationwide protests in the 'Chaharrah Mesbah' area of Karaj, but security forces shot him in the chest. An informed source told IranWire that his friends first took his lifeless body to a clinic in Chaharrah Mesbah. He said that minutes later, Roham Saadati's family came to that clinic and, despite the insistence of nurses and doctors that Roham had died, they took his body to the private 'Aram' hospital in Karaj. Early on Friday, January 9, Roham Saadati's death certificate was issued, but his family could only retrieve his body a day later."
+    },
+    "events": [
+        "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/roham-saadati-916/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148000-%D8%B1%D9%87%D8%A7%D9%85-%D8%B3%D8%B9%D8%A7%D8%AF%D8%AA%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DA%A9%D8%B1%D8%AC-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire news",
+        "type": "news"
+      },
+      {
+        "url": "https://www.iranintl.com/202601244946",
+        "title": "Iran International news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

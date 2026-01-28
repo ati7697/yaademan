@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "nima-ahmadi-420",
+    "firstName": {
+      "fa": "نیما",
+      "en": "Nima"
+    },
+    "lastName": {
+      "fa": "احمدی",
+      "en": "Ahmadi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "در تضاهرات توسط جمهوری اسلامی کشته شد",
+      "en": "Killed by the Islamic Republic during protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "خانواده جاوید نام ‎نیما احمدی میخوان صداشون باشید و نذارین اسم عزیزشون گم بشه بین اعداد و آمار. نیما احمدی ۱۹ دی در وکیل آباد مشهد به دست جمهوری اسلامی کشته شد",
+      "en": "The family of Nima Ahmadi wants you to be their voice and not let their beloved name be lost in numbers and statistics. Nima Ahmadi was killed on January 09 in Vakilabad, Mashhad by the Islamic Republic."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2016064988532629642",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

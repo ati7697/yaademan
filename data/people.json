@@ -23583,5 +23583,148 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "hadi-forough-818",
+    "firstName": {
+      "fa": "هادی",
+      "en": "Hadi"
+    },
+    "lastName": {
+      "fa": "فروغ",
+      "en": "Forough"
+    },
+    "age": 43,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "هادی فروغ، بسکتبالیست، قهرمان مسابقات دانشگاهی ایران و مربی بسکتبال، شامگاه ۱۸ دی ۱۴۰۴ در جریان انقلاب ملی ایرانیان در آریاشهر تهران با شلیک گلوله نیروهای سرکوب جمهوری اسلامی به سینه‌اش، کشته شد. و متولد دی ۱۳۶۱ و ۴۳ ساله بود و فوق لیسانس تربیت بدنی از دانشگاه بهشتی داشت. جاویدنام هادی فروغ یک پسر ۳ ساله دارد. جاویدنام فروغ با تیم بسکتبال پگاه همدان در لیگ برتر هم بازی کرده بود. او با تیم دانشگاه بهشتی، قهرمان مسابقات دانشگاه‌های کشور شد. در آن تیم ملی‌پوشانی مثل بهشاد عرب‌زاده و امیرحسین رضایی‌فر بازی می‌کردند. جاویدنام هادی فروغ یک فروشگاه فروش لپ‌تاپ و کامپیوتر در پاساژ نور تهران داشت.",
+      "en": "Hadi Forough, a basketball player, champion of Iranian university competitions, and basketball coach, was killed on the evening of January 8, 2026, during the National Iranian Revolution in Aryashahr, Tehran, by a gunshot to his chest from the suppressive forces of the Islamic Republic. He was born in January 1983 and was 43 years old, holding a master's degree in physical education from Beheshti University. Hadi Forough leaves behind a 3-year-old son. Forough played with the Pegah Hamedan basketball team in the Premier League. He became the champion of the country's university competitions with the Beheshti University team. National players like Behdad Arabzadeh and Amirhossein Rezaeifar played on that team. Hadi Forough owned a laptop and computer sales store in Noor Passage, Tehran."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/hadi-forough-818/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202601248442",
+        "title": "ایران اینترنشنال",
+        "type": "news"
+      },
+      {
+        "url": "https://www.radiozamaneh.com/875914",
+        "title": "رادیو زمانه",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "arman-ghahremani-918",
+    "firstName": {
+      "fa": "آرمان",
+      "en": "Arman"
+    },
+    "lastName": {
+      "fa": "قهرمانی",
+      "en": "Ghahremani"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "آرمان قهرمانی کشته شده در مهرآباد تهران",
+      "en": "Arman Ghahremani killed in Mehrabad, Tehran"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/arman-ghahremani-918/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/mamlekate/status/2013982907132432757?s=20",
+        "title": "https://x.com/mamlekate/status/2013982907132432757?s=20",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "ali-nouri-919",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "نوری",
+      "en": "Nouri"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/ali-nouri-919/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DT_IkB7DTko/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Iran internation Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

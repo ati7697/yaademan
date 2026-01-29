@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--680",
+    "firstName": {
+      "fa": "جابر",
+      "en": null
+    },
+    "lastName": {
+      "fa": "عبدی",
+      "en": null
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اسلام‌آباد غرب",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-178-1",
+        "title": "هنگاو",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

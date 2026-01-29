@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--136",
+    "firstName": {
+      "fa": "رزیتا",
+      "en": null
+    },
+    "lastName": {
+      "fa": "رخ‌زاده",
+      "en": null
+    },
+    "age": 32,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رزیتا رخ‌زاده، تعمیرکار خودرو که ویدیوهایی از خود حین کار را در شبکه اجتماعی اینستاگرام منتشر می‌کرد.",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D9%BE%D9%86%D8%AF%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%B1%D8%B2%DB%8C%D8%AA%D8%A7-%D8%B1%D8%AE%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87%D8%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%D8%AE%DB%8C%D8%B2%D8%B4-%D9%85%D9%84%DB%8C-%D8%A8%D9%87-%D8%B6%D8%B1%D8%A8-%DA%AF%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF-AGxqW23M",
+        "title": "ایندیپندنت",
+        "type": "video"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

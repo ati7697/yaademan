@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,54 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--734",
+    "firstName": {
+      "fa": "عباس",
+      "en": null
+    },
+    "lastName": {
+      "fa": "ملکی",
+      "en": null
+    },
+    "age": 34,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D9%BE%D9%86%D8%AF%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%85%D9%84%DA%A9%DB%8C-%D8%AC%D8%A7%D9%86%E2%80%8C%D8%A8%D8%A7%D8%AE%D8%AA%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D8%A8%D8%A7-%D8%B1%D9%82%D8%B5-%D9%88-%D9%BE%D8%A7%DB%8C%DA%A9%D9%88%D8%A8%DB%8C-ozZbSsTT",
+        "title": "ایندیپندنت فارسی",
+        "type": "video"
+      },
+      {
+        "url": "https://x.com/ManotoNews/status/2016828679435743687?s=20",
+        "title": "منوتو",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

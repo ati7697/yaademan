@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--401",
+    "firstName": {
+      "fa": "فرید",
+      "en": null
+    },
+    "lastName": {
+      "fa": "کرمی‌فرد",
+      "en": null
+    },
+    "age": 38,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "ضربات متعدد باتوم به سر",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "در اعتراضات شامگاه پنج‌شنبه، نیروهای جمهوری اسلامی فرید کریمی‌فرد را در خیابان «انقلاب» تهران مورد ضرب‌وشتم قرار دادند و آنقدر با باتوم بر سرش کوبیدند که جمجمه‌اش آسیب دید و جان داد. \n\nفرید مجرد بود. بعد از ضربات متعدد باتوم به سرش، با خودروی شخصی او را به بیمارستان «امام خمینی» رساندند اما دیر شده بود. ",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148297-%D9%81%D8%B1%DB%8C%D8%AF-%DA%A9%D8%B1%DB%8C%D9%85%DB%8C%D9%81%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A8%D8%A7%D8%AA%D9%88%D9%85-%D8%A8%D9%87-%D8%B3%D8%B1%D8%B4-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "ایران وایر",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--807",
+    "firstName": {
+      "fa": "حسن",
+      "en": null
+    },
+    "lastName": {
+      "fa": "قاسمی",
+      "en": null
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "اطلاعات رسیده به ایران اینترنشنال نشان می‌دهد حسن قاسمی، قهرمان و داور کاراته در استان اصفهان روز جمعه ۱۹ دی ۱۴۰۴ در جریان انقلاب ملی ایرانیان به دست نیروهای سرکوب و با شلیک گلوله جنگی در محله زینبیه شهر اصفهان کشته شد. فاطمه رضایی، همسر جاویدنام قاسمی، هم مربی کاراته است. آنها یک فرزند سه ساله دارند.",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202601194122",
+        "title": "ایران اینترنشنال",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

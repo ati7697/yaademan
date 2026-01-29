@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--382",
+    "firstName": {
+      "fa": "پارسا",
+      "en": null
+    },
+    "lastName": {
+      "fa": "معدنچیان",
+      "en": null
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پارسا معدنچیان، کودک ۱۷ سالە ساکن تهران، در جریان اعتراضات مردمی در خیابان کاشانی این شهر با شلیک مستقیم گلوله جنگی نیروهای سرکوبگر حکومتی به ناحیه‌ی سر کشته شد. به گفته‌ی منابع آگاه، این کودک ۱۷ ساله حین رفتن به اعتراضات به مادرش گفته بود دو کاپشن پوشیده تا اگر مورد اصابت گلوله هم قرار گرفت، تنها زخمی شود اما توسط نیروهای حکومتی از پشت به سر او شلیک شد و جان خود را از دست داد.پدر پارسا، از جانبازان جنگ هشت ساله ایران و عراق، بدلیل تحویل ندادن پیکر فرزندش ناچار به استفاده از کارت جانبازیش شده است. ",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/HengawO/status/2015693244437266940?s=20",
+        "title": "هنگاو",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

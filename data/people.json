@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,54 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--732",
+    "firstName": {
+      "fa": "امیرپارسا",
+      "en": null
+    },
+    "lastName": {
+      "fa": "اشکبوس",
+      "en": null
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرپارسا دانشجوی ورودی ۱۴۰۲ رشته میکروبیولوژی دانشگاه آزاد اسلامی واحد تهران شمال، در منطقه هفت‌حوض تهران از ناحیه گردن و از پشت مورد اصابت گلوله قرار گرفت و کشته شد. منابع نزدیک به او گفته‌اند که این جوان ۲۰ ساله به‌رغم «آسیب‌دیدگی شدید در ناحیه تاندون پا» و مشکل جدی در راه رفتن براهی همراهی معترضان به خیابان رفته بود. امیر پارسا در آخرین پیام خود پیش از رفتن به خیابان نوشته بود: «میرم تا حداقل قدمی برای همه‌مون برداشته باشم»",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/%D8%A7%D9%85%DB%8C%D8%B1%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D8%A7%D8%B4%DA%A9%D8%A8%D9%88%D8%B3%D8%8C-%D8%AC%D9%88%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA-%D8%AD%D9%88%D8%B6-%D8%AA%D9%87%D8%B1%D8%A7%D9%86--kxOsTZol",
+        "title": "ایندیپندنت فارسی",
+        "type": "video"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148037-%D8%A7%D9%85%DB%8C%D8%B1%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D8%A7%D8%B4%DA%A9%D8%A8%D9%88%D8%B3-%DB%B1%DB%B8%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA/",
+        "title": "ایران وایر",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

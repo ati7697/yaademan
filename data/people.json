@@ -23618,7 +23618,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23715,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {
@@ -23726,5 +23726,49 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "--938",
+    "firstName": {
+      "fa": "علی",
+      "en": null
+    },
+    "lastName": {
+      "fa": "محمددوست",
+      "en": null
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "چالوس",
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": "علی محمددوست، جوانی بود که ۱۸ دی در جریان اعتراضات چالوس با شلیک سلاح جنگی کشته شد. بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، علی آن‌قدر تنها بود که حتی کسی را نداشت در بیمارستان کنارش باشد یا پیکرش را پس از مرگ تحویل بگیرد.\n\nشغل علی فروشندگی لباس بود. او کار می‌کرد و برای مادر بیمارش پول می‌فرستاد."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202601291563",
+        "title": "ایران اینترنشنال",
+        "type": "news"
+      }
+    ],
+    "verified": false,
+    "published": false
   }
 ]

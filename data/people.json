@@ -15046,50 +15046,6 @@
     "published": true
   },
   {
-    "id": "shrbyat-425",
-    "firstName": {
-      "fa": "سحر",
-      "en": "Sahar"
-    },
-    "lastName": {
-      "fa": "بیات",
-      "en": "Bayat"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": {
-        "fa": null,
-        "en": null
-      },
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "سحر بیات کشته شد.",
-      "en": "Sahar Bayat was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/Mahestane_iran/status/2013670598992392345?s=20",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": false,
-    "published": true
-  },
-  {
     "id": "ashkanalypvr-426",
     "firstName": {
       "fa": "اشکان",

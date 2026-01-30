@@ -1,5 +1,54 @@
 [
   {
+    "id": "amir-abbas--ranae-600",
+    "firstName": {
+      "fa": "امیرعباس ",
+      "en": "Amir Abbas "
+    },
+    "lastName": {
+      "fa": "رعنایی",
+      "en": "Ranae"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏امیرعباس رعنایی، نوجوان ۱۷ ساله اهل مشهد، ۱۸ دی ۱۴۰۴ در میدان هفت‌تیر این شهر کشته شد.\nاو بوکسوری بااستعداد بود و در یک باشگاه ورزشی، در کنار علی حبیبی‌نژاد، بوکسور تیم ملی، تمرین می‌کرد. به گفته نزدیکانش، پس از چند روز بی‌خبری و پاسخ ندادن تلفن همراه و غیبت در باشگاه، نگرانی خانواده و دوستانش افزایش یافت تا اینکه مشخص شد او کشته شده است و تا زمان انتشار این خبر، پیکرش هنوز به خانواده تحویل داده نشده است",
+      "en": "Amirabbas Ranai, a 17-year-old teenager from Mashhad, was killed on January 8, 2026, in Haft-Tir Square in the city.\nHe was a talented boxer and trained at a sports club alongside Ali Habibinejad, a member of the national boxing team. According to those close to him, after several days of no contact, unanswered phone calls, and his absence from the gym, concern among his family and friends grew. It was later confirmed that he had been killed, and as of the time this news was published, his body had still not been handed over to his family."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.instagram.com/p/DUHeAE1jabo/?igsh=MTNzemVxejM1MTE1eA==",
+        "title": "IranIntl Instagram post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2017047678312468805",
+        "title": "IranIntl x post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": false
+  },
+  {
     "id": "ali-mohammad-doust-708",
     "firstName": {
       "fa": "علی ",

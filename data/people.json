@@ -1,5 +1,49 @@
 [
   {
+    "id": "azam-hasani-534",
+    "firstName": {
+      "fa": "اعظم",
+      "en": "Azam"
+    },
+    "lastName": {
+      "fa": "حسنی",
+      "en": "Hasani"
+    },
+    "age": 47,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "هنوز در خبرگزاری‌ها تایید نشده",
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.instagram.com/p/DT8QjPkF3RD/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ%3D%3D",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
     "id": "hamin-ghareh-hassanlou-726",
     "firstName": {
       "fa": "حمید",

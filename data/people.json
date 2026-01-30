@@ -1,8 +1,8 @@
 [
   {
-    "id": "amir-abbas--ranae-600",
+    "id": "amir-abbas-ranae-600",
     "firstName": {
-      "fa": "امیرعباس ",
+      "fa": "امیرعباس",
       "en": "Amir Abbas "
     },
     "lastName": {
@@ -26,13 +26,15 @@
     },
     "status": "killed",
     "description": {
-      "fa": "‏امیرعباس رعنایی، نوجوان ۱۷ ساله اهل مشهد، ۱۸ دی ۱۴۰۴ در میدان هفت‌تیر این شهر کشته شد.\nاو بوکسوری بااستعداد بود و در یک باشگاه ورزشی، در کنار علی حبیبی‌نژاد، بوکسور تیم ملی، تمرین می‌کرد. به گفته نزدیکانش، پس از چند روز بی‌خبری و پاسخ ندادن تلفن همراه و غیبت در باشگاه، نگرانی خانواده و دوستانش افزایش یافت تا اینکه مشخص شد او کشته شده است و تا زمان انتشار این خبر، پیکرش هنوز به خانواده تحویل داده نشده است",
+      "fa": "امیرعباس رعنایی، نوجوان ۱۷ ساله اهل مشهد، ۱۸ دی ۱۴۰۴ در میدان هفت‌تیر این شهر کشته شد.\nاو بوکسوری بااستعداد بود و در یک باشگاه ورزشی، در کنار علی حبیبی‌نژاد، بوکسور تیم ملی، تمرین می‌کرد. به گفته نزدیکانش، پس از چند روز بی‌خبری و پاسخ ندادن تلفن همراه و غیبت در باشگاه، نگرانی خانواده و دوستانش افزایش یافت تا اینکه مشخص شد او کشته شده است و تا زمان انتشار این خبر، پیکرش هنوز به خانواده تحویل داده نشده است",
       "en": "Amirabbas Ranai, a 17-year-old teenager from Mashhad, was killed on January 8, 2026, in Haft-Tir Square in the city.\nHe was a talented boxer and trained at a sports club alongside Ali Habibinejad, a member of the national boxing team. According to those close to him, after several days of no contact, unanswered phone calls, and his absence from the gym, concern among his family and friends grew. It was later confirmed that he had been killed, and as of the time this news was published, his body had still not been handed over to his family."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/amir-abbas-ranae-600/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://www.instagram.com/p/DUHeAE1jabo/?igsh=MTNzemVxejM1MTE1eA==",
@@ -23917,6 +23919,447 @@
       {
         "url": "https://www.instagram.com/reel/DT_IkB7DTko/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
         "title": "Iran internation Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "golnaz-naraqi-920",
+    "firstName": {
+      "fa": "گلناز",
+      "en": "Golnaz"
+    },
+    "lastName": {
+      "fa": "نراقی",
+      "en": "Naraqi"
+    },
+    "age": 41,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "دکتر گلناز نراقی متخصص طب اورژانش ،۴۱سال سن. محل کار بیمارستانهای هاشمی نژاد ،شهدای تجریش،حدود ده روز پیش در منزل شخصی ایشون بازداشت شده و خبری از محل بازداشت و سلامت ایشان نیست",
+      "en": "Dr. Golnaz Naraqi, an emergency medicine specialist, 41 years old. She worked at Hashemi Nejad and Shohada Tajrish hospitals. She was arrested about ten days ago at her home, and there is no news about her whereabouts or health."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/golnaz-naraqi-920/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/Mohsen121/status/2017002121032257717?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/KhatibiOfficial/status/2016651706570858987?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "hossein-zarrabian-921",
+    "firstName": {
+      "fa": "حسین",
+      "en": "Hossein"
+    },
+    "lastName": {
+      "fa": "ضرابیان",
+      "en": "Zarrabian"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "حسین ضرابیان، پزشک متخصص بیماری های عفونی، بیش از دو هفته ست که نیروهای امنیتی از داخل خونه اش توی اصفهان بردنش. از همون لحظه، همه چیز قطع شده؛ نه کسی می دونه کجاست، نه چه وضعیتی داره.",
+      "en": "Dr. Hossein Zarrabian, an infectious disease specialist, has been taken from his home in Isfahan by security forces. Since that moment, everything has been cut off; no one knows where he is or what his condition is."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/hossein-zarrabian-921/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/ellay_ve/status/2016876823414509778?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/bazdashti_ha/status/2016556728628682946?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirhossein-keshavarz-922",
+    "firstName": {
+      "fa": "امیرحسین",
+      "en": "Amir Hossein"
+    },
+    "lastName": {
+      "fa": "کشاورز",
+      "en": "Keshavarz"
+    },
+    "age": 21,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "منجیل",
+        "en": "Manjil"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "از دایرکت: «امکانش هست اسم امیرحسین کشاوز هم اعلام کنی؟  ۱۸دی منجیل دستگیر شده. کسی رو نداره دنبال کاراش باشه. ۲۱سالشه».",
+      "en": "From Direct Message: 'Is it possible to also announce the name of Amirhossein Keshavarz? He was arrested in Manjil on January 8. He has no one to follow up on his affairs. He is 21 years old.'"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/amirhossein-keshavarz-922/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/donyarad/status/2016975604474622125?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "pedram-sefarpoor-923",
+    "firstName": {
+      "fa": "پدرام",
+      "en": "Pedram"
+    },
+    "lastName": {
+      "fa": "صفرپور",
+      "en": "Sefarpoor"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "کرمان",
+        "en": "Kerman"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "پدرام صفرپور شهروند جوان کرمانی دستگیر و به مکان نامعلوم منتقل شده مادر پدرام فوت شده و ما تنها صدای این پسر خاکی و ساکتیم",
+      "en": "Pedram Sefarpoor, a young citizen of Kerman, has been arrested and transferred to an unknown location. Pedram's mother has passed away, and we are the only voice of this quiet and humble boy."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/pedram-sefarpoor-923/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/Hwqmo/status/2015850205531291682?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-ebrahimi-924",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "ابراهیمی",
+      "en": "Ebrahimi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "محمد ابراهیمی متولد ۱۳۷۸ در تهران است. لیسانس نقاشی دارد و به موسیقی فولک و الکترونیک علاقه مند است.",
+      "en": "Mohammad Ebrahimi was born in 1999 in Tehran. He has a bachelor's degree in painting and is interested in folk and electronic music."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/mohammad-ebrahimi-924/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/indastondast/status/2015851324928360710?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "maedeh-dolatabadi-925",
+    "firstName": {
+      "fa": "مائده",
+      "en": "Maedeh"
+    },
+    "lastName": {
+      "fa": "دولت آبادی",
+      "en": "Dolatabadi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "ارومیه",
+        "en": "Urmia"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "مائده دولت آبادی در تماس کوتاهی با مادرش گفت: «نجاتم بده مامان» مائده دولت آبادی در دی ماه ۱۴۰۴ در ارومیه بازداشت و اکنون با اتهام سب النبی روبروست. اشد مجازات سب النبی اعدام است! ",
+      "en": "Maedeh Dolatabadi in a brief call with her mother said: 'Save me, Mom.' Maedeh Dowlatabadi was arrested in Urmia in January 2026 and is now facing charges of blasphemy. The maximum punishment for blasphemy is execution!"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/maedeh-dolatabadi-925/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/Jeanne2022Rev/status/2017030355648131134?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "majid-khosh-manzar-926",
+    "firstName": {
+      "fa": "مجید",
+      "en": "Majid"
+    },
+    "lastName": {
+      "fa": "خوش منظر",
+      "en": "Khosh Manzar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2022-10-23",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "released",
+    "description": {
+      "fa": "مجید و پسرش امیررضا خوش منظر، پدر و پسری مشهدی، به دلیل از کار انداختن دوربین های شهری به منظور عدم دسترسی ماموران به اطلاعات در جریان اعتراضات، روز اول آبان ۱۴۰۱ بازداشت شد. مجید خوش منظر ۴۸ ساله بود که دستگیر شد. او کارمند ارشد مرکز کنترل ترافیک شهرداری مشهد و پسرش امیررضا نیز قهرمان بوکس است. او جمعه ۱۵ فروردین ۱۴۰۴ آزاد شد.",
+      "en": "Majid and his son Amir Reza Khosh Manzar, a father and son from Mashhad, were arrested on October 23, 2022, for disabling city cameras to prevent authorities from accessing information during protests. Majid Khosh Manzar was 48 years old when he was arrested. He was a senior employee at the Mashhad Municipality Traffic Control Center, and his son Amir Reza is also a boxing champion. He was released on April 4, 2025."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/majid-khosh-manzar-926/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/dadban4/status/1619775870100733952?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.hra-news.org/2025/hranews/a-54091/",
+        "title": "HRA News article",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirreza-khosh-manzar-927",
+    "firstName": {
+      "fa": "امیررضا",
+      "en": "Amir Reza"
+    },
+    "lastName": {
+      "fa": "خوش منظر",
+      "en": "Khosh Manzar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "امیررضا خوش منظر، پسر مجید خوش منظر از مشهدی، به دلیل از کار انداختن دوربین های شهری به منظور عدم دسترسی ماموران به اطلاعات در جریان اعتراضات، روز اول آبان ۱۴۰۱ بازداشت شدن. مجید خوش منظر کارمند ارشد مرکز کنترل ترافیک شهرداری مشهد و پسرش امیررضا نیز قهرمان بوکس است.بر اساس اطلاعات رسیده به ایران اینترنشنال، امیررضا خوش منظر، زندانی سیاسی سابق در جنبش زن،زندگی، آزادی، مجددا در دی یا بهمن ۱۴۰۴ بازداشت شده است.",
+      "en": "Amir Reza Khosh Manzar, the son of Majid Khosh Manzar from Mashhad, was arrested on October 23, 2022, for disabling city cameras to prevent authorities from accessing information during protests. Majid Khosh Manzar was a senior employee at the Mashhad Municipality Traffic Control Center, and his son Amir Reza is also a boxing champion. According to information received by Iran International, Amir Reza Khosh Manzar, a former political prisoner in the 'Women, Life, Freedom' movement, was re-arrested in January or February 2026."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/amirreza-khosh-manzar-927/profile.jpeg",
+      "people/majid-khosh-manzar-926/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/dadban4/status/1619775870100733952?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.iranintl.com/202601275080",
+        "title": "Iran International news",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/YEKIazYEKI/status/2016451583358181383?s=20",
+        "title": "X post",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-ali-momenzadeh-928",
+    "firstName": {
+      "fa": "محمدعلی",
+      "en": "Mohammad Ali"
+    },
+    "lastName": {
+      "fa": "مومن زاده",
+      "en": "Momenzadeh"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "از دایرکت: « محمدعلی مومن زاده، ۲۰ ساله، ۱۸دی توی اصفهان دستگیر شده. اسمش هیچ کجا نیست و میترسم بلایی سرش بیارن. خانواده اش تحت فشارن. قول آزادی با وثیقه دادن که طبیعتا اتفاق نیفتاد».",
+        "en": "From Direct Message: 'Mohammad Ali Momenzadeh, 20 years old, was arrested in Isfahan on January 8. His name is nowhere to be found, and I'm afraid something bad will happen to him. His family is under pressure. They promised release on bail, which naturally did not happen.'"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/mohammad-ali-momenzadeh-928/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/donyarad/status/2017022138792689962?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],

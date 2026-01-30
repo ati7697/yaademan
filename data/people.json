@@ -1,5 +1,49 @@
 [
   {
+    "id": "ali-mohammad-doust-708",
+    "firstName": {
+      "fa": "علی ",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "محمد دوست",
+      "en": "Mohammad-Doust"
+    },
+    "age": 13,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Direct fire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "چالوس",
+        "en": "Chalus"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "علی محمد دوست، جوانی بود که ۱۸ دی در جریان اعتراضات چالوس با شلیک سلاح جنگی کشته شد. بر اساس گزارش‌های رسیده به ایران‌اینترنشنال، علی آن‌قدر تنها بود که حتی کسی را نداشت در بیمارستان کنارش باشد یا پیکرش را پس از مرگ تحویل بگیرد. شغل علی فروشندگی لباس بود. او کار می‌کرد و برای مادر بیمارش پول می‌فرستاد.",
+      "en": "Ali Mohammad-Doust was a young man who was shot dead by a military weapon during the Chalus protests on January 8. According to reports received by Iran International, Ali was so lonely that he did not even have anyone to be with him in the hospital or to receive his body after his death. Ali's job was selling clothes. He worked and sent money to his sick mother."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202601291563",
+        "title": "Iran international news",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "azam-hasani-534",
     "firstName": {
       "fa": "اعظم",

@@ -1,5 +1,59 @@
 [
   {
+    "id": "sahar-bayat-134",
+    "firstName": {
+      "fa": "سحر",
+      "en": "Sahar"
+    },
+    "lastName": {
+      "fa": "بیات",
+      "en": "Bayat"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "از خاکسپاری او در تهران جلوگیری کردند و ناچار در تویسرکان ( شهر مادری ) به خاک میهن سپرده شد.",
+      "en": "They prevented her from being buried in Tehran, and she was forced to be buried in Tuyserkan (her hometown)."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/aban_khoonin/status/2013902155959140467?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Mahestane_iran/status/2013670598992392345?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://witness.report/people.php?peopleId=489f9a15-fca0-11f0-a725-560003f1f421",
+        "title": "Witness report website",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "daryoush-ansari-bakhtiarvand-1",
     "firstName": {
       "fa": "داریوش",
@@ -23618,7 +23672,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/hadi-forough-818/profile.jpg"
+      "people/hadi-forough-818/profile.jpg"
     ],
     "links": [
       {
@@ -23715,7 +23769,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ali-nouri-919/profile.jpg"
+      "people/ali-nouri-919/profile.jpg"
     ],
     "links": [
       {

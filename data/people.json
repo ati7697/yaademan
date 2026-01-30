@@ -1,5 +1,54 @@
 [
   {
+    "id": "hamin-ghareh-hassanlou-726",
+    "firstName": {
+      "fa": "حمید",
+      "en": "Hamin"
+    },
+    "lastName": {
+      "fa": "قره‌حسنلو",
+      "en": "Ghareh-Hassanlou"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2022-04-11",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": " حمید قره‌حسنلو متولد ۱۳۴۸ از بازداشت‌ شدگان در اعتراضات ۱۴۰۱ ایران، درویش گنابادی، پزشک و متخصص تصویربرداری پزشکی است که از متهمان پرونده روح‌الله عجمیان در جریان مراسم چهلم حدیث نجفی در شهر کرج بود. علیرغم وجود تناقضات فراوان در این پرونده وی ابتدا به اعدام و سپس به ۱۵ سال حبس در زندان یزد محکوم شد و در حال گذراندن دوران حبس است. حمید قره‌حسنلو به علت ضرب و شتم به بیمارستان وابسته به سپاه در کرج منتقل شد. یکی از همکاران او گفته: «این شرایط باعث شده بود تا ریه دکتر حمید دچار پارگی شود و خون‌ریزی داخلی ریه به قدری شدید بود که مشکل تنفس پیدا کرده بودند»",
+      "en": "Hamid Gharahasanloo, born in 1969, is one of the detainees in the 2022 protests in Iran, Darvish Gonabadi, a physician and medical imaging specialist who was one of the defendants in the case of Ruhollah Ajamian during the 40th Hadith of Najafi ceremony in the city of Karaj. Despite the many contradictions in this case, he was first sentenced to death and then to 15 years in prison in Yazd prison and is currently serving his sentence. Hamid Gharahasanloo was transferred to the IRGC-affiliated hospital in Karaj due to the beating. One of his colleagues said: These conditions caused Dr. Hamid's lung to rupture and the internal bleeding in the lung was so severe that he had difficulty breathing."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/gh0lch0magh/status/2004808871320453159?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%DB%8C%D8%AF_%D9%82%D8%B1%D9%87%E2%80%8C%D8%AD%D8%B3%D9%86%D9%84%D9%88",
+        "title": "Wikipedia",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "sahar-bayat-134",
     "firstName": {
       "fa": "سحر",

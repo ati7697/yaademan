@@ -3253,11 +3253,11 @@
     "id": "msavdzat-prvr-54",
     "firstName": {
       "fa": "مسعود",
-      "en": "Msod"
+      "en": "Masoud"
     },
     "lastName": {
       "fa": "ذات پرور",
-      "en": "Zat Pror"
+      "en": "Zatparvar"
     },
     "age": null,
     "birthDate": null,
@@ -3277,7 +3277,7 @@
     "status": "killed",
     "description": {
       "fa": "مسعود ذات‌پرور در تاریخ 2026-01-09 در رشت کشته شد.",
-      "en": "Msod Zat Pror was killed during protests."
+      "en": "Masoud Zatparvar was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

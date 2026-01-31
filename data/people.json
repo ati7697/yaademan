@@ -42,8 +42,8 @@
         "type": "news"
       }
     ],
-    "verified": false,
-    "published": false
+    "verified": true,
+    "published": true
   },
   {
     "id": "rasoul-salehi-443",

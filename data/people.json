@@ -3765,8 +3765,8 @@
   {
     "id": "akvmhmdy-65",
     "firstName": {
-      "fa": "آکو",
-      "en": "Ako"
+      "fa": "دیاکو",
+      "en": "Diako"
     },
     "lastName": {
       "fa": "محمدی",
@@ -3783,14 +3783,14 @@
     "location": {
       "city": {
         "fa": "قشم",
-        "en": null
+        "en": "Gheshm"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "آکو محمدی در تاریخ 2026-01-08 در قشم کشته شد.",
-      "en": "Ako Mohammadi was killed during protests."
+      "en": "Diako Mohammadi was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

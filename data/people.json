@@ -1,5 +1,54 @@
 [
   {
+    "id": "mohmmad-reza-ramezani-208",
+    "firstName": {
+      "fa": "محمدرضا",
+      "en": "Mohmmad Reza"
+    },
+    "lastName": {
+      "fa": "رمضانی",
+      "en": "Ramezani"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-13",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بازداشت «لقمه»، فودبلاگر معروف، در جریان اعتراضات مردمی. بر اساس اطلاعات رسیده محمدرضا رمضانی فودبلاگر و صاحب صفحه اینستاگرامی «لقمه» با بیش از یک میلیون و ۱۰۰ هزار دنبال‌ کننده، در تاریخ ۲۳ دی‌ ماه ۱۴۰۴ بازداشت شده است. گزارش‌های دریافتی حاکی از آن است که وی به همراه تعدادی از دوستانش بازداشت شده و از زمان دستگیری تاکنون، اطلاعی از وضعیت و محل نگهداری آن‌ها در دست نیست.",
+      "en": "Arrest of \"Loghme\", a famous food blogger, during public protests. According to information received, Mohammad Reza Ramezani, a food blogger and owner of the \"Loghme\" Instagram page with more than 1.1 million followers, was arrested on January 13, 2026. Reports indicate that he was arrested along with a number of his friends, and since the arrest, there is no information about their status or whereabouts."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/roozbehmon/status/2016306649896780283?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.instagram.com/loghme_/?hl=en",
+        "title": "Loghme Instagram page",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
+  },
+  {
     "id": "jahangir-kazemi-940",
     "firstName": {
       "fa": "جهانگیر",

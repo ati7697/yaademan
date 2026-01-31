@@ -1,5 +1,54 @@
 [
   {
+    "id": "jahangir-kazemi-940",
+    "firstName": {
+      "fa": "جهانگیر",
+      "en": "Jahangir"
+    },
+    "lastName": {
+      "fa": "کاظمی",
+      "en": "Kazemi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-14",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بر اساس اطلاعاتی که به دست ایران‌وایر رسیده است، جهانگیر (میلاد) کاظمی، متولد ۱۳۶۷، متاهل و پدر دو دختر ۲ ساله و ۹ ساله، نیمه‌ شب چهارشنبه ۲۴ دی‌ ماه ۱۴۰۴ در جریان یورش نیروهای امنیتی به منزلش در گوهردشت کرج منطقه محمودآباد بازداشت شده است.",
+      "en": "According to information obtained by IranWire, Jahangir (Milad) Kazemi, born in 1988, married and father of two daughters, 2 and 9 years old, was arrested at midnight on Wednesday, January 14, 2025, during a raid by security forces on his home in Gohardasht, Karaj, Mahmoudabad district."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148125-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%AC%D9%87%D8%A7%D9%86%DA%AF%DB%8C%D8%B1-%DA%A9%D8%A7%D8%B8%D9%85%DB%8C-%D8%A8%D8%B1%D9%82%DA%A9%D8%A7%D8%B1-%D8%B3%D8%A7%DA%A9%D9%86-%DA%AF%D9%88%D9%87%D8%B1%D8%AF%D8%B4%D8%AA-%DA%A9%D8%B1%D8%AC/",
+        "title": "IranWire",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/arioirani26/status/2015522895015920127?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
+  },
+  {
     "id": "zahra-nazari-271",
     "firstName": {
       "fa": "زهرا",
@@ -33,7 +82,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/zahra-nazari-271/profile.jpeg"
+      "people/zahra-nazari-271/profile.jpeg"
     ],
     "links": [
       {
@@ -84,7 +133,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/parisa-parkar-537/profile.png"
+      "people/parisa-parkar-537/profile.png"
     ],
     "links": [
       {
@@ -135,7 +184,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/masoud-ebadifard-azar-995/profile.png"
+      "people/masoud-ebadifard-azar-995/profile.png"
     ],
     "links": [
       {
@@ -240,7 +289,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/yazdan-tamanna-504/profile.jpg"
+      "people/yazdan-tamanna-504/profile.jpg"
     ],
     "links": [
       {

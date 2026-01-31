@@ -1,0 +1,44 @@
+{
+  "id": "hasan-ghaderi-861",
+  "firstName": {
+    "fa": "حسن",
+    "en": "hasan"
+  },
+  "lastName": {
+    "fa": "قادری",
+    "en": "ghaderi"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": "شلیک ماموران جمهوری اسلامی",
+    "en": null
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": {
+      "fa": "شازند",
+      "en": "shazand"
+    },
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "کشته شده در شهر شازند",
+    "en": null
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://x.com/i/status/2014364912269537702",
+      "title": "https://x.com/i/status/2014364912269537702",
+      "type": "social_media"
+    }
+  ],
+  "verified": false,
+  "published": false
+}

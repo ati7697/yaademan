@@ -1,9 +1,9 @@
 [
   {
-    "id": "zahrs-nazari-271",
+    "id": "zahra-nazari-271",
     "firstName": {
       "fa": "زهرا",
-      "en": "Zahrs"
+      "en": "Zahra"
     },
     "lastName": {
       "fa": "نظری",
@@ -32,7 +32,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/zahra-nazari-271/profile.jpeg"
+    ],
     "links": [
       {
         "url": "https://x.com/hana_humanright/status/2016463034290467086?s=20",
@@ -45,8 +47,8 @@
         "type": "social_media"
       }
     ],
-    "verified": false,
-    "published": false
+    "verified": true,
+    "published": true
   },
   {
     "id": "parisa-parkar-537",
@@ -81,7 +83,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/parisa-parkar-537/profile.png"
+    ],
     "links": [
       {
         "url": "https://x.com/bazdashti_ha/status/2016616101514199400?s=20",
@@ -130,7 +134,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/masoud-ebadifard-azar-995/profile.png"
+    ],
     "links": [
       {
         "url": "https://x.com/ellay_ve/status/2016601899374354552?s=20",
@@ -233,7 +239,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/yazdan-tamanna-504/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/mojtaba_najafi/status/2017291628424069425?s=20",

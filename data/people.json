@@ -1,5 +1,59 @@
 [
   {
+    "id": "masoud-ebadifard-azar-995",
+    "firstName": {
+      "fa": "مسعود",
+      "en": "Masoud"
+    },
+    "lastName": {
+      "fa": " عبادی‌فرد آذر",
+      "en": "Ebadifard Azar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "قزوین",
+        "en": "Qazvin"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بازداشت در سکوت کامل. دکتر مسعود عبادی‌فرد آذر، جراح خوشنام و رئیس بیمارستان پاستور قزوین، به‌همراه همسرش دکتر پریسا پرکار، چشم‌ پزشک، صرفاً به‌ دلیل کمک‌ رسانی به مجروحان در قزوین بازداشت شده‌اند.",
+      "en": "Arrested in complete silence. Dr. Masoud Ebadifard Azar, a renowned surgeon and head of Qazvin Pasteur Hospital, along with his wife, Dr. Parisa Parkar, an ophthalmologist, have been arrested simply for providing aid to the wounded in Qazvin."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/ellay_ve/status/2016601899374354552?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/bazdashti_ha/status/2016782390656372882?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/IranNewsAgency0/status/2016707017054855335?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-karimkhani-462",
     "firstName": {
       "fa": "محمد",

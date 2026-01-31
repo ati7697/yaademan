@@ -1,5 +1,52 @@
 [
   {
+    "id": "rasoul-salehi-443",
+    "firstName": {
+      "fa": "رسول",
+      "en": "Rasoul"
+    },
+    "lastName": {
+      "fa": "صالحى",
+      "en": "Salehi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-06",
+    "location": {
+      "city": {
+        "fa": "یزدان‌شهر",
+        "en": "Yazdanshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "رسول صالحى، در پی اعتراض به بازداشت جوانان یزدانشهر، دوشنبه ۱۶ دی ۱۴۰۴ بازداشت شد و در خطر صدور احکام سنگین قرار دارد.",
+      "en": "Rasoul Salehi was arrested on Monday, January 6, 2026, following a protest against the arrest of Yazdanshahr youth and is at risk of receiving severe sentences."
+    },
+    "events": [],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/justchangingun/status/2016293410160640152?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/RadioFarda_/status/2016806332456673581?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohmmad-reza-ramezani-208",
     "firstName": {
       "fa": "محمدرضا",

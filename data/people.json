@@ -297,8 +297,8 @@
         "type": "social_media"
       }
     ],
-    "verified": false,
-    "published": false
+    "verified": true,
+    "published": true
   },
   {
     "id": "masoud-ebadifard-azar-995",

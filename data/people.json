@@ -20874,15 +20874,15 @@
     "age": null,
     "birthDate": null,
     "deathDate": "2026-01-10",
-    "incidentDate": "2026-01-10",
     "causeOfDeath": {
       "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات مردمی",
       "en": "Killed by direct gunfire from government forces during public protests"
     },
+    "incidentDate": "2026-01-10",
     "location": {
       "city": {
-        "fa": "چاف",
-        "en": "Chaf"
+        "fa": "چاف و چمخاله",
+        "en": "Chaf and Chamkhaleh"
       },
       "country": "Iran"
     },

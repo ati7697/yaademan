@@ -1,0 +1,38 @@
+{
+  "id": "mohammad-najafi-492",
+  "firstName": {
+    "fa": "محمد",
+    "en": "mohammad"
+  },
+  "lastName": {
+    "fa": "نجفی",
+    "en": "najafi"
+  },
+  "age": 35,
+  "birthDate": null,
+  "deathDate": null,
+  "causeOfDeath": {
+    "fa": null,
+    "en": null
+  },
+  "incidentDate": "2026-01-16",
+  "location": {
+    "city": {
+      "fa": "اراک",
+      "en": "arak"
+    },
+    "country": "Iran"
+  },
+  "status": "arrested",
+  "description": {
+    "fa": "محکوم به اعدام",
+    "en": null
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [],
+  "verified": false,
+  "published": false
+}

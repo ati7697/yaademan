@@ -1,5 +1,54 @@
 [
   {
+    "id": "zahrs-nazari-271",
+    "firstName": {
+      "fa": "زهرا",
+      "en": "Zahrs"
+    },
+    "lastName": {
+      "fa": "نظری",
+      "en": "Nazari"
+    },
+    "age": 34,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-26",
+    "location": {
+      "city": {
+        "fa": "ایلام",
+        "en": "Ilam"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "سازمان حقوق بشر هانا مطلع شده ، روز دوشنبه ۶ بهمن‌ ماه ۱۴۰۴، یک شهروند کُرد با هویت زهرا نظری، ۳۴ ساله و اهل ایلام، در پی یورش نیروهای امنیتی به یک باشگاه ورزشی در این شهر، بازداشت و به مکان نامعلومی منتقل شده است. ",
+      "en": "The Human Rights Organization Hana has been informed that on Monday, February 26, 2026, a Kurdish citizen identified as Zahra Nazari, 34 years old and from Ilam, was arrested and transferred to an unknown location following a raid by security forces on a sports club in the city."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/hana_humanright/status/2016463034290467086?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/baharatish/status/2016410732586205579?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
+  },
+  {
     "id": "parisa-parkar-537",
     "firstName": {
       "fa": " پریسا",

@@ -4053,11 +4053,11 @@
     "id": "hlakvayvany-72",
     "firstName": {
       "fa": "هلاکو",
-      "en": "Hlako"
+      "en": "Holako"
     },
     "lastName": {
       "fa": "ایوانی",
-      "en": "Ayvani"
+      "en": "Ivani"
     },
     "age": null,
     "birthDate": null,
@@ -4077,7 +4077,7 @@
     "status": "killed",
     "description": {
       "fa": "هلاکو ایوانی در تاریخ 2026-01-08 در کرمانشاه کشته شد.",
-      "en": "Hlako Ayvani was killed during protests."
+      "en": "Holako Ivani was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

@@ -30,10 +30,10 @@
       "en": "Rasoul Salehi was arrested on Monday, January 6, 2026, following a protest against the arrest of Yazdanshahr youth and is at risk of receiving severe sentences."
     },
     "events": [
-        "2025-2026-iran-protests"
+      "2025-2026-iran-protests"
     ],
     "images": [
-        "people/rasoul-salehi-443/profile.jpeg"
+      "people/rasoul-salehi-443/profile.jpeg"
     ],
     "links": [
       {
@@ -84,7 +84,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohmmad-reza-ramezani-208/profile.jpg"
+      "people/mohmmad-reza-ramezani-208/profile.jpg"
     ],
     "links": [
       {
@@ -135,7 +135,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/jahangir-kazemi-940/profile.jpeg"
+      "people/jahangir-kazemi-940/profile.jpeg"
     ],
     "links": [
       {
@@ -24784,6 +24784,713 @@
         "url": "https://x.com/donyarad/status/2017022138792689962?s=20",
         "title": "X post",
         "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "daniyal-shahbakhsh",
+    "firstName": {
+      "fa": "دانیال",
+      "en": "Daniyal"
+    },
+    "lastName": {
+      "fa": "شهبخش",
+      "en": "Shahbakhsh"
+    },
+    "age": 11,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "دانیال شهبخش، ۱۱ ساله، در جریان جمعه خونین زاهدان با اصابت گلوله جنگی کشته شد.",
+      "en": "Daniyal Shahbakhsh (11) was killed in Zahedan during Bloody Friday after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "javad-poosheh",
+    "firstName": {
+      "fa": "جواد",
+      "en": "Javad"
+    },
+    "lastName": {
+      "fa": "پوشه",
+      "en": "Poosheh"
+    },
+    "age": 11,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جواد پوشه، ۱۱ ساله، در جریان جمعه خونین زاهدان جان باخت.",
+      "en": "Javad Poosheh (11) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-rakhshani-928",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "رخشانی",
+      "en": "Rakhshani"
+    },
+    "age": 12,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمد رخشانی، ۱۲ ساله، در جریان جمعه خونین زاهدان کشته شد.",
+      "en": "Mohammad Rakhshani (12) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "omid-sarani-928",
+    "firstName": {
+      "fa": "امید",
+      "en": "Omid"
+    },
+    "lastName": {
+      "fa": "سارانی",
+      "en": "Sarani"
+    },
+    "age": 13,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به سینه",
+      "en": "Shot in the chest with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امید سارانی، ۱۳ ساله، در زاهدان با اصابت گلوله جنگی به سینه کشته شد.",
+      "en": "Omid Sarani (13) was killed in Zahedan after being shot in the chest."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sedis-kashani-929",
+    "firstName": {
+      "fa": "سدیس",
+      "en": "Sedis"
+    },
+    "lastName": {
+      "fa": "کشانی",
+      "en": "Kashani"
+    },
+    "age": 14,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سدیس کشانی، ۱۴ ساله، در جریان جمعه خونین زاهدان کشته شد.",
+      "en": "Sedis Kashani (14) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "samer-hashemzehi-928",
+    "firstName": {
+      "fa": "سامر",
+      "en": "Samer"
+    },
+    "lastName": {
+      "fa": "هاشم‌زهی",
+      "en": "Hashemzehi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سامر هاشم‌زهی، ۱۶ ساله، در جریان جمعه خونین زاهدان جان باخت.",
+      "en": "Samer Hashemzehi (16) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "yaser-shahouzehi-928",
+    "firstName": {
+      "fa": "یاسر",
+      "en": "Yaser"
+    },
+    "lastName": {
+      "fa": "شاهوزهی",
+      "en": "Shahouzehi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به قلب",
+      "en": "Shot in the heart with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "یاسر شاهوزهی، ۱۶ ساله، در زاهدان با اصابت گلوله به قلب کشته شد.",
+      "en": "Yaser Shahouzehi (16) was killed in Zahedan after being shot in the heart."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "yaser-bahadorzehi-928",
+    "firstName": {
+      "fa": "یاسر",
+      "en": "Yaser"
+    },
+    "lastName": {
+      "fa": "بهادرزهی",
+      "en": "Bahadorzehi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "خاش",
+        "en": "Khash"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "یاسر بهادرزهی، ۱۷ ساله، در خاش در جریان جمعه خونین کشته شد.",
+      "en": "Yaser Bahadorzehi (17) was killed in Khash during Bloody Friday."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadamin-gomshadzehi-43",
+    "firstName": {
+      "fa": "محمدامین",
+      "en": "Mohammadamin"
+    },
+    "lastName": {
+      "fa": "گمشادزهی",
+      "en": "Gomshadzehi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدامین گمشادزهی، ۱۷ ساله، در زاهدان در جریان جمعه خونین کشته شد.",
+      "en": "Mohammadamin Gomshadzehi (17) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "jaber-shirouzehi",
+    "firstName": {
+      "fa": "جابر",
+      "en": "Jaber"
+    },
+    "lastName": {
+      "fa": "شیروزهی",
+      "en": "Shirouzehi"
+    },
+    "age": 12,
+    "birthDate": null,
+    "deathDate": "2022-09-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-09-30",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جابر شیروزهی، ۱۲ ساله، در جریان جمعه خونین زاهدان جان باخت.",
+      "en": "Jaber Shirouzehi (12) was killed during Bloody Friday in Zahedan."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/جمعه_خونین_زاهدان",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-ehbal-nabizadeh",
+    "firstName": {
+      "fa": "محمداقبال",
+      "en": "Mohammad Eghbal"
+    },
+    "lastName": {
+      "fa": "نابی‌زاده",
+      "en": "Nabizadeh"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-10-08",
+    "causeOfDeath": null,
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمداقبال نابی‌زاده، ۱۶ ساله، در جریان جمعه خونین زاهدان کشته شد. هویت او در برخی گزارش‌ها بدون شناسنامه ذکر شده است.",
+      "en": "Mohammad Eghbal Nabizadeh (16) was killed during the Bloody Friday events in Zahedan. Some reports note that he lacked official identification."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "omid-safarzahi",
+    "firstName": {
+      "fa": "امید",
+      "en": "Omid"
+    },
+    "lastName": {
+      "fa": "صفرزهی",
+      "en": "Safarzahi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-10-08",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به سر و گردن",
+      "en": "Shot in the head and neck with live ammunition"
+    },
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امید صفرزهی، ۱۷ ساله، در جریان جمعه خونین زاهدان با اصابت گلوله جنگی به سر و گردن کشته شد.",
+      "en": "Omid Safarzahi (17) was killed during the Bloody Friday events in Zahedan after being shot in the head and neck."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "unknown-mirshekar",
+    "firstName": {
+      "fa": "نامشخص",
+      "en": "Unknown"
+    },
+    "lastName": {
+      "fa": "میرشکار",
+      "en": "Mirshekar"
+    },
+    "age": 2,
+    "birthDate": null,
+    "deathDate": "2022-10-08",
+    "causeOfDeath": null,
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کودکی ۲ ساله با نام خانوادگی میرشکار در جریان جمعه خونین زاهدان کشته شد. نام کوچک او در منابع ذکر نشده است.",
+      "en": "A 2-year-old child with the last name Mirshekar was killed during the Bloody Friday events in Zahedan. The child’s first name was not reported."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Bloody Friday of Zahedan",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirhossein-basati",
+    "firstName": {
+      "fa": "امیرحسین",
+      "en": "Amirhossein"
+    },
+    "lastName": {
+      "fa": "بساطی",
+      "en": "Basati"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-10-10",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-10",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرحسین بساطی، ۱۵ ساله، در کرمانشاه با اصابت گلوله جنگی کشته شد.",
+      "en": "Amirhossein Basati (15) was killed in Kermanshah after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "aynaz-javaheri",
+    "firstName": {
+      "fa": "آیناز",
+      "en": "Aynaz"
+    },
+    "lastName": {
+      "fa": "جواهری",
+      "en": "Javaheri"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-10-16",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-16",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "آیناز جواهری، ۱۵ ساله، در کرمانشاه با اصابت گلوله جنگی جان باخت.",
+      "en": "Aynaz Javaheri (15) was killed in Kermanshah after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
       }
     ],
     "verified": true,

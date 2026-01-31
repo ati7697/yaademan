@@ -1,0 +1,21 @@
+{
+  "id": "2022-zahedan-massacre",
+  "name": {
+    "fa": "قتل عام زاهدان - جمعه خونین زاهدان",
+    "en": "22022 Zahedan massacre - Bloody Friday of Zahedan"
+  },
+  "description": {
+    "fa": "قتل عام زاهدان، که با نام جمعه خونین نیز شناخته می شود، مجموعه ای از سرکوب های خشونت آمیز بود که با تجمع و شعار دادن معترضان در مقابل یک ایستگاه پلیس در نزدیکی مصلی بزرگ زاهدان در تاریخ 30 سپتامبر 2022 آغاز شد و منجر به تلفات زیادی شد. علت اصلی این حادثه مرگ زن ایرانی مهسا امینی و ادعای تجاوز قبلی سرهنگ ابراهیم کوچک زایی در چابهار در جریان مصاحبه با یک دختر 15 ساله به دلیل وقوع یک پرونده قتل در خانه ای در همان نزدیکی بود.",
+    "en": "The Zahedan massacre, also known as Bloody Friday was a series of violent crackdowns starting with protesters gathering and chanting in front of a police station near the Great Mosalla of Zahedan, Iran on 30 September 2022 leading to many casualties. The main cause of the incident was the death of the Iranian woman Mahsa Amini, and an alleged prior incidence of rape by Colonel Ebrahim Kouchakzai in Chabahar during an interview with a 15-year-old girl because of the incidence of a murder case in a nearby house."
+  },
+  "startDate": "2022-09-30",
+  "endDate": null,
+  "tags": ["protest", "woman-life-freedom", "2022", "جمعه_خونین_زاهدان", "خدانور_لجه ای"],
+  "links": [
+    {
+      "url": "https://en.wikipedia.org/wiki/2022_Zahedan_massacre",
+      "title": "Wikipedia: 2022 Zahedan massacre",
+      "type": "wikipedia"
+    }
+  ]
+}

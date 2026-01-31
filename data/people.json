@@ -3445,11 +3445,11 @@
     "id": "khaldmlayy-58",
     "firstName": {
       "fa": "خالد",
-      "en": "Khald"
+      "en": "Khaled"
     },
     "lastName": {
       "fa": "ملایی",
-      "en": "Mlayi"
+      "en": "Mollaei"
     },
     "age": null,
     "birthDate": null,
@@ -3462,14 +3462,14 @@
     "location": {
       "city": {
         "fa": "بندرعباس",
-        "en": null
+        "en": "Bandar Abbas"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "خالد ملایی در تاریخ 2026-01-08 در بندرعباس کشته شد.",
-      "en": "Khald Mlayi was killed during protests."
+      "en": "Khaled Mollaei was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

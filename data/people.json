@@ -22489,8 +22489,8 @@
   {
     "id": "mohammad-goli-karbalayi-621",
     "firstName": {
-      "fa": " کربلایی محمد",
-      "en": "Karbalaie Mohammad"
+      "fa": "محمد",
+      "en": "Mohammad"
     },
     "lastName": {
       "fa": "گلی",
@@ -22499,7 +22499,10 @@
     "age": null,
     "birthDate": null,
     "deathDate": null,
-    "causeOfDeath": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
     "incidentDate": "2026-01-08",
     "location": {
       "city": {

@@ -3636,7 +3636,7 @@
     },
     "lastName": {
       "fa": "زمانی",
-      "en": "Zmani"
+      "en": "Zamani"
     },
     "age": null,
     "birthDate": null,
@@ -3656,7 +3656,7 @@
     "status": "killed",
     "description": {
       "fa": "محمد زمانی در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Mohammad Zmani was killed during protests."
+      "en": "Mohammad Zamani was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

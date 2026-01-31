@@ -1,5 +1,54 @@
 [
   {
+    "id": "parisa-parkar-537",
+    "firstName": {
+      "fa": " پریسا",
+      "en": "Parisa"
+    },
+    "lastName": {
+      "fa": "پرکار",
+      "en": "Parkar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "قزوین",
+        "en": "Qazvin"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "دکتر پریسا پرکار، چشم‌ پزشک ، به همراه همسرش مسعود عبادی‌فرد آذر، رئیس بیمارستان پاستور قزوین، توسط نیروهای امنیتی به دلیل ارائه خدمات درمانی به مجروحان در جریان اعتراضات مردمی در شهر قزوین بازداشت شده‌اند. تاکنون هیچ اطلاع رسمی درباره نهاد بازداشت‌کننده، محل نگهداری و وضعیت آنان منتشر نشده است.",
+      "en": "Dr. Parisa Parkar, an ophthalmologist, and her husband, Masoud Ebadifard Azar, the head of Qazvin Pasteur Hospital, have been arrested by security forces for providing medical care to those injured during popular protests in the city of Qazvin. No official information has been released about the arresting agency, their location, or their condition."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/bazdashti_ha/status/2016616101514199400?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/ellay_ve/status/2016601899374354552?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": false
+  },
+  {
     "id": "masoud-ebadifard-azar-995",
     "firstName": {
       "fa": "مسعود",

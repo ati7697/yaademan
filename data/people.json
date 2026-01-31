@@ -9103,15 +9103,15 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": "روستای چاف",
-        "en": null
+        "fa": "چاف و چمخاله",
+        "en": "Chaf and Chamkhaleh"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "عباس آرزو در تاریخ 2026-01-09 در روستای چاف کشته شد.",
-      "en": "Abbas Arzo was killed during protests."
+      "fa": "عباس آرزو ساکن شهر کوچک و ساحلی چاف در لنگرود در پی حمله نیروهای سرکوبگر به تجمع خانوادگی مردم این شهر کشته شد. در همین تجمع شعله ستوده نیز کشته شده است. شاهد این اتفاقات می‌گوید: «شعله در دستان همسر عباس جان باخت.»",
+      "en": "Abbas Arezo, a resident of the small coastal town of Chaf in Langrud, was killed after repressive forces attacked a family gathering in the town. Sholeh Sotoudeh was also killed in the same gathering. A witness to these events said: “Sholeh died in the hands of Abbas’s wife.”"
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9121,8 +9121,13 @@
     ],
     "links": [
       {
-        "url": "https://x.com/shadisadr/status",
-        "title": "Source 1",
+        "url": "https://x.com/pkhwshhal/status/2013616069483667591?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/dadban4/status/2014447668659884478?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],

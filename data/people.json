@@ -1,5 +1,54 @@
 [
   {
+    "id": "mohammad-karimkhani-462",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "کریمخانی",
+      "en": "Karimkhani"
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "نهاوند",
+        "en": "Nahavand"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "محمد کریمخانی ۱۹ ساله در فیروزان نهاوند بازداشت شده و هیچ خبری از وضعیت وی در دسترس نیست.",
+      "en": "Mohammad Karimkhani, 19, was arrested in Firozan, Nahavand, and no news is available about his condition."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/Daikatuo/status/2016212486135914829?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/pouyajegarvnd/status/2016085069597720740?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "yazdan-tamanna-504",
     "firstName": {
       "fa": "یزدان",

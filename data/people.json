@@ -1,5 +1,59 @@
 [
   {
+    "id": "yazdan-tamanna-504",
+    "firstName": {
+      "fa": "یزدان",
+      "en": "Yazdan"
+    },
+    "lastName": {
+      "fa": "تمنا",
+      "en": "Tamanna"
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم به پیشانی",
+      "en": "Direct shot to the forehead"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "یزدان تمنا ۱۹ ساله در مشهد توسط سرکوب‌ گران خامنه‌ای با شلیک مستقیم به پیشانی به قتل رسید. ",
+      "en": "Yazdan Tamana, 19, was murdered in Mashhad  by Khamenei's oppressors with a direct shot to the forehead."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/mojtaba_najafi/status/2017291628424069425?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/AngelaGhayour_/status/2015445914219917527?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/joia994/status/2015464219274101084?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "amir-abbas-ranae-600",
     "firstName": {
       "fa": "امیرعباس",

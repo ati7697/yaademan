@@ -33,7 +33,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/amir-abbas-ranae-600/profile.jpg"
+      "people/amir-abbas-ranae-600/profile.jpg"
     ],
     "links": [
       {
@@ -9116,7 +9116,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/abasarzv-284/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/shadisadr/status",
@@ -24348,7 +24350,7 @@
     "status": "arrested",
     "description": {
       "fa": "از دایرکت: « محمدعلی مومن زاده، ۲۰ ساله، ۱۸دی توی اصفهان دستگیر شده. اسمش هیچ کجا نیست و میترسم بلایی سرش بیارن. خانواده اش تحت فشارن. قول آزادی با وثیقه دادن که طبیعتا اتفاق نیفتاد».",
-        "en": "From Direct Message: 'Mohammad Ali Momenzadeh, 20 years old, was arrested in Isfahan on January 8. His name is nowhere to be found, and I'm afraid something bad will happen to him. His family is under pressure. They promised release on bail, which naturally did not happen.'"
+      "en": "From Direct Message: 'Mohammad Ali Momenzadeh, 20 years old, was arrested in Isfahan on January 8. His name is nowhere to be found, and I'm afraid something bad will happen to him. His family is under pressure. They promised release on bail, which naturally did not happen.'"
     },
     "events": [
       "2025-2026-iran-protests"

@@ -3861,7 +3861,7 @@
     "id": "slammyrany-67",
     "firstName": {
       "fa": "سلام",
-      "en": "Slam"
+      "en": "Salaam"
     },
     "lastName": {
       "fa": "میرانی",
@@ -3877,15 +3877,15 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": "سروآباد",
-        "en": "Sarvabad"
+        "fa": "تهران",
+        "en": "Tehran"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
       "fa": "سلام میرانی در تاریخ 2026-01-08 در سروآباد کشته شد.",
-      "en": "Slam Mirani was killed during protests."
+      "en": "Salaam Mirani was killed during protests."
     },
     "events": [
       "2025-2026-iran-protests"

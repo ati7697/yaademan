@@ -14674,12 +14674,12 @@
     },
     "age": null,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "دیزیچه",

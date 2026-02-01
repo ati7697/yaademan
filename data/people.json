@@ -1,5 +1,59 @@
 [
   {
+    "id": "arefeh-beigi-131",
+    "firstName": {
+      "fa": "عارفه",
+      "en": "Arefeh"
+    },
+    "lastName": {
+      "fa": "بیگی",
+      "en": "Beigi"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": " شلیک نیروهای امنیتی جمهوری اسلامی",
+      "en": "Shot by security forces of the Islamic Republic"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عارفه بیگی، ۲۰ ساله، اهل زرین‌ شهر اصفهان، روز ۱۸ دی‌ ماه ۱۴۰۴ در جریان اعتراضات مردمی هدف شلیک نیروهای امنیتی جمهوری اسلامی قرار گرفت و جان خود را از دست داد. بر اساس اطلاعات رسیده، ابتدا گلوله‌ای به پهلوی او شلیک شد و در حالی که هنوز زنده بود، با شلیک گلوله‌ای دیگر به سرش، کشته شد. عارفه بیگی تنها یک روز پیش از کشته شدنش در شبکه اجتماعی ایکس نوشته بود: «حس خیلی عجیبی دارم و مطمئنم این حسو ۱۴۰۱ تجربه نکردم.» طبق گزارش‌های منتشر شده، خانواده عارفه اعلام کرده‌اند برای تحویل پیکر او مجبور به پرداخت مبلغ ۷۵۰ میلیون تومان تحت عنوان «حق تیر» شده‌اند. پیکر این دختر جوان هشت روز پس از کشته شدن، ساعت شش صبح، تحت تدابیر شدید امنیتی به خاک سپرده شد.",
+      "en": "Arefeh Beigi, 20, from Zarrinshahr, Isfahan, was shot by security forces of the Islamic Republic of Iran on January 8, 2026, during public protests and lost her life. According to information received, she was first shot in the side and then killed by another shot in the head while she was still alive. Just one day before her death, Arefe Beigi had written on the social network X: “I have a very strange feeling and I am sure I did not experience this feeling in 2022.” According to published reports, Arefe’s family announced that they had been forced to pay 750 million tomans as “gun fees” to receive her body. The body of this young girl was buried eight days after her death, at six in the morning, under strict security measures."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/dadban4/status/2015196017403293725?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/nimaavidnia/status/2014930931568594945?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/nemi_donm/status/2008973382063374349?s=20",
+        "title": "Last post of Arefeh on X",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "nahayat-rahimi-dashti-312",
     "firstName": {
       "fa": "نهایت",

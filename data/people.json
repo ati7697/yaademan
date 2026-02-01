@@ -1,5 +1,54 @@
 [
   {
+    "id": "taha-naderi-samiromi-564",
+    "firstName": {
+      "fa": "طاها",
+      "en": "Taha"
+    },
+    "lastName": {
+      "fa": "نادری سمیرمی",
+      "en": "Naderi Samiromi"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2026-01-10",
+    "causeOfDeath": {
+      "fa": "هدف گلوله به ناحیه شاهرگ ران پا ",
+      "en": "Shot in the femoral artery"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "شهرضا",
+        "en": "Shahreza"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنابر اطلاع «ایران‌وایر»، «طاها نادری سمیرمی»، ۱۸ ساله، پنجشنبه ۱۸ دی ۱۴۰۴ در اعتراضات مردم شهرضا هدف گلوله ماموران قرار گرفت. طاها نادری سمیرمی، ابتدا از ناحیه شاهرگ ران پا هدف گلوله قرار گرفت. مردم او را به بیمارستان منتقل کردند و پزشکان از ۱۸ تا ۲۰ دی برای نجات او چند عمل جراحی انجام دادند. یکی از نزدیکان این پسر ۱۸ ساله به ایران‌وایر می‌گوید: «آخرین تصمیم جراحان این بود که پای او را برای حفظ جانش قطع کنند. اما با وجود این تصمیم و شدت آسیب‌های وارد شده از یک سو و از دست دادن خون روز ۲۰ دی ۱۴۰۴ جان باخت.»",
+      "en": "According to IranWire, Taha Naderi Semiromi, 18, was shot by officers during protests in Shahreza on Thursday, January 8, 2026. Taha Naderi Semiromi was initially shot in the femoral artery. He was taken to the hospital, and doctors performed several surgeries to save him from January 8 to 10. A relative of the 18-year-old boy told IranWire: “The surgeons’ final decision was to amputate his leg to save his life. However, despite this decision and the severity of the injuries sustained on one side and the loss of blood, he died on January 10, 2026.”"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017950909708304857",
+        "title": "https://x.com/i/status/2017950909708304857",
+        "type": "social_media"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148524-%D9%82%D8%B7%D8%B9-%D9%BE%D8%A7-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%86%D8%AC%D8%A7%D8%AA-%D8%B7%D8%A7%D9%87%D8%A7-%D9%86%D8%A7%D8%AF%D8%B1%DB%8C-%D9%85%D9%88%D8%AB%D8%B1-%D9%86%D8%B4%D8%AF-%D9%88-%D8%AC%D8%A7%D9%86-%D8%A8%D8%A7%D8%AE%D8%AA/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohsen-alaeipour-357",
     "firstName": {
       "fa": "محسن",

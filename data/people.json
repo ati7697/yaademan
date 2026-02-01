@@ -17179,12 +17179,12 @@
     },
     "age": 20,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "کرج",
@@ -17206,6 +17206,16 @@
         "url": "https://x.com/Amymous021/status/2013719743929123304?s=20",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-191-1",
+        "title": "https://hengaw.net/fa/news/2026/01/article-191-1",
+        "type": "news"
+      },
+      {
+        "url": "https://www.iranintl.com/202601233574",
+        "title": "https://www.iranintl.com/202601233574",
+        "type": "news"
       }
     ],
     "verified": true,
@@ -26610,6 +26620,104 @@
       },
       {
         "url": "https://x.com/kalamehfarsitv/status/2017643383158935983?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "somayeh-rezaei-921",
+    "firstName": {
+      "fa": "سمیه",
+      "en": "Somayeh"
+    },
+    "lastName": {
+      "fa": "رضایی",
+      "en": "Rezaei"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "همدان",
+        "en": "Hamedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رتضی ذوم پوش و سمیه رضایی، زوج جوانی که فرزندی دانش‌آموز پایه نهم داشتند، شامگاه ۱۸ دی‌ماه ۱۴۰۴ هنگام بازگشت به خانه در میدان دانشگاه همدان، هدف حمله وحشیانه نیروهای مسلح رژیم قرار گرفتند. نیروهای مهاجم با باتوم و سلاح ساچمه‌ای به آن‌ها حمله کردند. ۳۴ گلوله ساچمه‌ای مستقیماً به صورت مرتضی شلیک کردند و مقابل چشمان همسرش با باتوم سر او را در هم کوبیدند. سپس به سمیه حمله کرده و ۲۷ گلوله ساچمه‌ای به سر و صورت او شلیک کردند و با ضربات متعدد از پشت، جمجمه‌اش را شکستند. ",
+      "en": "Morteza Zoumpoush and Somayeh Rezaei, a young couple with a ninth-grade student child, were violently attacked by the armed forces of the regime on the evening of January 8, 2026, while returning home in Daneshgah Square, Hamedan. The attacking forces assaulted them with batons and pellet guns. They fired 34 pellet bullets directly into Morteza's face and crushed his head with a baton in front of his wife's eyes. They then attacked Somayeh, shooting 27 pellet bullets into her head and face and breaking her skull with multiple blows from behind."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/aban_khoonin/status/2014727803443265550?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/isamanyasin/status/2014735452515766722?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "morteza-zoumpoush-920",
+    "firstName": {
+      "fa": "مرتضی",
+      "en": "Morteza"
+    },
+    "lastName": {
+      "fa": "ذوم پوش",
+      "en": "Zoumpoush"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "همدان",
+        "en": "Hamedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رتضی ذوم پوش و سمیه رضایی، زوج جوانی که فرزندی دانش‌آموز پایه نهم داشتند، شامگاه ۱۸ دی‌ماه ۱۴۰۴ هنگام بازگشت به خانه در میدان دانشگاه همدان، هدف حمله وحشیانه نیروهای مسلح رژیم قرار گرفتند. نیروهای مهاجم با باتوم و سلاح ساچمه‌ای به آن‌ها حمله کردند. ۳۴ گلوله ساچمه‌ای مستقیماً به صورت مرتضی شلیک کردند و مقابل چشمان همسرش با باتوم سر او را در هم کوبیدند. سپس به سمیه حمله کرده و ۲۷ گلوله ساچمه‌ای به سر و صورت او شلیک کردند و با ضربات متعدد از پشت، جمجمه‌اش را شکستند. ",
+      "en": "Morteza Zoumpoush and Somayeh Rezaei, a young couple with a ninth-grade student child, were violently attacked by the armed forces of the regime on the evening of January 8, 2026, while returning home in Daneshgah Square, Hamedan. The attacking forces assaulted them with batons and pellet guns. They fired 34 pellet bullets directly into Morteza's face and crushed his head with a baton in front of his wife's eyes. They then attacked Somayeh, shooting 27 pellet bullets into her head and face and breaking her skull with multiple blows from behind."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/aban_khoonin/status/2014727803443265550?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/isamanyasin/status/2014735452515766722?s=20",
         "title": "X post",
         "type": "social_media"
       }

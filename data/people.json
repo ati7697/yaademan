@@ -13655,50 +13655,6 @@
     "published": true
   },
   {
-    "id": "zynbfrd-377",
-    "firstName": {
-      "fa": "زینب",
-      "en": "Zeinab"
-    },
-    "lastName": {
-      "fa": "فرد",
-      "en": "Fard"
-    },
-    "age": 38,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": {
-        "fa": "ورامین",
-        "en": null
-      },
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "زینب فرد در ورامین کشته شد.",
-      "en": "Zeinab Fard was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/Soranmansournia/status/2013395081558966690?s=20",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": false
-  },
-  {
     "id": "afshynasfndyary-378",
     "firstName": {
       "fa": "افشین",
@@ -24384,7 +24340,7 @@
     },
     "age": 38,
     "birthDate": null,
-    "deathDate": "2026-01-09",
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "شلیک مستقیم نیروهای امنیتی",
       "en": "Killed by direct gunfire from security forces"
@@ -24417,6 +24373,11 @@
       {
         "url": "https://witness.report/people.php?peopleId=cd58e59d-f602-11f0-87d3-560003f1f421",
         "title": "Witness Report profile",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/Soranmansournia/status/2013395081558966690?s=20",
+        "title": "X post",
         "type": "other"
       }
     ],

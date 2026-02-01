@@ -1,5 +1,49 @@
 [
   {
+    "id": "pedram-khaloui-802",
+    "firstName": {
+      "fa": "پدرام",
+      "en": "Pedram"
+    },
+    "lastName": {
+      "fa": "خالویی",
+      "en": "Khaloui"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک با سلاح کلاشینکوف در ناحیه قلب",
+      "en": "Shot in the heart at close range with a Kalashnikov rifle"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏بر اساس گزارش رسیده به سازمان حقوق بشری هه‌نگاو، پدرام خالویی، کودک ۱۵ ساله اهل اصفهان در جریان اعتراضات مردمی این شهر در شامگاه جمعه ۱۹ دی ۱۴۰۴ ، در محله سه راه سیمین این شهر با شلیک مستقیم نیروهای حکومتی جانباخت. هه‌نگاو مطلع شده است که این کودک از فاصله نزدیک و با سلاح کلاشینکوف از ناحیه قلب هدف قرار گرفته و در دم جان باخته است.",
+      "en": "According to a report received by the Hengaw Human Rights Organization, Pedram Khaloui, a 15-year-old child from Isfahan, was killed by direct fire from government forces in the city's Sera-e Simin neighborhood during popular protests on the evening of Friday, January 09, 2026. Hengaw has learned that the child was shot in the heart at close range with a Kalashnikov rifle and died instantly."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017605552193302602",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "sevda-akramifard-714",
     "firstName": {
       "fa": "سودا",

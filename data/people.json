@@ -1,5 +1,54 @@
 [
   {
+    "id": "hossein-jabbari-599",
+    "firstName": {
+      "fa": "حسین",
+      "en": "Hossein"
+    },
+    "lastName": {
+      "fa": "جباری",
+      "en": "Jabbari"
+    },
+    "age": 45,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during the protest"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "حسین جباری ۴۵ ساله ۱۹ دی حوالی میدان ونک کشته شده است. پیکر حسین ۲۴ دی توسط نیروهای امنیتی به خانواده او تحویل داده شد. خانواده در این مدت در صدد یافتن او بودند . به گفته یک منبع مطلع نیروهای امنیتی حتی پس از تحویل پیکر حسین جباری به خانواده او  اجازه ندادند پیکر عزیز خود را ببینند.",
+      "en": "Hossein Jabbari, 45, was killed on January 09, 2026, near Vanak Square. Hossein's body was handed over to his family by security forces on January 24. The family was trying to find him during this time. According to an informed source, even after Hossein Jabbari's body was handed over to his family, the security forces did not allow them to see their loved one's body."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017664392205156524",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148480-%DA%A9%D8%B4%D8%AA%D9%87%D8%B4%D8%AF%D9%86-%D8%AD%D8%B3%DB%8C%D9%86-%D8%AC%D8%A8%D8%A7%D8%B1%DB%8C-%D9%BE%DB%8C%DA%A9%D8%B1%DB%8C-%DA%A9%D9%87-%D8%AD%D8%AA%DB%8C-%D8%A8%D9%87-%D8%AE%D8%A7%D9%86%D9%88%D8%A7%D8%AF%D9%87-%D9%86%D8%B4%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D9%86%D8%B4%D8%AF/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "omid-molaei-889",
     "firstName": {
       "fa": "امید",

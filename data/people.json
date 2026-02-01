@@ -11551,14 +11551,14 @@
     },
     "lastName": {
       "fa": "جبارزاده",
-      "en": "Jbar-zadeh"
+      "en": "Jabarzadeh"
     },
     "age": 41,
     "birthDate": null,
     "deathDate": "2026-01-09",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": "شلیک مستقیم در جریان اعتراضات",
+      "en": "Direct shot during protests"
     },
     "incidentDate": "2026-01-09",
     "location": {
@@ -11570,8 +11570,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "محسن جبارزاده در تاریخ 2026-01-09 در تهران کشته شد.",
-      "en": "Mohsen Jbar-zadeh was killed during protests."
+      "fa": "محسن جبارزاده ۴۱ ساله، ۱۹ دی در سلسبیل تهران با شلیک مستقیم زخمی و در بیمارستان مدائن از دنیا رفت.",
+      "en": "Mohsen Jabarzadeh, 41, was wounded by a direct shot in Salsabil, Tehran, on January 9 and died at Madaen Hospital."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -11581,13 +11581,18 @@
     ],
     "links": [
       {
-        "url": "https://x.com/indypersian/status",
+        "url": "https://x.com/aban_khoonin/status/2013542839737589927?s=20",
         "title": "Source 1",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/HasanJabar40673/status/2014818041020768493?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "aryahnrmnd-332",

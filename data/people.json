@@ -13075,21 +13075,21 @@
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": "تیر مستقیم به سرش در حین بلند کردن دوستش",
+      "en": "Killed by a bullet to the head while lifting his friend off the ground"
     },
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "چالوس",
-        "en": null
+        "en": "Chalus"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رامتین بزرگ مقام در تاریخ 2026-01-08 در چالوس کشته شد.",
-      "en": "Ramtin Bozorg Magham was killed during protests."
+      "fa": "رامتین بزرگ مقام در داروخانه کار می‌کرد. او به همراه دوستش در اعتراضات حضور داشته. اول دوستش تیر می‌خوره و در جا کشته میشه. رامتین هم در حین بلند کردن دوستش از زمین با تیر مستقیم به سرش کشته شده.",
+      "en": "Ramtin Bozorg Magham worked in a pharmacy. He was present at the protests with his friend. First, his friend was shot and killed on the spot. Ramtin was also killed by a bullet to the head while lifting his friend off the ground."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -13102,10 +13102,15 @@
         "url": "https://x.com/faiiiiiiiiiiry/status/2013569361047437458?s=20",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/rosster666/status/2014828063981220306?s=20",
+        "title": "X post",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "mysmnzry-365",

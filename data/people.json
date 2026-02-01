@@ -1,5 +1,49 @@
 [
   {
+    "id": "mahna-doukoushkani-829",
+    "firstName": {
+      "fa": "مهنا",
+      "en": "Mahna"
+    },
+    "lastName": {
+      "fa": "دوکوشکانی",
+      "en": "Doukoushkani"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم گلوله جنگی نیروهای سرکوب جمهوری اسلامی",
+      "en": "Killed by a bullet fired by the Islamic Republic's suppression forces "
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "یک منبع مطلع ضمن تأیید این خبر به کُردپا گفت: «مهنا دوکوشکانی»، زن جوان ۱۸ ساله کُرد اهل کرمانشاه، شامگاه پنجشنبه ۱۸ دی ۱۴۰۴، در جریان اعتراضات مردمی کرمانشاه و در «محله سعدی» این شهر، هدف شلیک مستقیم گلوله جنگی نیروهای سرکوب جمهوری اسلامی قرار گرفته و جان خود را از دست داده است. پیکر این جوان ۱۸ ساله روز جمعه ۲۶ دی ۱۴۰۴ در آرامستان «باغ‌ فردوس» کرمانشاه به خاک سپرده شده است.",
+      "en": "An informed source confirmed this news to Kurdpa and told: Mahna Dokushkani, an 18-year-old Kurdish woman from Kermanshah, was killed by a bullet fired by the Islamic Republic's suppression forces during the popular protests in Kermanshah on Thursday evening, January 08, 2026, in the \"Saadi neighborhood\" of the city. The body of this 18-year-old was buried in the \"Ferdows Garden\" cemetery in Kermanshah on Friday, January 16, 2026."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://kurdpa.net/fa/news/2026/01/87",
+        "title": "Kurdpa website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "reza-gholipour-499",
     "firstName": {
       "fa": "رضا",

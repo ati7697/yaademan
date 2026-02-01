@@ -15088,15 +15088,15 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": "لاهیجان",
-        "en": "Lahijan"
+        "fa": "رشت",
+        "en": "Rasht"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "عباس کشاورز در تاریخ 2026-01-09 در لاهیجان کشته شد.",
-      "en": "Abbas Keshavarz was killed during protests."
+      "fa": "به گزارش هیرکانی، عباس کشاورز، شهروند گیلک اهل لاهیجان، در شب ۱۹ دی‌ ماه ۱۴۰۴ در شهر رشت و در محدوده میدان صیغلان جان خود را از دست داده است. بر اساس اطلاعات دریافتی، پیکر او برای خاک‌ سپاری به روستای لفمجان از توابع لاهیجان منتقل شده است. گفته می‌شود عباس کشاورز متأهل بوده و یک فرزند ۱۲ ساله داشته است.",
+      "en": "According to Hyrcani, Abbas Keshavarz, a Gilak citizen from Lahijan, lost his life on the night of January 19, 2026 in Rasht city and in the area of ​​Sayghlan Square. According to the information received, his body was transferred to the village of Lafamjan in Lahijan province for burial. It is said that Abbas Keshavarz was married and had a 12-year-old child."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -15107,7 +15107,7 @@
     "links": [
       {
         "url": "https://x.com/HyrcaniHRM/status/2013653393596649727?s=20",
-        "title": "Source 1",
+        "title": "Hyrcani X post",
         "type": "social_media"
       }
     ],

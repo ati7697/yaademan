@@ -12883,8 +12883,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "امید عظیمی در تاریخ 2026-01-10 در تهران کشته شد.",
-      "en": "Omid Azimi was killed during protests."
+      "fa": "امید عظیمی، ۲۶ ساله، شنبه ۲۰ دی ۱۴۰۴ در تهران کشته شد. امید آرایشگر بود و با مادرش که بیمار است زندگی می‌کرد.",
+      "en": "Omid Azimi, 26, was killed in Tehran on Saturday, January 10, 2026. Omid was a hairdresser and lived with his sick mother."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -12902,10 +12902,15 @@
         "url": "https://x.com/FSeifikaran/status/2013911306282078307?s=20",
         "title": "Source 2",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/FSeifikaran/status/2013911306282078307?s=20",
+        "title": "Source 3",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "mstfyazyzy-361",

@@ -14656,21 +14656,21 @@
     "birthDate": null,
     "deathDate": null,
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": null,
+      "en": null
     },
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "یاسوج",
+        "en": "Yasuj"
       },
       "country": "Iran"
     },
-    "status": "killed",
+    "status": "arrested",
     "description": {
-      "fa": "غزل قلندری کشته شد.",
-      "en": "Ghazal Qlndri was killed during protests."
+      "fa": "در بعضی از خبرگزاری ها مانند هرانا ، غزل قلندری نوجوان ۱۶ ساله در یاسوج در ارتباط با اعتراضات سراسری ۱۴۰۴ بازداشت شد است اما در بعضی از پست ها فضای مجازی گفته شده است که او در جریان اعتراضات به قتل رسیده است.",
+      "en": "In some news agencies, such as HRANA, Ghazal Qalandari, a 16-year-old teenager in Yasuj, was arrested in connection with the nationwide protests of 1404, but in some posts on social media, it has been stated that she was murdered during the protests."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -14680,18 +14680,28 @@
     ],
     "links": [
       {
-        "url": "https://x.com/NickSotoudeh/status/2012949687893151755?s=20",
-        "title": "Source 1",
+        "url": "https://x.com/Soranmansournia/status/2013769514656182584?s=20",
+        "title": "Source 1: arrested",
         "type": "social_media"
       },
       {
-        "url": "https://x.com/Soranmansournia/status/2013769514656182584?s=20",
-        "title": "Source 2",
+        "url": "https://x.com/hra_news/status/2014303153504596438?s=20",
+        "title": "Source 2: arrested",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Daikatuo/status/2014545084264448493?s=20",
+        "title": "Source 3: killed",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Tavaana/status/2008856212725805228?s=20",
+        "title": "Source 4: arrested",
+        "type": "other"
       }
     ],
-    "verified": true,
-    "published": false
+    "verified": false,
+    "published": true
   },
   {
     "id": "hjtmlky-400",

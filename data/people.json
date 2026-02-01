@@ -1,5 +1,54 @@
 [
   {
+    "id": "nazanin-zahra-esmikhani-985",
+    "firstName": {
+      "fa": "نازنین‌زهرا",
+      "en": "Nazanin-zahra"
+    },
+    "lastName": {
+      "fa": "اسمی‌خانی",
+      "en": "Esmikhani"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به پیشانی سر از سوی نیروهای نظامی-امنیتی جمهوری اسلامی",
+      "en": "Shot in the forehead by the military-security forces of the Islamic Republic "
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "قزوین",
+        "en": "Qazvin"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نازنین‌زهرا اسمی‌خانی، شهروند کُرد اهل زیباشهر قزوین، ۱۸ ساله، عکاس و گیتاریست، ۱۹ دی ۱۴۰۴، در جریان اعتراضات مردمی زیباشهر قزوین با اصابت گلوله جنگی به پیشانی سر از سوی نیروهای نظامی-امنیتی جمهوری اسلامی ایران کشته شد. پیکر وی پس از دو روز در ازای پرداخت ۳۰۰ میلیون تومان به خانواده‌اش تحویل داده شد و مراسم خاکسپاری در روستای «حصار خروان» قزوین برگزار گردید.",
+      "en": "Nazanin-zahra Esmikhani, a Kurdish citizen from Zibashahr, Qazvin, 18 years old, photographer and guitarist, was killed on January 09, 2026, during the popular protests in Zibashahr, Qazvin, by being shot in the forehead by the military-security forces of the Islamic Republic of Iran. Her body was handed over to her family two days later in exchange for a payment of 300 million Tomans, and the funeral was held in the village of \"Hesar Kharvan\" in Qazvin."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017583981982626294",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2016901021604212988",
+        "title": "Pictures/Video from the funeral and burial ceremony of Nazanin-zahra Esmikhani",
+        "type": "video"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "erfan-taghizadeh-901",
     "firstName": {
       "fa": "عرفان",

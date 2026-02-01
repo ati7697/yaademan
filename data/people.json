@@ -5639,23 +5639,23 @@
     },
     "age": 28,
     "birthDate": null,
-    "deathDate": "2026-01-10",
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": "2026-01-10",
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "شهسوار",
-        "en": null
+        "en": "Shahsavar"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "نگین قدیمی در تاریخ 2026-01-10 در شهسوار کشته شد.",
-      "en": "Negin Ghadimi was killed during protests."
+      "fa": "نگین قدیمی یکی از جان‌ باختگان شهر تنکابن (شهسوار) است که ۱۹ دی بر اثر اصابت گلوله به پهلویش جان باخت. نگین قدیمی ۲۸ساله و دانشجوی رشتۀ بیوتکنولوژی بود. او همراه با پدرش در اعتراضات حضور داشت. یکی از نزدیکانش به رادیو فردا گفته که بعد از اصابت گلوله به پهلوی نگین، پدرش و چند تن از معترضان او را به خانه‌ای در همان محلی که گلوله خورده بود بردند، اما پیش از آن‌که بتوانند او را به مراکز درمانی برسانند، در آغوش پدرش جان باخت.",
+      "en": "Negin Gadimi is one of the victims from the city of Tonekabon (Shahsavar), who died on January 9, 2026 after being shot in the side. Negin Gadimi was 28 years old and a student of biotechnology. She was present at the protests with her father. One of her relatives told Radio Farda that after Negin was shot in the side, her father and several protesters took her to a house in the same area where she had been shot, but before they could take her to a medical center, she died in her father’s arms."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -5677,6 +5677,11 @@
       {
         "url": "https://x.com/iranwire/status/2012765137598374292?s=20",
         "title": "Source 3",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/RadioFarda_/status/2017657717934940649?s=20",
+        "title": "Source 4",
         "type": "social_media"
       }
     ],

@@ -12815,16 +12815,16 @@
     },
     "lastName": {
       "fa": "غلامعلی",
-      "en": "Ghlamli"
+      "en": "Gholamali"
     },
     "age": 32,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "تهران",
@@ -12834,8 +12834,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "پوریا غلامعلی در تهران کشته شد.",
-      "en": "Porya Ghlamli was killed during protests."
+      "fa": "پوریا غلامعلی، ۳۲ ساله، روز ۱۸ دی در اعتراضات مردمی تهران منطقه هفت حوض کشته شد.",
+      "en": "Pouria Gholamali, 32, was killed on January 8 during popular protests in Tehran's Haft Hoz area."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -12856,7 +12856,7 @@
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "amydazymy-360",

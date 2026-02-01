@@ -10461,50 +10461,6 @@
     "published": true
   },
   {
-    "id": "arshyaahmdpvr-305",
-    "firstName": {
-      "fa": "عرشیا",
-      "en": "Arshia"
-    },
-    "lastName": {
-      "fa": "احمدپور",
-      "en": "Ahmad-pour"
-    },
-    "age": 18,
-    "birthDate": null,
-    "deathDate": "2026-01-09",
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": "2026-01-09",
-    "location": {
-      "city": {
-        "fa": "اصفهان",
-        "en": null
-      },
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "عرشیا احمدپور در تاریخ 2026-01-09 در اصفهان کشته شد.",
-      "en": "Arshia Ahmad-pour was killed during protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [
-      {
-        "url": "https://x.com/iranintlsport/status",
-        "title": "Source 1",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": false
-  },
-  {
     "id": "akbrdavry-306",
     "firstName": {
       "fa": "اکبر",

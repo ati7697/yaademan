@@ -1,5 +1,59 @@
 [
   {
+    "id": "zahra-azadpour-671",
+    "firstName": {
+      "fa": "زهرا",
+      "en": "Zahra"
+    },
+    "lastName": {
+      "fa": "آزادپور",
+      "en": "Azadpour"
+    },
+    "age": 28,
+    "birthDate": "1998-09-29",
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "در اعتراضات کرج کشته شد",
+      "en": "Killed during the Karaj protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "زهرا آزادپور بازیکن تیم بانوان مهرگام پردیس در اعتراضات کرج در تاریخ ۱۹ دی کشته شد. متولد ۷/۷/۷۷.  خانوادش پیکرشو ۳ روز بعد پیدا میکنن و در اسلامشهر خاسپاریش انجام شده.",
+      "en": "Zahra Azadpour, a player for the Mehrgam Pardis women's team, was killed during the Karaj protests on January 19. Born on 29 September 1998. Her family found her body 3 days later and her funeral was held in Islamshahr."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/mojtabapourbakh/status/2014443936870256852?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/iranintlsport/status/2015071565763760192?s=20",
+        "title": "Iran international X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/ManotoNews/status/2014956332760100979?s=20",
+        "title": "Manoto X post",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "luna-kermaninejad-110",
     "firstName": {
       "fa": "لونا",

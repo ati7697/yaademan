@@ -9051,10 +9051,10 @@
     "birthDate": null,
     "deathDate": "2026-01-10",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": "شلیک به پا در جریان اعتراضات",
+      "en": "Shot in the leg during protests"
     },
-    "incidentDate": "2026-01-10",
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "تهران",
@@ -9064,8 +9064,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "علیرضا رفیعی راد در تاریخ 2026-01-10 در تهران کشته شد.",
-      "en": "Alireza Rafiei Rad was killed during protests."
+      "fa": "علیرضا رفیعی راد۲۰ ساله دانشجوی الکترونیک، جمعه ۱۹ دی ماه ۱۴۰۴ سمت نازی‌ تهران در پی شلیک مزدورهای رژیم به شریان اصلی خون در سفیدران پاآباد به شدت مجروح شد. بردنش بیمارستان «امیرالمؤمنین» تجهیزات کافی نبود، از اونجا بردنش بیمارستان «شریعتی» و جراحی هم شد اما دوم نیاورد و شنبه ۲۰ دی ماه ۱۴۰۴ جان باخت.",
+      "en": "Alireza Rafiei Rad, 20, an electronics student, was seriously injured on Friday, January 19, 2026, in the Nazi side of Tehran after regime mercenaries shot at the main artery in Sefidran, Paabad. He was taken to Amir al-Momenin hospital, which had insufficient equipment, so he was taken to Shariati hospital and underwent surgery, but it did not help, and he died on Saturday, January 10, 2026."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9075,13 +9075,18 @@
     ],
     "links": [
       {
-        "url": "https://x.com/Ammir/status",
-        "title": "Source 1",
+        "url": "https://x.com/pouriazeraati/status/2012969280678007144?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/SarahGeorg82904/status/2015710377477370057?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "alygrdkanh-269",

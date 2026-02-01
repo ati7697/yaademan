@@ -12598,14 +12598,14 @@
     "location": {
       "city": {
         "fa": "بندرعباس",
-        "en": null
+        "en": "Bandar Abbas"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "رضا محمدی در تاریخ 2026-01-08 در بندرعباس کشته شد.",
-      "en": "Reza Mohammadi was killed during protests."
+      "fa": "رضا محمدی، ۲۵ساله، اهل گراش فارس که در بندرعباس کار می‌کرد، ۱۸ دی ۱۴۰۴ در اعتراضات مسالمت آمیز بندرعباس توسط ماموران حکومتی کشته شد. پیکرش را چهار روز بعد تحت شرایط امنیتی به خانواده دادند تا در سکوت به خاک بسپارند.",
+      "en": "Reza Mohammadi, 25, from the city of Gerash in Fars who worked in Bandar Abbas, was killed by government agents on January 8, 2026, during peaceful protests in Bandar Abbas. His body was returned to his family four days later under secure conditions for a quiet burial."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -12618,10 +12618,15 @@
         "url": "https://x.com/ManotoNews/status/2012223329340653897",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/sin_ein96/status/2016237199616778447?s=20",
+        "title": "Source 2",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "manyyvsfy-355",

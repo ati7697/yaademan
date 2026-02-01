@@ -13615,7 +13615,7 @@
       "fa": "خیبری",
       "en": "Kheybari"
     },
-    "age": null,
+    "age": 28,
     "birthDate": null,
     "deathDate": "2026-01-09",
     "causeOfDeath": {
@@ -13632,8 +13632,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "حسین خیبری در تاریخ 2026-01-09 در کرج کشته شد.",
-      "en": "Hossein Kheybari was killed during protests."
+      "fa": "به نقل از منابع محلی: حسین خبیری، جمعه ۱۹ دی ماه ۱۴۰۴ در اعتراضات بلوار ارم مهرشهر کرج کشته شد. حسین ۲۵ ساله بود و اجازه خاکسپاری عمومی به خانواده‌اش داده نشد.",
+      "en": "According to local sources: Hossein Kheybari was killed on Friday, January 9, 2026, during protests on Eram Boulevard in Mehrshahr, Karaj. Hossein was 25 years old and his family was not allowed a public burial."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -13646,10 +13646,15 @@
         "url": "https://x.com/dariush_Zand/status/2013314761753084124?s=20",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/isamanyasin/status/2017673782194815262?s=20",
+        "title": "Source 2",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "zynbfrd-377",

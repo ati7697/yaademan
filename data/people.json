@@ -1,5 +1,49 @@
 [
   {
+    "id": "erfan-taghizadeh-901",
+    "firstName": {
+      "fa": "عرفان",
+      "en": "Erfan"
+    },
+    "lastName": {
+      "fa": "تقی‌زاده",
+      "en": "Taghizadeh"
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": "2026-01-10",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هیرکانی، عرفان تقی‌زاده، ۲۲ ساله و شهروند گیلک اهل رشت، در جریان اعتراضات سراسری در سبزه‌میدان این شهر هدف شلیک قرار گرفت. بر اساس اطلاعات دریافتی، او در روز ۱۸ دی‌ماه ۱۴۰۴ مجروح شده و پس از انتقال به بیمارستان پارس، بامداد ۲۰ دی‌ماه ۱۴۰۴ بر اثر شدت جراحات جان خود را از دست داده است.",
+      "en": "According to a report received by Hyrcani, Erfan Taghizadeh, 22, a Gilak citizen from Rasht, was shot during nationwide protests in Sabzeh Square in the city. According to information received, he was injured on January 8, 2026 and died of his injuries on the morning of January 10, 2026 after being transferred to Pars Hospital."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017662085967319295",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "taha-naderi-samiromi-564",
     "firstName": {
       "fa": "طاها",

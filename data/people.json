@@ -6647,21 +6647,21 @@
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": "اصابت گلوله نیروهای جمهوری اسلامی به گردن",
+      "en": "Hit in the neck by a bullet fired by the forces of the Islamic Republic"
     },
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "رستم‌آباد",
-        "en": "Rostam Abad"
+        "en": "Rostamabad"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "عباس خادم در تاریخ 2026-01-08 در رستم‌آباد کشته شد.",
-      "en": "Abbas Khadem was killed during protests."
+      "fa": "به گزارش هیرکانی، عباس خادم، شهروند گیلک اهل رستم‌آباد و مربی ورزش، روز ۱۸ دی‌ ماه ۱۴۰۴ بر اثر اصابت گلوله جنگی به ناحیه گردن توسط نیروهای حکومت جمهوری اسلامی ایران کشتە شد.",
+      "en": "According to Hyrcani, Abbas Khadem, a Gilak citizen from Rostamabad and a sports coach, was killed on January 8, 2026, after being hit in the neck by a bullet fired by the forces of the Islamic Republic of Iran."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -6678,6 +6678,11 @@
       {
         "url": "https://x.com/HyrcaniHRM/status/2012113239732347154?s=20",
         "title": "Source 2",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/silent_voice68/status/2011534835043676398?s=20",
+        "title": "Manoto news X post",
         "type": "social_media"
       }
     ],

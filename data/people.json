@@ -1,5 +1,54 @@
 [
   {
+    "id": "hasan-ghaderi-941",
+    "firstName": {
+      "fa": "حسن",
+      "en": "Hasan"
+    },
+    "lastName": {
+      "fa": "قادری",
+      "en": "Ghaderi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "شازند",
+        "en": "Shazand"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "حسن قادری یکی دیگر از کشته‌شدگان اعتراضات در شهر شازند از توابع اراک است.",
+      "en": "Hassan Ghaderi is another of the people killed in the protests in the city of Shazand, a province of Arak."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017659086385377636",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2014364912269537702",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
     "id": "pedram-khaloui-802",
     "firstName": {
       "fa": "پدرام",

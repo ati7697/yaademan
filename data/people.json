@@ -1,5 +1,49 @@
 [
   {
+    "id": "navid-elahi-belordi-541",
+    "firstName": {
+      "fa": "نوید",
+      "en": "Navid"
+    },
+    "lastName": {
+      "fa": "الهی بلوردی",
+      "en": "Elahi Belordi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم گلوله جنگی توسط نیروهای سرکوبگر جمهوری اسلامی",
+      "en": "Direct firing of live ammunition by the repressive forces of the Islamic Republic"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نوید الهی بلوردی، پرستار اهل استان کرمانشاه، شامگاه جمعه ۱۹ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در کرج، هنگام رسیدگی و مداوای شهروندان زخمی، هدف شلیک مستقیم گلوله جنگی نیروهای سرکوبگر جمهوری اسلامی قرار گرفت و جان باخت.",
+      "en": "Navid Elahi Belordi, a nurse from Kermanshah province, was killed on Friday evening, January 9, 2026, during public protests in Karaj city, when he was treating wounded citizens. He was directly targeted by live ammunition fired by the repressive forces of the Islamic Republic."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202602017396",
+        "title": "Iran international  news websit",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "nazanin-zahra-esmikhani-985",
     "firstName": {
       "fa": "نازنین‌زهرا",

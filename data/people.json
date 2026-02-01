@@ -1,5 +1,54 @@
 [
   {
+    "id": "omid-molaei-889",
+    "firstName": {
+      "fa": "امید",
+      "en": "Omid"
+    },
+    "lastName": {
+      "fa": "مولایی",
+      "en": "Molaei"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-26",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security enforcement "
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پیام:«جاویدنام امید مولایی ۱۸ دی تهران تیر جنگی خورده، بردنش بیمارستان و عمل شده ولی ۶ بهمن تموم کرده. اهل شهرستان سبزوار بود.» او هنرمند گرافیتی‌کار با نام هنری «نقش»، به دست حکومت کشته شده است.",
+      "en": "Message: \"Omid Molaei was shot in the head on January 8, 2026, in Tehran. He was taken to the hospital and underwent surgery, but died on January 26, 2026. He was from Sabzevar County.\" He was a graffiti artist with the stage name \"Naghsh,\" and was killed by the government."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017286141611753723",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2016742995190559132",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "zahra-azadpour-671",
     "firstName": {
       "fa": "زهرا",

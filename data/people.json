@@ -1,5 +1,54 @@
 [
   {
+    "id": "sevda-akramifard-714",
+    "firstName": {
+      "fa": "سودا",
+      "en": "Sevda"
+    },
+    "lastName": {
+      "fa": "اکرمی فرد",
+      "en": "Akramifard"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک گلوله جنگی توسط نیروهای سرکوبگر جمهوری اسلامی ",
+      "en": "Shot by live ammunition fired by the repressive forces of the Islamic Republic."
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنا به اخبار رسیده به ایران‌اینترنشنال، سودا اکرمی‌فرد، ۱۶ ساله، شامگاه جمعه ۱۹ دی‌ماه در مارلیک کرج با شلیک گلوله جنگی نیروهای سرکوبگر جمهوری اسلامی کشته شد.",
+      "en": "According to news received by Iran International, Sevda Akramifard, 16, was killed on Friday evening, January 9, in Marlik, Karaj, by live ammunition fired by the repressive forces of the Islamic Republic."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017836860886733158",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015900456426283470",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "ashkan-talebi-balakhiyabani-657",
     "firstName": {
       "fa": "اشکان",

@@ -1,5 +1,49 @@
 [
   {
+    "id": "ashkan-talebi-balakhiyabani-657",
+    "firstName": {
+      "fa": "اشکان",
+      "en": "Ashkan"
+    },
+    "lastName": {
+      "fa": "طالبی بالاخیابانی",
+      "en": "Talebi Balakhiyabani"
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "حکم اعدام صادر شده",
+      "en": "Death sentence issued"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "‏بر اساس اطلاعات رسیده به ایران‌اینترنشنال، اشکان طالبی بالاخیابانی که ۱۸ دی‌ماه ۱۴۰۴ در مشهد بازداشت شده بود، پس از سه هفته بی‌خبری با خانواده‌اش تماس گرفته و از صدور حکم اعدام برای خود خبر داده است. یک منبع مطلع از وضعیت این زندانی به ایران‌اینترنشنال گفت اشکان طالبی روز پنج‌شنبه ۹ بهمن‌ماه در تماس تلفنی اعلام کرده است: «به ما اطلاع داده‌اند که حکم اعدام صادر شده و این تماس برای خداحافظی است.» اشکان طالبی، ۲۲ ساله، پیک موتوری است که شامگاه ۱۸ دی‌ماه هنگام بازگشت از محل کارش، توسط نیروهای امنیتی متوقف و بازداشت شد. خانواده او تا سه هفته پس از بازداشت هیچ اطلاعی از وضعیتش نداشتند و امکان تماس با او برایشان فراهم نبود.",
+      "en": "According to information received by Iran International, Ashkan Talebi, who was arrested on January 8, 2026 in Mashhad, has called his family after three weeks of not hearing from them and informed them that he had been sentenced to death. A source familiar with the prisoner’s situation told Iran International that Ashkan Talebi said in a phone call on Thursday, January 29, “We have been informed that the death sentence has been issued and this is a farewell call.” Ashkan Talebi, 22, is a motorcycle courier who was stopped and arrested by security forces on the evening of January 8 while returning from work. His family had no information about his condition for three weeks after his arrest and were unable to contact him."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017335071166841244",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "hossein-jabbari-599",
     "firstName": {
       "fa": "حسین",

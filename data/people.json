@@ -10516,37 +10516,49 @@
     },
     "age": null,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "خرم آباد",
-        "en": null
+        "en": "Khorramabad"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "حسین یغمایی در خرم آباد کشته شد.",
-      "en": "Hossein Yaghmaei was killed during protests."
+      "fa": "جاویدنام حسین یغمایی، کشتی‌گیر و مربی بدنسازی خرم‌ آبادی. در جریان خیزش ملی، با شلیک مستقیم مزدوران جمهوری اسلامی کشته شد. خانواده‌اش را از برگزاری هرگونه مراسم سوگواری منع کردند.",
+      "en": "Hossein Yaghmaei, a wrestler and bodybuilding coach from Khorramabad. He was killed by direct fire from Islamic Republic mercenaries during the national uprising. His family was forbidden from holding any mourning ceremonies."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/hsynyghmayy-307/profile.jpg"
+    ],
     "links": [
       {
-        "url": "https://x.com/IranIntlbrk/status",
+        "url": "https://x.com/ChaawTimes/status/2014438040395993381?s=20",
         "title": "Source 1",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/FSeifikaran/status/2015401341854564496?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Daikatuo/status/2014545070993682868?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "mhmdrzamvsvy-308",
@@ -13571,7 +13583,7 @@
       "fa": "خیبری",
       "en": "Kheybari"
     },
-    "age": null,
+    "age": 28,
     "birthDate": null,
     "deathDate": "2026-01-09",
     "causeOfDeath": {
@@ -13588,22 +13600,29 @@
     },
     "status": "killed",
     "description": {
-      "fa": "حسین خیبری در تاریخ 2026-01-09 در کرج کشته شد.",
-      "en": "Hossein Kheybari was killed during protests."
+      "fa": "به نقل از منابع محلی: حسین خبیری، جمعه ۱۹ دی ماه ۱۴۰۴ در اعتراضات بلوار ارم مهرشهر کرج کشته شد. حسین ۲۵ ساله بود و اجازه خاکسپاری عمومی به خانواده‌اش داده نشد.",
+      "en": "According to local sources: Hossein Kheybari was killed on Friday, January 9, 2026, during protests on Eram Boulevard in Mehrshahr, Karaj. Hossein was 25 years old and his family was not allowed a public burial."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/hsynkhybry-376/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/dariush_Zand/status/2013314761753084124?s=20",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/isamanyasin/status/2017673782194815262?s=20",
+        "title": "Source 2",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "zynbfrd-377",
@@ -14612,40 +14631,52 @@
     "birthDate": null,
     "deathDate": null,
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": null,
+      "en": null
     },
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "یاسوج",
+        "en": "Yasuj"
       },
       "country": "Iran"
     },
-    "status": "killed",
+    "status": "arrested",
     "description": {
-      "fa": "غزل قلندری کشته شد.",
-      "en": "Ghazal Qlndri was killed during protests."
+      "fa": "در بعضی از خبرگزاری ها مانند هرانا ، غزل قلندری نوجوان ۱۶ ساله در یاسوج در ارتباط با اعتراضات سراسری ۱۴۰۴ بازداشت شد است اما در بعضی از پست ها فضای مجازی گفته شده است که او در جریان اعتراضات به قتل رسیده است.",
+      "en": "In some news agencies, such as HRANA, Ghazal Qalandari, a 16-year-old teenager in Yasuj, was arrested in connection with the nationwide protests of 1404, but in some posts on social media, it has been stated that she was murdered during the protests."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/ghzlghlndry-399/profile.jpg"
+    ],
     "links": [
       {
-        "url": "https://x.com/NickSotoudeh/status/2012949687893151755?s=20",
-        "title": "Source 1",
+        "url": "https://x.com/Soranmansournia/status/2013769514656182584?s=20",
+        "title": "Source 1: arrested",
         "type": "social_media"
       },
       {
-        "url": "https://x.com/Soranmansournia/status/2013769514656182584?s=20",
-        "title": "Source 2",
+        "url": "https://x.com/hra_news/status/2014303153504596438?s=20",
+        "title": "Source 2: arrested",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Daikatuo/status/2014545084264448493?s=20",
+        "title": "Source 3: killed",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Tavaana/status/2008856212725805228?s=20",
+        "title": "Source 4: arrested",
+        "type": "other"
       }
     ],
-    "verified": true,
-    "published": false
+    "verified": false,
+    "published": true
   },
   {
     "id": "hjtmlky-400",

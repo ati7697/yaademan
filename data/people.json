@@ -1,5 +1,49 @@
 [
   {
+    "id": "luna-kermaninejad-110",
+    "firstName": {
+      "fa": "لونا",
+      "en": "Luna"
+    },
+    "lastName": {
+      "fa": " کرمانی نژاد",
+      "en": "Kermaninejad"
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "لونا کرمانی نژاد جمعه ۱۹ دی ۱۴۰۴ در اعتراضات مشهد کشته شد.",
+      "en": "Luna Kermaninejad was killed on Friday, January 09, 2026, during protests in Mashhad."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/mahoutiha/status/2016610507801731359?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
     "id": "arefeh-beigi-131",
     "firstName": {
       "fa": "عارفه",

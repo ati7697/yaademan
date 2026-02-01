@@ -10560,23 +10560,23 @@
     },
     "age": null,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "خرم آباد",
-        "en": null
+        "en": "Khorramabad"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "حسین یغمایی در خرم آباد کشته شد.",
-      "en": "Hossein Yaghmaei was killed during protests."
+      "fa": "جاویدنام حسین یغمایی، کشتی‌گیر و مربی بدنسازی خرم‌ آبادی. در جریان خیزش ملی، با شلیک مستقیم مزدوران جمهوری اسلامی کشته شد. خانواده‌اش را از برگزاری هرگونه مراسم سوگواری منع کردند.",
+      "en": "Hossein Yaghmaei, a wrestler and bodybuilding coach from Khorramabad. He was killed by direct fire from Islamic Republic mercenaries during the national uprising. His family was forbidden from holding any mourning ceremonies."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -10586,13 +10586,23 @@
     ],
     "links": [
       {
-        "url": "https://x.com/IranIntlbrk/status",
+        "url": "https://x.com/ChaawTimes/status/2014438040395993381?s=20",
         "title": "Source 1",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/FSeifikaran/status/2015401341854564496?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Daikatuo/status/2014545070993682868?s=20",
+        "title": "X post",
         "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "mhmdrzamvsvy-308",

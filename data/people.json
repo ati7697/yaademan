@@ -16030,27 +16030,27 @@
     },
     "lastName": {
       "fa": "اسمی خانی",
-      "en": "Asmi Khani"
+      "en": "Esmi Khani"
     },
     "age": 17,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": " تیراندازی نیروهای امنیتی در جریان اعتراضات",
+      "en": "Direct shot by security forces during protests"
     },
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "قزوین",
-        "en": null
+        "en": "Qazvin"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "نازنین اسمی خانی در تاریخ 2026-01-08 در قزوین کشته شد.",
-      "en": "Nazanin Asmi Khani was killed during protests."
+      "fa": "نازنین اسمی خانی، ۱۷ ساله، اهل قزوین، ۱۸ دی ۱۴۰۴ در جریان اعتراضات مردمی بر اثر تیراندازی نیروهای امنیتی کشته شد.",
+      "en": "Nazanin Esmi Khani, 17 years old, from Qazvin, was killed on January 8, 2026, during public protests by security forces."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -16073,10 +16073,15 @@
         "url": "https://x.com/NickSotoudeh/status/2013697925004828679?s=20",
         "title": "Source 3",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/ManotoNews/status/2013657775851606043?s=20",
+        "title": "Manoto news X post",
+        "type": "social_media"
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "frhadshrab-431",

@@ -488,8 +488,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "امیرعباس رعنایی، نوجوان ۱۷ ساله اهل مشهد، ۱۸ دی ۱۴۰۴ در میدان هفت‌تیر این شهر کشته شد.\nاو بوکسوری بااستعداد بود و در یک باشگاه ورزشی، در کنار علی حبیبی‌نژاد، بوکسور تیم ملی، تمرین می‌کرد. به گفته نزدیکانش، پس از چند روز بی‌خبری و پاسخ ندادن تلفن همراه و غیبت در باشگاه، نگرانی خانواده و دوستانش افزایش یافت تا اینکه مشخص شد او کشته شده است و تا زمان انتشار این خبر، پیکرش هنوز به خانواده تحویل داده نشده است",
-      "en": "Amirabbas Ranai, a 17-year-old teenager from Mashhad, was killed on January 8, 2026, in Haft-Tir Square in the city.\nHe was a talented boxer and trained at a sports club alongside Ali Habibinejad, a member of the national boxing team. According to those close to him, after several days of no contact, unanswered phone calls, and his absence from the gym, concern among his family and friends grew. It was later confirmed that he had been killed, and as of the time this news was published, his body had still not been handed over to his family."
+      "fa": "امیرعباس رعنایی، نوجوان ۱۷ ساله اهل مشهد، ۱۸ دی ۱۴۰۴ در میدان هفت‌تیر این شهر کشته شد. او بوکسوری با استعداد بود و در یک باشگاه ورزشی، در کنار علی حبیبی‌نژاد، بوکسور تیم ملی، تمرین می‌کرد. به گفته نزدیکانش، پس از چند روز بی‌خبری و پاسخ ندادن تلفن همراه و غیبت در باشگاه، نگرانی خانواده و دوستانش افزایش یافت تا اینکه مشخص شد او کشته شده است و تا زمان انتشار این خبر، پیکرش هنوز به خانواده تحویل داده نشده است.",
+      "en": "Amirabbas Ranai, a 17-year-old teenager from Mashhad, was killed on January 8, 2026, in Haft-Tir Square in the city. He was a talented boxer and trained at a sports club alongside Ali Habibinejad, a member of the national boxing team. According to those close to him, after several days of no contact, unanswered phone calls, and his absence from the gym, concern among his family and friends grew. It was later confirmed that he had been killed, and as of the time this news was published, his body had still not been handed over to his family."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -510,7 +510,7 @@
       }
     ],
     "verified": true,
-    "published": false
+    "published": true
   },
   {
     "id": "ali-mohammad-doust-708",

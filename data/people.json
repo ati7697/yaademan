@@ -1,5 +1,59 @@
 [
   {
+    "id": "nahayat-rahimi-dashti-312",
+    "firstName": {
+      "fa": "نهایت",
+      "en": "Nahayat"
+    },
+    "lastName": {
+      "fa": "رحیمی دشتی",
+      "en": "Rahimi Dashti"
+    },
+    "age": 37,
+    "birthDate": null,
+    "deathDate": "2026-01-14",
+    "causeOfDeath": {
+      "fa": "شلیک گلوله جنگی به گردنش",
+      "en": "Shot in the neck by a military bullet"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "گرگان",
+        "en": "Gorgan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نهایت رحیمی دشتی، پنج‌ شنبه ۱۸ دی ۱۴۰۴ در گرگان با شلیک گلوله جنگی به گردنش زخمی شد. بعد از چند روز ۲۴ دی در بیمارستان پنج آذر گرگان جان‌ باخت.",
+      "en": "Nahayat Rahimi Dashti was wounded in the neck by a military bullet in Gorgan on Thursday, January 8, 2026. She died a few days later on January 14 at Panj Azar Hospital in Gorgan."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/Hoorieh81/status/2015776668887998628?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/FSeifikaran/status/2016315785929445537?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/HyrcaniHRM/status/2014594772057354506?s=20",
+        "title": "X post",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mahna-doukoushkani-829",
     "firstName": {
       "fa": "مهنا",

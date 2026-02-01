@@ -1,5 +1,49 @@
 [
   {
+    "id": "reza-gholipour-499",
+    "firstName": {
+      "fa": "رضا",
+      "en": "Reza"
+    },
+    "lastName": {
+      "fa": "قلی‌ پور",
+      "en": "Gholipour"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک گلوله ",
+      "en": "Shot during the protest"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام رضا قلی‌ پور از ساکنان منطقهٔ خواجه‌ربیع، مشهد، در محدودهٔ شقایق آب‌ وبرقِ بالای پل هفت‌ تیر هدف اصابت گلوله جنگی قرار گرفت و کشته شده. بر اساس اطلاعات به‌دست‌آمده، به برخی از نزدیکان اعلام شده بود که برای تحویل پیکر، باید تعهدی مبنی بر «طبیعی بودن علت مرگ» امضا شود. در غیر این صورت، از تحویل پیکر جلوگیری خواهد .",
+      "en": "Reza Gholipour, a resident of Khajeh Rabi' area, Mashhad, was hit by a bullet and killed in the Shaghayegh Ab-o-Baragh area above the Haft Tir Bridge. According to information obtained, some relatives were informed that in order to hand over the body, they had to sign a commitment stating that the cause of death was \"natural.\" Otherwise, the handover of the body would be prevented."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.instagram.com/p/DT5WX-dERDU/?igsh=MXdva2cwdDIxa2FpaQ%3D%3D",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-javad-mollaverdi-763",
     "firstName": {
       "fa": "محمدجواد",

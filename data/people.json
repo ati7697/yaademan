@@ -1,5 +1,59 @@
 [
   {
+    "id": "alireza-mousavi-noor-220",
+    "firstName": {
+      "fa": "‎علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "موسوی نور",
+      "en": "Mousavi Noor"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfaha"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": " ‎علیرضا موسوی نور در ۱۹ دی ۱۴۰۴ در بهارستان اصفهان کشته شد. علیرضا و دوستش در آغوش یکدیگر توسط مزدوران رژیم به قتل رسیدند. دوستش ‎بهروز بیگدلی بود.\nاسم خودشو گذاشته بود دراکولای غمگین. او در اکانت X خود دو روز قبل از کشته شدنش نوشت: «اگه دیگه آنلاین نشدم ، منو هم فراموش نکنید !\nبدونید من مفت نمردم ..\nتوی جشن آزادی اسم منو هم بیارید»",
+      "en": "Alireza Mousavi Noor was killed on January 09, 2026 in Baharestan, Isfahan. Alireza and his friend were killed in each other's arms by the regime's mercenaries. His friend was Behrouz Bigdali.\nHe had called himself Sad Dracula. He wrote on his X account two days before his death: \"If I'm not online anymore, don't forget me either!\nKnow that I didn't die for nothing..\nMention my name at the freedom celebration.\""
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2008697155100238282",
+        "title": "His post on X",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018022667706896582",
+        "title": "Source 1",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018074048073265313",
+        "title": "Source 2",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "navid-elahi-belordi-541",
     "firstName": {
       "fa": "نوید",
@@ -26884,7 +26938,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/farhad-nadeali-106/profile.jpeg"
+      "people/farhad-nadeali-106/profile.jpeg"
     ],
     "links": [
       {
@@ -26940,7 +26994,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/abolfazl-beik-mohammadi-497/profile.jpg"
+      "people/abolfazl-beik-mohammadi-497/profile.jpg"
     ],
     "links": [
       {
@@ -26986,7 +27040,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/ehsan-akbari-498/profile.jpeg"
+      "people/ehsan-akbari-498/profile.jpeg"
     ],
     "links": [
       {
@@ -27037,7 +27091,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/amirmehdi-nematinejad-499/profile.jpg"
+      "people/amirmehdi-nematinejad-499/profile.jpg"
     ],
     "links": [
       {
@@ -27088,7 +27142,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/iman-bahadori-500/profile.jpg"
+      "people/iman-bahadori-500/profile.jpg"
     ],
     "links": [
       {
@@ -27139,7 +27193,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/parastoo-jarahian-501/profile.webp"
+      "people/parastoo-jarahian-501/profile.webp"
     ],
     "links": [
       {
@@ -27185,7 +27239,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/saeed-taghvaei-503/profile.jpeg"
+      "people/saeed-taghvaei-503/profile.jpeg"
     ],
     "links": [
       {
@@ -27236,7 +27290,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammad-radman-nia-451/profile.jpg"
+      "people/mohammad-radman-nia-451/profile.jpg"
     ],
     "links": [
       {
@@ -27287,7 +27341,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammad-ranjbar-748/profile.jpg"
+      "people/mohammad-ranjbar-748/profile.jpg"
     ],
     "links": [
       {
@@ -27338,7 +27392,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/mohammad-hossein-vosoughi-504/profile.jpeg"
+      "people/mohammad-hossein-vosoughi-504/profile.jpeg"
     ],
     "links": [
       {
@@ -27384,7 +27438,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/amirparsa-ashkboos-505/profile.jpeg"
+      "people/amirparsa-ashkboos-505/profile.jpeg"
     ],
     "links": [
       {

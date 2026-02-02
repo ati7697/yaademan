@@ -1,5 +1,54 @@
 [
   {
+    "id": "pedram-argha-528",
+    "firstName": {
+      "fa": "پدرام",
+      "en": "Pedram"
+    },
+    "lastName": {
+      "fa": "ارغا",
+      "en": "Argha"
+    },
+    "age": 31,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏دکتر ‎پدرام ارغا، جوان ۳۱ ساله‌ی کرد کرمانشاهی، در ۱۸ دی ۱۴۰۴، به دست جمهوری اسلامی با شلیک گلوله‌ی جنگی کشته شد.",
+      "en": "Dr. Padram Argha, a 31-year-old Kurd from Kermanshah, was killed by the Islamic Republic on January 8, 2026, with a live bullet."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015706449729466592",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015851967352861039",
+        "title": "funeral video",
+        "type": "video"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "ozra-bahadori-894",
     "firstName": {
       "fa": "عذرا",

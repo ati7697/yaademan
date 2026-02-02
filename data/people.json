@@ -1,5 +1,59 @@
 [
   {
+    "id": "arshia-mehr-azma-918",
+    "firstName": {
+      "fa": "عرشیا",
+      "en": "Arshia"
+    },
+    "lastName": {
+      "fa": "مهرآزما",
+      "en": "Mehr-Azma"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-02",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "عرشیا مهرآزما، دانشجوی کارشناسی ارشد ژئوتکنیک دانشگاه صنعتی امیرکبیر، در محدوده محله نارمک بازداشت شده است. در بعضی منابع گفته شده تست او را ۱۹ دی  ۱۴۰۴ و در جای دیگر گفتن او را ۱۲ دی بازداشت کرده اند.",
+      "en": "Arshia Mehr-Azma, a master's student in geotechnics at Amir Kabir University of Technology, has been arrested in the Narmak neighborhood. Some sources say he was arrested on January 09, 2026, while others say he was arrested on January 02."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018392371814191121",
+        "title": "Source 1",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/i/status/2017951742168613068",
+        "title": "Source 2",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/i/status/2016450217030062081",
+        "title": "Source 3",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "amir-hossein-gharagzli-998",
     "firstName": {
       "fa": "امیرحسین",

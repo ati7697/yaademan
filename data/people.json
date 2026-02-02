@@ -1,5 +1,54 @@
 [
   {
+    "id": "ozra-bahadori-894",
+    "firstName": {
+      "fa": "عذرا",
+      "en": "Ozra"
+    },
+    "lastName": {
+      "fa": "بهادری",
+      "en": "Bahadori"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-10",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-10",
+    "location": {
+      "city": {
+        "fa": "سبزوار",
+        "en": "Sabzevar"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عذرا بهادری، شنبه ۲۰ دی در محله بعثت سبزوار در حالی که ۲ جوان را به شدت کتک می‌زدند، از خانه بیرون رفت تا ببیند چه خبر شده، ماموران به آن ۲ جوان تیر خلاص زدند و بعد به سمت خانه عذرا تیراندازی کردند تا کسی فیلم نگرفته باشد. گلوله به شاهرگ او اصابت و درجا کشته شد.",
+      "en": "On Saturday, January 10, 2026, in the Besat neighborhood of Sabzevar, Ozra Bahadori went out of her house to see what was happening while two young men were being severely beaten. The officers fired blank shots at the two young men and then opened fire on Ozra's house so that no one would have filmed it. The bullet hit her in the jugular vein and she died on the spot."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018091172007170431",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018036056889716743",
+        "title": "x post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
     "id": "fatemeh-ezazi-795",
     "firstName": {
       "fa": "فاطمه",

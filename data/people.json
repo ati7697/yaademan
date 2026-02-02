@@ -1,5 +1,49 @@
 [
   {
+    "id": "amir-hossein-gharagzli-998",
+    "firstName": {
+      "fa": "امیرحسین",
+      "en": "Amir Hossein"
+    },
+    "lastName": {
+      "fa": "قراگزلی",
+      "en": "Gharagzli"
+    },
+    "age": 24,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": " ‎امیرحسین قراگزلی توان‌خواه ۲۴ ساله بهزیستی که در اندیشه، تهران، با گلوله جنگی به سینه‌اش جاویدنام میشه. بعد از ۶ سال که مرکز توانبخشی میرفته، این بچه تازه یاد گرفته بود که خیاطی کنه و کلی ذوق داشت که داره خوب یاد میگیره.",
+      "en": "Amir Hossein Gharagzli, a 24-year-old disabled person from the welfare state, was shot in the chest by a live bullet in Andisheh, Tehran. After 6 years of going to a rehabilitation center, this child had just learned to sew and was very excited that he was learning well."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018379333954420977",
+        "title": "source 1",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "pedram-argha-528",
     "firstName": {
       "fa": "پدرام",

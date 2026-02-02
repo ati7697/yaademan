@@ -26742,5 +26742,413 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "masoud-karim-441",
+    "firstName": {
+      "fa": "مسعود",
+      "en": "Masoud"
+    },
+    "lastName": {
+      "fa": "کریم",
+      "en": "Karim"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "با شلیک گلوله به قتل رسید",
+      "en": "he was shot and killed"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مسعود کریم ۱۵ ساله که ۱۸ دی ماه  ۱۴۰۴ در اصفهان با شلیک گلوله به قتل رسید.\nدر خبرگذاری ها تایید نشده.",
+      "en": "Masoud Karim, 15, was shot and killed in Isfahan on January 8, 2026.\nNot confirmed in news agencies."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/masoud-karim-441/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015858074330829078",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015924464060440861",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "saeed-souzangar-502",
+    "firstName": {
+      "fa": "سعید ",
+      "en": "Saeed"
+    },
+    "lastName": {
+      "fa": "سوزنگر",
+      "en": "Souzangar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-20",
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "سعید سوزنگر سه‌شنبه ۳۰ دی ۱۴۰۴ (احتمالا) بازداشت شده و خبری ازش نیست.",
+      "en": "Saeed Sozanger was arrested on Tuesday, January 20th (probably) and there is no news about him."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/saeed-souzangar-502/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015774919175373148",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015893267049546021",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015817561426874487",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "farhad-nadeali-106",
+    "firstName": {
+      "fa": "فرهاد",
+      "en": "Farhad"
+    },
+    "lastName": {
+      "fa": "نادعلی",
+      "en": "Nadeali"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "گرگان",
+        "en": "Gorgan"
+      },
+      "country": "Iran"
+    },
+    "status": "released",
+    "description": {
+      "fa": "دکتر فرهاد نادعلی، جراح عمومی، توسط نیروهای دولتی در ایران دستگیر شد. او پزشکی شناخته شده است که سال‌ها خدمات پزشکی مؤثری به مردم گرگان ارائه داده است.",
+      "en": "Dr. Farhad Nadeali, a general surgeon, was arrested in Iran by government forces. He is a well-known physician who has provided years of impactful medical services to the people of Gorgan."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/farhad-nadeali-106/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2015842339412181157",
+        "title": "X post arrest report",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/smmirkhani/status/2017902883383943189?s=20",
+        "title": "X post release report",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/MSHR_AUSTRIA/status/2017907835493896321?s=20",
+        "title": "X post release report",
+        "type": "social_media"
+      }
+    ],
+    "verified": false,
+    "published": true
+  },
+  {
+    "id": "abolfazl-beik-mohammadi-497",
+    "firstName": {
+      "fa": "ابوالفضل",
+      "en": "Abolfazl"
+    },
+    "lastName": {
+      "fa": "بیک‌ محمدی",
+      "en": "Beik Mohammadi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/abolfazl-beik-mohammadi-497/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-190-1",
+        "title": "https://hengaw.net/fa/news/2026/01/article-190-1",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "ehsan-akbari-498",
+    "firstName": {
+      "fa": "احسان",
+      "en": "Ehsan"
+    },
+    "lastName": {
+      "fa": "اکبری",
+      "en": "Akbari"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "احسان اکبری، ۲۷ ساله و اهل اراک، در جریان اعتراضات مردمی این شهر و در نزدیکی مدرسه‌ای که پیش‌تر در آن تحصیل می‌کرد، با شلیک مستقیم نیروهای حکومتی کشته شد.  احسان اکبری زمانی که برای نجات جان یکی دیگر از معترضان اقدام می‌کرد، از فاصله نزدیک هدف تیراندازی قرار گرفت. به گفته منابع مطلع، نیروهای امنیتی ابتدا با گلوله ساچمه‌ای به ناحیه شکم او شلیک کردند و سپس از پشت‌بام مدرسه با تیر جنگی به قلب و سر او شلیک کردند. پدر احسان او را با پای پیاده به بیمارستان منتقل کرد، اما وی جان باخت. پیکر او پس از چهار روز، در ۲۲ دی‌ماه، به خانواده‌اش تحویل داده شد.\n",
+      "en": "Ehsan Akbari, 27 years old and from Arak, was killed during the public protests in this city near the school where he previously studied, by direct gunfire from government forces. Ehsan Akbari was shot at close range while trying to save another protester's life. According to informed sources, the security forces first shot him in the abdomen with pellet bullets and then fired live ammunition at his heart and head from the school's rooftop. Ehsan's father took him to the hospital on foot, but he died. His body was handed over to his family after four days, on January 12th."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/ehsan-akbari-498/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-184-1",
+        "title": "https://hengaw.net/fa/news/2026/01/article-184-1",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/indypersian/status/2013995502883442735?s=20",
+        "title": "https://x.com/indypersian/status/2013995502883442735?s=20",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirmehdi-nematinejad-499",
+    "firstName": {
+      "fa": "امیرمهدی",
+      "en": "Amirmehdi"
+    },
+    "lastName": {
+      "fa": "نعمتی‌نژاد",
+      "en": "Nematinejad"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرمهدی کودک کار بود. او در خیاطی کارگری می‌کرد. او برای کمک به تامین معیشت خانواده‌اش به دنیای کار پا نهاده بود. پیکر امیرمهدی را جمعه ۱۹دی به خانواده‌اش تحویل دادند و آن‌ها در جمعیتی اندک، پسر نوجوان خود را به خاک سپردند.",
+      "en": "Amirmehdi was a working child. He worked as a tailor's assistant. He had entered the workforce to help support his family's livelihood. Amirmehdi's body was handed over to his family on Friday, January 9th, and they buried their teenage son in a small gathering."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/amirmehdi-nematinejad-499/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148075-%D8%A7%D9%85%DB%8C%D8%B1%D9%85%D9%87%D8%AF%DB%8C-%D9%86%D8%B9%D9%85%D8%AA%DB%8C%D9%86%DA%98%D8%A7%D8%AF-%D9%86%D9%88%D8%AC%D9%88%D8%A7%D9%86-%DB%B1%DB%B7%D8%B3%D8%A7%D9%84%D9%87-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%D8%A7%D8%B1%D8%A7%DA%A9-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire website",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/behnam_chegini/status/2015059618108490124?s=20",
+        "title": "X post + video of funeral",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "iman-bahadori-500",
+    "firstName": {
+      "fa": "ایمان",
+      "en": "Iman"
+    },
+    "lastName": {
+      "fa": "بهادری",
+      "en": "Bahadori"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام ایمان بهادری، مربی فوتبال، در اراک پس از ضرب و شتم با باتوم، با شلیک مستقیم نیروهای سرکوب کشته شد. بر اساس اطلاعات رسیده از شاهدان محلی، ابتدا مأموران او را در یکی از کوچه‌ها با باتوم مورد ضرب‌وشتم قرار داده‌اند و پس از آن با شلیک گلوله به بدنش، وی را به قتل رسانده‌اند. ایمان بهادری از چهره‌های شناخته‌شده ورزشی در اراک بود. برادر او نیز از دروازه‌بانان تیم فوتبال آلومینیوم اراک است.\n",
+      "en": "Iman Bahadori, a football coach, is immortalized in Arak after being killed by direct gunfire from security forces following baton beatings. According to information received from local witnesses, the officers first beat him with batons in one of the alleys and then killed him by shooting him in the body. Iman Behdari was a well-known sports figure in Arak. His brother is also one of the goalkeepers of the Aluminium Arak football team."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/iman-bahadori-500/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-190-1",
+        "title": "Hengaw website",
+        "type": "news"
+      },
+      {
+        "url": "https://www.instagram.com/p/DT-T5O5lLBb/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "parastoo-jarahian-501",
+    "firstName": {
+      "fa": "پرستو",
+      "en": "Parastoo"
+    },
+    "lastName": {
+      "fa": "جراحیان",
+      "en": "Jarahian"
+    },
+    "age": 23,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پرستو جراحیان، ۲۳ ساله، اهل اراک ۱۸ دی ماه ۱۴۰۴ در جریان اعتراضات مردمی، در میدان شورای با شلیک مستقیم نیروهای حکومت از ناحیۀ پهلو هدف قرار گرفت، او را به بیمارستان منتقل کردند اما ساعاتی بعد خبر کشته شدنش را به خانواده دادند.",
+      "en": "Parastoo Jarahian, 23 years old, from Arak, was shot in the side by direct gunfire from government forces on January 8, 2026, during public protests in Shoraye Square. She was transferred to the hospital, but a few hours later her family was informed of her death."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/parastoo-jarahian-501/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/ManotoNews/status/2015386668099080589?s=20",
+        "title": "X posst",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

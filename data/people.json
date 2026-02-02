@@ -1,5 +1,49 @@
 [
   {
+    "id": "mohadese-shahbazi-895",
+    "firstName": {
+      "fa": "محدثه",
+      "en": "Mohadese"
+    },
+    "lastName": {
+      "fa": "شهبازی",
+      "en": "Shahbazi"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هه‌نگاو، روز جمعه ۱۹ دی‌ماه ۱۴۰۴، محدثه شهبازی، شهروند لُر ۲۰ ساله، اهل نهاوند از توابع استان همدان و ساکن تهران، بر اثر جراحات ناشی از اصابت گلوله جنگی جان خود را از دست داد. این شهروند در جریان اعتراضات روز پنجشنبه ۱۸ دی‌ماه هدف شلیک مستقیم نیروهای سرکوبگر حکومتی قرار گرفته‌ و زخمی شده بود.",
+      "en": "According to a report received by Hengaw, on Friday, January 09, 2026, Mohaddeseh Shahbazi, a 20-year-old citizen of Lor, from Nahavand, Hamedan Province, and a resident of Tehran, died from injuries sustained from a live bullet. This citizen had been the direct target of government repressive forces during the protests on Thursday, January 8, and was injured."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017921563069124857",
+        "title": "Hengaw X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mostafa-salami-478",
     "firstName": {
       "fa": "مصطفی",

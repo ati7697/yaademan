@@ -27645,5 +27645,97 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "mohsen-shekari-506",
+    "firstName": {
+      "fa": "محسن",
+      "en": "Mohsen"
+    },
+    "lastName": {
+      "fa": "شکاری",
+      "en": "Shekari"
+    },
+    "age": 22,
+    "birthDate": "2000-02-24",
+    "deathDate": "2022-12-08",
+    "causeOfDeath": {
+      "fa": "اعدام توسط جمهوری اسلامی",
+      "en": "Executed by the Islamic Republic"
+    },
+    "incidentDate": "2022-09-25",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "executed",
+    "description": {
+      "fa": "محسن شکاری (۵ اسفند ۱۳۷۸ – ۱۷ آذر ۱۴۰۱) یکی از اولین بازداشت شدگان خیزش ۱۴۰۱ ایران بود که جمهوری اسلامی در ۱۷ آذر ۱۴۰۱، پس از ۷۵ روز بازداشت، او را اعدام کرد. اعدام او موجب برانگیخته شدن خشم عمومی در بین مردم ایران و جهان شد. سازمان عفو بین الملل اعدام شکاری را «وحشتناک و ناعادلانه» توصیف کرد. این نخستین حکم اعدام معترضان خیزش ۱۴۰۱ ایران بود که جمهوری اسلامی اجرا کرد.",
+      "en": "Mohsen Shekari (February 24, 2000 – December 8, 2022) was one of the first detainees of the 2022 Iranian uprising, whom the Islamic Republic executed on December 8, 2022, after 75 days of detention. His execution sparked public outrage among the people of Iran and the world. Amnesty International described Shakari's execution as 'horrific and unjust.' This was the first execution of protesters from the 2022 Iranian uprising carried out by the Islamic Republic."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/mohsen-shekari-506/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D8%B3%D9%86_%D8%B4%DA%A9%D8%A7%D8%B1%DB%8C",
+        "title": "wikipedia",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "majidreza-rahnavard-507",
+    "firstName": {
+      "fa": "مجیدرضا",
+      "en": "Majidreza"
+    },
+    "lastName": {
+      "fa": "رهنورد",
+      "en": "Rahnavard"
+    },
+    "age": 23,
+    "birthDate": "1999-05-16",
+    "deathDate": "2022-12-12",
+    "causeOfDeath": {
+      "fa": "اعدام توسط جمهوری اسلامی",
+      "en": "Executed by the Islamic Republic"
+    },
+    "incidentDate": "2022-11-19",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "executed",
+    "description": {
+      "fa": "مجیدرضا رهنورد(۲۶ خرداد ۱۳۷۸ – ۲۱ آذر ۱۴۰۱) روز ۲۸ آبان در جریان خیزش سراسری ۱۴۰۱ بازداشت شد. فرایند دادگاه و صدور حکم او به سرعت و بدون طی شدن تشریفات قانونی و تنها پس از پنج روز از بازداشت انجام شد. او متهم شد که در روز ۲۶ آبان در خیابان «حر عاملی» مشهد به شش بسیجی حمله کرده و در جریان این حمله دو تن از آنان کشته و چهار تن دیگر مجروح شده اند. قاضی برای او حکم «محاربه» صادر و به اعدام محکوم شد و حکم او در کمتر از دو هفته از جلسه دادگاه اجرا شد. فعالان حقوق بشر روند دادرسی او را ناعادلانه خواندند. خبرگزاری هرانا گزارش داد که او امکان بهره بردن از وکیل تعیینی یا انتخابی نداشته و در دادگاه نیز فرصت دفاع از خودش را پیدا نکرده بود. خانواده او وکیلی استخدام کردند اما دادگاه آن وکیل را برکنار و وکیل تسخیری برای او در نظر گرفتند.",
+      "en": "Majidreza Rahnavard(16 June 1999 - 12 December 2022) was arrested on November 19, 2022, during the nationwide uprising. The process of his trial and sentencing was carried out quickly and without following legal formalities, only five days after his arrest. He was accused of attacking six Basij members on November 17th on Har Ameli Street in Mashhad, during which two of them were killed and four others were injured. The judge issued a sentence of 'enmity against God' for him and sentenced him to death, and his sentence was carried out in less than two weeks from the court session. Human rights activists described his trial process as unfair. The HRANA news agency reported that he did not have the opportunity to benefit from an appointed or chosen lawyer and did not have the chance to defend himself in court. His family hired a lawyer, but the court dismissed that lawyer and appointed a public defender for him."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/majidreza-rahnavard-507/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AC%DB%8C%D8%AF%D8%B1%D8%B6%D8%A7_%D8%B1%D9%87%D9%86%D9%88%D8%B1%D8%AF",
+        "title": "wikipedia",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

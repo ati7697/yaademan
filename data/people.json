@@ -27349,5 +27349,56 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "amirparsa-ashkboos-505",
+    "firstName": {
+      "fa": "امیرپارسا",
+      "en": "Amirparsa"
+    },
+    "lastName": {
+      "fa": "اشکبوس",
+      "en": "Ashkboos"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرپارسا دانشجوی ورودی ۱۴۰۲ رشته میکروبیولوژی دانشگاه آزاد اسلامی واحد تهران شمال، در منطقه هفت‌حوض تهران از ناحیه گردن و از پشت مورد اصابت گلوله قرار گرفت و کشته شد. منابع نزدیک به او گفته‌اند که این جوان ۲۰ ساله به‌رغم «آسیب‌دیدگی شدید در ناحیه تاندون پا» و مشکل جدی در راه رفتن براهی همراهی معترضان به خیابان رفته بود. امیر پارسا در آخرین پیام خود پیش از رفتن به خیابان نوشته بود: «میرم تا حداقل قدمی برای همه‌مون برداشته باشم»",
+      "en": "Amirparsa, a 2023 entrant student in the Microbiology program at Islamic Azad University, North Tehran Branch, was shot and killed in the Haft-Hoz area of Tehran from the neck and from behind. Sources close to him have said that despite 'severe injury to the tendon area of his leg' and a serious problem walking, this 20-year-old youth had gone to the streets to accompany the protesters. Amirparsa wrote in his last message before going to the street: 'I'm going to take at least a step for all of us.'"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/amirparsa-ashkboos-505/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/%D8%A7%D9%85%DB%8C%D8%B1%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D8%A7%D8%B4%DA%A9%D8%A8%D9%88%D8%B3%D8%8C-%D8%AC%D9%88%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-%D9%87%D9%81%D8%AA-%D8%AD%D9%88%D8%B6-%D8%AA%D9%87%D8%B1%D8%A7%D9%86--kxOsTZol",
+        "title": "ایندیپندنت فارسی",
+        "type": "video"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148037-%D8%A7%D9%85%DB%8C%D8%B1%D9%BE%D8%A7%D8%B1%D8%B3%D8%A7-%D8%A7%D8%B4%DA%A9%D8%A8%D9%88%D8%B3-%DB%B1%DB%B8%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%A7%D8%B3%D8%AA/",
+        "title": "ایران وایر",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

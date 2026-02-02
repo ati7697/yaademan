@@ -1,5 +1,49 @@
 [
   {
+    "id": "fatemeh-ezazi-795",
+    "firstName": {
+      "fa": "فاطمه",
+      "en": "Fatemeh"
+    },
+    "lastName": {
+      "fa": "اعزازی",
+      "en": "Ezazi"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هه‌نگاو، شامگاه پنجشنبه ۱۸ دی‌ماه ۱۴۰۴، فاطمه اعزازی، دستیار دندانپزشک ۲۴ ساله، در جریان اعتراضات مردمی در محله فلاح تهران با شلیک مستقیم گلوله جنگی نیروهای سرکوبگر حکومتی به قلبش کشته شد. به گفته منابع آگاه، فاطمه اعزازی ساعت ۱۹:۳۰، از سوی تیرانداز مستقر در بالای مسجد نزدیک محل تجمع هدف شلیک مستقیم واقع شده و پس از انتقال به بیمارستان توسط مردم، علیرغم تلاش‌های کادر درمان بر اثر جراحات وارده جان خود را از دست داده است.",
+      "en": "According to a report received by Hengaw, on the evening of Thursday, January 8, 2026, Fatemeh Azazi, a 24-year-old dental assistant, was killed by a live bullet fired by government repressive forces to the heart during public protests in the Fallah neighborhood of Tehran. According to informed sources, Fatemeh Azazi was directly targeted by a sniper stationed on top of a mosque near the gathering place at 19:30 and died from her injuries after being taken to the hospital by the public, despite the efforts of medical staff."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017997514406830097",
+        "title": "Hengaw X post",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "omid-rostami-210",
     "firstName": {
       "fa": "امید",

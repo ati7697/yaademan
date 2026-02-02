@@ -7091,8 +7091,8 @@
       "en": "Sina"
     },
     "lastName": {
-      "fa": "اشکبوسی",
-      "en": "Ashkbousi"
+      "fa": "اشگبوسی",
+      "en": "Ashgbousi"
     },
     "age": 17,
     "birthDate": null,
@@ -7111,8 +7111,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "سینا اشکبوسی در تاریخ 2026-01-08 در تهران کشته شد.",
-      "en": "Sina Ashkbousi was killed during protests."
+      "fa": "سینا اشگبوسی، تک‌فرزندی که قرار بود برای ادامهٔ تحصیل به کانادا مهاجرت کند.در جریان اعتراضات ۱۸ دی‌ماه ۱۴۰۴، تهران، محلهٔ تهران‌پارس، هدف تیر جنگی نیروهای سرکوب قرار گرفت و پس از انتقال به بیمارستان تهران‌پارس در فلکهٔ سوم، جان خود را از دست داد.",
+      "en": "Sina Ashgbousi, an only child who was supposed to immigrate to Canada to continue her education, was targeted by the repressive forces in the Tehran-Pars neighborhood of Tehran during the protests on January 8, 2026, and died after being transferred to Tehran-Pars Hospital in the Third Square."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -7125,6 +7125,16 @@
         "url": "https://iranwire.com/fa/news-1/147623",
         "title": "Source 1",
         "type": "other"
+      },
+      {
+        "url": "https://www.linkedin.com/posts/reza-ashgbousi-b06901196_aebahyaeuaepaeo-aehaevaex-ashkbusi-activity-7422320495393497090-WApP?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACpGjcIBXyVAXBlhy87xuONyY36L7sAUnyY&utm_campaign=copy_link",
+        "title": "Sina's father's LinkedIn post",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/i/status/2011860936077033685",
+        "title": "Source 2",
+        "type": "social_media"
       }
     ],
     "verified": true,

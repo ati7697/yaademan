@@ -1,5 +1,49 @@
 [
   {
+    "id": "amir-hossein-khandozi-486",
+    "firstName": {
+      "fa": "امیرحسین",
+      "en": "Amir Hossein"
+    },
+    "lastName": {
+      "fa": "خاندوزی",
+      "en": "Khandozi"
+    },
+    "age": 26,
+    "birthDate": null,
+    "deathDate": "2026-01-13",
+    "causeOfDeath": {
+      "fa": "کشته شد در بازداشت",
+      "en": "Killed in custody"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "گرگان",
+        "en": "Gorgan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام امیرحسین خاندوزی، ۲۶ ساله، مجرد و کارمند یک شرکت خصوصی، روز ۱۸ دی‌ماه ۱۴۰۴ در شهر گرگان توسط نیروهای امنیتی بازداشت شد. پنج روز بعد، در تاریخ ۲۳ دی‌ماه، پیکر بی‌جان او به خانواده‌اش تحویل داده شد.",
+      "en": "Amirhossein Khandozi, 26, a single man and employee of a private company, was arrested by security forces in Gorgan on January 8, 2026. Five days later, on January 13, his lifeless body was handed over to his family."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2014867278077296939",
+        "title": "source 1",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "arshia-mehr-azma-918",
     "firstName": {
       "fa": "عرشیا",

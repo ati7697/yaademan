@@ -7976,28 +7976,28 @@
       "en": "Amir"
     },
     "lastName": {
-      "fa": "حیدر دوست",
-      "en": "Heydar Doost"
+      "fa": "حیدردوست",
+      "en": "Heydardoost"
     },
     "age": null,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شدن در جریان اعتراضات",
       "en": "Killed during protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "منجیل",
-        "en": null
+        "en": "Manjil"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "امیر حیدر دوست در منجیل کشته شد.",
-      "en": "Amir Heydar Doost was killed during protests."
+      "fa": "بر اساس اطلاعات رسیده به ایران‌اینترنشنال، امیر حیدردوست، جوان اهل شهرستان منجیل، ۱۹ دی‌ماه بر اثر اصابت گلوله ماموران بسیجی به شاهرگ پایش، دچار خون‌ریزی و عفونت شدید شد و پس از چند ساعت، جان خود را از دست داد.\n بر اساس اطلاعات دریافتی، او تک‌فرزند بود و پدرش را در کودکی از دست داده بود.",
+      "en": "According to information received by Iran International, Amir Heydardoost, a young man from Manjil city, suffered severe bleeding and infection on January 9, when a Basij officer shot him in the leg artery, and died a few hours later.\nAccording to information received, he was an only child and had lost his father as a child."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -8014,6 +8014,11 @@
       {
         "url": "https://x.com/HyrcaniHRM/status/2011698039652483243?s=20",
         "title": "Source 2",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018335858374439015",
+        "title": "Source 3",
         "type": "social_media"
       }
     ],

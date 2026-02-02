@@ -1,5 +1,54 @@
 [
   {
+    "id": "mostafa-salami-478",
+    "firstName": {
+      "fa": "مصطفی",
+      "en": "Mostafa"
+    },
+    "lastName": {
+      "fa": "سلامی",
+      "en": "Salami"
+    },
+    "age": 54,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏بر اساس اطلاعات رسیده به «ایران‌وایر»، «مصطفی سلامی» شامگاه ۱۹ دی مقابل چشمان خانواده‌اش از پشت سر هدف گلوله جنگی قرار گرفت و کشته شد. مصطفی سلامی، ۵۴ ساله معترض، ساکن فردیس کرج و اهل ملایر که به همراه خانواده‌اش در اعتراضات شرکت کرده بود، پس از اصابت گلوله به ریه‌اش به درمانگاه شهید فهمیده فردیس کرج منتقل، اما پذیرش نشد. او در حالی‌ که سرش روی زانوی همسرش در خودرو بود و دخترش در صندلی جلو نشسته بود، بر اثر شدت جراحات جان باخت.\nپس از سه روز، به خانواده مصطفی سلامی مجوز دفن داده شد و پیکرش در بهشت‌زهرای تهران به خاک سپرده شد.",
+      "en": "According to information received by IranWire, Mostafa Salami was shot in the back of the head in front of his family on the evening of January 9th. Mostafa Salami, a 54-year-old protester, resident of Fardis Karaj and originally from Malayer, who had participated in the protests with his family, was taken to Shahid Fahmideh Fardis Karaj Clinic after being shot in the lung, but was not admitted. He died from his injuries while his head was on his wife’s knee in the car and his daughter was sitting in the front seat.\nThree days later, Mostafa Salami’s family was granted permission to bury him and his body was buried in Behesht-e-Zahra Cemetery in Tehran."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018045239701991770",
+        "title": "Iranwire X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2017243625776681197",
+        "title": "Iran international X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "alireza-mousavi-noor-220",
     "firstName": {
       "fa": "‎علیرضا",

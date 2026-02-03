@@ -1,5 +1,49 @@
 [
   {
+    "id": "youhana-mirpadyab-160",
+    "firstName": {
+      "fa": "یوحنا",
+      "en": "Youhana"
+    },
+    "lastName": {
+      "fa": "میرپادیاب",
+      "en": "Mirpadyab"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "یوحنا میرپادیاب اهل رشت است. آتش‌نشان معترضی که تصمیم گرفت پنج‌شنبه ۱۸دی۱۴۰۴ به سرکار نرود و در منطقه «شهرداری» رشت، به مردم معترض در اعتراضات بپیوندد. یوحنا را همان وسط  شهرداری با شلیک گلوله به سر کشتند.",
+      "en": "Youhana Mirpadyab is from Rasht. A protesting firefighter who decided not to go to work on Thursday, January 08, 2026, and to join the protesters in the \"city hall\" area of Rasht. Youhana was shot in the head right in the middle of the city hall."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018301540298027456",
+        "title": "source 1",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "alireza-ali-nia-446",
     "firstName": {
       "fa": "علیرضا",

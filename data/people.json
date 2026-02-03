@@ -28311,5 +28311,672 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "sajjad-kiani-502",
+    "firstName": {
+      "fa": "سجاد",
+      "en": "Sajjad"
+    },
+    "lastName": {
+      "fa": "کیانی",
+      "en": "Kiani"
+    },
+    "age": 38,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اسلام‌آباد غرب",
+        "en": "Eslamabad-e Gharb"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "دکتر سجاد کیانی، دندان‌پزشک اهل اسلام‌آباد غرب از چهره‌های شناخته‌شده، خوش‌نام و محبوب این شهر، در جریان اعتراضات مردمی با شلیک نیروهای حکومتی کشتە شد.",
+      "en": "Dr. Sajjad Kiani, a dentist from Eslamabad-e Gharb and a well-known, reputable, and popular figure in the city, was killed by gunfire from government forces during public protests."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/sajjad-kiani-502/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-178-1",
+        "title": "Hengaw website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "jaber-abdi-500",
+    "firstName": {
+      "fa": "جابر",
+      "en": "Jaber"
+    },
+    "lastName": {
+      "fa": "عبدی",
+      "en": "Abdi"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اسلام‌آباد غرب",
+        "en": "Eslamabad-e Gharb"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جابر عبدی، شهروند کُرد ۲۰ ساله، ۱۸ دی ۱۴۰۴، در جریان اعتراضات مردمی شهر اسلام آباد غرب استان کرمانشاه، با تیراندازی نیروهای سپاه پاسداران انقلاب اسلامی کشته شد. مراسم خاکسپاری او ۲۱ دی برگزار گردید.",
+      "en": "Jaber Abdi, a 20-year-old Kurdish citizen, was killed on January 8, 2026, during public protests in the city of Eslamabad-e Gharb, Kermanshah Province, by gunfire from the Islamic Revolutionary Guard Corps. His funeral was held on January 11."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/jaber-abdi-500/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-178-1",
+        "title": "Hengaw website",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/KurdistanHRN/status/2015788502797934729?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "peyman-lotfi-958",
+    "firstName": {
+      "fa": "پیمان",
+      "en": "Peyman"
+    },
+    "lastName": {
+      "fa": "لطفی",
+      "en": "Lotfi"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "شهسوار",
+        "en": "Shahsavar"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هیرکانی، پیمان لطفی، شهروند گیلک اهل شهسوار، در جریان اعتراضات سراسری دی ماه ۱۴۰۴ در این شهر با شلیک نیروهای حکومت جمهوری اسلامی ایران کشته شد.",
+      "en": "According to reports received by Hyrcani Human Rights Monitor, Peyman Lotfi, a Gilaki citizen from Shahsavar, was killed by gunfire from the Islamic Republic government forces during the nationwide protests of January 2026 in this city."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/peyman-lotfi-958/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/HyrcaniHRM/status/2015771504990994941?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "rozita-rokhzadeh-959",
+    "firstName": {
+      "fa": "رزیتا",
+      "en": "Rozita"
+    },
+    "lastName": {
+      "fa": "رخ‌زاده",
+      "en": "Rokhzadeh"
+    },
+    "age": 32,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رزیتا رخ‌زاده، تعمیرکار خودرو که ویدیوهایی از خود حین کار را در شبکه اجتماعی اینستاگرام منتشر می‌کرد.",
+      "en": "Rozita Rokhzadeh, a car mechanic who used to post videos of herself at work on the social media platform Instagram."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/rozita-rokhzadeh-959/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D9%BE%D9%86%D8%AF%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%B1%D8%B2%DB%8C%D8%AA%D8%A7-%D8%B1%D8%AE%E2%80%8C%D8%B2%D8%A7%D8%AF%D9%87%D8%8C-%D8%AF%D8%AE%D8%AA%D8%B1-%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9-%DA%A9%D9%87-%D8%AF%D8%B1-%D8%AC%D8%B1%DB%8C%D8%A7%D9%86-%D8%AE%DB%8C%D8%B2%D8%B4-%D9%85%D9%84%DB%8C-%D8%A8%D9%87-%D8%B6%D8%B1%D8%A8-%DA%AF%D9%84%D9%88%D9%84%D9%87-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF-AGxqW23M",
+        "title": "Independent Persian",
+        "type": "video"
+      },
+      {
+        "url": "https://x.com/PolarBe79150109/status/2015156712903426275?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "benyamin-eghdami-960",
+    "firstName": {
+      "fa": "بنیامین",
+      "en": "Benyamin"
+    },
+    "lastName": {
+      "fa": "اقدامی",
+      "en": "Eghdami"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "نامشخص",
+      "en": "Unknown"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "به گفته منابع ایران وایر، بنیامین اقدامی، ۱۸دی۱۴۰۴ همراه با تعدادی از دوستانش، مانند شب‌های گذشته، در محله «فردیس» کرج به اعتراضات سراسری می‌پیوندد. یک شاهد عینی گفته است که حوالی ساعت ۲۲ ماموران امنیتی پس از شلیک با گلوله‌های جنگی، به سمت جمعیتی که در حال فرار بودند، گاز اشک‌آور شلیک می‌کنند. \n\nاو به ایران وایر می‌گوید: «ما تصور می‌کردیم که گاز اشک‌آور است. ولی دیدیم که چند نفر که نزدیک گلوله‌ها بودند، نقش زمین شدند. چشم کسی نمی‌سوخت. همه سرفه می‌کردند و بدحال بودند. با این همه، چند نفر برای کمک به بچه‌هایی که به زمین افتاده بودند برگشتند. اول فکر می‌کردیم بنیامین و چند نفر دیگر از گاز اشک‌آور بی‌حال شده‌اند. اما دیدیم این اصلا گاز اشک‌آور نبوده، از چشم کسی اشک نمی‌آمد و بچه‌ها بی هوش شده بودند.» \n\nشاهد عینی به ایران وایر می‌گوید در حالی که جمعیت می‌خواست به معترضانی که بی‌هوش روی زمین افتاده بودند کمک کند، با هجوم نیروهای امنیتی مجبور به فرار می‌شوند: «ما دیدیم که بنیامین را دستگیر کردند.» \n\nبا اطلاع خانواده بنیامین اقدامی، تلاش‌ها برای پیدا کردن نهاد بازداشت کننده و محل نگه‌داری‌اش از بامداد ۱۹دی آغاز شد. اما هیچ فایده‌ای نداشت. در نهایت ۲۱دی۱۴۰۴ با خانواده بنیامین تماس گرفته می‌شود و به آن‌ها اطلاع می‌‌دهند که پیکر فرزندشان در سوله‌های کهریزک است. ",
+      "en": "According to IranWire sources, Benyamin Eghdami joined the nationwide protests in the 'Fardis' neighborhood of Karaj on January 8, 2026, along with several of his friends, as they had done on previous nights. An eyewitness stated that around 10 PM, security forces fired tear gas at the crowd that was trying to flee after shooting live ammunition.\n\nHe told IranWire: 'We thought it was tear gas. But we saw that several people who were close to the bullets fell to the ground. No one's eyes were burning. Everyone was coughing and feeling unwell. Despite this, a few people went back to help the kids who had fallen to the ground. At first, we thought Benyamin and a few others had fainted from the tear gas. But we realized it wasn't tear gas at all; no one was tearing up, and the kids had lost consciousness.'\n\nThe eyewitness told IranWire that as the crowd was trying to help the unconscious protesters on the ground, they were forced to flee due to an onslaught by security forces: 'We saw that they arrested Benyamin.'\n\nUpon learning about Benyamin Eghdami's arrest, efforts to locate the detaining authority and his place of custody began on the morning of January 9, 2026. However, these efforts were futile. Finally, on January 11, 2026, Benyamin's family was contacted and informed that their son's body was at the Kahrizak detention center."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/features/148202-%D8%A8%D9%86%DB%8C%D8%A7%D9%85%DB%8C%D9%86-%D8%A7%D9%82%D8%AF%D8%A7%D9%85%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B4%D8%AF-%D8%B3%D9%87-%D8%B1%D9%88%D8%B2-%D8%A8%D8%B9%D8%AF-%D9%BE%DB%8C%DA%A9%D8%B1%D8%B4-%D8%B1%D8%A7-%D8%AA%D8%AD%D9%88%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF/",
+        "title": "ایران وایر",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "iliya-valipour-791",
+    "firstName": {
+      "fa": "ایلیا",
+      "en": "Iliya"
+    },
+    "lastName": {
+      "fa": "ولی‌پور",
+      "en": "Valipour"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/iliya-valipour-791/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DT-KZdfjaLi/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Instagram post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/ftminth/status/2016862140317974896?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "hassan-ghasemi-961",
+    "firstName": {
+      "fa": "حسن",
+      "en": "Hassan"
+    },
+    "lastName": {
+      "fa": "قاسمی",
+      "en": "Ghasemi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "اطلاعات رسیده به ایران اینترنشنال نشان می‌دهد حسن قاسمی، قهرمان و داور کاراته در استان اصفهان روز جمعه ۱۹ دی ۱۴۰۴ در جریان انقلاب ملی ایرانیان به دست نیروهای سرکوب و با شلیک گلوله جنگی در محله زینبیه شهر اصفهان کشته شد. فاطمه رضایی، همسر جاویدنام قاسمی، هم مربی کاراته است. آنها یک فرزند سه ساله دارند.",
+      "en": "Information received by Iran International indicates that Hassan Ghasemi, a karate champion and referee in Isfahan Province, was killed on Friday, January 9, 2026, during the National Iranian Revolution by suppression forces with live ammunition in the Zeynabiyeh neighborhood of Isfahan city. Fatemeh Rezaei, the wife of the late Ghasemi, is also a karate coach. They have a three-year-old child."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/hassan-ghasemi-961/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202601194122",
+        "title": "Iran International",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "--401",
+    "firstName": {
+      "fa": "فرید",
+      "en": "Farid"
+    },
+    "lastName": {
+      "fa": "کرمی‌فرد",
+      "en": "Karamifard"
+    },
+    "age": 38,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "ضربات متعدد باتوم به سر",
+      "en": "Killed by multiple baton blows to the head"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "در اعتراضات شامگاه پنج‌شنبه، نیروهای جمهوری اسلامی فرید کریمی‌فرد را در خیابان «انقلاب» تهران مورد ضرب‌وشتم قرار دادند و آنقدر با باتوم بر سرش کوبیدند که جمجمه‌اش آسیب دید و جان داد. \n\nفرید مجرد بود. بعد از ضربات متعدد باتوم به سرش، با خودروی شخصی او را به بیمارستان «امام خمینی» رساندند اما دیر شده بود.",
+      "en": "During the protests on the evening of Thursday, Islamic Republic forces assaulted Farid Karamifard on Enghelab Street in Tehran, beating him so severely with batons that his skull was damaged, leading to his death.\n\nFarid was single. After receiving multiple baton blows to the head, he was taken to Imam Khomeini Hospital in a private vehicle, but it was too late."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/farid-karamifard-401/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148297-%D9%81%D8%B1%DB%8C%D8%AF-%DA%A9%D8%B1%DB%8C%D9%85%DB%8C%D9%81%D8%B1%D8%AF-%D8%A8%D8%A7-%D8%B6%D8%B1%D8%A8%D8%A7%D8%AA-%D9%85%D8%AA%D8%B9%D8%AF%D8%AF-%D8%A8%D8%A7%D8%AA%D9%88%D9%85-%D8%A8%D9%87-%D8%B3%D8%B1%D8%B4-%D8%AF%D8%B1-%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "IranWire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "parsa-madanichian-962",
+    "firstName": {
+      "fa": "پارسا",
+      "en": "Parsa"
+    },
+    "lastName": {
+      "fa": "معدنچیان",
+      "en": "Madanichian"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پارسا معدنچیان، کودک ۱۷ سالە ساکن تهران، در جریان اعتراضات مردمی در خیابان کاشانی این شهر با شلیک مستقیم گلوله جنگی نیروهای سرکوبگر حکومتی به ناحیه‌ی سر کشته شد. به گفته‌ی منابع آگاه، این کودک ۱۷ ساله حین رفتن به اعتراضات به مادرش گفته بود دو کاپشن پوشیده تا اگر مورد اصابت گلوله هم قرار گرفت، تنها زخمی شود اما توسط نیروهای حکومتی از پشت به سر او شلیک شد و جان خود را از دست داد.پدر پارسا، از جانبازان جنگ هشت ساله ایران و عراق، بدلیل تحویل ندادن پیکر فرزندش ناچار به استفاده از کارت جانبازیش شده است.",
+      "en": "Parsa Madanichian, a 17-year-old child residing in Tehran, was killed by direct live ammunition fired by government suppression forces in the Kashani Street area during public protests. According to informed sources, this 17-year-old child had told his mother that he was wearing two jackets so that if he were hit by a bullet, he would only be injured. However, he was shot in the head from behind by government forces and lost his life. Parsa's father, a veteran of the eight-year Iran-Iraq war, has been forced to use his veteran card due to the refusal to return his son's body."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/parsa-madanichian-962/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/HengawO/status/2015693244437266940?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "abbas-maleki-963",
+    "firstName": {
+      "fa": "عباس",
+      "en": "Abbas"
+    },
+    "lastName": {
+      "fa": "ملکی",
+      "en": "Maleki"
+    },
+    "age": 34,
+    "birthDate": null,
+    "deathDate": "2026-01-12",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عباس ملکی، ۳۴ ساله، ساکن کرج، ۱۸ دی ۱۴۰۴، در جریان اعتراضات مردم با شلیک مستقیم گلوله نیروهای سرکوبگر حکومت مجروح شد، او را به بیمارستان منتقل کردند و چهار روز بعد در بیمارستان کشته شد",
+      "en": "Abbas Maleki, 34 years old, a resident of Karaj, was injured by direct gunfire from government suppression forces during public protests on January 8, 2026. He was transferred to the hospital and died there four days later."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/abbas-maleki-963/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://www.independentpersian.com/tv/%D8%A7%DB%8C%D9%86%D8%AF%DB%8C%D9%BE%D9%86%D8%AF%D9%86%D8%AA-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C/%D8%A8%D8%AF%D8%B1%D9%82%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%85%D9%84%DA%A9%DB%8C-%D8%AC%D8%A7%D9%86%E2%80%8C%D8%A8%D8%A7%D8%AE%D8%AA%D9%87-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%85%D9%84%DB%8C-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%AC-%D8%A8%D8%A7-%D8%B1%D9%82%D8%B5-%D9%88-%D9%BE%D8%A7%DB%8C%DA%A9%D9%88%D8%A8%DB%8C-ozZbSsTT",
+        "title": "Independent Persian",
+        "type": "video"
+      },
+      {
+        "url": "https://x.com/ManotoNews/status/2016828679435743687?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "alireza-fereydouni-139",
+    "firstName": {
+      "fa": "علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "فریدونی",
+      "en": "Fereydouni"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "بندرعباس",
+        "en": "Bandar Abbas"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "علیرضا فریدونی، ۲۷ ساله، اهل بندرعباس و ساکن محله ۲۲ بهمن، روز پنجشنبه ۱۹ دی ماه ۱۴۰۴، با شلیک مستقیم نیروهای سرکوبگر رژیم جمهوری اسلامی جان خود را از دست داد.\n\nبر اساس گزارش روژمان و بە نقل از یک منبع آگاە، علیرضا فریدونی هدف تیراندازی مستقیم سلاح کلاشینکف قرار گرفته و در پی شدت جراحات وارده جان باخته است. این اقدام را مصداق آشکار استفاده از گلوله جنگی علیه شهروندان غیرمسلح عنوان کرده اند. \n\nبه گفته همین منبع، پس از کشته شدن این جوان، نهادهای امنیتی خانواده او را تهدید کرده اند که حتی اجازه برگزاری مراسم عزاداری و سوگواری را نیز ندارند؛ موضوعی که نشان دهنده تداوم فشار و سرکوب علیه خانواده های جان باختگان اعتراضات است.",
+      "en": "Alireza Fereydouni, 27 years old, from Bandar Abbas and resident of the 22 Bahman neighborhood, lost his life on Thursday, January 9, 2026, due to direct gunfire from the suppression forces of the Islamic Republic regime.\n\nAccording to a report by Rojman and citing an informed source, Alireza Fereydouni was targeted by direct fire from a Kalashnikov weapon and succumbed to the severity of his injuries. This action has been described as a clear example of the use of live ammunition against unarmed citizens.\n\nAccording to the same source, after the death of this young man, security agencies threatened his family, stating that they were not even allowed to hold mourning ceremonies; a matter that indicates the continued pressure and suppression against the families of those who lost their lives in the protests."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/alireza-fereydouni-139/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DT8HIYqCP6M/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "nima-ahmadi-420",
+    "firstName": {
+      "fa": "نیما",
+      "en": "Nima"
+    },
+    "lastName": {
+      "fa": "احمدی",
+      "en": "Ahmadi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "در تضاهرات توسط جمهوری اسلامی کشته شد",
+      "en": "Killed by the Islamic Republic during protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "خانواده جاوید نام ‎نیما احمدی میخوان صداشون باشید و نذارین اسم عزیزشون گم بشه بین اعداد و آمار. نیما احمدی ۱۹ دی در وکیل آباد مشهد به دست جمهوری اسلامی کشته شد",
+      "en": "The family of Nima Ahmadi wants you to be their voice and not let their beloved name be lost in numbers and statistics. Nima Ahmadi was killed on January 09 in Vakilabad, Mashhad by the Islamic Republic."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/nima-ahmadi-420/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2016064988532629642",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mehrdad-moshtaghi-292",
+    "firstName": {
+      "fa": "مهرداد",
+      "en": "Mehrdad"
+    },
+    "lastName": {
+      "fa": "مشتاقی",
+      "en": "Moshtaghi"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2026-01-13",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اراک",
+        "en": "Arak"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "به گزارش منوتو مهرداد (متین) مشتاقی، ۲۷ ساله، مهندس معماری، اهل اراک، ۱۹ دی ۱۴۰۴ در جریان اعتراضات مردمی با شلیک گلوله به سرش توسط نیروهای حکومت مجروح شد و ۴ روز بعد در بیمارستان کشته شد\n",
+      "en": "According to Manoto, Mehrdad (Matin) Moshtaghi, 27 years old, an architectural engineer from Arak, was injured by a gunshot to the head by government forces during public protests on January 9, 2026, and died in the hospital four days later."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/mehrdad-moshtaghi-292/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-184-1",
+        "title": "Hengaw website",
+        "type": "news"
+      },
+      {
+        "url": "https://www.instagram.com/p/DT2ZvZsCDFh/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mehdi-mirzaei-124",
+    "firstName": {
+      "fa": "مهدی",
+      "en": "Mehdi"
+    },
+    "lastName": {
+      "fa": "میرزایی",
+      "en": "Mirzaei"
+    },
+    "age": 23,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم نیروهای امنیتی",
+      "en": "Killed by direct gunfire from security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهدی میرزایی، ٢٣ سالە، تنها فرزند خانواده، اهل اراک، ساکن تهران ۱۸ دی ۱۴۰۴ در جریان اعتراضات مردمی، با شلیک مستقیم نیروهای حکومت به قلبش کشته شد",
+      "en": "Mehdi Mirzaei, 23 years old, the only child of his family, from Arak and residing in Tehran, was killed on January 8, 2026, during public protests by direct gunfire to his heart from government forces."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+        "people/mehdi-mirzaei-124/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-196-1",
+        "title": "Hengaw website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

@@ -1,5 +1,49 @@
 [
   {
+    "id": "saeed-malek-darvish-148",
+    "firstName": {
+      "fa": "سعید",
+      "en": "Saeed"
+    },
+    "lastName": {
+      "fa": "ملک درویش",
+      "en": "Malek Darvish"
+    },
+    "age": 35,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "طبق اطلاعات رسیده به «ایران‌ وایر»، «سعید ملک درویش» شهروند ۳۵ ساله ایرانی، ۱۹دی۱۴۰۴ با شلیک گلوله جنگی نیروهای جمهوری اسلامی در فردیس کرج کشته شد. یک فرد آگاه به «ایران وایر» گفته است که دقیقا ۷ روز قبل، او و همسرش تولد یک سالگی دخترشان را جشن گرفته بودند. ",
+      "en": "According to information received by Iran Wire, Saeed Malek Darvish, a 35-year-old Iranian citizen, was killed by live ammunition fired by Islamic Republic forces in Fardis, Karaj, on January 09, 2026. An informed person told Iran Wire that exactly 7 days earlier, he and his wife had celebrated their daughter's first birthday."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/features/148597-%D8%B3%D8%B9%DB%8C%D8%AF-%D9%85%D9%84%DA%A9%D8%AF%D8%B1%D9%88%DB%8C%D8%B4-%D8%B1%D8%A7-%DB%8C%DA%A9-%D9%87%D9%81%D8%AA%D9%87-%D9%BE%D8%B3-%D8%A7%D8%B2-%D8%AA%D9%88%D9%84%D8%AF-%D8%AF%D8%AE%D8%AA%D8%B1-%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84%D9%87%D8%A7%D8%B4-%DA%A9%D8%B4%D8%AA%D9%86%D8%AF/",
+        "title": "IranWire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "youhana-mirpadyab-160",
     "firstName": {
       "fa": "یوحنا",

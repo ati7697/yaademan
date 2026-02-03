@@ -1,5 +1,54 @@
 [
   {
+    "id": "erfan-safari-184",
+    "firstName": {
+      "fa": "عرفان",
+      "en": "Erfan"
+    },
+    "lastName": {
+      "fa": "صفری",
+      "en": "Safari"
+    },
+    "age": 23,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عرفان صفری تیر خورد و مدت زیادی خونریزی داشت. او خیلی دیر به بیمارستان رسید. یک زندگی جوان دیگر قبل از اینکه حتی فرصت شروع پیدا کند، از دست رفت. او فراموش نخواهد شد.",
+      "en": "Erfan Safari was shot and left bleeding for too long.\nHe reached the hospital too late. Another young life lost before it even had the chance to begin. He will not be forgotten."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.instagram.com/reel/DULLTSuDpLW/?igsh=endubW5reTFiOWpr",
+        "title": "His sister post about Erfan",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.instagram.com/p/DUI6TEMDHPO/?igsh=bjU1ZXh0bTZ5cWtw",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "moein-saghouri-608",
     "firstName": {
       "fa": null,

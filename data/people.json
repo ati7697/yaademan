@@ -1,5 +1,49 @@
 [
   {
+    "id": "alireza-ali-nia-446",
+    "firstName": {
+      "fa": "علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "علی‌نیا",
+      "en": "Ali-Nia"
+    },
+    "age": 24,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک  مستقیم توسط نیروهای امنیتی",
+      "en": "Killed by direct gunfire buy security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام علیرضا علی‌نیا، ۲۴ ساله، شهروند مشهدی و کاسب بازار (صاحب فروشگاه پوشاک مردانه)، روز جمعه ۱۹ دی‌ماه در منطقه احمدآباد با شلیک مستقیم نیروهای سرکوب‌گر جمهوری اسلامی کشته شد. او متأهل بود و همسرش در زمان کشته شدن، هفت‌ماهه باردار بود؛ یعنی فرزندش پیش از تولد، پدرش را به دست رژیم از دست داد. خانواده برای جلوگیری از ربودن پیکر توسط نیروهای امنیتی، مدتی آن را در خانه نگه داشتند و سپس در بهشت‌رضا مشهد (بلوک ۴۸، ردیف ۲۱) دفن کردند. پدر علیرضا به اطرافیان گفت: «از من نپرسید برای آرامش ما چه کار می‌توانیم بکنیم! هر کاری می‌توانید انجام دهید و صدای پسرم باشید.» او همچنین در پاسخ به تمسخر مجری صداوسیما در اینستاگرام نوشت: «جنازه بچه‌های ما بو نمی‌گیره؛ نیاز به یخ نداریم. نمی‌تونم نفرین کنم، مادرت گناه داره؛ این فرق ما با شماست.»\r",
+      "en": "24-year-old Alireza Ali-Nia from Mashhad was killed by direct gunfire from Islamic Republic security forces in the Ahmadabad area during protests or unrest. Alireza, a married shopkeeper who ran a men's clothing store in the bazaar, left behind a wife who was seven months pregnant at the time—meaning their child was born without ever meeting his/her father, killed by the regime before birth. To prevent security forces from seizing the body, the family kept it at home for a while before burying him in Behesht-e Reza cemetery in Mashhad (block 48, row 21). His father urged people to speak up for his son and not ask what they could do for the family's comfort. In response to a state TV presenter's mocking of slain protesters, the father posted powerfully on Instagram: \"Our children's bodies don't smell; we don't need ice. I can't curse you—your mother is innocent; this is the difference between us and you.\"\r\n"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018446853348405288",
+        "title": "Source 1",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "amir-hossein-khandozi-486",
     "firstName": {
       "fa": "امیرحسین",

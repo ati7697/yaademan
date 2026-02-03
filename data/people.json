@@ -18465,12 +18465,12 @@
     },
     "age": 22,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "شلیک مستقیم نیروهای حکومتی در جریان اعتراضات مردمی",
       "en": "Shot dead by government forces during public protests"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-08",
     "location": {
       "city": {
         "fa": "مشهد",
@@ -18480,8 +18480,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "امیرعلی باستانی، ۲۲ ساله، در دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در شهر مشهد با شلیک نیروهای جمهوری اسلامی ایران کشته شد.",
-      "en": "Amirali Bastani, 22, was killed in Mashhad in January 2026 during public protests after being shot by Islamic Republic forces."
+      "fa": "امیرعلی باستانی اهل تربت جام بود و دانشجوی سال اخر پزشکی در مشهد بود و به ضرب گلوله کشته شد در تاریخ ۱۸ دیماه در بلوار هفت تیر ‎مشهد. خانواده اش را تهدید کردند که اگر سکوت کنند پیکر او را به خانواده بر خواهند گرداند. صدای خانواده دادخواه امیر علی باشید. مادرش خواسته از او بنویسیم که نور چشم خانواده بود و مظلومانه کشته شد. ",
+      "en": "Amir Ali Bastani was from Torbat Jam and was a final year medical student in Mashhad and was shot dead on January 8, on Haft Tir Boulevard in Mashhad. His family was threatened that if they remained silent, they would return his body to his family. Be the voice of the family demanding justice for Amir Ali. His mother asked us to write about him, saying that he was the light of the family's eyes and was unjustly killed."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -18493,6 +18493,11 @@
       {
         "url": "https://x.com/Daikatuo/status/2012332321995739191?s=20",
         "title": "Report on the killing of Amirali Bastani",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018454208165347725",
+        "title": "source 2",
         "type": "social_media"
       }
     ],

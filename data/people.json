@@ -1,5 +1,49 @@
 [
   {
+    "id": "maryam-zardasht-659",
+    "firstName": {
+      "fa": "مریم",
+      "en": "Maryam"
+    },
+    "lastName": {
+      "fa": "زردشت",
+      "en": "Zardasht"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "مرودشت",
+        "en": "Marvdasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏طبق اطلاعات رسیده به ایران‌اینترنشنال، مریم زردشت، پزشک ساکن شیراز، که در اوایل انقلاب ملی برای کمک به مجروحان و کادر درمان به مرودشت رفته بود، در بیمارستان مورد حمله قرار گرفت و پس از یک هفته بستری شدن در بخش مراقبت‌های ویژه، جان باخت.",
+      "en": "According to information received by Iran International, Maryam Zardasht, a doctor living in Shiraz, who had gone to Marvdasht to help the wounded and medical staff during the early days of the national revolution, was attacked in the hospital and died after being hospitalized in the intensive care unit for a week."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://www.iranintl.com/202602024481",
+        "title": "Iran international websire",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "saeed-malek-darvish-148",
     "firstName": {
       "fa": "سعید",

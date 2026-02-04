@@ -1,5 +1,59 @@
 [
   {
+    "id": "reza-ansari-ramandi-959",
+    "firstName": {
+      "fa": "رضا",
+      "en": "Reza"
+    },
+    "lastName": {
+      "fa": "انصاری‌رامندی",
+      "en": "Ansari Ramandi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "دانسفهان",
+        "en": "Danesfaha"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رضا انصاری‌رامندی ۱۸ دی‌ماه ۱۴۰۴ در ‎دانسفهان یکی از شهرستان های قزوین با ۱۴۰۰۰ نفر جمعیت توسط رژیم جمهوری اسلامی کشته شد.",
+      "en": "Reza Ansari Ramandi was killed in Danesfaha, a city in Qazvin with a population of 14,000, in January 08, 2026 by the Islamic Republic regimem"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2016613850867454055",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2014545007798108500",
+        "title": "x post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.instagram.com/p/DUHqAXHDumM/?igsh=MXJjNHI4MTJ5bXh6Yw==",
+        "title": "Instagram post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "erfan-safari-184",
     "firstName": {
       "fa": "عرفان",

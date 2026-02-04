@@ -4816,14 +4816,14 @@
     "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": "دره دریژ",
-        "en": null
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "بهروز صفایی در تاریخ 2026-01-08 در دره دریژ کشته شد.",
+      "fa": "بهروز صفایی در تاریخ 2026-01-08 در دره دریژ کرمانشاه کشته شد.",
       "en": "Behrouz Safaei was killed during protests."
     },
     "events": [
@@ -5191,7 +5191,7 @@
     "location": {
       "city": {
         "fa": "قشم",
-        "en": null
+        "en": "Qeshm"
       },
       "country": "Iran"
     },
@@ -5422,7 +5422,7 @@
     "location": {
       "city": {
         "fa": "اهواز",
-        "en": null
+        "en": "Ahvaz"
       },
       "country": "Iran"
     },
@@ -5517,7 +5517,7 @@
     "location": {
       "city": {
         "fa": "بندرعباس",
-        "en": null
+        "en": "Bandar Abbas"
       },
       "country": "Iran"
     },
@@ -6887,8 +6887,8 @@
     "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": "تنکابن/شهسوار",
-        "en": null
+        "fa": "شهسوار",
+        "en": "Shahsavar"
       },
       "country": "Iran"
     },
@@ -15699,7 +15699,7 @@
     "location": {
       "city": {
         "fa": "بوشهر",
-        "en": null
+        "en": "Bushehr"
       },
       "country": "Iran"
     },
@@ -15748,7 +15748,7 @@
     "location": {
       "city": {
         "fa": "اصفهان",
-        "en": null
+        "en": "Isfahan"
       },
       "country": "Iran"
     },
@@ -15792,7 +15792,7 @@
     "location": {
       "city": {
         "fa": "اصفهان",
-        "en": null
+        "en": "Isfahan"
       },
       "country": "Iran"
     },
@@ -15929,7 +15929,7 @@
     "location": {
       "city": {
         "fa": "مشهد",
-        "en": null
+        "en": "Mashhad"
       },
       "country": "Iran"
     },
@@ -29841,7 +29841,7 @@
       "2022-mahsa-amini-protests"
     ],
     "images": [
-        "people/koomar-daroftadeh-688/profile.jpeg"
+      "people/koomar-daroftadeh-688/profile.jpeg"
     ],
     "links": [
       {
@@ -29852,6 +29852,450 @@
       {
         "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%85%D8%A7%D8%B1_%D8%AF%D8%B1%D8%A7%D9%81%D8%AA%D8%A7%D8%AF%D9%87",
         "title": "Wikipedia (FA): Koomar Daroftadeh",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadhossein-faraji-418",
+    "firstName": {
+      "fa": "محمدحسین",
+      "en": "Mohammad Hossein"
+    },
+    "lastName": {
+      "fa": "فرجی",
+      "en": "Faraji"
+    },
+    "age": 18,
+    "birthDate": "2004-07-14",
+    "deathDate": "2022-10-26",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-26",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدحسین فرجی، ۱۸ ساله، در ۴ آبان ۱۴۰۱ بر اثر اصابت گلوله جنگی کشته شد. روز چهارشنبه ۴ آبان ماه ۱۴۰۱ مصادف با چهلم مهسا امینی  که برای شرکت تو تظاهرات از خونه رفت. مزدورای سرکوبگر وحشیانه به تجمع مردم حمله ور شدن، و او توی اون تجمع بود ولی بعد ناپدید شدم.\n اونروز تا شب با چند نفر تماس تلفنی داشت ولی دیگه از شب تلفنش خاموش شد و هرچی خانوادش باهاش تماس گرفتن جواب نداد. اونا که خیلی نگران شده بودن شروع کردن به جستجو، به همه جا سر زدن و پیگیری کردن ولی هیچکس پاسخگو نبود. پنج روز گذشت و خانوادش خبری  نداشتن، ، خواهرش فائزه تو اینستاگرام یه پست گذاشت، بعدش بلافاصله چند مامور لباس شخصی به منزل پدر او مراجعه کردن و فائزه رو تهدید کردن. تا اینکه دوشنبه ۹ آبان ماه نیمه شب مامورا با پدر او تماس گرفتن و گفتن که جسد پسرت توی یه پارک تو منطقه زعفرانیه پیدا شده بیاین برای شناسائی. وقتی خانوادش رفتن اونجا مامورای امنیتی یه برگه گذاشتن جلوشون که روی اون نوشته شده بود او بر اثر سکته از دنیا رفته! و بعد با تهدید از پدرش پای اون برگه امضا گرفتن. به خانوادش اجازه ندادن توی پزشکی قانونی سر و بدن او ببینن و فقط یه عکس بهشون نشون دادن. مامورا تهدیدشون کردن که خاکسپاری باید در سکوت برگزار بشه و نباید اطلاع رسانی انجام بگیره.\n\nپزشک قانونی تاریخ کشته شدن او را جمعه ۶ آبان ۱۴۰۱ قید کرد، مامورا از پدرش تعهد گرفتن که هیچ جا مخالف با تاریخی که پزشکی قانونی اعلام کرده حرفی نزنه.\n\nمزدورا جنازش به خانواده اش تحویل ندادن و نذاشتن او را برای شستشو و خاکسپاری ببرن به بهشت زهرا، خودشون جسد را با آمبولانس انتقال دادن.\n\nپیکر بی جون او در تاریخ ۱۱ آبان ماه ۱۴۰۱ در بهشت زهرای تهران در قطعه ۳۱۰ ردیف ۱۳ شماره ۵۹ در جو شدید امنیتی مظلومانه و در سکوت خبری به خاک سپرده شد…",
+      "en": "Mohammad Hossein Faraji (18) was killed on October 26, 2022, after being shot with live ammunition. Wednesday, October 26, 2022, ccoinciding with the 40th day after Mahsa Amini's death, left home to participate in the demonstration. The mercenaries of the oppressive regime brutally attacked the gathering of people, and he was in that gathering, but then he disappeared.\nThat day, he had several phone calls until the evening, but since then his phone has been turned off and his family has not answered any calls. They, who were very worried, started searching, went everywhere and followed up, but no one responded. Five days passed and his family had no news, his sister Faezeh posted a post on Instagram, then several plainclothes officers immediately visited his father's house and threatened Faezeh. Until Monday, 31 October, at midnight, the officers called his father and said that his son's body was found in a park in the Zafaranieh area, come and identify him. When his family went there, the security officers placed a sheet in front of them that said he had died of a stroke! And then, threateningly, they asked his father to sign the sheet. His family was not allowed to see his head and body at the forensic clinic and were only shown a photo. The officers threatened them that the funeral should be held in silence and that no information should be released.\n\nThe forensic doctor recorded the date of his death as Friday, October\n 28, 2022. The officers took an undertaking from his father that he would not say anything contrary to the date announced by the forensic doctor.\n\nThe mercenaries did not hand over his body to his family and did not allow him to be washed and taken to Behesht Zahra for burial. They themselves transported the body by ambulance.\n\nHis lifeless body was buried on November 2, 2022 on Behesht-e Zahra Cemetery in Tehran, plot 310, row 13, number 59, under heavy security, humbly and in news blackout...."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/mohammadhossein-faraji-418/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/LoabatK/status/1825252973187879378?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mahdi-hazrati-672",
+    "firstName": {
+      "fa": "مهدی",
+      "en": "Mahdi"
+    },
+    "lastName": {
+      "fa": "حضرتی",
+      "en": "Hazrati"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-11-03",
+    "causeOfDeath": null,
+    "incidentDate": "2022-11-03",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهدی حضرتی، ۱۷ ساله، در کرج جان خود را از دست داد. جزئیات علت مرگ در منابع ذکر نشده است.",
+      "en": "Mahdi Hazrati (17) died in Karaj. Further details regarding the cause of death were not reported."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "nima-nouri-905",
+    "firstName": {
+      "fa": "نیما",
+      "en": "Nima"
+    },
+    "lastName": {
+      "fa": "نوری",
+      "en": "Nouri"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نیما نوری، ۱۷ ساله، در کرج بر اثر اصابت گلوله جنگی کشته شد. تاریخ دقیق در منابع ذکر نشده است.",
+      "en": "Nima Nouri (17) was killed in Karaj after being shot with live ammunition. The exact date was not specified."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mobin-mirkazehi-256",
+    "firstName": {
+      "fa": "مبین",
+      "en": "Mobin"
+    },
+    "lastName": {
+      "fa": "میرکازهی",
+      "en": "Mirkazehi"
+    },
+    "age": 14,
+    "birthDate": null,
+    "deathDate": "2022-11-03",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-03",
+    "location": {
+      "city": {
+        "fa": "خاش",
+        "en": "Khash"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مبین میرکازهی، ۱۴ ساله، در خاش و در جریان جمعه خونین خاش با اصابت گلوله جنگی کشته شد.",
+      "en": "Mobin Mirkazehi (14) was killed in Khash during the Bloody Friday of Khash after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-ghemei-fard-781",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "قائمی فرد",
+      "en": "Ghemei Fard"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-11-05",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-22",
+    "location": {
+      "city": {
+        "fa": "دزفول",
+        "en": "Dezful"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمد قائمی‌فرد، ۱۷ ساله، در تجمعات دزفول از ناحیه سر هدف گلوله قرار گرفت و پس از ۱۵ روز کما جان باخت.",
+      "en": "Mohammad Ghemei Fard (17) was shot in the head during protests in Dezful and died after 15 days in a coma."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amirali-fouladi-394",
+    "firstName": {
+      "fa": "امیرعلی",
+      "en": "Amirali"
+    },
+    "lastName": {
+      "fa": "فولادی",
+      "en": "Fouladi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-10",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-10",
+    "location": {
+      "city": {
+        "fa": "اسلام‌آباد غرب",
+        "en": "Eslamabad-e Gharb"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیرعلی فولادی، ۱۶ ساله، در اسلام‌آباد غرب با اصابت گلوله جنگی کشته شد.",
+      "en": "Amirali Fouladi (16) was killed in Eslamabad-e Gharb after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "ali-abyar-863",
+    "firstName": {
+      "fa": "علی",
+      "en": "Ali"
+    },
+    "lastName": {
+      "fa": "آبیار",
+      "en": "Abyar"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-11-11",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-11",
+    "location": {
+      "city": {
+        "fa": "تکاب",
+        "en": "Takab"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "علی آبیار، ۱۷ ساله، در تکاب با اصابت گلوله جنگی جان باخت.",
+      "en": "Ali Abyar (17) was killed in Takab after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadjavad-zamani-509",
+    "firstName": {
+      "fa": "محمدجواد",
+      "en": "Mohammad Javad"
+    },
+    "lastName": {
+      "fa": "زمانی",
+      "en": "Zamani"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-11",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-11",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدجواد زمانی، ۱۶ ساله، در منطقه سلطان‌آباد تهران با اصابت گلوله جنگی کشته شد.",
+      "en": "Mohammad Javad Zamani (16) was killed in Soltanabad district of Tehran after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "milad-saeedi-147",
+    "firstName": {
+      "fa": "میلاد",
+      "en": "Milad"
+    },
+    "lastName": {
+      "fa": "سعیدی",
+      "en": "Saeedi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-14",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-14",
+    "location": {
+      "city": {
+        "fa": "شهسوار",
+        "en": "Shahsavar"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "میلاد سعیدی، ۱۶ ساله، در تکابن/شهسوار با اصابت گلوله جنگی کشته شد.",
+      "en": "Milad Saeedi (16) was killed in Takabon/Shahsavar after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sepehr-maghsoudi-684",
+    "firstName": {
+      "fa": "سپهر",
+      "en": "Sepehr"
+    },
+    "lastName": {
+      "fa": "مقصودی",
+      "en": "Maghsoudi"
+    },
+    "age": 14,
+    "birthDate": null,
+    "deathDate": "2022-11-16",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-16",
+    "location": {
+      "city": {
+        "fa": "ایذه",
+        "en": "Izeh"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سپهر مقصودی، ۱۴ ساله، در ایذه با شلیک گلوله مأموران امنیتی کشته شد.",
+      "en": "Sepehr Maghsoudi (14) was killed in Izeh after being shot by security forces."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
         "type": "news"
       }
     ],

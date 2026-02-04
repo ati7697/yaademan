@@ -1,5 +1,49 @@
 [
   {
+    "id": "hossein-kayidi-591",
+    "firstName": {
+      "fa": "حسین",
+      "en": "Hossein"
+    },
+    "lastName": {
+      "fa": "کایدی",
+      "en": "Kayidi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اندیمشک",
+        "en": "Andimeshk"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام ‎حسین کایدی کودک ۱۷ ساله، ۱۸ دی‌ماه در کوی شهدا شهرستان اندیمشک با شلیک مستقیم نیروهای سرکوب‌گر جمهوری اسلامی کشته شد.\nاو با سایر دوستانش در تجمعات اعتراضی ۱۸ دی‌ماه شرکت کرده بود.\nاو شیفته ورزش بود و به بدنسازی و کوهنوردی علاقه داشت.\nبه گفته یک منبع آگاه از نزدیکانش، نیروهای امنیتی سعی داشتند او را عضو بسیج و از اعضای نیروهای امنیتی معرفی کنند که با مخالفت پدر و خانواده‌اش مواجه شدند.\nجانش را کشتند در نهایت پیکر و یاد عزیزش را چند روز بعد به خانواده‌اش تحویل دادند.\nخاکسپاری وی با حضور نیروهای امنیتی و صرفا سه نفر از اعضای خانواده‌اش انجام شد.",
+      "en": "Hossein Kayidi, a 17-year-old child, was killed on January 8 in the Martyrs' Quarter of Andimeshk city by direct fire from the repressive forces of the Islamic Republic.\nHe had participated in the protest rallies on January 8 with his other friends.\nHe was passionate about sports and was interested in bodybuilding and mountaineering.\nAccording to a source close to him, the security forces tried to introduce him as a member of the Basij and a member of the security forces, but his father and family opposed it.\nThey killed him, and finally, the body and memory of his beloved were handed over to his family a few days later.\nHis funeral was held in the presence of security forces and only three members of his family."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018875950402859237",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mehrdad-davoudpour-318",
     "firstName": {
       "fa": "مهرداد",

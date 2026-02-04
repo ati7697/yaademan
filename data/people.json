@@ -9799,14 +9799,14 @@
     "location": {
       "city": {
         "fa": "مشهد",
-        "en": null
+        "en": "Mashhad"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "حمید مهدوی در تاریخ 2026-01-08 در مشهد کشته شد آتش‌نشان",
-      "en": "Hamid Mahdavi was killed during protests."
+      "fa": "حمید مهدوی، آتش‌نشان شجاع اهل مشهد، در ۱۸ دی‌ماه با تکیه بر توان بدنی و تعهد انسانی‌اش، مجروحان را از میان آتش و خشونت جمع می‌کرد و نجات می‌داد. او نه سلاح داشت و نه سپر؛ تنها دل داشت و دستانی برای نجات جان انسان‌ها.",
+      "en": "Hamid Mahdavi, a brave firefighter from Mashhad, relied on his physical strength and human commitment to collect and save the injured from the fire and violence on January 8. He had neither a weapon nor a shield; he only had a heart and hands to save human lives."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -9819,6 +9819,11 @@
         "url": "https://hengaw.net/fa/news/2026/01/article-144-1",
         "title": "Source 1",
         "type": "other"
+      },
+      {
+        "url": "https://x.com/i/status/2018419802012803123",
+        "title": "Video of Vahid carrying a injured person during protest",
+        "type": "video"
       }
     ],
     "verified": true,

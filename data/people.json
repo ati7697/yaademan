@@ -1,5 +1,49 @@
 [
   {
+    "id": "hamidreza-taheri-154",
+    "firstName": {
+      "fa": "حمیدرضا",
+      "en": "Hamidreza"
+    },
+    "lastName": {
+      "fa": "طاهری",
+      "en": "Taheri"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏شب ۱۸ دی حمیدرضا طاهری و همسرش از مراسم هفتم مادرش تازه برگشته بودند. نزدیک بیمارستان آرش در تهرانپارس از همسرش جدا شد و به مردم معترض پیوست و دیگر از او خبری نبود. ۴ روز بعد پیکر بی‌جانش را به خانواده تحویل دادند در حالی که از پشت مورد اصابت گلوله قرار گرفته بود.",
+      "en": "On the night of 08 January, Hamidreza Taheri and his wife had just returned from the seventh-day memorial ceremony for his mother. Near Arash Hospital in Tehranpars, he parted from his wife and joined the protesting crowd, and there was no further news of him. Four days later, his lifeless body was handed over to his family, having been shot in the back."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018789172295983358",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "salehe-akbari-623",
     "firstName": {
       "fa": "صالحه",

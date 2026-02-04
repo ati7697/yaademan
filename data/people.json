@@ -29337,5 +29337,525 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "ehsan-khajavi-darehbalaei-417",
+    "firstName": {
+      "fa": "احسان",
+      "en": "Ehsan"
+    },
+    "lastName": {
+      "fa": "خواجوی دره بالایی",
+      "en": "Khajavi Dareh Balaei"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-10-23",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-23",
+    "location": {
+      "city": {
+        "fa": "دزفول",
+        "en": "Dezful"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "احسان خواجوی دره بالایی، ۱۵ ساله، در دزفول بر اثر اصابت گلوله جنگی در جریان خیزش ۱۴۰۱ کشته شد.",
+      "en": "Ehsan Khajouei Dareh Balaei (15) was killed in Dezful after being shot with live ammunition during the 2022 protests."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mahdi-farhani-582",
+    "firstName": {
+      "fa": "مهدی",
+      "en": "Mahdi"
+    },
+    "lastName": {
+      "fa": "فرحانی",
+      "en": "Farhani"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-10-24",
+    "causeOfDeath": {
+      "fa": "شکنجه پس از بازداشت",
+      "en": "Torture after arrest"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "خرمشهر",
+        "en": "Khorramshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهدی فرحانی، ۱۷ ساله، در اعتراضات آبادان بازداشت و سپس در خرمشهر زیر شکنجه کشته شد و در ۲ آبان به خاک سپرده شد.",
+      "en": "Mahdi Farhani (17) was arrested during protests in Abadan and later tortured to death in Khorramshahr."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sadaf-movahedi-906",
+    "firstName": {
+      "fa": "صدف",
+      "en": "Sadaf"
+    },
+    "lastName": {
+      "fa": "موحدی",
+      "en": "Movahedi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-10-24",
+    "causeOfDeath": {
+      "fa": "ضربه باتوم به سر و مرگ مغزی",
+      "en": "Baton ضربه to the head and brain death"
+    },
+    "incidentDate": "2022-10-24",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "صدف موحدی، ۱۷ ساله، پس از اصابت باتوم به سر در تهران دچار مرگ مغزی شد و جان باخت.",
+      "en": "Sadaf Movahedi (17) suffered brain death after being hit on the head with a baton in Tehran."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mona-naghib-312",
+    "firstName": {
+      "fa": "مونا",
+      "en": "Mona"
+    },
+    "lastName": {
+      "fa": "نقیب",
+      "en": "Naghib"
+    },
+    "age": 8,
+    "birthDate": null,
+    "deathDate": "2022-10-24",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-24",
+    "location": {
+      "city": {
+        "fa": "سراوان",
+        "en": "Saravan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مونا نقیب، ۸ ساله، در روستای آسپیک از توابع استان سیستان و بلوچستان با شلیک مستقیم مأموران امنیتی جمهوری اسلامی به ناحیه سر کشته شد. مونا درحالی که به همراه خواهر بزرگترش مریم درحال رفتن به مدرسه بود تیر می خورد، دستش رها میشود و به زمین می افتاد. وقتی مریم از مونا میپرسد: «چرا افتادی؟» مونا در جواب می گوید: «منو تیر زد». سپس مریم، مونا را به دوش گرفته، به پدرشان زنگ میزند تا مونا را به بیمارستان برساند. اما مونا در این بین فوت میکند",
+      "en": "Mona Naghib (8) was killed in Aspik village, Sistan and Baluchestan province, after being shot in the head by Iranian security forces. Mona was on her way to school with her older sister Maryam when she was shot. Her hand slipped, and she fell to the ground. When Maryam asked Mona, 'Why did you fall?' Mona replied, 'I was shot.' Maryam then carried Mona on her back and called their father to take Mona to the hospital. However, Mona died in the meantime."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/mona-naghib-312/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%85%D9%88%D9%86%D8%A7_%D9%86%D9%82%DB%8C%D8%A8",
+        "title": "Wikipedia (FA): Mona Naghib",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "parmis-hamnava-748",
+    "firstName": {
+      "fa": "پارمیس",
+      "en": "Parmis"
+    },
+    "lastName": {
+      "fa": "همنوا",
+      "en": "Hamnava"
+    },
+    "age": 14,
+    "birthDate": null,
+    "deathDate": "2022-10-25",
+    "causeOfDeath": {
+      "fa": "ضرب و شتم شدید",
+      "en": "Severe beating"
+    },
+    "incidentDate": "2022-10-25",
+    "location": {
+      "city": {
+        "fa": "ایرانشهر",
+        "en": "Iranshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "پارمیس همنوا، ۱۴ ساله، در مدرسه به دلیل پاره کردن عکس خمینی مورد ضرب و شتم قرار گرفت و جان باخت.",
+      "en": "Parmis Hamnava (14) died after being severely beaten at school for tearing a picture of Khomeini."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sarina-saedi-659",
+    "firstName": {
+      "fa": "سارینا",
+      "en": "Sarina"
+    },
+    "lastName": {
+      "fa": "ساعدی",
+      "en": "Saedi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-10-27",
+    "causeOfDeath": {
+      "fa": "ضربات متعدد باتوم به سر",
+      "en": "Multiple baton blows to the head"
+    },
+    "incidentDate": "2022-10-26",
+    "location": {
+      "city": {
+        "fa": "سنندج",
+        "en": "Sanandaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بنا به گزارش سازمان حقوق بشری هه نگاو، سارینا ساعدی، دختر ۱۶ ساله سنندجی بود که در ۴ آبان ۱۴۰۱ در محله نایسر سنندج در جریان خیزش ۱۴۰۱ ایران بر اثر شدت ضربات متعدد باتون به سرش توسط نیروهای حکومتی، دچار خون ریزی مغزی شد و یک روز پس از بستری شدن، در ۵ آبان ۱۴۰۱ در بیمارستان توحید سنندج درگذشت",
+      "en": "According to the Hengaw Human Rights Organization, Sarina Saedi was a 16-year-old girl from Sanandaj who, on October 26, 2022, in the Naysar neighborhood of Sanandaj during the 2022 Iran protests, suffered brain hemorrhage due to multiple baton blows to her head by government forces. She passed away one day after being hospitalized, on October 27, 2022, at Towhid Hospital in Sanandaj."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/sarina-saedi-659/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/سارینا_ساعدی",
+        "title": "Wikipedia (FA): Sarina Saedi",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "adel-borichi-503",
+    "firstName": {
+      "fa": "عادل",
+      "en": "Adel"
+    },
+    "lastName": {
+      "fa": "بریچی (کوچکزایی)",
+      "en": "Borichi (Koochakzaei)"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-10-28",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-28",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عادل بریچی، ۱۵ ساله، اهل منطقه شیرآباد زاهدان بود که بر اثر اصابت گلوله جنگی به ناحیه گردن کشته شد.",
+      "en": "Adel Borichi (15), from Shirabad area of Zahedan, was killed after being shot in the neck with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests",
+      "2022-zahedan-massacre"
+    ],
+    "images": [
+      "people/adel-borichi-503/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/fariba312/status/1645808531248123911?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "omid-narouei-891",
+    "firstName": {
+      "fa": "امید",
+      "en": "Omid"
+    },
+    "lastName": {
+      "fa": "نارویی",
+      "en": "Narouei"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "اصابت گلوله به ناحیه سر و خونریزی شدید",
+      "en": "Shot in the head causing severe bleeding"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امید نارویی، دانش‌آموز پایه نهم و اهل زاهدان، بر اثر اصابت گلوله به ناحیه سر جان خود را از دست داد.",
+      "en": "Omid Narouei, a ninth-grade student from Zahedan, died after being shot in the head."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "amir-shahnavazi-266",
+    "firstName": {
+      "fa": "امیر",
+      "en": "Amir"
+    },
+    "lastName": {
+      "fa": "شهنوازی",
+      "en": "Shahnavazi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "اصابت گلوله به ناحیه سر و خونریزی شدید",
+      "en": "Shot in the head with severe bleeding"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": null,
+        "en": null
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "امیر شهنوازی بر اثر اصابت گلوله به ناحیه سر و خونریزی شدید جان خود را از دست داد. جزئیات بیشتری در منابع ذکر نشده است.",
+      "en": "Amir Shahnavazi died after being shot in the head, causing severe bleeding. Further details are not available in the sources."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/amir-shahnavazi-266/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/aban_khoonin/status/1972221422585131352?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "diana-mahmoudi-104",
+    "firstName": {
+      "fa": "دیانا",
+      "en": "Diana"
+    },
+    "lastName": {
+      "fa": "محمودی",
+      "en": "Mahmoudi"
+    },
+    "age": 7,
+    "birthDate": null,
+    "deathDate": "2022-10-29",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-29",
+    "location": {
+      "city": {
+        "fa": "پیرانشهر",
+        "en": "Piranshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "دیانا محمودی، ۷ ساله، در پیرانشهر بر اثر اصابت گلوله جنگی کشته شد.",
+      "en": "Diana Mahmoudi (7) was killed in Piranshahr after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "koomar-daroftadeh-688",
+    "firstName": {
+      "fa": "کومار",
+      "en": "Koomar"
+    },
+    "lastName": {
+      "fa": "درافتاده",
+      "en": "Daroftadeh"
+    },
+    "age": 16,
+    "birthDate": "2006-08-16",
+    "deathDate": "2022-10-30",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-30",
+    "location": {
+      "city": {
+        "fa": "پیرانشهر",
+        "en": "Piranshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کومار درافتاده، ۱۶ ساله، در پیرانشهر با شلیک مستقیم گلوله جنگی به شدت مجروح شد و پس از یک روز بستری جان باخت.",
+      "en": "Komar Daroftadeh (16) was shot with live ammunition in Piranshahr and died after one day of hospitalization."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+        "people/koomar-daroftadeh-688/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%85%D8%A7%D8%B1_%D8%AF%D8%B1%D8%A7%D9%81%D8%AA%D8%A7%D8%AF%D9%87",
+        "title": "Wikipedia (FA): Koomar Daroftadeh",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

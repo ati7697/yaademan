@@ -35,7 +35,23 @@
     "images": [
       "people/hadi-havaei-140/profile.jpg"
     ],
-    "links": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2014545007798108500",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018094370952446448",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2017720027516928402",
+        "title": "x post",
+        "type": "social_media"
+      }
+    ],
     "verified": true,
     "published": true
   },

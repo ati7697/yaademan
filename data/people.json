@@ -464,14 +464,14 @@
       "fa": "سغوری",
       "en": "Saghouri"
     },
-    "age": null,
+    "age": 25,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "تبر در پشت گردن",
       "en": "Axe in the back of the neck"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": "مشهد",

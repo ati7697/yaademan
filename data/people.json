@@ -1,5 +1,54 @@
 [
   {
+    "id": "mohammad-reza-ghorbani-519",
+    "firstName": {
+      "fa": "محمدرضا",
+      "en": "Mohammad Reza"
+    },
+    "lastName": {
+      "fa": "قربانی",
+      "en": "Ghorbani"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "شاهین شهر",
+        "en": "Shahin Shahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدرضا روز پنجشنبه ۱۸ دی ۱۴۰۴ در مقابل پایگاه بسیج شاهین‌شهر، در حالی‌ که برای در امان ماندن پشت درختی پناه گرفته بود، با شلیک مستقیم نیروهای حکومتی جان خود را از دست داد.",
+      "en": "Mohammad Reza lost his life on Thursday, January 8, 2026, in front of the Shahinshahr Basij base, while he was taking refuge behind a tree for safety, when he was shot directly by government forces."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2014545013250629878",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2016428178990825491",
+        "title": "x post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "hamid-faghih-501",
     "firstName": {
       "fa": "حمید",

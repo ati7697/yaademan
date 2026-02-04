@@ -31358,5 +31358,725 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "mohammad-javad-zahedi-290",
+    "firstName": {
+      "fa": "محمدجواد",
+      "en": "Mohammad Javad"
+    },
+    "lastName": {
+      "fa": "زاهدی",
+      "en": "Zahedi"
+    },
+    "age": 16,
+    "birthDate": "2002-08-26",
+    "deathDate": "2022-09-21",
+    "causeOfDeath": {
+      "fa": "شلیک تفنگ ساچمه ای",
+      "en": "Shot by a pellet gun"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": {
+        "fa": "ساری",
+        "en": "Sari"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "۳۰ شهریور ۱۴۰۱، محمدجواد زاهدی در خیابان انقلاب در شهر ساری، بر اثر شلیک تفنگ ساچمه ای مجروح شد و چند ساعت بعد در بیمارستان در گذشت.\n\nمهسا یزدانی، مادر محمدجواد، در روایت خود از این حادثه میگوید: عصر روز چهارشنبه ۳۰ شهریور، محمدجواد برای تهیه دارو به داروخانه ای در خیابان انقلاب ساری رفته بود؛ خیابانی که آن زمان محل تجمع مردم بود. در بازگشت از داروخانه، در حوالی چهارراه برق، از پشت هدف شلیک گلوله قرار گرفت. به گفتهٔ خانواده، بعدها مشخص شد که در بدن او ۹۶ ساچمه وجود داشته است",
+      "en": "On September 21, 2022, Mohammad Javad Zahedi was injured by a pellet gunshot on Enghelab Street in Sari and died a few hours later in the hospital.\n\nMahsa Yazdani, Mohammad Javad's mother, recounts the incident: On the afternoon of Wednesday, September 21, Mohammad Javad had gone to a pharmacy on Enghelab Street in Sari to get medicine; this street was a gathering place for people at that time. On his way back from the pharmacy, near Chaharrah Bargh, he was shot from behind. According to the family, it was later revealed that there were 96 pellets in his body."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%AC%D9%88%D8%A7%D8%AF_%D8%B2%D8%A7%D9%87%D8%AF%DB%8C",
+        "title": "Wikipedia (FA): Mohammad Javad Zahedi",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammad-javad-zahedi-290",
+    "firstName": {
+      "fa": "سیداحمد",
+      "en": "Seyed Ahmad"
+    },
+    "lastName": {
+      "fa": "شکراللهی",
+      "en": "Shekarollahi"
+    },
+    "age": 24,
+    "birthDate": "2002-08-26",
+    "deathDate": "2022-10-08",
+    "causeOfDeath": {
+      "fa": "اصابت گلولهٔ جنگی",
+      "en": "Hit by live ammunition"
+    },
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "احمد شکراللهی در یکی از محله های اصفهان با موتور در حال انتقال مادرش به بیمارستان شریعتی بوده است که به خاطر اعتراض به ممانعت و بستن مسیر توسط بسیجی ها با شلیک مستقیم و نزدیک دو گلوله به سینه و قلبش در آغوش مادرش جان سپرد",
+      "en": "Ahmad Shekarollahi was riding a motorcycle to take his mother to Shariati Hospital in one of Isfahan's neighborhoods when, due to protests against the blocking of the route by Basijis, he was shot directly with two bullets to his chest and heart, dying in his mother's arms."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA)",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "esmaeil-dezvar-511",
+    "firstName": {
+      "fa": "اسماعیل",
+      "en": "Esmaeil"
+    },
+    "lastName": {
+      "fa": "دزوار",
+      "en": "Dezvar"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-09",
+    "causeOfDeath": {
+      "fa": "بر اثر شکنجه",
+      "en": "Died due to torture"
+    },
+    "incidentDate": "2022-10-09",
+    "location": {
+      "city": {
+        "fa": "سقز",
+        "en": "Saqqez"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس جدول ویکی‌پدیا، اسماعیل دزوار در سقز «بر اثر شکنجه» جان باخت (مهر ۱۷).",
+      "en": "According to the Wikipedia table, Esmaeil Dezvar died in Saqqez due to torture (Mehr 17)."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/esmaeil-dezvar-511/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "omid-mahdavi-512",
+    "firstName": {
+      "fa": "امید",
+      "en": "Omid"
+    },
+    "lastName": {
+      "fa": "مهدوی",
+      "en": "Mahdavi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "ضربات باتوم در سر",
+      "en": "Baton blows to the head"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "در هفته دوم اعتراضات بر اثر ضربات باتوم در سرش مدت ده روز در کما بود و پس از آن در بیمارستان تجریش جان باخت",
+      "en": "In the second week of protests, he was in a coma for ten days due to baton blows to his head and later died in Tajrish Hospital."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sina-naderi-513",
+    "firstName": {
+      "fa": "سینا",
+      "en": "Sina"
+    },
+    "lastName": {
+      "fa": "نادری",
+      "en": "Naderi"
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کی از بستگان نزدیک وی در گفت وگو با شبکه حقوق بشر کردستان گفت: «سینا به صورت هدفمند انتخاب و هدف دو گلوله جنگی قرار گرفت. گلوله اول از پشت سر به بازوی سمت راست او برخورد کرد و از سمت دیگر خارج شد. چند ثانیه بعد از گلوله اول، سینا که تنها سنگی در مشت داشت هدف گلوله دوم قرار گرفت. گلوله دوم به پهلوی او برخورد کرده و پس از شکافتن سینه اش از سمت دیگر خارج شده است.»",
+      "en": "One of his close relatives told the Kurdistan Human Rights Network: 'Sina was deliberately targeted and hit by two live bullets. The first bullet hit his right arm from behind and exited from the other side. A few seconds after the first bullet, Sina, who only had a stone in his fist, was hit by the second bullet. The second bullet hit his side and exited after piercing his chest from the other side.'"
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/sina-naderi-513/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "armin-sayyadi-514",
+    "firstName": {
+      "fa": "آرمین",
+      "en": "Armin"
+    },
+    "lastName": {
+      "fa": "صیادی",
+      "en": "Sayyadi"
+    },
+    "age": 18,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "آرمین صیادی ۱۸ ساله در کرمانشاه بر اثر اصابت گلوله جنگی کشته شد.",
+      "en": "Armin Sayyadi (18) was killed in Kermanshah after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "aziz-moradi-515",
+    "firstName": {
+      "fa": "عزیز",
+      "en": "Aziz"
+    },
+    "lastName": {
+      "fa": "مرادی",
+      "en": "Moradi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی (مجروح شد و در بیمارستان جان سپرد)",
+      "en": "Shot with live ammunition (later died in hospital)"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "سنندج",
+        "en": "Sanandaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "عزیز مرادی در سنندج بر اثر اصابت گلوله جنگی مجروح شد و سپس در بیمارستان جان سپرد.",
+      "en": "Aziz Moradi was injured in Sanandaj by live ammunition and later died in hospital (Mehr 20)."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "kamal-feqhi-516",
+    "firstName": {
+      "fa": "کمال",
+      "en": "Kamal"
+    },
+    "lastName": {
+      "fa": "فقهی",
+      "en": "Feqhi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "بوکان",
+        "en": "Bukan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کمال فقهی فرزند محمد اهل بوکان و کارمند نیروگاه حرارتی بناب شامگاه روز چهارشنبه بیستم مهرماه بر اثر شلیک نیروهای امنیتی جان خود را از دست داد. نیروهای امنیتی کمال را در پشت بام منزلش در حین برگزاری تجمعات اعتراضی در منطقه حسار مورد شلیک مستقیم قرار دادند. او بر اثر اصابت گلوله نیروهای امنیتی به ناحیه سر به شدت زخمی و به دلیل شدت جراحات وارده در بیمارستان قلی پور بوکان جان خود را از دست داد",
+      "en": "Kamal Feqhi, son of Mohammad from Bukan and an employee of the Bonab Thermal Power Plant, lost his life on the evening of Wednesday, October 12, after being shot by security forces. The security forces targeted Kamal on the roof of his house during protest gatherings in the Hessar area. He was severely injured by a bullet to the head and died in Qoli Pour Hospital in Bukan due to the severity of his injuries."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sadrodin-leytani-517",
+    "firstName": {
+      "fa": "صدرالدین",
+      "en": "Sadrodin"
+    },
+    "lastName": {
+      "fa": "لیتانی",
+      "en": "Leytani"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2022-10-22",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-22",
+    "location": {
+      "city": {
+        "fa": "اشنویه",
+        "en": "Oshnavieh"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "صدرالدین لیتانی ۲۷ ساله در اشنویه بر اثر اصابت گلوله جنگی کشته شد (مهر ۳۰).",
+      "en": "Sadrodin Leytani (27) was killed in Oshnavieh after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mehregan-zahmatkesh-518",
+    "firstName": {
+      "fa": "مهرگان",
+      "en": "Mehregan"
+    },
+    "lastName": {
+      "fa": "زحمتکش",
+      "en": "Zahmatkesh"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهرگان زحمتکش در رشت بر اثر اصابت گلوله جنگی کشته شد (مهر ۲۰).",
+      "en": "Mehregan Zahmatkesh was killed in Rasht after being shot with live ammunition (Mehr 20)."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "aref-ashouri-519",
+    "firstName": {
+      "fa": "عارف",
+      "en": "Aref"
+    },
+    "lastName": {
+      "fa": "عاشوری",
+      "en": "Ashouri"
+    },
+    "age": 27,
+    "birthDate": null,
+    "deathDate": "2022-10-09",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-09",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ارف عاشوری، جوانی اهل رشت و ۲۷ ساله بود که تحصیلاتش را تا مقطع دیپلم ادامه داده بود. او به دلیل ناتوانی در پرداخت مهریه، به زندان افتاد. خانواده اش با مشقت های فراوان توانستند در عرض چهار ماه مبلغی را برای آزادی او فراهم کنند و قرار بود که او در تاریخ ۱۹ مهر ۱۴۰۱ آزاد شود. مادرش که برای دیدار با او به زندان آمده بود، از شنیدن خبر آزادی اش بسیار خوشحال شد، چرا که عارف تنها فرزند او بود.\n\nاما در عصر همان روز ۱۷ مهر ۱۴۰۱ ، عارف در زندان لاکان رشت توسط گلوله های نیروهای حکومتی جان باخت",
+      "en": "Aref Ashouri, a 27-year-old from Rasht, had completed his education up to the diploma level. He was imprisoned due to an inability to pay his dowry. His family struggled for four months to gather the amount needed for his release, which was scheduled for October 11, 2022. His mother, who had come to visit him in prison, was very happy upon hearing the news of his release, as Aref was her only child.\n\nHowever, on the afternoon of the same day, October 9, 2022, Aref died in Lakan Prison in Rasht due to gunfire from government forces."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/aref-ashouri-519/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87_%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA) - کشته‌شدگان خیزش ۱۴۰۱ ایران",
+        "type": "other"
+      },
+      {
+        "url": "https://x.com/aban_khoonin/status/1796633392726852078?s=20",
+        "title": "X post about Aref Ashouri",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "negin-salehi-523",
+    "firstName": {
+      "fa": "نگین",
+      "en": "Negin"
+    },
+    "lastName": {
+      "fa": "صالحی",
+      "en": "Salehi"
+    },
+    "age": 26,
+    "birthDate": null,
+    "deathDate": "2022-10-08",
+    "causeOfDeath": {
+      "fa": "ضربات باتوم",
+      "en": "Beaten with batons"
+    },
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نگین صالحی، ۲۶ ساله، بر اثر ضربات باتوم نیروهای امنیتی پیش از رسیدن به درمانگاه جان باخت.",
+      "en": "Negin Salehi, 26, died after being beaten with batons by security forces before reaching medical care."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کشته_شدگان_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA)",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "milad-derakhshan-525",
+    "firstName": {
+      "fa": "میلاد",
+      "en": "Milad"
+    },
+    "lastName": {
+      "fa": "درخشان",
+      "en": "Derakhshan"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-09",
+    "causeOfDeath": {
+      "fa": "کشته‌شدن در بازداشت",
+      "en": "Killed while in detention"
+    },
+    "incidentDate": "2022-10-09",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "میلاد درخشان، اهل و ساکن روستای کالچاه از توابع خمام، در جریان اعتراضات بازداشت و در زندان الکان رشت در بند ۸ کشته شد. پیکر او با حضور مأموران و به‌گونه‌ای که فقط صورتش دیده می‌شد به خانواده تحویل داده شد.",
+      "en": "Milad Derakhshan, a resident of Kalchah village near Khomam, was arrested during the protests and killed in Ward 8 of Alkan Prison in Rasht. His body was returned to his family under heavy security, with only his face visible."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کشته_شدگان_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA)",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mehran-rajabi-526",
+    "firstName": {
+      "fa": "مهران",
+      "en": "Mehran"
+    },
+    "lastName": {
+      "fa": "رجبی",
+      "en": "Rajabi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-09",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-09",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهران رجبی در زندان الکان رشت با شلیک گلوله مأموران زندان کشته شد.",
+      "en": "Mehran Rajabi was killed by live ammunition fired by prison guards inside Alkan Prison in Rasht."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کشته_شدگان_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA)",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mehrzad-behrouz-527",
+    "firstName": {
+      "fa": "مهرزاد",
+      "en": "Mehrzad"
+    },
+    "lastName": {
+      "fa": "بهروز",
+      "en": "Behrouz"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-09",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-10-09",
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهرزاد بهروز در زندان الکان رشت با شلیک گلوله مأموران زندان کشته شد.",
+      "en": "Mehrzad Behrouz was killed by live ammunition fired by prison guards inside Alkan Prison in Rasht."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کشته_شدگان_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA)",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "seyed-mohammad-hosseini-528",
+    "firstName": {
+      "fa": "سیدمحمد",
+      "en": "Seyed Mohammad"
+    },
+    "lastName": {
+      "fa": "حسینی",
+      "en": "Hosseini"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2022-10-12",
+    "causeOfDeath": {
+      "fa": "زیرگرفته شدن توسط خودروی مأموران امنیتی",
+      "en": "Run over by a security forces vehicle"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "سقز",
+        "en": "Saqqez"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": null,
+      "en": null
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کشته_شدگان_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA)",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

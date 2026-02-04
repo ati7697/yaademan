@@ -75,13 +75,15 @@
     },
     "status": "killed",
     "description": {
-      "fa": "معین در هفت تیر مشهد کشته شده، زمانی که خانواده پیکر رو تحویل گرفتن نه کلیه و نه قلب در بدن بوده. ",
+      "fa": "معین در هفت تیر مشهد کشته شده، زمانی که خانواده پیکر رو تحویل گرفتن نه کلیه و نه قلب در بدن بوده.",
       "en": "Moeen was killed in the Haft Tir district of Mashhad. When the family received the body, neither the kidneys nor the heart were in the body."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+        "people/moein-saghouri-608/profile.jpg"
+    ],
     "links": [],
     "verified": true,
     "published": true
@@ -23463,7 +23465,7 @@
       "en": "Mahmoudi"
     },
     "age": 16,
-    "birthDate": null,
+    "birthDate": "2006-01-08",
     "deathDate": "2022-09-21",
     "causeOfDeath": {
       "fa": "اصابت گلوله جنگی",
@@ -23485,7 +23487,9 @@
     "events": [
       "2022-mahsa-amini-protests"
     ],
-    "images": [],
+    "images": [
+      "people/siavash-mahmoudi-600/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
@@ -23686,8 +23690,8 @@
     "birthDate": null,
     "deathDate": "2022-09-21",
     "causeOfDeath": {
-      "fa": "اصابت گلوله جنگی (خونریزی و له‌شدگی مغز طبق توضیح جدول)",
-      "en": "Live ammunition impact (brain bleeding/crushing noted in the table)"
+      "fa": "اصابت گلوله جنگی (خونریزی و له‌شدگی مغز)",
+      "en": "Live ammunition impact (brain bleeding/crushing)"
     },
     "incidentDate": "2022-09-21",
     "location": {
@@ -23699,18 +23703,25 @@
     },
     "status": "killed",
     "description": {
-      "fa": "محمدرضا سروی، ۱۳ ساله، در تهران در جریان خیزش ۱۴۰۱ کشته شد. جدول علت را اصابت گلوله و آسیب شدید مغزی ذکر می‌کند.",
-      "en": "Mohammadreza Sarvi (13) was killed in Tehran during the 2022 protests. The table reports death due to live ammunition impact and severe brain injury."
+      "fa": "محمدرضا سروی، ۱۳ ساله افغانستانی بود ، در تهران در جریان خیزش ۱۴۰۱ کشته شد. علت مرگ این نوجوان اصابت جسم پرتابه ای پرشتاب (گلوله)، خون ریزی و له شدگی مغز عنوان شده است. کیل محمدرضا سروری در واکنش به اکاذیب منتشره از سوی صدا و سیما و اعترافات اجباری مبنی بر خودکشی نیکا شاکرمی و سارینا اسماعیل زاده گفت: «فردا اعلام نکنید خودکشی کرده یا به علت بیماری قبلی بوده؛ محمدرضا با برخورد جسم سخت و له شدگی جمجمه، کشته شده است.»",
+      "en": "Mohammadreza Sarvi (13) was an Afghan national killed in Tehran during the 2022 protests. The cause of death for this teenager is listed as impact from a high-velocity projectile (bullet), brain bleeding, and crushing. Mohammadreza Sarvi's father, in response to falsehoods spread by state media and forced confessions regarding the suicides of Nika Shakarami and Sarina Esmailzadeh, stated: 'Do not announce tomorrow that he committed suicide or that it was due to a pre-existing illness; Mohammadreza was killed by the impact of a hard object and crushing of the skull.'"
     },
     "events": [
       "2022-mahsa-amini-protests"
     ],
-    "images": [],
+    "images": [
+      "people/mohammadreza-sarvi-605/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
         "title": "Wikipedia (FA): کودکان کشته‌شده در خیزش ۱۴۰۱ ایران",
-        "type": "news"
+        "type": "other"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D8%AF%D8%B1%D8%B6%D8%A7_%D8%B3%D8%B1%D9%88%D8%B1%DB%8C",
+        "title": "Wikipedia (FA): محمدرضا سروری",
+        "type": "other"
       }
     ],
     "verified": true,
@@ -23902,7 +23913,7 @@
       "en": "Tajik"
     },
     "age": 17,
-    "birthDate": null,
+    "birthDate": "2004-11-18",
     "deathDate": "2022-09-22",
     "causeOfDeath": {
       "fa": "صدمات شدید ناشی از برخورد با جسم سخت",
@@ -23911,8 +23922,8 @@
     "incidentDate": "2022-09-22",
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "تهران",
+        "en": "Tehran"
       },
       "country": "Iran"
     },
@@ -23924,11 +23935,18 @@
     "events": [
       "2022-mahsa-amini-protests"
     ],
-    "images": [],
+    "images": [
+      "people/setareh-tajik-610/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
         "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%86_%D8%B3%D8%AA%D8%A7%D8%B1%D9%87_%D8%AA%D8%A7%D8%AC%DB%8C%DA%A9",
+        "title": "Wikipedia (FA): کشته‌شدن ستاره تاجیک",
         "type": "news"
       }
     ],
@@ -23946,13 +23964,13 @@
       "en": "Esmailzadeh"
     },
     "age": 16,
-    "birthDate": null,
+    "birthDate": "2006-07-02",
     "deathDate": "2022-09-23",
     "causeOfDeath": {
       "fa": "ضربات مکرر باتوم",
       "en": "Repeated baton blows"
     },
-    "incidentDate": "2022-09-23",
+    "incidentDate": "2022-09-21",
     "location": {
       "city": {
         "fa": "کرج",
@@ -23962,18 +23980,30 @@
     },
     "status": "killed",
     "description": {
-      "fa": "سارینا اسماعیل‌زاده، ۱۶ ساله، در مهرشهر کرج بر اثر ضربات باتوم در جریان خیزش ۱۴۰۱ کشته شد.",
-      "en": "Sarina Esmailzadeh (16) was killed in Mehrshahr, Karaj, after repeated baton blows during the 2022 protests."
+      "fa": "سارینا اسماعیل‌زاده، ۱۶ ساله، در مهرشهر کرج بر اثر ضربات باتوم در جریان خیزش ۱۴۰۱ کشته شد.سارینا، نوجوانی که براساس ویدئوهایی که در کانال خود در یوتیوب منتشر کرده بود، دغدغه اجتماعی داشت، مخالف حجاب اجباری و به دنبال آزادی بود. سارینا در کانال یوتیوبش از زندگی و دغدغه هایش میگفت. در یکی از آنها میگوید: «نوجوان ایرانی دیگر نوجوان ۲۰ سال پیش نیست. از اوضاع جهان باخبر است و از خودش میپرسد چه چیزی کمتر از نوجوان آمریکایی دارد تا دغدغه هایشان اینقدر متفاوت باشد.»\n\nسارینا علاوه بر کانال یوتیوب چند کانال تلگرامی داشت که «وحید آنلاین» آنها را معرفی کرد. او روز قبل از کشته شدنش در کانال تلگرامی خود (@sarinaez) نوشته بود «وطنم بوی غربت میده.»",
+      "en": "Sarina Esmailzadeh (16) was killed in Mehrshahr, Karaj, after repeated baton blows during the 2022 protests. Sarina, a teenager who had expressed social concerns in videos she posted on her YouTube channel, was against compulsory hijab and sought freedom. In her YouTube channel, she talked about her life and concerns. In one of her videos, she said: 'The Iranian teenager is no longer the same as the teenager 20 years ago. They are aware of global affairs and ask themselves what they lack compared to American teenagers that makes their concerns so different.'\n\nIn addition to her YouTube channel, Sarina had several Telegram channels that 'Vahid Online' introduced. The day before her death, she wrote in her Telegram channel (@sarinaez), 'My homeland smells of exile.'"
     },
     "events": [
       "2022-mahsa-amini-protests"
     ],
-    "images": [],
+    "images": [
+      "people/sarina-esmailzadeh-611/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://fa.wikipedia.org/wiki/سارینا_اسماعیل‌زاده",
         "title": "Wikipedia (FA): Sarina Esmailzadeh",
         "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%AF%DA%A9%D8%A7%D9%86_%DA%A9%D8%B4%D8%AA%D9%87%E2%80%8C%D8%B4%D8%AF%D9%87_%D8%AF%D8%B1_%D8%AE%DB%8C%D8%B2%D8%B4_%DB%B1%DB%B4%DB%B0%DB%B1_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://www.youtube.com/channel/UCLWpZl12k7KP-nSC1HWQTRQ",
+        "title": "Sarina's YouTube Channel",
+        "type": "other"
       }
     ],
     "verified": true,
@@ -29061,6 +29091,248 @@
         "url": "https://hengaw.net/fa/news/2026/01/article-196-1",
         "title": "Hengaw website",
         "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "nima-shafighdoost-482",
+    "firstName": {
+      "fa": "نیما",
+      "en": "Nima"
+    },
+    "lastName": {
+      "fa": "شفیق‌دوست",
+      "en": "Shafighdoost"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-10-05",
+    "causeOfDeath": {
+      "fa": "جراحت بر اثر گلوله و امتناع از درمان",
+      "en": "Gunshot injuries and denial of medical treatment"
+    },
+    "incidentDate": "2022-10-05",
+    "location": {
+      "city": {
+        "fa": "ارومیه",
+        "en": "Urmia"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نیما شفیق‌دوست، ۱۶ ساله، در جریان اعتراضات سراسری در ارومیه مجروح شد،  اما از ترس بازداشت شدن در زیرزمین خانهٔ پدری تحت مداوا قرار گرفت. پس از مدتی توسط نیروهای امنیتی، شناسایی و در خانه بازداشت شد. با وجود وضعیت وخیم جسمی اش باز هم مأموران از بردنش به بیمارستان خودداری کردند.",
+      "en": "Nima Shafighdoost (16) was injured during nationwide protests in Urmia, but was treated in the basement of his family home for fear of arrest. After a while, he was identified and arrested at home by security forces. Despite his critical physical condition, the officers still refused to take him to the hospital."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/nima-shafighdoost-482/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%D9%85%D8%A7_%D8%B4%D9%81%DB%8C%D9%82%E2%80%8C%D8%AF%D9%88%D8%B3%D8%AA",
+        "title": "Wikipedia (FA): نیما شفیق دوست",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "abolfazl-adinehzadeh-731",
+    "firstName": {
+      "fa": "ابوالفضل",
+      "en": "Abolfazl"
+    },
+    "lastName": {
+      "fa": "آدینه‌زاده",
+      "en": "Adinehzadeh"
+    },
+    "age": 16,
+    "birthDate": "2005-06-17",
+    "deathDate": "2022-10-08",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله ساچمه‌ای",
+      "en": "Shot with pellet ammunition"
+    },
+    "incidentDate": "2022-10-08",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "در جریان خیزش ۱۴۰۱، در روز شنبه ۱۶ مهر ابوالفضل آدینه زاده به جای رفتن به مدرسه در تظاهرات سراسری در شهر مشهد شرکت کرد. در ساعت ۱۱ ظهر، مأموران جمهوری اسلامی با ضربهٔ شوکر به گردن او، وی را مجروح کرده و با شلیک بیش از ۷۰ تیر ساچمه ای در مقابل درب شمالی دانشگاه فردوسی مشهد به ابوالفضل آدینه زاده تیراندازی کردند. پیکر مجروح و «پاره پاره» او به بیمارستان منتقل شد که ۲۷ تیر از بدن اون توسط پزشکان، خارج شد و وی ساعتی بعد در بیمارستان جان باخت. خانواده او تهدید شده بودند که تنها در صورت پذیرفتن «بسیجی» بودنش پیکر ابوالفضل را به خانواده اش تحویل می دهند",
+      "en": "During the 2022 uprising, on Saturday, October 08, Abolfazl Adinehzadeh chose to participate in nationwide protests in Mashhad instead of going to school. At 11 a.m., Islamic Republic officers injured him by striking his neck with a stun gun and shot him with more than 70 pellet rounds in front of the north gate of Ferdowsi University of Mashhad. His wounded and 'torn apart' body was transferred to the hospital, where 27 pellets were removed from his body by doctors, and he died a few hours later in the hospital. His family had been threatened that they would only be given Abolfazl's body if they accepted that he was a 'Basiji' (member of the Basij militia)."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/abolfazl-adinehzadeh-731/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/ابوالفضل_آدینه%E2%80%8Cزاده",
+        "title": "Wikipedia (FA): Abolfazl Adinehzadeh",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "asra-panahi-294",
+    "firstName": {
+      "fa": "اسرا",
+      "en": "Asra"
+    },
+    "lastName": {
+      "fa": "پناهی",
+      "en": "Panahi"
+    },
+    "age": 15,
+    "birthDate": "2007-03-21",
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "ضرب‌وشتم شدید",
+      "en": "Severe beating"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "اردبیل",
+        "en": "Ardabil"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "اسرا پناهی، ۱۵ ساله، دانش‌آموز دبیرستان شاهد اردبیل بود که پس از ضرب‌وشتم شدید جان باخت. در روز چهارشنبه ۲۰ مهرماه در اردبیل، بعد از آنکه تعدادی از دانش آموزان دختر دبیرستان شاهد در اعتراض به اجبار برای اجرای سرود حکومتی سلام فرمانده دست به اعتراض زده و شعارهای ضد حکومتی سر دادند، نیروهای پاسدار لباس شخصی به این مدرسه حمله کرده و بعد از دستگیری دانش آموزان از جمله اسراء پناهی تعدادی از آنها را دستگیر کرده اند. اسراء پناهی در جریان این حمله به شدت زخمی شد و در بیمارستان فاطمی اردبیل جان باخت",
+      "en": "Asra Panahi (15), a high school student in Ardabil, died after being severely beaten. On Wednesday, October 12, in Ardabil, after a number of female students at Shahed High School protested against being forced to perform the government anthem 'Salam Farmandeh' and chanted anti-government slogans, plainclothes Basij forces attacked the school and arrested several students, including Asra Panahi. Asra Panahi was severely injured during this attack and died at Fatemi Hospital in Ardabil."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/asra-panahi-294/profile.jpeg",
+      "people/asra-panahi-294/gallery-1.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/اسرا_پناهی",
+        "title": "Wikipedia (FA): Esra Panahi",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/WarriorKampfer/status/1877384760240046194?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "reza-khoshnoud-houlari-615",
+    "firstName": {
+      "fa": "رضا",
+      "en": "Reza"
+    },
+    "lastName": {
+      "fa": "خشنود هولاری",
+      "en": "Khoshnoud Houlari"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-10-28",
+    "causeOfDeath": null,
+    "incidentDate": "2022-10-28",
+    "location": {
+      "city": {
+        "fa": "ساری",
+        "en": "Sari"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رضا خشنود هولاری، ۱۶ ساله، در ساری در جریان خیزش ۱۴۰۱ جان خود را از دست داد.",
+      "en": "Reza Khoshnoud Houlari (16) died in Sari during the 2022 protests."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته%E2%80%8Cشده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "arnika-ghaem-maghami-907",
+    "firstName": {
+      "fa": "آرنیکا",
+      "en": "Arnika"
+    },
+    "lastName": {
+      "fa": "قائم‌مقامی",
+      "en": "Ghaem Maghami"
+    },
+    "age": 17,
+    "birthDate": "2005-12-11",
+    "deathDate": "2022-10-22",
+    "causeOfDeath": {
+      "fa": "ضربات باتون و مرگ مغزی",
+      "en": "Baton blows and died from brain death"
+    },
+    "incidentDate": "2022-10-12",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "آرنیکا قائم مقامی، دختر نوجوان ۱۷ ساله ای بود که در ۲۰ مهرماه ۱۴۰۱ در جریان خیزش ۱۴۰۱ ایران بر اثر ضربات باتون نیروهای امنیتی کشته شد. او ۱۰ روز در بیمارستان ارتش در کما بود و سرانجام در ۳۰ مهرماه ۱۴۰۱ بر اثر مرگ مغزی جان خود را از دست داد.",
+      "en": "Arnika Ghaem Maghami was a 17-year-old teenage girl who was killed on October 12, 2022, during the 2022 Iran protests due to baton blows from security forces. She was in a coma for 10 days at the Army Hospital and ultimately died from brain death on October 22, 2022."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/arnika-ghaem-maghami-907/profile.jpeg",
+      "people/arnika-ghaem-maghami-907/gallery-1.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/آرنیکا_قائم%E2%80%8Cمقامی",
+        "title": "Wikipedia (FA): Arnika Ghaem Maghami",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/bangtanblusidee/status/1620520500509446144?s=20",
+        "title": "X post",
+        "type": "social_media"
       }
     ],
     "verified": true,

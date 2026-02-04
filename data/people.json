@@ -27140,7 +27140,7 @@
       },
       "country": "Iran"
     },
-    "status": "arrested",
+    "status": "released",
     "description": {
       "fa": "حسین ضرابیان، پزشک متخصص بیماری های عفونی، بیش از دو هفته ست که نیروهای امنیتی از داخل خونه اش توی اصفهان بردنش. از همون لحظه، همه چیز قطع شده؛ نه کسی می دونه کجاست، نه چه وضعیتی داره.",
       "en": "Dr. Hossein Zarrabian, an infectious disease specialist, has been taken from his home in Isfahan by security forces. Since that moment, everything has been cut off; no one knows where he is or what his condition is."
@@ -27163,7 +27163,7 @@
         "type": "social_media"
       }
     ],
-    "verified": true,
+    "verified": false,
     "published": true
   },
   {

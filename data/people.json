@@ -1,5 +1,49 @@
 [
   {
+    "id": "mohammad-khezri-956",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "خضری",
+      "en": "Khezri"
+    },
+    "age": 21,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "بومهن",
+        "en": "Bumhen"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمد خضری، ۲۱ ساله، مجرد و ساکن شهر بومهن، شامگاه ۱۸ دی‌ماه ۱۴۰۴ از خانه خارج شد و دیگر بازنگشت. بر اساس اطلاعات دریافتی از یکی از اقوام، خانواده به مدت یک هفته هیچ اطلاعی از سرنوشت او نداشتند. پیکرش پس از یک هفته جست‌وجو در کهریزک شناسایی شد.",
+      "en": "Mohammad Khezri, 21 years old, single and a resident of Bumehan city, left home on the evening of January 8, 2026 and never returned. According to information received from a relative, the family had no information about his fate for a week. His body was identified in Kahrizak after a week of searching."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018922001524539619",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "fatemeh-ali-mohammadi-835",
     "firstName": {
       "fa": "فاطمه",

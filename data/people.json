@@ -1,5 +1,49 @@
 [
   {
+    "id": "mehrdad-davoudpour-318",
+    "firstName": {
+      "fa": "مهرداد",
+      "en": "Mehrdad"
+    },
+    "lastName": {
+      "fa": "داوودپور",
+      "en": "Davoudpour"
+    },
+    "age": 30,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "بیجار",
+        "en": "Bijar"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به سازمان حقوق بشری هەنگاو، مهرداد داوودپور، شهروند ٣٠ ساله کورد اهل بیجار و مهندس برق از تاریخ ١٨ دی ماه ۱۴۰۴ توسط نیروهای حکومتی در این شهر بازداشت شده و تاکنون خبری از سرنوشتش در دسترس نیست.",
+      "en": "According to a report received by the Hengav Human Rights Organization, Mehrdad Davudpour, a 30-year-old Kurdish citizen from Bijar and an electrical engineer, has been detained by government forces in this city since January 8, 2026 and there is no information available about his fate."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018766418750108037",
+        "title": "Hengaw X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-khezri-956",
     "firstName": {
       "fa": "محمد",

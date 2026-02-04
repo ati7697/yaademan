@@ -1,5 +1,49 @@
 [
   {
+    "id": "salehe-akbari-623",
+    "firstName": {
+      "fa": "صالحه",
+      "en": "Salehe"
+    },
+    "lastName": {
+      "fa": "اکبری",
+      "en": "Akbari"
+    },
+    "age": 35,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "اردبیل",
+        "en": "Ardabil"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏‎صالحه اکبری، ۳۵ ساله، پرستار بیمارستان گردو اراک بود که چند ماه پیش پس از ازدواج به شهر اردبیل نقل مکان کرد. متأسفانه او در جریان تجمعات اردبیل، با شلیک گلوله نیروهای سرکوبگر به قتل رسید و پیکرش برای خاک‌سپاری به اراک منتقل شد. صالحه در کنار جاویدنام سعید میری، در قطعه ۳۹-ب آرامستان اراک به خاک سپرده شده است.\n",
+      "en": "Saleheh Akbari, 35 years old, was a nurse at Gardoo Hospital in Arak. A few months ago, after getting married, she moved to the city of Ardabil. Tragically, she was killed by gunfire from security forces during the protests in Ardabil, and her body was transferred to Arak for burial. Saleheh was laid to rest beside the Saeed Miri in Section 39-B of Arak Cemetery."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018432516047155321",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "hossein-kayidi-591",
     "firstName": {
       "fa": "حسین",

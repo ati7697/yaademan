@@ -1,5 +1,49 @@
 [
   {
+    "id": "alireza-hozouri-882",
+    "firstName": {
+      "fa": "علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "حضوری",
+      "en": "Hozouri"
+    },
+    "age": 40,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "گلپایگان",
+        "en": "Golpayegan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "«ایران وایر» از منابع آگاه خود مطلع شده است که نیروهای حکومتی جمهوری اسلامی پس از شلیک گلوله به «علیرضا حضوری» شهروند معترض در شهر گلپایگان، بدن نیمه جان او را روی آسفالت خیابان می‌کشیدند و فریاد «حیدر، حیدر» سر می‌دادند.\n\nعلیرضا حضوری شهروند ۴۰ ساله‌ اهل گلپایگان بود که سال‌ها به عنوان باتری‌ساز خودروهای سنگین این شهر شناخته می‌شد. او پدر یک پسر ۱۰ ساله بود.\nیک شاهد عینی به ایران وایر گفته است ۱۹دی۱۴۰۴ تک تیرانداز جمهوری اسلامی از پشت بام، با شلیک مستقیم به گردن علیرضا، او را هدف قرار داد و به قتل رساند.",
+      "en": "IranWire has learned from its informed sources that after shooting “Alireza Hozouri,” a protester in the city of Golpayegan, the Islamic Republic’s government forces dragged his half-dead body on the asphalt of the street and shouted “Heydar, Heydar.”\n\nAlireza Hozouri was a 40-year-old citizen from Golpayegan who had been known for years as a battery manufacturer for heavy vehicles in the city. He was the father of a 10-year-old son.\n\nAn eyewitness told IranWire that on January 09, 2026, an Islamic Republic sniper shot Alireza directly in the neck from a rooftop, killing him."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148701-%D8%B9%D9%84%DB%8C%D8%B1%D8%B6%D8%A7-%D8%AD%D8%B6%D9%88%D8%B1%DB%8C-%D8%B1%D8%A7-%DA%A9%D8%B4%D8%AA%D9%86%D8%AF-%D9%BE%DB%8C%DA%A9%D8%B1%D8%B4-%D8%B1%D8%A7-%D8%B1%D9%88%DB%8C-%D8%B2%D9%85%DB%8C%D9%86-%D8%AD%DB%8C%D8%AF%D8%B1-%D8%AD%DB%8C%D8%AF%D8%B1-%DA%A9%D9%86%D8%A7%D9%86-%DA%A9%D8%B4%DB%8C%D8%AF%D9%86%D8%AF/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "amin-heydari-681",
     "firstName": {
       "fa": "امین",

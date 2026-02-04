@@ -1,5 +1,43 @@
 [
   {
+    "id": "hadi-havaei-140",
+    "firstName": {
+      "fa": "هادی",
+      "en": "Hadi"
+    },
+    "lastName": {
+      "fa": "‎هوایی",
+      "en": "Havaei"
+    },
+    "age": 40,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏جاویدنام ‎هادی هوایی ۴۰ ساله در جریان ‎انقلاب ملی ایران در تاریخ ۱۹ دی ۱۴۰۴ در ملک شهر اصفهان نزدیکی خانه ی مادرش به دست مزدوران جمهوری اسلامی کشته شد. او دو فرزند خردسال ۱۱ و ۶ سال داشت.",
+      "en": "Hadi Havaei, a 40-year-old, was killed by Islamic Republic mercenaries in Malek Shahr Isfahan, near his mother's house, during the Iranian National Revolution on January 99, 2026. He had two young children, aged 11 and 6."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "reza-ansari-ramandi-959",
     "firstName": {
       "fa": "رضا",

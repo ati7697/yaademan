@@ -1,5 +1,54 @@
 [
   {
+    "id": "hamid-ganji-413",
+    "firstName": {
+      "fa": "حمید",
+      "en": "Hamid"
+    },
+    "lastName": {
+      "fa": "گنجی",
+      "en": "Ganji"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "اصفهان",
+        "en": "Isfahan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "حمید گنجی ۱۹ دی‌ماه ۱۴۰۴ در ‎اصفهان توسط رژیم جمهوری اسلامی کشته شد",
+      "en": "Hamid Ganji was killed on January 09, 2026 in Isfahan by the Islamic Republic regime."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2014545013250629878",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://hengaw.net/fa/news/2026/01/article-170-1",
+        "title": "Hengaw website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "hadi-havaei-140",
     "firstName": {
       "fa": "هادی",

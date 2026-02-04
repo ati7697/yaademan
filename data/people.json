@@ -1,5 +1,49 @@
 [
   {
+    "id": "fatemeh-ali-mohammadi-835",
+    "firstName": {
+      "fa": "فاطمه",
+      "en": "Fatemeh"
+    },
+    "lastName": {
+      "fa": "علی محمدی",
+      "en": "Ali-mohammadi"
+    },
+    "age": 24,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم به قلب توسط نیروهای امنیتی",
+      "en": "Shot directly in the heart by security forces"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "هشتگرد",
+        "en": "Hashtgerd"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "فاطمه علی‌محمدی، ۲۴ ساله، مهندس فیزیک هسته‌ای و دانشجوی کارشناسی‌ارشد فیزیک هسته‌ای، در هشتگرد، هدف شلیک مستقیم به قلب قرار گرفت و جان باخت.\nفاطمه سه سال پیش، پدرش را بر اثر بیماری از دست داد و با مادر و خواهرش زندگی می‌کرد.\nاو نام خود را پس از درگذشت پدر، «مرد کوچک خانه» گذاشته بود، اما افسوس که هم مرد بزرگ خانه رفت و هم مرد کوچک خانه.",
+      "en": "Fatemeh Ali-mohammadi, 24, a nuclear physics engineer and master's student in nuclear physics, was shot directly in the heart in Hashtgerd and died.\nFatemeh lost her father to illness three years ago and lived with her mother and sister.\nShe had named herself \"the little man of the house\" after her father's death, but, both the big man of the house and the little man of the house were gone."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018697184359690717",
+        "title": "Video of Fatemeh introducing her invention of dialysis core chips.",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "farhad-amani-720",
     "firstName": {
       "fa": "فرهاد",

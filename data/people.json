@@ -51,7 +51,7 @@
   {
     "id": "moein-saghouri-608",
     "firstName": {
-      "fa": null,
+      "fa": "معین",
       "en": "Moein"
     },
     "lastName": {
@@ -82,7 +82,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-        "people/moein-saghouri-608/profile.jpg"
+      "people/moein-saghouri-608/profile.jpg"
     ],
     "links": [],
     "verified": true,

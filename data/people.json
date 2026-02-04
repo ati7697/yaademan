@@ -1,5 +1,54 @@
 [
   {
+    "id": "amin-heydari-681",
+    "firstName": {
+      "fa": "امین",
+      "en": "Amin"
+    },
+    "lastName": {
+      "fa": "حیدری",
+      "en": "Heydari"
+    },
+    "age": 32,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏‎امین حیدری، ۳۲ ساله، شامگاه ۱۸ دی‌ماه در منطقه عظیمیه کرج با شلیک مستقیم نیروهای سرکوبگر جمهوری اسلامی کشته شد.",
+      "en": "Amin Heydari, 32 years-old, was killed on the evening of January 8 in the Azimieh area of Karaj by direct fire from the repressive forces of the Islamic Republic."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2013535996730618038",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2011824092651905330",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-hossein-mousavi-778",
     "firstName": {
       "fa": "محمدحسین",

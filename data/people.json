@@ -30301,5 +30301,649 @@
     ],
     "verified": true,
     "published": true
+  },
+  {
+    "id": "danial-pabandi-527",
+    "firstName": {
+      "fa": "دانیال",
+      "en": "Danial"
+    },
+    "lastName": {
+      "fa": "پابندی",
+      "en": "Pabandi"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-11-16",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی به شکم",
+      "en": "Shot in the abdomen with live ammunition"
+    },
+    "incidentDate": "2022-11-16",
+    "location": {
+      "city": {
+        "fa": "سقز",
+        "en": "Saqqez"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "دانیال پابندی، ۱۷ ساله، در خیابان فرقانی محله شهناز سقز با شلیک مستقیم گلوله جنگی به شکم کشته شد.",
+      "en": "Danial Pabandi (17) was killed after being shot in the abdomen with live ammunition on Farghani Street in Saqqez."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/danial-pabandi-527/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84_%D9%BE%D8%A7%D8%A8%D9%86%D8%AF%DB%8C",
+        "title": "Wikipedia (FA): Danial Pabandi",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/aban_khoonin/status/1752768140700701127?s=20",
+        "title": "X post: Video of his mother mourning him",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mahdi-kafshgiri-kabili-381",
+    "firstName": {
+      "fa": "مهدی",
+      "en": "Mahdi"
+    },
+    "lastName": {
+      "fa": "کابلی کفشگیری",
+      "en": "Kaboli Kafshgiri"
+    },
+    "age": 15,
+    "birthDate": null,
+    "deathDate": "2022-11-22",
+    "causeOfDeath": {
+      "fa": "شکنجه توسط مأموران امنیتی",
+      "en": "Torture by security forces"
+    },
+    "incidentDate": "2022-11-16",
+    "location": {
+      "city": {
+        "fa": "گرگان",
+        "en": "Gorgan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مهدی کابلی کفشگیری، ۱۵ ساله، زیر شکنجه مأموران امنیتی در ۲۵ آبان دچار کما شد و سپس در  تاریخ ۱ آذرماه ۱۴۰۱ در بیمارستان جان‌باخت.",
+      "en": "Mahdi Kaboli Kafshgiri (15) fell into a coma after being tortured by security forces on November 16 and later died in the hospital on November 22, 2022."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/mahdi-kafshgiri-kabili-381/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/LoabatK/status/1678095336655446020?s=20",
+        "title": "X post about Mahdi Kaboli Kafshgiri",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "artin-rahmani-904",
+    "firstName": {
+      "fa": "آرتین",
+      "en": "Artin"
+    },
+    "lastName": {
+      "fa": "رحمانی",
+      "en": "Rahmani"
+    },
+    "age": 17,
+    "birthDate": null,
+    "deathDate": "2022-11-16",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-16",
+    "location": {
+      "city": {
+        "fa": "ایذه",
+        "en": "Izeh"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "آرتین رحمانی، ۱۷ ساله اهل ایذه، به تاریخ ۲۵ آبان با شلیک نیروهای جمهوری اسلامی کشته شد. او در دفترچه خاطراتش برای مادرش هنگامه نوشته بود: «شرمنده ام مادر، می خواهم در راهی قدم بگذارم که شاید جوانی ام را نبینی.» آرزوی داشتن تعمیرگاهی بود که ماشین های خارجی رو تعمیر کنه",
+      "en": "Artin Rahmani (17), from Izeh, was killed on November 16 after being shot by the forces of the Islamic Republic. In his diary for his mother Hengameh, he wrote: 'I'm sorry, mother, I want to walk a path where you may not see my youth.' He dreamed of having a repair shop that would fix foreign cars."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/artin-rahmani-904/profile.jpeg",
+      "people/artin-rahmani-904/gallery-1.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/GhonchehAzad/status/1604872685946687488?s=20",
+        "title": "X post about Artin Rahmani",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Hoorieh81/status/1948009963470610756?s=20",
+        "title": "X post about Artin Rahmani",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "kian-pirfalak-118",
+    "firstName": {
+      "fa": "کیان",
+      "en": "Kian"
+    },
+    "lastName": {
+      "fa": "پیرفلک",
+      "en": "Pirfalak"
+    },
+    "age": 9,
+    "birthDate": "2013-06-11",
+    "deathDate": "2022-11-16",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-16",
+    "location": {
+      "city": {
+        "fa": "ایذه",
+        "en": "Izeh"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کیان پیرفلک، ۹ ساله، در جریان حمله به بازار ایذه با شلیک گلوله مأموران امنیتی کشته شد. کیان در حالی که با والدین و برادر خردسالش در خودرو در راه بازگشت به خانه خود در ایذه بودند، هدف گلوله مأموران حکومتی نظام جمهوری اسلامی ایران قرار گرفت و کشته شد. گفته شده این کودک آرزو داشت مهندس رباتیک شود",
+      "en": "Kian Pirfalak (9) was killed after being shot by security forces during an attack on the Izeh market."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/kian-pirfalak-118/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=YdevcjQTIr4",
+        "title": "YouTube: Video about Kian Pirfalak",
+        "type": "video"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%DB%8C%D8%A7%D9%86_%D9%BE%DB%8C%D8%B1%D9%81%D9%84%DA%A9",
+        "title": "Wikipedia (FA): Kian Pirfalak",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "behaldin-veysi-649",
+    "firstName": {
+      "fa": "بهاالدین",
+      "en": "Bahaodin"
+    },
+    "lastName": {
+      "fa": "ویسی",
+      "en": "Veysi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-17",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-17",
+    "location": {
+      "city": {
+        "fa": "جوانرود",
+        "en": "Javanrud"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بهاالدین ویسی فقط ۱۶ سال داشت، آن شب که برادرش نجم الدین استوری گذاشت که «یک نفر را در بیمارستان کشتند»، نمیدانست که برادر نوجوانش است که کشته شده.\n\nبهاالدین، معترضی از بوکان بود، او روز ۲۹ آبان ۱۴۰۱، با شلیک گلوله ماموران امنیتی کشته شد، در همان شب، شبکه های مجازی به نقل از خاله او، عکسی را منتشر کردند و به نقل از او نوشتند: «این جنازه بهاالدین است زیر آواری از یخ تا زمان خاکسپاری.» \n\nنجم الدین برادر بهاالدین آن شب غصه هایش را با نواختن دف تقسیم کرد، می نواخت و به پهنای صورت اشک اشک می ریخت. اما به او و حجم سنگین غصه هایش رحم نکردند، همان شب نجم الدین را بازداشت و یک ماه بعد آزاد کردند",
+      "en": "Bahaodin Veysi was only 16 years old. That night, when his brother Najmuddin posted a story saying 'They killed someone in the hospital,' he didn't know that it was his teenage brother who had been killed.\n\nBahaodin, a protester from Bukan, was shot and killed by security forces on November 17, 2022. That same night, social media networks shared a photo from his aunt, stating: 'This is Bahaodin's body under a pile of ice until burial.'\n\nNajmuddin, Bahaodin's brother, expressed his grief by playing the daf drum that night, playing while tears streamed down his face. However, they showed no mercy to him or the weight of his sorrow; Najmuddin was arrested that night and released a month later."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/bahaodin-veysi-649/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://dadban.info/bahaedinveisi/",
+        "title": "Dadban Info: Bahaodin Veysi",
+        "type": "other"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "karvan-ghadershakeri-702",
+    "firstName": {
+      "fa": "کاروان",
+      "en": "Karvan"
+    },
+    "lastName": {
+      "fa": "کاروان قادرشاکری",
+      "en": "Ghadershakeri"
+    },
+    "age": 16,
+    "birthDate": "2007-10-24",
+    "deathDate": "2022-11-17",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله",
+      "en": "Shot"
+    },
+    "incidentDate": "2022-11-17",
+    "location": {
+      "city": {
+        "fa": "پیرانشهر",
+        "en": "Piranshahr"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "کاروان قادری، ۱۶ ساله، در روز جهانی کودک در پیرانشهر با گلوله کشته شد.",
+      "en": "Karvan Ghadershakeri (16) was killed by gunfire in Piranshahr on World Children’s Day."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/karvan-ghadershakeri-702/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86_%D9%82%D8%A7%D8%AF%D8%B1%D8%B4%D8%A7%DA%A9%D8%B1%DB%8C",
+        "title": "Wikipedia (FA): Karvan Ghaderi",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/Roozbeh1963/status/1609406701651853314?s=20",
+        "title": "X post: Karvan's mother at her son's memorial service",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadhossein-kamandlou-833",
+    "firstName": {
+      "fa": "محمدحسین",
+      "en": "Mohammad Hossein"
+    },
+    "lastName": {
+      "fa": "کمندلو",
+      "en": "Kamandlou"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-22",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-22",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدحسین کمندلو، ۱۶ ساله، در تهران بر اثر اصابت گلوله جنگی کشته شد.",
+      "en": "Mohammad Hossein Kamandlou (16) was killed in Tehran after being shot with live ammunition."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/mohammadhossein-kamandlou-833/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/LoabatK/status/1749182702362775907?s=20",
+        "title": "X post about Mohammad Hossein Kamandlou",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "maedeh-hashemi-491",
+    "firstName": {
+      "fa": "مائده (ماهک)",
+      "en": "Maedeh (Mahak)"
+    },
+    "lastName": {
+      "fa": "هاشمی‌",
+      "en": "Hashemi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-24",
+    "causeOfDeath": {
+      "fa": "ضربات باتوم و شلیک مأموران امنیتی",
+      "en": "Baton ضربات and gunfire by security forces"
+    },
+    "incidentDate": "2022-11-24",
+    "location": {
+      "city": {
+        "fa": "شیراز",
+        "en": "Shiraz"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "مائده (ماهک) هاشمی‌، ۱۶ ساله، در شیراز بر اثر ضربات باتوم و شلیک مأموران امنیتی جان باخت.",
+      "en": "Maedeh (Mahak) Hashemi (16) died in Shiraz after being beaten and shot by security forces."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/maedeh-hashemi-491/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/Paydar1000/status/1993079647584588134?s=20",
+        "title": "X post about Maedeh Hashemi",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "reza-kazemi-574",
+    "firstName": {
+      "fa": "رضا",
+      "en": "Reza"
+    },
+    "lastName": {
+      "fa": "کاظمی",
+      "en": "Kazemi"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2022-11-27",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله جنگی",
+      "en": "Shot with live ammunition"
+    },
+    "incidentDate": "2022-11-24",
+    "location": {
+      "city": {
+        "fa": "کامیاران",
+        "en": "Kamyaran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "رضا کاظمی، ۱۶ ساله، در کامیاران با اصابت گلوله جنگی کشته شد. رضا سه شنبه ۱ آذر ۱۴۰۱ در کامیاران بشدت زخمی شد....یکشنبه ۶ آذر ۱۴۰۱ به دلیل شدت جراحات در بیمارستان سنندج جان باخت.",
+      "en": "Reza Kazemi (16) was killed in Kamyaran after being shot with live ammunition. Reza was severely injured on Tuesday, November 15, 2022, in Kamyaran... On Sunday, November 27, 2022, he died in Sanandaj hospital due to the severity of his injuries."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/reza-kazemi-574/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/mahoutiha/status/1994157202773254411?s=20",
+        "title": "X post about Reza Kazemi",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sirous-sharifi-abdozak-266",
+    "firstName": {
+      "fa": "سیروس",
+      "en": "Sirous"
+    },
+    "lastName": {
+      "fa": "شریفی آب‌دوزک",
+      "en": "Sharifi Abdozak"
+    },
+    "age": 15,
+    "birthDate": "2007-10-28",
+    "deathDate": "2022-12-02",
+    "causeOfDeath": {
+      "fa": "اصابت ۱۲ گلوله جنگی",
+      "en": "Hit by 12 live bullets"
+    },
+    "incidentDate": "2022-12-02",
+    "location": {
+      "city": {
+        "fa": "زاهدان",
+        "en": "Zahedan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سیروس شریفی آب‌دوزک، ۱۵ ساله، در زاهدان با اصابت ۱۲ گلوله جنگی کشته شد. هنگامی که مشغول نوشتن شعار علیه جمهوری اسلامی بود، بضرب دوازده گلوله جنگی کشته شد. به گزارش وبسایت لاله های آزادی، برادر وی، عبدالرحمان شریفی آبدوزک نیز توسط حکومت دستگیر شد؛ تا خانواده اش راجع به مرگ او حرفی نزنند",
+      "en": "Sirous Sharifi Abdozak (15) was killed in Zahedan after being hit by 12 live bullets. While he was writing slogans against the Islamic Republic, he was shot 12 times. According to the website 'Lalehaye Azadi' (Freedom Tulips), his brother, Abdolrahman Sharifi Abdozak, was also arrested by the government to prevent the family from speaking about his death."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/sirous-sharifi-abdozak-266/profile.png"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B1%D9%88%D8%B3_%D8%B4%D8%B1%DB%8C%D9%81%DB%8C_%D8%A2%D8%A8%E2%80%8C%D8%AF%D9%88%D8%B2%DA%A9",
+        "title": "Wikipedia (FA): Sirous Sharifi Abdozak",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/Taheri_Movement/status/1731052585858039850?s=20",
+        "title": "X post about Sirous Sharifi Abdozak",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "barzin-hamzezadeh-614",
+    "firstName": {
+      "fa": "برزین",
+      "en": "Barzin"
+    },
+    "lastName": {
+      "fa": "حمزه‌زاده",
+      "en": "Hamzezadeh"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2024-01-02",
+    "causeOfDeath": {
+      "fa": "شکنجه، از دست دادن دو کلیه و عوارض جراحی",
+      "en": "Torture, loss of both kidneys, and surgical complications"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "سردشت",
+        "en": "Sardasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "برزین حمزه‌زاده، ۱۵ ساله، در جریان اعتراضات بازداشت و به مدت یک هفته تحت شکنجه مأموران امنیتی قرار گرفت. او در اثر شکنجه هر دو کلیه خود را از دست داد و پس از ۱۳ ماه بیهوشی و عمل جراحی، در ۱۲ دی جان باخت.",
+      "en": "Barzin Hamzezadeh (15) was arrested during the protests and tortured for a week by security forces, losing both kidneys. After 13 months in a coma and undergoing surgery, she died on January 2, 2024."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/barzin-hamzezadeh-614/profile.jpeg",
+      "people/barzin-hamzezadeh-614/gallery-1.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://x.com/jonbeshdadkhahy/status/2007341160440967584?s=20",
+        "title": "The moments of Barzin Hamzezadeh's kidnapping by security forces",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/iranazadi1395/status/1874489168732082402?s=20",
+        "title": "The moments of Barzin Hamzezadeh's kidnapping by security forces",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "abolfazl-amirataei-287",
+    "firstName": {
+      "fa": "ابوالفضل",
+      "en": "Abolfazl"
+    },
+    "lastName": {
+      "fa": "امیرعطایی",
+      "en": "Amirataei"
+    },
+    "age": 16,
+    "birthDate": "2005-12-25",
+    "deathDate": "2023-05-26",
+    "causeOfDeath": {
+      "fa": "اصابت گلوله گاز اشک‌آور به سر",
+      "en": "Direct hit by tear gas canister to the head"
+    },
+    "incidentDate": "2022-09-21",
+    "location": {
+      "city": {
+        "fa": "شهر ری",
+        "en": "Shahr Rey"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "ابوالفضل امیرعطایی، ۱۶ ساله، در ۳۰ شهریور ۱۴۰۱ در شهر ری با شلیک مستقیم گلوله گاز اشک‌آور به سر مجروح شد و پس از حدود ۸ ماه درگذشت.",
+      "en": "Abolfazl Amirataei (16) was seriously injured on September 21, 2022, in Shahr Rey after a tear gas canister was fired directly at his head, and he died about eight months later."
+    },
+    "events": [
+      "2022-mahsa-amini-protests"
+    ],
+    "images": [
+      "people/abolfazl-amirataei-287/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://fa.wikipedia.org/wiki/کودکان_کشته‌شده_در_خیزش_۱۴۰۱_ایران",
+        "title": "Wikipedia (FA): Children killed in the 2022 Iran protests",
+        "type": "news"
+      },
+      {
+        "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D9%88%D8%A7%D9%84%D9%81%D8%B6%D9%84_%D8%A7%D9%85%DB%8C%D8%B1%D8%B9%D8%B7%D8%A7%DB%8C%DB%8C",
+        "title": "Wikipedia (FA): Abolfazl Amirataei",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
   }
 ]

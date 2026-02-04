@@ -16057,12 +16057,12 @@
       "fa": "اسفندیاری",
       "en": "Esfandiari"
     },
-    "age": null,
+    "age": 24,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
+      "fa": "اصابت تیر جنگی به گلویش",
+      "en": "Live bullet to the throat"
     },
     "incidentDate": "2026-01-08",
     "location": {
@@ -16074,8 +16074,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "افشین اسفندیاری در تاریخ 2026-01-08 در کرج کشته شد.",
-      "en": "Afshin Esfandiari was killed during protests."
+      "fa": "به گزارش دادبان، افشین اسفندیاری، ۲۴ ساله، دانشجوی رشته معماری، با اصابت تیر جنگی به گلویش در ۱۸ دی کشته شد.\nافشین کوهنورد بود و به شکل حرفه ای کوهنوردی را دنبال می‌کرد. به گفته نزدیکانش افشین مهربان بود و لب همیشه خندان داشت و همه افشین را با این خصوصیت اخلاقی می‌شناختند و الان هم همه با این خصیصه افشین را یاد می‌کنند.",
+      "en": "According to Dadban, Afshin Esfandiari, 24, an architecture student, was killed by a live bullet to the throat on January 8.\nAfshin was a mountaineer and pursued mountaineering professionally. According to his relatives, Afshin was kind and always had a smile on his face, and everyone knew Afshin for this moral characteristic, and now everyone remembers Afshin for this characteristic."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -16088,9 +16088,14 @@
         "url": "https://x.com/avatoday_news/status/2013305126593642751?s=20",
         "title": "Source 1",
         "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018941470858756248",
+        "title": "source 2",
+        "type": "social_media"
       }
     ],
-    "verified": false,
+    "verified": true,
     "published": true
   },
   {

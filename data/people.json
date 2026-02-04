@@ -1,5 +1,49 @@
 [
   {
+    "id": "farhad-amani-720",
+    "firstName": {
+      "fa": "فرهاد",
+      "en": "Farhad"
+    },
+    "lastName": {
+      "fa": "امانی",
+      "en": "Amani"
+    },
+    "age": 25,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "‏طبق اطلاعاتی که از یک منبع آگاه به «ایران وایر» رسیده، «فرهاد امانی» شهروند ۲۵ ساله ایرانی، در جریان اعتراضات سراسری دی‌ماه کشته شده است.\n\nیک فرد آگاه به ایران وایر گفته است که فرهاد امانی ۱۸دی۱۴۰۴ در محله «پونک» توسط نیروهای امنیتی جمهوری اسلامی بازداشت می‌شود. از همان روز تلاش‌های خانواده او برای پیدا کردن نشانی از او آغاز شده بود، اما به نتیجه‌ای نمی‌رسید.\n\n۳۰دی۱۴۰۴ در تماسی با خانواده فرهاد امانی به آن‌ها اطلاع می‌دهند که برای تحویل گرفتن جنازه فرزندشان به پزشکی قانونی مراجعه کنند.  به ایران وایر گفته شده که فرهاد در زمان بازداشت، مورد اصابت گلوله جنگی قرار نگرفته بود، اما خانواده‌اش در زمان تحویل گرفتن پیکر، متوجه مرگ او با شلیک گلوله به قلبش شدند. ",
+      "en": "According to information received by Iran Wire from an informed source, Farhad Amani, a 25-year-old Iranian citizen, was killed during the nationwide protests in January.\n\nAn informed person told Iran Wire that Farhad Amani was arrested by the Islamic Republic’s security forces in the “Pounak” neighborhood on January 08, 2026. His family had been trying to find him since that day, but to no avail.\n\nOn January 20, 2026, Farhad Amani’s family was contacted and told to go to the forensic medicine department to collect their son’s body. Iran Wire was told that Farhad was not hit by a live bullet during his arrest, but when his family received his body, they discovered that he had been shot in the heart."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/148705-%D9%81%D8%B1%D9%87%D8%A7%D8%AF-%D8%A7%D9%85%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%D8%AF%D8%A7%D8%B4%D8%AA-%D8%B4%D8%AF-%D8%A8%D8%A7-%DA%AF%D9%84%D9%88%D9%84%D9%87%D8%A7%DB%8C-%D8%AF%D8%B1-%D9%82%D9%84%D8%A8-%D9%BE%DB%8C%DA%A9%D8%B1%D8%B4-%D8%B1%D8%A7-%D8%AA%D8%AD%D9%88%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%86%D8%AF/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "alireza-hozouri-882",
     "firstName": {
       "fa": "علیرضا",

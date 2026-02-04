@@ -1,5 +1,59 @@
 [
   {
+    "id": "mohammad-hossein-mousavi-778",
+    "firstName": {
+      "fa": "محمدحسین",
+      "en": "Mohammad Hossein"
+    },
+    "lastName": {
+      "fa": "موسوی",
+      "en": "Mousavi"
+    },
+    "age": 25,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "شهرضا",
+        "en": "Shahreza"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدحسين موسوى، جوان ٢٥ ساله از شهرضا، صاحب يك كافه بود. او یکی از دوست داشتنی ترین افراد شهر بود . در شب ١٨ دی ماه۱۴۰۴ ، با تير مستقيم جنگی هدف قرار گرفت و ‎جاویدنام شد. رژیم اجازه هيج مراسم رسمى و عمومى را نداد.",
+      "en": "Mohammad Hossein Mousavi, a 25-year-old young man from Shahreza, owned a cafe. He was one of the most beloved people in the city. On the night of January 08, 2026, he was shot with a live bullet and was immortalized. The regime did not allow any official or public ceremonies."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2017317876336857265",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2017621256351224047",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2014545019122626739",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mehrdad-reyhani-663",
     "firstName": {
       "fa": "مهرداد",

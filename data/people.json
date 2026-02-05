@@ -18433,7 +18433,7 @@
       "fa": "علیپور",
       "en": "Ali-pour"
     },
-    "age": null,
+    "age": 18,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
@@ -18450,8 +18450,8 @@
     },
     "status": "killed",
     "description": {
-      "fa": "اشکان علیپور در تاریخ 2026-01-08 در کرج کشته شد.",
-      "en": "Ashkan Ali-pour was killed during protests."
+      "fa": "اشکان علیپور، باریستای جوان، بارتندر و هنرمند فلِر که با شور و پشتکار به کار و یادگیری مشغول بود و به‌تازگی مدرک حرفه‌ای خود را دریافت کرده بود، روز ۱۸ دی‌ماه ۱۴۰۴ در جریان اعتراضات مردمی در فردیس کرج، با شلیک مستقیم و اصابت گلوله به ناحیه گردن توسط نیروهای سرکوبگر  به شهادت رسید. آینده‌ای پرامید، به‌گونه‌ای بی‌رحمانه از او ربوده شد.\nآخرین استوریش: تاریخ را کسانی می‌سازند که نترسیدند و تسلیم نشدند.",
+      "en": "Ashkan Alipour, a young barista, bartender and artist who was passionately working and learning and had recently received his professional certificate, was martyred on January 8, 2026, during the popular protests in Fardis, Karaj, by a direct shot and bullet to the neck by the repressive forces. A hopeful future was cruelly stolen from him.\nHis latest instagram story: History is made by those who were not afraid and did not surrender."
     },
     "events": [
       "2025-2026-iran-protests"
@@ -18463,6 +18463,16 @@
       {
         "url": "https://x.com/negannegan55/status/2013657195359940809?s=20",
         "title": "Source 1",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2013936444994113709",
+        "title": "Source 2",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2018579257853943837",
+        "title": "Source 3",
         "type": "social_media"
       }
     ],

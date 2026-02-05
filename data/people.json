@@ -1,5 +1,49 @@
 [
   {
+    "id": "mohammad-talebi-677",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "طالبی",
+      "en": "Talebi"
+    },
+    "age": 36,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمد طالبی، ۳۶ ساله، در جریان رویدادهای ۱۸ دی‌ماه ۱۴۰۴ در میدان هفت‌حوض تهران، با شلیک مستقیم گلوله نیروهای حکومتی به ناحیه گردن جان خود را از دست داد.\nبر اساس اطلاعات دریافتی، پیکر محمد طالبی به دلیل آن‌ که برادر شهید بوده، در مدت کوتاهی به خانواده تحویل داده شده است. مراسم خاکسپاری وی در تاریخ ۲۱ دی‌ماه برگزار شد.",
+      "en": "Mohammad Talebi, 36, was killed by a direct bullet to the neck by government forces during the events of January 8, 2026 in Tehran’s Haft-e-Houd Square.\nAccording to information received, Mohammad Talebi’s body was handed over to his family shortly after, as he was the brother of the martyr. His funeral was held on January 11."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018942648665473451",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-malekshahian-152",
     "firstName": {
       "fa": "محمد",

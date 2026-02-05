@@ -1,5 +1,49 @@
 [
   {
+    "id": "hossein-mazinani-733",
+    "firstName": {
+      "fa": "حسین",
+      "en": "Hossein"
+    },
+    "lastName": {
+      "fa": "مزینانی",
+      "en": "Mazinani"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-10",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "دو برادر ‎مهدی مزینانی و ‎حسین مزینانی، فرزندان شهید محمد مزینانی، از ۲۰ دی مفقود شده‌اند و هیچ اطلاعی از وضعیت حقوقی و سلامت‌شان در دست نیست. خانواده‌ای که پدر، دو عمو و یک دایی‌شان را در جنگ از دست داده‌اند، امروز دوباره قربانی شده‌اند.\nمهدی فارغ التحصیل مهندسی کامپیوتر از دانشگاه شریف  و حسین فارغ‌التحصیل رشته مهندسی کامپیوتر از دانشگاه خواجه نصیر و موسیقی از دانشگاه هنر تهران",
+      "en": "Two brothers, Mehdi Mazinani and Hossein Mazinani, sons of martyr Mohammad Mazinani, have been missing since January 10, and there is no information about their legal status or health. The family that lost their father, two uncles, and an uncle in the war has been victimized again today.\nMehdi graduated in computer engineering from Sharif University and Hossein graduated in computer engineering from Khajeh Nasir University and music from Tehran University of Arts."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2018918623947964450",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mehdi-mazinani-166",
     "firstName": {
       "fa": "مهدی",

@@ -1,5 +1,54 @@
 [
   {
+    "id": "mohammad-malekshahian-152",
+    "firstName": {
+      "fa": "محمد",
+      "en": "Mohammad"
+    },
+    "lastName": {
+      "fa": "ملکشاهیان",
+      "en": "Malekshahian"
+    },
+    "age": 26,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "کشته شده در زمان تضاهرات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "مشهد",
+        "en": "Mashhad"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "جاویدنام ‎محمد ملکشاهیان اهل روستای شم‌آباد ‎سبزوار ۱۸ دی در مشهد توسط تروریست‌های سپاه کشته شد. پیکرش را بعد از ۸ روز تحویل دادند با تهدید که اگر بسیجی اعلام نکنید حتی در گورستان روستا اجازه‌ دفن ندارید.",
+      "en": "Mohammad Malekshahian from the village of Sham-Abad Sabzevar was killed by IRGC terrorists in Mashhad on January 8 (18 Dey). They handed over his body after 8 days with the threat that if you don't declare him a Basiji, you won't even be allowed to bury him in the village cemetery."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2019306120377172223",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/i/status/2015192551456661519",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "hossein-mazinani-733",
     "firstName": {
       "fa": "حسین",

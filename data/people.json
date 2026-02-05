@@ -1,5 +1,49 @@
 [
   {
+    "id": "nima-ninvapour-538",
+    "firstName": {
+      "fa": "نیما",
+      "en": "Nima"
+    },
+    "lastName": {
+      "fa": "نینواپور",
+      "en": "Ninvapour"
+    },
+    "age": 16,
+    "birthDate": null,
+    "deathDate": "2026-01-29",
+    "causeOfDeath": {
+      "fa": "جراحات ناشی از اصابت گلوله جنگی توسط نیروهای سرکوبگر حکومتی",
+      "en": "Injuries caused by live ammunition fired by government repressive forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "اردبیل",
+        "en": "Ardabil"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به هه‌نگاو، پنجشنبه ۹ بهمن‌ماه ۱۴۰۴، نیما نینواپور، کودک ۱۶ ساله اهل اردبیل و ورزشکار رشته‌ی ووشو، پس از ۲۱ روز بستری‌بودن در کما بدلیل جراحات ناشی از اصابت گلوله جنگی توسط نیروهای سرکوبگر حکومتی، جان خود را از دست داد. \n این کودک ۱۶ ساله در جریان اعتراضات پنجشنبه ۱۸ دی‌ماه در اردبیل، در حالیکه در تلاش بود دختری که هدف شلیک مستقیم قرار گرفته بود را نجات دهد، با شلیک مستقیم گلوله جنگی نیروهای سرکوبگر حکومتی مجروح شد. پیکر نیما، ساعت ۷ صبح ۱۰بهمن‌ ماه، به خاک سپرده شد.",
+      "en": "According to a report received by Hengaw, on Thursday, January 29, 2026, Nima Ninvapour, a 16-year-old from Ardabil and a wushu athlete, died after being hospitalized in a coma for 21 days due to injuries sustained from a live bullet fired by government repressive forces. \nThe 16-year-old was injured by a live bullet fired by government repressive forces during the protests in Ardabil on Thursday, January 8, while trying to save a girl who had been the target of direct fire. Nima's body was buried at 7:00 AM on January 30."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2019070233932189705",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "mohammad-talebi-677",
     "firstName": {
       "fa": "محمد",

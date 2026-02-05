@@ -1,5 +1,49 @@
 [
   {
+    "id": "mohammad-amin-biglery-385",
+    "firstName": {
+      "fa": "محمدامین",
+      "en": "Mohammad Amin"
+    },
+    "lastName": {
+      "fa": "بیگلری",
+      "en": "Biglery"
+    },
+    "age": 19,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به سازمان حقوق بشری هەنگاو، محمدامین بیگلری، شهروند ۱۹ ساله فارس و ساکن تهران، در اعتراضات شامگاه پنج‌شنبه ١٨ دی ماه ١٤٠٤ در خیابان گرگان این شهر بازداشت شده است. محمدامین آرایشگر است.",
+      "en": "According to a report received by the Hengaw Human Rights Organization, Mohammad Amin Biglari, a 19-year-old citizen of Fars and resident of Tehran, was arrested during protests on the evening of Thursday, January 8,2026, on Gorgan Street in the city. Mohammad Amin is a hairdresser."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2019507036996948212",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "danial-moradizade-443",
     "firstName": {
       "fa": "دانیال",

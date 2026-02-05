@@ -1,0 +1,38 @@
+{
+  "id": "rosina-conroy-161",
+  "firstName": {
+    "fa": "Ava",
+    "en": "Rosina"
+  },
+  "lastName": {
+    "fa": "Ruecker",
+    "en": "Conroy"
+  },
+  "age": null,
+  "birthDate": null,
+  "deathDate": "2026-04-08",
+  "causeOfDeath": {
+    "fa": "Generic Cotton Soap",
+    "en": "Directives"
+  },
+  "incidentDate": "2034-06-06",
+  "location": {
+    "city": {
+      "fa": "East Emmalee",
+      "en": "New Lorenzofort"
+    },
+    "country": "Iran"
+  },
+  "status": "executed",
+  "description": {
+    "fa": null,
+    "en": null
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [],
+  "verified": false,
+  "published": false
+}

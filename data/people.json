@@ -1,5 +1,49 @@
 [
   {
+    "id": "danial-moradizade-443",
+    "firstName": {
+      "fa": "دانیال",
+      "en": "Danial"
+    },
+    "lastName": {
+      "fa": "مرادی‌زاده",
+      "en": "Moradizade"
+    },
+    "age": 22,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس گزارش رسیده به سازمان حقوق بشری هەنگاو، دانیال مرادی‌زاده، شهروند ٢٢ ساله کورد اهل کرمانشاه (کرماشان)، پنجشنبه ۱۸ دی ۱۴۰۴، در جریان اعتراضات محله نارمک تهران با شلیک سه گلوله جنگی توسط نیروهای جمهوری اسلامی ایران کشته شد.\nجسد این جوان پس از سپری شدن یک هفته از جست‌وجوی خانواده، در سردخانه کهریزک تهران شناسایی شد. او به کابینت‌سازی اشتغال داشت و سرپرست مادر و خواهرش بود.",
+      "en": "According to a report received by the Hengaw Human Rights Organization, Daniyal Moradizadeh, a 22-year-old Kurdish citizen from Kermanshah (Kermashan), was killed on Thursday, January 08, January, during protests in the Narmak neighborhood of Tehran by the forces of the Islamic Republic of Iran when he was shot three times.\nThe body of this young man was identified in the Kahrizak morgue in Tehran after a week of searching by his family. He was employed as a cabinet maker and was the caretaker of his mother and sister."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [],
+    "links": [
+      {
+        "url": "https://x.com/i/status/2019509761801351354",
+        "title": "x post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
     "id": "nima-ninvapour-538",
     "firstName": {
       "fa": "نیما",

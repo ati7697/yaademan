@@ -5,11 +5,22 @@
     "en": "2022 Mahsa Amini Protests - Woman, Life, Freedom"
   },
   "description": {
-    "fa": "اعتراضات سراسری که پس از مرگ مهسا امینی در سپتامبر ۲۰۲۲ آغاز شد و ماه‌ها ادامه یافت.",
-    "en": "Nationwide protests that began after the death of Mahsa Amini in September 2022 and continued for months."
+    "fa": "اعتراضات سراسری که پس از مرگ مهسا امینی در سپتامبر ۲۰۲۲ آغاز شد و ماه‌ها ادامه یافت.  از ۲۶ شهریور تا ۲۰ دی ۱۴۰۱، بیش از ۵۴۰ نفر، از جمله ۷۴ کودک (زیر ۱۸ سال) در سراسر ایران به دست نیروهای وابسته به نظام جمهوری اسلامی به قتل رسیدند. بر اساس تحقیقات کمیتهٔ حقیقت یاب سازمان ملل، جمهوری اسلامی برای سرکوب معترضان به جرائمی نظیر قتل، شکنجه و تجاوز جنسی متوسل و مرتکب جنایت علیه بشریت شد.",
+    "en": "Nationwide protests that began after the death of Mahsa Amini in September 2022 and continued for months. From September 17 to January 10, 2023, more than 540 people, including 74 children (under 18 years old) were killed by forces affiliated with the Islamic Republic regime across Iran. According to the United Nations fact-finding committee's investigation, the Islamic Republic resorted to crimes such as murder, torture, and sexual assault to suppress the protesters and committed crimes against humanity."
   },
   "startDate": "2022-09-16",
   "endDate": null,
+  "images": [
+    "events/2022-mahsa-amini-protests/1.webp",
+    "events/2022-mahsa-amini-protests/2.webp",
+    "events/2022-mahsa-amini-protests/3.jpeg",
+    "events/2022-mahsa-amini-protests/4.webp",
+    "events/2022-mahsa-amini-protests/5.jpg",
+    "events/2022-mahsa-amini-protests/6.webp",
+    "events/2022-mahsa-amini-protests/7.webp",
+    "events/2022-mahsa-amini-protests/8.webp",
+    "events/2022-mahsa-amini-protests/9.jpg"
+  ],
   "tags": ["protest", "woman-life-freedom", "nationwide", "2022"],
   "links": [
     {

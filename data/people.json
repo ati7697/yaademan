@@ -120,7 +120,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/nima-ninvapour-538/profile.jpeg"
+    ],
     "links": [
       {
         "url": "https://x.com/i/status/2019070233932189705",
@@ -164,7 +166,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/mohammad-talebi-677/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/i/status/2018942648665473451",
@@ -202,13 +206,15 @@
     },
     "status": "killed",
     "description": {
-      "fa": "جاویدنام ‎محمد ملکشاهیان اهل روستای شم‌آباد ‎سبزوار ۱۸ دی در مشهد توسط تروریست‌های سپاه کشته شد. پیکرش را بعد از ۸ روز تحویل دادند با تهدید که اگر بسیجی اعلام نکنید حتی در گورستان روستا اجازه‌ دفن ندارید.",
+      "fa": "جاویدنام محمد ملکشاهیان اهل روستای شم‌آباد سبزوار ۱۸ دی در مشهد توسط تروریست‌های سپاه کشته شد. پیکرش را بعد از ۸ روز تحویل دادند با تهدید که اگر بسیجی اعلام نکنید حتی در گورستان روستا اجازه‌ دفن ندارید.",
       "en": "Mohammad Malekshahian from the village of Sham-Abad Sabzevar was killed by IRGC terrorists in Mashhad on January 8 (18 Dey). They handed over his body after 8 days with the threat that if you don't declare him a Basiji, you won't even be allowed to bury him in the village cemetery."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/mohammad-malekshahian-152/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/i/status/2019306120377172223",
@@ -32792,5 +32798,425 @@
     ],
     "verified": true,
     "published": true
-  }
+  },
+  {
+    "id": "amir-sadeghi-bojnordi-529",
+    "firstName": {
+      "fa": "امیر",
+      "en": "Amir"
+    },
+    "lastName": {
+      "fa": "صادقی بجنوردی",
+      "en": "Sadeghi Bojnordi"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": null,
+      "en": null
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "نامش برای اولین باره که منتشر میشه، چون خانواده به دلیل فشارها مخالف بودند و حالا دوستانش میخوان یادش رو زنده نگهدارند.\nفرزند ایران و کشته شده در راه میهن، جاویدنام امیر_صادقی بجنوردی\nفارغ التحصیل کارشناسی ارشد عمران شریف. در تهران کشته شد و دو هفته پیکرش ناشناس مونده بود",
+      "en": "His name is being published for the first time, as his family was opposed to it due to pressure, and now his friends want to keep his memory alive.\nA child of Iran and a martyr for the homeland, Amir Sadeghi Bojnordi\nHe was a graduate of Sharif University with a master's degree in civil engineering. He was killed in Tehran, and his body remained unidentified for two weeks."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/amir-sadeghi-bojnordi-529/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/esmaeils1169/status/2019532975516602827?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "moslem-fatemi-530",
+    "firstName": {
+      "fa": "مسلم",
+      "en": "Moslem"
+    },
+    "lastName": {
+      "fa": "فاطمی",
+      "en": "Fatemi"
+    },
+    "age": 55,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "",
+      "en": ""
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "رشت",
+        "en": "Rasht"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس اطلاعات رسیده به «ایران وایر»، «مسلم فاطمی» ۵۵ ساله، در جریان اعتراضات در شهر رشت، با شلیک گلوله جنگی ماموران حکومتی کشته شده است.به گفته یک منبع مطلع، پیکر بی جان او پس از سه روز در یکی از کانتینرهای سردخانه این شهر پیدا شده است. به گفته این منبع، هم زمان با تحویل پیکر، مبلغ ۷۰۰ میلیون تومان از خانواده وی بعنوان حق تیر دریافت شده است.",
+      "en": "According to information received by IranWire, 'Moslem Fatemi', 55 years old, was killed during protests in the city of Rasht by live ammunition fired by government forces. According to an informed source, his lifeless body was found after three days in one of the refrigerated containers in the city. According to this source, at the time of delivering the body, an amount of 700 million tomans was received from his family as a fee for the bullet."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/moslem-fatemi-530/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/iranwire/status/2019428444967440835?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://iranwire.com/fa/news-1/148763-%D9%85%D8%B3%D9%84%D9%85-%D9%81%D8%A7%D8%B7%D9%85%DB%8C-%D8%AF%D8%B1-%D8%B1%D8%B4%D8%AA-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%DA%AF%D9%84%D9%88%D9%84%D9%87-%D8%AC%D9%86%DA%AF%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "ehsan-toufan-531",
+    "firstName": {
+      "fa": "احسان",
+      "en": "Ehsan"
+    },
+    "lastName": {
+      "fa": "طوفان",
+      "en": "Toufan"
+    },
+    "age": 40,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم به سر و گردن و شقیقه",
+      "en": "Direct shot to the head, neck, and temple"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "بندرعباس",
+        "en": "Bandar Abbas"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس اطلاعات رسیده به ایران وایر، «احسان طوفان» متولد سال ۱۳۶۴، پدر یک دختر سه ساله، روز پنجشنبه ۱۸ دی ماه ۱۴۰۴ در بندرعباس، روبه روی ساختمان صدا و سیمای این شهر، با شلیک گلوله جنگی جان خود را از دست داده است.\nبه گفته یک منبع آگاه، گلوله از پشت به ناحیه سر و گردن اصابت کرده و شلیک مستقیم به شقیقه باعث مرگ فوری او شده است.",
+      "en": "According to information received by IranWire, 'Ehsan Toufan', born in 1985, a father of a three-year-old daughter, lost his life on Thursday, January 8, 2026, in Bandar Abbas, in front of the city's broadcasting building, due to being shot with live ammunition.\nAccording to an informed source, the bullet hit the back of his head and neck, and a direct shot to the temple caused his immediate death."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/ehsan-toufan-531/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/iranwire/status/2019055273109749799?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "http://iranwire.com/fa/news-1/148698-%D8%A7%D8%AD%D8%B3%D8%A7%D9%86-%D8%B7%D9%88%D9%81%D8%A7%D9%86-%D8%AF%D8%B1-%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%DA%AF%D9%84%D9%88%D9%84%D9%87-%D8%AC%D9%86%DA%AF%DB%8C-%DA%A9%D8%B4%D8%AA%D9%87-%D8%B4%D8%AF/",
+        "title": "Iranwire website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "meysam-mousavi-532",
+    "firstName": {
+      "fa": "میثم",
+      "en": "Meysam"
+    },
+    "lastName": {
+      "fa": " موسوی",
+      "en": "Mousavi"
+    },
+    "age": 31,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": " شلیک گلوله های ساچمه ای و جنگی",
+      "en": "Shot with buckshot and live ammunition"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "بر اساس اطلاعات رسیده به «ایران وایر»، «میثم موسوی» ۳۱ساله،  پنجشنبه ۱۸دی۱۴۰۴ حوالی ۱۲شب و در حال بازگشت به خانه با شلیک گلوله های ساچمه ای و جنگی به دست ماموران حکومت جمهوری اسلامی مجروح شد و روز ۱۹دی به دلیل شدت جراحات وارده در بیمارستان جان باخت. میثم صاحب دختری ۷ساله و ساکن پرند اصالتا خوزستانی در نزدیکی تهران بود. او مغازه مبلمان داشت که در جریان اعتراضات دی ماه ۱۴۰۴ تعطیل و همراه اعتصاب بازاریان بود.",
+      "en": "According to information received by IranWire, 'Meysam Mousavi', 31 years old, was injured on Thursday, January 9, 2026, around midnight while returning home due to being shot with buckshot and live ammunition by agents of the Islamic Republic government. He died on January 09 due to the severity of his injuries in the hospital. Meysam was a father of a 7-year-old daughter and lived in Parand near Tehran originally from Khuzestan. He owned a furniture store that was closed during the protests of January 2026 and was part of the merchants' strike."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/meysam-mousavi-532/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/iranwire/status/2019528613398192571?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/IranNewsAgency0/status/2016482689386160422?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "asra-tavousinia-533",
+    "firstName": {
+      "fa": "اسرا",
+      "en": "Asra"
+    },
+    "lastName": {
+      "fa": "طاوسی\u200Cنیا",
+      "en": "TavousiNia"
+    },
+    "age": 14,
+    "birthDate": null,
+    "deathDate": "2026-01-24",
+    "causeOfDeath": {
+      "fa": "شلیک توسط نیروهای امنیتی",
+      "en": "Shot by security forces"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "کرمانشاه",
+        "en": "Kermanshah"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "اسرا طاوسی نیا، کودک ۱۴ ساله، دانش آموز نخبه و زاده ی شهر سنقر، ۱۸ دی در کرمانشاه خیابان سیروس، با گلوله ی جنگی قاتلان رژیم به شدت مجروح شد و پس از دو هفته در ۴ بهمن ۱۴۰۴ درگذشت. به خانواده اش اجازه ی برگزاری مراسم عزاداری داده نشد.",
+      "en": "Asra TavousiNia, a 14-year-old gifted student from Sonqor, was severely injured in Kermanshah, by gunfire from the regime’s killers and passed away two weeks later in January 24, 2026. Her family was not allowed to hold a funeral ceremony"
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/asra-tavousinia-533/profile.jpeg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/Mousavi1355/status/2018769060142494002?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/HengawO/status/2016519521553600981?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/kalamehfarsitv/status/2016598401778061411?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "mohammadjavad-moghani-534",
+    "firstName": {
+      "fa": "محمدجواد",
+      "en": "Mohammadjavad"
+    },
+    "lastName": {
+      "fa": "مقنی",
+      "en": "Moghani"
+    },
+    "age": 25,
+    "birthDate": null,
+    "deathDate": "2026-01-07",
+    "causeOfDeath": {
+      "fa": "شلیک گلوله به سینه و قلبش",
+      "en": "Shot in the chest and heart"
+    },
+    "incidentDate": "2026-01-07",
+    "location": {
+      "city": {
+        "fa": "سیرجان",
+        "en": "Sirjan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "محمدجواد مقنی، جوان فوتبالیست ۲۵ ساله و سرپرست خانواده، شامگاه ۱۷ دی مقابل اداره اطلاعات سیرجان در میدان سنایی کشته شد.\nبر اساس گزارش ها، گلوله به سینه و قلبش برخورد کرد.\nاو جوانی ورزشکار و عضو تیم فوتبال شهرداری نجف\u200Cشهر سیرجان بود.\nمحمدجواد در یک خانواده کارگری به دنیا آمد و پدرش سال گذشته فوت کرد. از آن زمان، او تنها نان آور خانه بود. در پمپ بنزین عزت آبادی نجف شهر کار می کرد، هم زمان درس می خواند و ورزش را به صورت حرفه ای دنبال می کرد.",
+      "en": "Mohammadjavad Moghani, a 25-year-old football player and head of his family, was killed on the evening of January 7 in front of the Sirjan Intelligence Office in Sanai Square.\nAccording to reports, the bullet hit his chest and heart.\nHe was an athletic young man and a member of the football team of Sirjan's Najafshahr Municipality.\nMohammadjavad was born into a working-class family, and his father passed away last year. Since then, he was the sole breadwinner of the household. He worked at the Ezzat Abadi gas station in Najafshahr, while also studying and pursuing sports professionally."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/mohammadjavad-moghani-534/profile.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/IranIntl/status/2018642494162923867?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://www.iranintl.com/202602033324",
+        "title": "Iran International website",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sepideh-parizi-535",
+    "firstName": {
+      "fa": "سپیده",
+      "en": "Sepideh"
+    },
+    "lastName": {
+      "fa": "پاریزی",
+      "en": "Parizi"
+    },
+    "age": 36,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "کشته شدن در جریان اعتراضات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "سیرجان",
+        "en": "Sirjan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سپیده پاریزی ۳۶ ساله از سیرجان کی از کشته شده های اعتراضات دی ماه ۱۴۰۴",
+        "en": "Sepideh Parizi, 36 years old from Sirjan, is one of the victims of the January 2026 protests."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/sepideh-parizi-535/profile.jpg",
+      "people/sepideh-parizi-535/gallery-1.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/AvaAvishan/status/2017866972076134525?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/aban_khoonin/status/2018382028693975346?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/MothrOfDrgns/status/2019117200825799161?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "sepideh-parizi-535",
+    "firstName": {
+      "fa": "سپیده",
+      "en": "Sepideh"
+    },
+    "lastName": {
+      "fa": "پاریزی",
+      "en": "Parizi"
+    },
+    "age": 36,
+    "birthDate": null,
+    "deathDate": null,
+    "causeOfDeath": {
+      "fa": "کشته شدن در جریان اعتراضات",
+      "en": "Killed during protests"
+    },
+    "incidentDate": null,
+    "location": {
+      "city": {
+        "fa": "سیرجان",
+        "en": "Sirjan"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "سپیده پاریزی ۳۶ ساله از سیرجان کی از کشته شده های اعتراضات دی ماه ۱۴۰۴",
+        "en": "Sepideh Parizi, 36 years old from Sirjan, is one of the victims of the January 2026 protests."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/sepideh-parizi-535/profile.jpg",
+      "people/sepideh-parizi-535/gallery-1.jpg"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/AvaAvishan/status/2017866972076134525?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/aban_khoonin/status/2018382028693975346?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/MothrOfDrgns/status/2019117200825799161?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
 ]

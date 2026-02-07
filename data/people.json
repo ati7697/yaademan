@@ -109596,7 +109596,7 @@
         "url": "https://x.com/HeKasrehCrisis/status/2017106211338936597?s=20",
         "title": "X post",
         "type": "social_media"
-      },
+      }
     ],
     "verified": true,
     "published": true
@@ -155962,7 +155962,7 @@
     "published": true
   },
   {
-    "id": "alireza-karami-cheshmeh-4444"
+    "id": "alireza-karami-cheshmeh-4444",
     "firstName": {
       "fa": "علیرضا",
       "en": "Alireza"

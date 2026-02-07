@@ -61149,7 +61149,7 @@
       "2025-2026-iran-protests"
     ],
     "images": [
-      "people/kmil-jmshidi-870/profile"
+      "people/kmil-jmshidi-870/profile.jpg"
     ],
     "links": [
       {
@@ -155958,6 +155958,52 @@
     ],
     "images": [],
     "links": [],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "alireza-karami-cheshmeh-4444"
+    "firstName": {
+      "fa": "علیرضا",
+      "en": "Alireza"
+    },
+    "lastName": {
+      "fa": "کرمی چِمِه",
+      "en": "Karami Cheshmeh"
+    },
+    "age": null,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "کشته شده توسط جمهوری اسلامی",
+      "en": "Killed by the Islamic Republic"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "killed",
+    "description": {
+      "fa": "علیرضا کرمی چِمِه، شهروند معترض و صافکار خودرو، شامگاه اعتراضات ۱۸ دی‌ماه در محله نارمک تهران، زمانی هدف گلوله مأموران حکومتی قرار گرفت که برای کمک به یک زن سالخورده‌ای که روی زمین افتاده بود، مکث کرد تا او را بلند کند. بر اساس روایت همراهانش، با آغاز تیراندازی نیروهای سرکوب، علیرضا لحظه‌ای ایستاد تا دست زن مسن را بگیرد؛ همان لحظه گلوله به او اصابت کرد و بر زمین افتاد. دوستانش او را برگرداندند و متوجه شدند تیر خورده است. علیرضا در همان محل جان باخت. علیرضا کرمی چِمِه صاحب یک مغازه صافکاری و نقاشی خودرو بود و به گفته نزدیکانش از صبح تا شب کار می‌کرد. دوستانش او را انسانی مهربان و مردم‌دار توصیف می‌کنند که به حیوانات علاقه داشت و به سگش دلبستگی ویژه‌ای نشان می‌داد.",
+      "en": "Alireza Karami Cheshmeh, a protesting citizen and auto body repairman, was shot by government forces on the evening of the protests on January 8, 2023 (18 Dey), in the Narmak neighborhood of Tehran, at the moment he paused to help an elderly woman who had fallen to the ground and lift her up. According to the account of those who were with him, as the repressive forces opened fire, Alireza stopped for a moment to take the elderly woman’s hand; it was at that very instant that a bullet struck him and he fell to the ground. His friends carried him back and realized he had been shot. Alireza died right there at the scene. Alireza Karami Cheshmeh owned an auto body repair and painting shop and, according to those close to him, worked from morning until night. His friends describe him as a kind-hearted and people-oriented person who loved animals and had a special affection for his dog. According to those close to the family, the condition of Alireza’s father and brother is now extremely grave."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/alireza-karami-cheshmeh-4444/profile.jpg"
+    ],
+    "links": [
+     {
+       "url": "https://x.com/IranIntl/status/2019498197220024544?s=20",
+       "title": "X post",
+       "type": "social_media"
+     }
+  ],
     "verified": true,
     "published": true
   }

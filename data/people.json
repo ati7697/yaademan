@@ -32129,14 +32129,14 @@
     "published": true
   },
   {
-    "id": "mohammad-javad-zahedi-290",
+    "id": "mohammad-javad-shekarollahi-290",
     "firstName": {
       "fa": "سیداحمد",
       "en": "Seyed Ahmad"
     },
     "lastName": {
       "fa": "شکراللهی",
-      "en": "Shekarollahi"
+      "en": "Shokarollahi"
     },
     "age": 24,
     "birthDate": "2002-08-26",
@@ -58717,11 +58717,11 @@
     "id": "abvalfzl-babanzhad-320",
     "firstName": {
       "fa": "ابوالفضل",
-      "en": null
+      "en": "Abolfaz"
     },
     "lastName": {
       "fa": "بابانژاد",
-      "en": null
+      "en": "Babanejad"
     },
     "age": null,
     "birthDate": null,
@@ -61148,7 +61148,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/kmil-jmshidi-870/profile.jpg"
+    ],
     "links": [
       {
         "url": "https://x.com/masoudkazemi81/status/2015488401206554910?s=20",
@@ -61638,13 +61640,13 @@
     "id": "abas-ashaghi-864",
     "firstName": {
       "fa": "عباس",
-      "en": null
+      "en": "Abbas"
     },
     "lastName": {
       "fa": "اسحاقی",
-      "en": null
+      "en": "Eshaghi"
     },
-    "age": null,
+    "age": 39,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
@@ -61655,7 +61657,7 @@
     "location": {
       "city": {
         "fa": "تهران",
-        "en": null
+        "en": "Tehran"
       },
       "country": "Iran"
     },
@@ -61667,7 +61669,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/abas-ashaghi-864/profile.jpeg"
+    ],
     "links": [
       {
         "url": "https://x.com/masoudkazemi81/status/2015765377825845372?s=20",

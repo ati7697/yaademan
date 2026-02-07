@@ -58717,11 +58717,11 @@
     "id": "abvalfzl-babanzhad-320",
     "firstName": {
       "fa": "ابوالفضل",
-      "en": null
+      "en": "Abolfaz"
     },
     "lastName": {
       "fa": "بابانژاد",
-      "en": null
+      "en": "Babanejad"
     },
     "age": null,
     "birthDate": null,
@@ -61148,7 +61148,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/kmil-jmshidi-870/profile"
+    ],
     "links": [
       {
         "url": "https://x.com/masoudkazemi81/status/2015488401206554910?s=20",
@@ -61638,13 +61640,13 @@
     "id": "abas-ashaghi-864",
     "firstName": {
       "fa": "عباس",
-      "en": null
+      "en": "Abbas"
     },
     "lastName": {
       "fa": "اسحاقی",
-      "en": null
+      "en": "Eshaghi"
     },
-    "age": null,
+    "age": 39,
     "birthDate": null,
     "deathDate": "2026-01-08",
     "causeOfDeath": {
@@ -61655,7 +61657,7 @@
     "location": {
       "city": {
         "fa": "تهران",
-        "en": null
+        "en": "Tehran"
       },
       "country": "Iran"
     },
@@ -61667,7 +61669,9 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
+    "images": [
+      "people/abas-ashaghi-864/profile.jpeg"
+    ],
     "links": [
       {
         "url": "https://x.com/masoudkazemi81/status/2015765377825845372?s=20",
@@ -109008,44 +109012,6 @@
     "published": true
   },
   {
-    "id": "abas-asdi-947",
-    "firstName": {
-      "fa": "عباس",
-      "en": "Abbas"
-    },
-    "lastName": {
-      "fa": "اسدی",
-      "en": "Asadi"
-    },
-    "age": null,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شده توسط جمهوری اسلامی",
-      "en": "Killed by the Islamic Republic"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": {
-        "fa": null,
-        "en": null
-      },
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "کشته شده توسط جمهوری اسلامی ایران. تأیید شده از لیست ارائه‌شده توسط جمهوری اسلامی.",
-      "en": "Killed by the Islamic Republic of Iran. Verified from the list provided by the Islamic Republic."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [],
-    "links": [],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "abas-ashkvrghrbani-970",
     "firstName": {
       "fa": "عباس",
@@ -109169,7 +109135,7 @@
       "fa": "اکبرپور",
       "en": "Akbarpour"
     },
-    "age": null,
+    "age": 39,
     "birthDate": null,
     "deathDate": null,
     "causeOfDeath": {
@@ -109179,21 +109145,34 @@
     "incidentDate": null,
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "اصفهان",
+        "en": "Isfahan"
       },
       "country": "Iran"
     },
     "status": "killed",
     "description": {
-      "fa": "کشته شده توسط جمهوری اسلامی ایران. تأیید شده از لیست ارائه‌شده توسط جمهوری اسلامی.",
-      "en": "Killed by the Islamic Republic of Iran. Verified from the list provided by the Islamic Republic."
+      "fa": "پیام: حسن (عباس) اکبرپور از اصفهان. شب هجدهم دی ماه. محله را نمیدانم دقیق. تیر به قلبش اصابت کرده. خواهر و خواهرزاده اش میبرنش بیمارستان. بیمارستان میگه تموم کرده .اونا هم میبرنش خونه و تا فردا ظهرش توی بغل مادرش بوده.",
+      "en": "Message: Hassan (Abbas) Akbarpour from Isfahan. The night of the eighteenth of Dey month. I don't know the neighborhood exactly. A bullet hit his heart. His sister and nephew take him to the hospital. The hospital says he is dead. They take him home too, and until noon the next day, he's in his mother's arms."
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
-    "links": [],
+    "images": [
+      "people/abas-akbrpvr-547/profile.jpg"
+    ],
+    "links": [
+    {
+      "url": "https://x.com/IranIntlbrk/status/2016221716574249217?s=20",
+      "title": "X post",
+      "type": "social_media"
+    },
+    {
+      "url": "https://x.com/HeKasrehCrisis/status/2016594363938222297?s=20",
+      "title": "X post",
+      "type": "social_media"
+    }
+  ],
     "verified": true,
     "published": true
   },
@@ -109230,8 +109209,16 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
-    "links": [],
+   "images": [
+      "people/abas-babanzhad-389/profile.jpg"
+    ],
+    "links": [
+    {
+      "url": "https://x.com/TayyarShahin/status/2017274650896576670?s=20",
+      "title": "X post",
+      "type": "social_media"
+    }
+   ],
     "verified": true,
     "published": true
   },
@@ -109283,14 +109270,14 @@
       "fa": "بهمنی",
       "en": "Bahmani"
     },
-    "age": null,
+    "age": 26,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شده توسط جمهوری اسلامی",
       "en": "Killed by the Islamic Republic"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
         "fa": null,
@@ -109300,14 +109287,27 @@
     },
     "status": "killed",
     "description": {
-      "fa": "کشته شده توسط جمهوری اسلامی ایران. تأیید شده از لیست ارائه‌شده توسط جمهوری اسلامی.",
-      "en": "Killed by the Islamic Republic of Iran. Verified from the list provided by the Islamic Republic."
+      "fa": " عباس بهمنی متولد سال ۱۳۷۹ دانشجوی ارشد رشتهIT . تهران شهر ری ۱۹ دی بر اثر اصابت ساچمه و ضربات متعدد چاقو توسط نیروی سرکوبگر کشته شد",
+      "en": "Abbas Bahmani, born in 2000, Master's student in IT. Tehran, Shahr-e Rey, on January 9, killed by shotgun pellets and multiple stab wounds from the repressive forces"
     },
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
-    "links": [],
+   "images": [
+      "people/abas-bhmni-915/profile.jpg"
+   ],
+    "links": [
+      {
+        "url": "https://x.com/5ogand/status/2018067113999474998?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/Hasnbhn/status/2019176120680436183?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
     "verified": true,
     "published": true
   },
@@ -109435,18 +109435,18 @@
       "fa": "شافوری نیاسر",
       "en": "Shafouri Niasar"
     },
-    "age": null,
+    "age": 31,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-08",
     "causeOfDeath": {
       "fa": "کشته شده توسط جمهوری اسلامی",
       "en": "Killed by the Islamic Republic"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-08",
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "رشت",
+        "en": "Rasht"
       },
       "country": "Iran"
     },
@@ -109459,7 +109459,18 @@
       "2025-2026-iran-protests"
     ],
     "images": [],
-    "links": [],
+    "links": [
+       {
+         "url": "https://x.com/IranIntlbrk/status/2016536676609200639?s=20",
+         "title": "X post",
+         "type": "social_media"
+       },
+       {
+         "url": "https://x.com/Sonofthebeach22/status/2018283631010041887?s=20",
+         "title": "X post",
+         "type": "social_media"
+       }
+   ],
     "verified": true,
     "published": true
   },
@@ -109549,18 +109560,18 @@
       "fa": "قنبری",
       "en": "Ghanbari"
     },
-    "age": null,
+    "age": 36,
     "birthDate": null,
-    "deathDate": null,
+    "deathDate": "2026-01-09",
     "causeOfDeath": {
       "fa": "کشته شده توسط جمهوری اسلامی",
       "en": "Killed by the Islamic Republic"
     },
-    "incidentDate": null,
+    "incidentDate": "2026-01-09",
     "location": {
       "city": {
-        "fa": null,
-        "en": null
+        "fa": "شیراز",
+        "en": "Shiraz"
       },
       "country": "Iran"
     },
@@ -109572,8 +109583,21 @@
     "events": [
       "2025-2026-iran-protests"
     ],
-    "images": [],
-    "links": [],
+    "images": [
+      "people/abas-ghnbri-162/profile.webp"
+    ],
+    "links": [
+      {
+        "url": "https://x.com/javidshahphlvi/status/2017306514323599683?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+      {
+        "url": "https://x.com/HeKasrehCrisis/status/2017106211338936597?s=20",
+        "title": "X post",
+        "type": "social_media"
+      },
+    ],
     "verified": true,
     "published": true
   },

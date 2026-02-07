@@ -33163,63 +33163,6 @@
     "published": true
   },
   {
-    "id": "sepideh-parizi-535",
-    "firstName": {
-      "fa": "سپیده",
-      "en": "Sepideh"
-    },
-    "lastName": {
-      "fa": "پاریزی",
-      "en": "Parizi"
-    },
-    "age": 36,
-    "birthDate": null,
-    "deathDate": null,
-    "causeOfDeath": {
-      "fa": "کشته شدن در جریان اعتراضات",
-      "en": "Killed during protests"
-    },
-    "incidentDate": null,
-    "location": {
-      "city": {
-        "fa": "سیرجان",
-        "en": "Sirjan"
-      },
-      "country": "Iran"
-    },
-    "status": "killed",
-    "description": {
-      "fa": "سپیده پاریزی ۳۶ ساله از سیرجان کی از کشته شده های اعتراضات دی ماه ۱۴۰۴",
-      "en": "Sepideh Parizi, 36 years old from Sirjan, is one of the victims of the January 2026 protests."
-    },
-    "events": [
-      "2025-2026-iran-protests"
-    ],
-    "images": [
-      "people/sepideh-parizi-535/profile.jpg",
-      "people/sepideh-parizi-535/gallery-1.jpg"
-    ],
-    "links": [
-      {
-        "url": "https://x.com/AvaAvishan/status/2017866972076134525?s=20",
-        "title": "X post",
-        "type": "social_media"
-      },
-      {
-        "url": "https://x.com/aban_khoonin/status/2018382028693975346?s=20",
-        "title": "X post",
-        "type": "social_media"
-      },
-      {
-        "url": "https://x.com/MothrOfDrgns/status/2019117200825799161?s=20",
-        "title": "X post",
-        "type": "social_media"
-      }
-    ],
-    "verified": true,
-    "published": true
-  },
-  {
     "id": "sjad-zilaii-356",
     "firstName": {
       "fa": "سجاد",

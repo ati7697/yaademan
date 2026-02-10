@@ -1,0 +1,48 @@
+{
+  "id": "hadis-najafi-803",
+  "firstName": {
+    "fa": "حدیث",
+    "en": "Hadis"
+  },
+  "lastName": {
+    "fa": "نجفی",
+    "en": "Najafi"
+  },
+  "age": 22,
+  "birthDate": null,
+  "deathDate": "2022-09-21",
+  "causeOfDeath": {
+    "fa": "شلیک شش گلوله توسط نیروهای یگان ویژه جمهوری اسلامی",
+    "en": "Shot six times by the Islamic Republic’s special forces"
+  },
+  "incidentDate": "2022-09-21",
+  "location": {
+    "city": {
+      "fa": "مهرشهر کرج",
+      "en": "Mehrshahr Karaj"
+    },
+    "province": {
+      "fa": null,
+      "en": null
+    },
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "حدیث نجفی (۱۵ دی ۱۳۷۸ – ۳۰ شهریور ۱۴۰۱) از جان‌باختگان خیزش سراسری ۱۴۰۱ ایران بود که در مهرشهر کرج، توسط نیروهای امنیتی جمهوری اسلامی هدف شلیک گلوله قرار گرفت و جان خود را از دست داد.\nاو متولد میانه در استان آذربایجان شرقی بود و دارای دیپلم طراحی دوخت. حدیث فرزند چهارم خانواده و دارای سه خواهر بزرگ‌تر و یک برادر کوچک‌تر بود. او در یک رستوران در بلوار ارم مهرشهر کرج کار می‌کرد.\nحدیث نجفی در شامگاه ۳۰ شهریور ۱۴۰۱، هنگام شرکت در اعتراضات مردمی در واکنش به قتل حکومتی مهسا امینی، با شلیک چندین گلوله ساچمه‌ای به صورت، گردن و قفسه سینه هدف قرار گرفت و بر اثر شدت جراحات جان باخت. نیروهای امنیتی پس از قتل او، خانواده‌اش را تحت فشار قرار دادند تا علت مرگ را «طبیعی» اعلام کنند و اجازه برگزاری مراسم آزادانه سوگواری را ندادند.\nنام و یاد حدیث نجفی به عنوان نمادی از شجاعت، آزادی‌خواهی و مقاومت زنان ایران در حافظه‌ی جمعی مردم ایران و جهان ماندگار شده است.",
+    "en": "Hadis Najafi (January 5, 2000 – September 21, 2022) was one of the victims of the 2022 nationwide protests in Iran. She was shot and killed by the security forces of the Islamic Republic in Mehrshahr, Karaj.\nShe was born in Miyaneh, East Azerbaijan province, and held a high school diploma in fashion and clothing design. Hadis was the fourth child of her family, with three older sisters and one younger brother. She worked at a restaurant on Eram Boulevard in Mehrshahr, Karaj.\nOn the evening of September 21, 2022, while participating in protests sparked by the state killing of Mahsa Amini, Hadis Najafi was shot multiple times with pellet bullets to the face, neck, and chest, and died from severe injuries. After her death, security forces pressured her family to declare her death as “natural” and restricted public mourning ceremonies.\nHadis Najafi has become a lasting symbol of courage, freedom, and resistance, and her name remains deeply engraved in the collective memory of the Iranian people and the world."
+  },
+  "events": [
+    "2022-mahsa-amini-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Hadisnajafi.jpg",
+      "title": "عکس",
+      "type": "document"
+    }
+  ],
+  "verified": false,
+  "published": false
+}

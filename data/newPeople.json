@@ -1,0 +1,104 @@
+[
+  {
+    "id": "abolfazl-tak-pazook-1288",
+    "firstName": {
+      "fa": "ابوالفضل",
+      "en": "Abolfazl"
+    },
+    "lastName": {
+      "fa": "تک پازوک",
+      "en": "Tak Pazook"
+    },
+    "age": 20,
+    "birthDate": null,
+    "deathDate": "2026-01-08",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم ماموران جمهوری اسلامی",
+      "en": "Direct shooting by agents of the Islamic Republic"
+    },
+    "incidentDate": "2026-01-08",
+    "location": {
+      "city": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "province": {
+        "fa": "تهران",
+        "en": "Tehran"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": " ابوالفضل تک پازوکی متولد ۱۳۸۴ و دانشجوی رشته زبان انگلیسی، اینقدر غریب کشته شد و تو سکوت دفن شد که همکلاسی هایش بعد از یکماه متوجه شدند. ۱۸ دی با شلیک مستقیم مامورای  جمهوری اسلامی تو تهران کشته شده و هیچ جا اسم و هشتگ اسمش پخش نشده.",
+      "en": "Abolfazl Tak Pazook, born in 2005 or 2006 and a student of English language, was killed in such a way that his classmates only found out after a month. He was shot directly by the agents of the Islamic Republic on January 8, 2026, in Tehran, and his name and hashtag were not circulated anywhere."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/abolfazl-tak-pazook-1288/profile.jpeg"
+
+    ],
+    "links": [
+      {
+        "url": "https://x.com/lilel_47/status/2021297035140297192?s=20",
+        "title": "X post",
+        "type": "social_media"
+      }
+    ],
+    "verified": true,
+    "published": true
+  },
+  {
+    "id": "pouria-kheiri-1289",
+    "firstName": {
+      "fa": "پوریا",
+      "en": "Pouria"
+    },
+    "lastName": {
+      "fa":"خیری",
+      "en": "Kheiri"
+    },
+    "age": 29,
+    "birthDate": null,
+    "deathDate": "2026-01-09",
+    "causeOfDeath": {
+      "fa": "شلیک مستقیم ماموران جمهوری اسلامی",
+      "en": "Direct shooting by agents of the Islamic Republic"
+    },
+    "incidentDate": "2026-01-09",
+    "location": {
+      "city": {
+        "fa": "کرج",
+        "en": "Karaj"
+      },
+      "province": {
+        "fa": "البرز",
+        "en": "Alborz"
+      },
+      "country": "Iran"
+    },
+    "status": "arrested",
+    "description": {
+      "fa": "براساس اطلاعات رسیده به «ایران وایر»، «پوریا خیری» ۲۹ساله یکی از کشته شدگان اعتراضات جمعه ۱۹دی۱۴۰۴ در فاز یک «اندیشه» در کرج است.\nپوریا خیری اپراتور دستگاه CNC بود. نزدیکانش او را فردی «شاد، باهوش و مهربان» توصیف می کنند. رپ می خواند و متولد ۲۹دی ماه بود.",
+      "en": "According to information received by 'Iran Wire', 'Pouria Kheiri', a 29-year-old, is one of the victims of the protests on Friday, January 9, 2026, in Phase One of 'Andisheh' in Karaj. Pouria Kheiri was a CNC machine operator. His close ones describe him as a 'happy, intelligent, and kind' person. He was a rapper and was born on January 19."
+    },
+    "events": [
+      "2025-2026-iran-protests"
+    ],
+    "images": [
+      "people/pouria-kheiri-1289/profile.jpeg"
+
+    ],
+    "links": [
+      {
+        "url": "https://iranwire.com/fa/news-1/149006-%D9%BE%D9%88%D8%B1%DB%8C%D8%A7-%D8%AE%DB%8C%D8%B1%DB%8C-%D8%B1%D8%A7-%D8%A8%D8%A7-%D8%B4%D9%84%DB%8C%DA%A9-%D8%A8%D9%87-%D8%B3%D8%AA%D9%88%D9%86-%D9%81%D9%82%D8%B1%D8%A7%D8%AA-%DA%A9%D8%B4%D8%AA%D9%86%D8%AF/",
+        "title": "Iran Wire article",
+        "type": "news"
+      }
+    ],
+    "verified": true,
+    "published": true
+  }
+]

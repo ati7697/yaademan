@@ -9,7 +9,7 @@
     "en": "Najafi"
   },
   "age": 22,
-  "birthDate": null,
+  "birthDate": "2000-01-05",
   "deathDate": "2022-09-21",
   "causeOfDeath": {
     "fa": "شلیک شش گلوله توسط نیروهای یگان ویژه جمهوری اسلامی",
@@ -18,12 +18,12 @@
   "incidentDate": "2022-09-21",
   "location": {
     "city": {
-      "fa": "مهرشهر کرج",
-      "en": "Mehrshahr Karaj"
+      "fa": "کرج",
+      "en": "Karaj"
     },
     "province": {
-      "fa": null,
-      "en": null
+      "fa": "البرز",
+      "en": "Alborz"
     },
     "country": "Iran"
   },
@@ -35,14 +35,16 @@
   "events": [
     "2022-mahsa-amini-protests"
   ],
-  "images": [],
+  "images": [
+    "people/hadis-najafi-803/profile.jpg"
+  ],
   "links": [
     {
-      "url": "https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Hadisnajafi.jpg",
-      "title": "عکس",
+      "url": "https://en.wikipedia.org/wiki/Death_of_Hadis_Najafi",
+      "title": "Wikipedia",
       "type": "document"
     }
   ],
-  "verified": false,
-  "published": false
+  "verified": true,
+  "published": true
 }

@@ -1,0 +1,53 @@
+{
+  "id": "ahmad-shahali-173",
+  "firstName": {
+    "fa": "احمد",
+    "en": "Ahmad"
+  },
+  "lastName": {
+    "fa": "شاهعلی",
+    "en": "Shah'Ali"
+  },
+  "age": 31,
+  "birthDate": null,
+  "deathDate": "2026-01-09",
+  "causeOfDeath": {
+    "fa": null,
+    "en": null
+  },
+  "incidentDate": "2026-01-09",
+  "location": {
+    "city": {
+      "fa": "گنبد کاووس",
+      "en": "Gonbad-e-Qabous"
+    },
+    "province": {
+      "fa": null,
+      "en": null
+    },
+    "country": "Iran"
+  },
+  "status": "killed",
+  "description": {
+    "fa": "احمد ورزشکار حرفه‌ای بود. هرکسی که میشناسش از مهربونی و معرفت و لوطی‌ بودنش میگه. من خودشو از نزدیک نمیشناختم اما پدرش فامیل دورمونه. معلم بازنشسته‌ست و تموم سالهای ابتدایی و راهنمایی ما میومد مدرسه و برامون نمایش‌های خنده‌دار بازی میکرد. خیلی میخندیدیم بهش.\nالان کمرش تا شده و صورتش مچاله. هیچ شباهتی به مردی که ما رو میخندوند نداره. میگن هر وقت بری امامزاده، آقای شاهعلی رو میبینی که سر مزار پسرش نشسته و گریه میکنه. راست میگن. خودم دو بار رفتم و دیدم. جوری اونجا نشسته بود که انگار بخشی از اون گوره. دست بهش میزدی فرومیریخت.",
+    "en": "Ahmad was a professional athlete. Everyone who knows him talks about his kindness, decency, and his honor. I didn’t know him well myself, but his father is a distant relative of mine. He’s a retired teacher who used to come to our school, bringing laughter with his funny plays. we used to laugh so much.\nNow his back is bent and his face is all shriveled. He doesn’t look anything like the man who made us laugh. People say that whenever you go to the imamzadeh, you’ll see Mr. Shahali sitting at his son’s grave, crying. It’s true. I’ve been there twice. I saw him both times.\nHe sat there as if he were part of that grave. If you touched him, he would crumble."
+  },
+  "events": [
+    "2025-2026-iran-protests"
+  ],
+  "images": [],
+  "links": [
+    {
+      "url": "https://www.instagram.com/ahmad.sahali?igsh=MWNyd3NoYmNzb2tiNA==",
+      "title": "اکانت اینستاگرام احمد",
+      "type": "other"
+    },
+    {
+      "url": "https://www.instagram.com/athenashahali?igsh=MWY2MGh2cWU4dndubw==",
+      "title": "اکانت اینستاگرام خواهر احمد",
+      "type": "other"
+    }
+  ],
+  "verified": false,
+  "published": false
+}

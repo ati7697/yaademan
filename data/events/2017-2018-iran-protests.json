@@ -1,0 +1,26 @@
+{
+  "id": "2017-2018-iran-protests",
+  "name": {
+    "fa": "اعتراضات دی ۱۳۹۶ ایران",
+    "en": "2017–2018 Iranian Protests"
+  },
+  "description": {
+    "fa": "اعتراضات دی ۱۳۹۶ ایران مجموعه\u200Cای از اعتراضات مردمی و ضدحکومتی در سراسر ایران بود که از ۷ دی ۱۳۹۶ از مشهد و شهرهای استان خراسان آغاز شد. فراخوان شرکت در این تظاهرات ابتدا در شبکه\u200Cهای اجتماعی با شعار «نه به گرانی» و در اعتراض به سیاست\u200Cهای دولت حسن روحانی منتشر شد. این اعتراضات در ابتدا با مطالبات اقتصادی مانند اعتراض به فساد دولتی و بیکاری گسترده آغاز شد، اما به\u200Cسرعت فراتر از مسائل اقتصادی رفت و به اعتراضات گسترده علیه نظام سیاسی جمهوری اسلامی، از جمله ولایت فقیه و رهبر آن علی خامنه\u200Cای تبدیل شد.",
+    "en": "The 2017–2018 Iranian protests were a series of leaderless, anti-government demonstrations that spread across Iran. They began on 2017-12-28 in the city of Mashhad and other cities in Khorasan Province. Calls for the protests initially circulated on social media under the slogan “No to high prices,” criticizing the economic policies of President Hassan Rouhani’s government. The protests started with economic grievances, including corruption and high unemployment, but quickly expanded beyond economic issues and evolved into broader political demonstrations against the Islamic Republic’s political system, including opposition to the doctrine of Velayat-e Faqih and Iran’s Supreme Leader Ali Khamenei."
+  },
+  "startDate": "2017-12-28",
+  "images": [
+    "events/2017-2018-iran-protests/1.jpg",
+    "events/2017-2018-iran-protests/2.jpeg",
+    "events/2017-2018-iran-protests/3.jpg",
+    "events/2017-2018-iran-protests/4.jpg"
+  ],
+  "tags": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%DB%8C_%DB%B1%DB%B3%DB%B9%DB%B6_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "title": "اعتراضات دی ۱۳۹۶ ایران - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    }
+  ]
+}

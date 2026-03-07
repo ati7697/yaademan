@@ -1,0 +1,30 @@
+{
+  "id": "2019-november-protests",
+  "name": {
+    "fa": "اعتراضات آبان ۱۳۹۸",
+    "en": "November 2019 Protests"
+  },
+  "description": {
+    "fa": "تظاهرات آبان ۱۳۹۸ مجموعه اعتراضات سراسری گسترده\u200Cای بود که از ۲۴ آبان ۱۳۹۸ در واکنش به افزایش ۳۰۰ درصدی قیمت بنزین آغاز شد. این اعتراضات به\u200Cسرعت به شعارهای ضدحکومتی تبدیل شد و بیش از ۱۰۰ شهر را در ۲۹ استان در بر گرفت. این رویداد با سرکوب شدید نیروهای امنیتی، قطع اینترنت، کشته شدن تعداد زیادی از معترضان و دستگیری هزاران نفر همراه بود. آمار رسمی کشته\u200Cشدگان ۲۰۰ تا ۲۲۵ نفر اعلام شد، اما سازمان\u200Cهای حقوق بشری و برخی منابع خارجی شمار جان\u200Cباختگان را تا حدود ۱۵۰۰ نفر، از جمله زنان و کودکان، گزارش کرده\u200Cاند. دستگیری\u200Cهای گسترده، اعترافات اجباری و فشار روانی شدید بر خانواده\u200Cهای جان\u200Cباختگان از دیگر پیامدهای این اعتراضات بود.",
+    "en": "The November 2019 protests in Iran were a wave of nationwide demonstrations that began on 2019-11-15 in response to a 300 percent increase in fuel prices. The protests quickly evolved into anti-government demonstrations and spread to more than 100 cities across 29 provinces. The event was marked by a severe crackdown by security forces, a nationwide internet shutdown, the killing of a large number of protesters, and the arrest of thousands of people. Official figures reported 200 to 225 deaths, but human rights organizations and some foreign sources estimated the death toll to be as high as 1,500, including women and children. Other consequences included mass arrests, forced confessions, and intense psychological pressure on the families of those killed."
+  },
+  "startDate": "2019-11-15",
+  "images": [
+    "events/2020-ps752-flight/1.webp",
+    "events/2020-ps752-flight/2.jpg",
+    "events/2020-ps752-flight/3.jpg"
+  ],
+  "tags": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%A2%D8%A8%D8%A7%D9%86_%DB%B1%DB%B3%DB%B9%DB%B8_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "title": "اعتراضات آبان ۱۳۹۸ ایران - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PL9r3GUqd8MnOg92HXCGOcZMV1Fmf0Mpgh",
+      "title": "ویدئوهای سرکوب اعتراضات آبان ۹۸",
+      "type": "video"
+    }
+  ]
+}

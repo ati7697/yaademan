@@ -1,0 +1,29 @@
+{
+  "id": "1999-tehran-university-dormitory-protests",
+  "name": {
+    "fa": "هجده تیر و حمله به کوی دانشگاه تهران",
+    "en": "1999 Tehran University Dormitory Protests"
+  },
+  "description": {
+    "fa": "وقایع هجده تیر یا حمله به کوی دانشگاه تهران به مجموعه ناآرامی\u200Cها و درگیری\u200Cهایی گفته می\u200Cشود که طی روزهای ۱۸ تا ۲۳ تیر ۱۳۷۸ و به دنبال توقیف روزنامه سلام میان دانشجویان و نیروهای انتظامی، بسیجی\u200Cها و لباس\u200Cشخصی\u200Cها رخ داد. این رویداد با حمله به خوابگاه دانشجویان، کشته شدن و ناپدید شدن تعدادی از افراد، مجروح شدن شمار زیادی از دانشجویان، ضرب و شتم گسترده و بازداشت\u200Cهای فراوان همراه بود. فعالان حقوق بشر شمار کشته\u200Cشدگان را هفت نفر اعلام کرده\u200Cاند و از این رویداد به عنوان یکی از بزرگ\u200Cترین چالش\u200Cهای جنبش دانشجویی ایران پس از انقلاب ۱۳۵۷ یاد می\u200Cشود. زمینه این اعتراضات توقیف روزنامه سلام در ۱۵ تیر ۱۳۷۸ پس از انتشار نامه محرمانه\u200Cای منسوب به سعید امامی درباره محدودسازی مطبوعات و نویسندگان بود.",
+    "en": "The events of 18 Tir, also known as the attack on the Tehran University dormitory, refer to a series of unrest and clashes that took place from 1999-07-09 to 1999-07-14 following the closure of the newspaper Salam. The confrontation involved students, police forces, Basij members, and plainclothes agents. The event included an attack on student dormitories, killings and disappearances, serious injuries to many students, widespread beatings, and numerous arrests. Human rights activists believe that seven people were killed in the attack, and the incident is widely regarded as one of the biggest challenges to Iran’s student movement after the 1979 revolution. The protests were triggered by the closure of Salam on 1999-07-06 after it published a confidential letter attributed to Saeed Emami concerning new restrictions on the press and writers."
+  },
+  "startDate": "1999-07-09",
+  "images": [
+    "events/1999-tehran-university-dormitory-protests/1.jpg",
+    "events/1999-tehran-university-dormitory-protests/2.jpeg",
+    "events/1999-tehran-university-dormitory-protests/3.jpg",
+    "events/1999-tehran-university-dormitory-protests/4.jpg",
+    "events/1999-tehran-university-dormitory-protests/5.jpg",
+    "events/1999-tehran-university-dormitory-protests/6.jpg",
+    "events/1999-tehran-university-dormitory-protests/saeeid-zenali-mother.jpg"
+  ],
+  "tags": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%AD%D9%85%D9%84%D9%87_%D8%A8%D9%87_%DA%A9%D9%88%DB%8C_%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87",
+      "title": "حمله به کوی دانشگاه - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    }
+  ]
+}

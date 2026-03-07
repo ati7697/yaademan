@@ -9,8 +9,17 @@
     "en": "Ukraine International Airlines Flight PS752 was shot down on 8 January 2020 shortly after takeoff from Tehran by two surface-to-air missiles fired by the Islamic Revolutionary Guard Corps (IRGC). All 176 people on board were killed."
   },
   "startDate": "2020-01-08",
-  "endDate": "2020-01-08",
-  "images": [],
-  "tags": [],
-  "links": []
+  "images": [
+    "events/2020-ps752-flight/1.webp",
+    "events/2020-ps752-flight/2.jpg",
+    "events/2020-ps752-flight/3.jpg"
+  ],
+  "tags": ["#پرواز_۷۵۲","#flight_752","tehran","irgc","#فراموش_نمیکنیم", "#PS752"],
+  "links": [
+    {
+      "url": "https://www.ps752justice.com/",
+      "title": "PS752 Justice Website",
+      "type": "other"
+    }
+  ]
 }

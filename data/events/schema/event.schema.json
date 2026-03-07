@@ -48,10 +48,6 @@
       "type": ["string", "null"],
       "format": "date"
     },
-    "endDate": {
-      "type": ["string", "null"],
-      "format": "date"
-    },
     "tags": {
       "type": "array",
       "items": {

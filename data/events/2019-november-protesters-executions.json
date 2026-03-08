@@ -1,0 +1,26 @@
+{
+  "id": "2019-november-protesters-executions",
+  "name": {
+    "fa": "اعدام معترضان خیزش آبان ۱۳۹۸",
+    "en": "Executions of Protesters of the November 2019 Uprising"
+  },
+  "description": {
+    "fa": "در پی خیزش آبان ۱۳۹۸ ایران، شماری از بازداشت\u200Cشدگان این اعتراضات در سال\u200Cهای بعد توسط جمهوری اسلامی ایران به اعدام محکوم و حکم آنان اجرا شد. از جمله در سال ۱۴۰۲ چند تن از زندانیان مرتبط با این اعتراضات اعدام شدند. در ۱ آذر ۱۴۰۲ غلام\u200Cرسول حیدری، زندانی بلوچ اهل جاسک و از بازداشت\u200Cشدگان اعتراضات آبان ۹۸، پس از چهار سال زندان در زندان عادل\u200Cآباد شیراز اعدام شد. در ۷ آذر ۱۴۰۲ هانی آلبوشهبازی اهل فلاحیه (شادگان) در زندان سپیدار اهواز به اتهام محاربه و قتل یک نیروی انتظامی و یک بسیجی اعدام شد. در ۹ آذر ۱۴۰۲ نیز کامران رضایی، از معترضان آبان ۹۸، در زندان مرکزی شیراز (عادل\u200Cآباد) به اتهام قتل عمد یک بسیجی اعدام شد.",
+    "en": "Following the November 2019 protests in Iran, several detainees arrested during the uprising were later sentenced to death and executed by the Islamic Republic. Years after the protests, executions of some of these prisoners were carried out. In November 2023, several individuals connected to the 2019 protests were executed, including Gholamrasoul Heydari, Hani Alboushahbazi, and Kamran Rezaei. These executions were linked to charges related to incidents during the November 2019 uprising."
+  },
+  "startDate": "2019-11-15",
+  "images": [],
+  "tags": [],
+  "links": [
+    {
+     "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%A2%D8%A8%D8%A7%D9%86_%DB%B1%DB%B3%DB%B9%DB%B8_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "title": "اعتراضات آبان ۱۳۹۸ ایران - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    },
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AF%D8%B1_%D8%AF%D9%88%D8%B1%D9%87_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C#%D8%A7%D8%B9%D8%AF%D8%A7%D9%85_%D8%A8%D8%B1%D8%AE%DB%8C_%D9%85%D8%B9%D8%AA%D8%B1%D8%B6%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%D8%A2%D8%A8%D8%A7%D9%86_%DB%B1%DB%B3%DB%B9%DB%B8",
+      "title": "اعدام برخی معترضان خیزش آبان ۱۳۹۸ - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1978-cinema-rex-fire",
+  "name": {
+    "fa": "آتش\u200Cسوزی سینما رکس آبادان",
+    "en": "Cinema Rex Fire"
+  },
+  "description": {
+    "fa": "آتش\u200Cسوزی سینما رکس آبادان در شامگاه ۲۸ مرداد ۱۳۵۷ رخ داد و یکی از مرگبارترین حوادث تاریخ معاصر ایران به شمار می\u200Cرود. این آتش\u200Cسوزی به\u200Cصورت عمدی توسط انقلابیون مخالف حکومت پهلوی انجام شد. در زمان وقوع حادثه، سینما در حال نمایش فیلم «گوزن\u200Cها» به کارگردانی مسعود کیمیایی بود. مهاجمان با استفاده از مواد آتش\u200Cزا درها و بخش\u200Cهای مختلف سالن را آغشته کردند که باعث گسترش سریع آتش شد. در این حادثه صدها نفر از تماشاگران در داخل سالن گرفتار شدند و جان خود را از دست دادند. شمار قربانیان ابتدا حدود ۶۳۰ نفر گزارش شد و بعدها برخی منابع تعداد کشته\u200Cشدگان را بیش از ۶۷۷ نفر اعلام کردند. این رویداد در فضای ملتهب سیاسی پیش از انقلاب ۱۳۵۷ رخ داد و به یکی از نقاط عطف در تشدید ناآرامی\u200Cها و اعتراضات علیه حکومت پهلوی تبدیل شد.",
+    "en": "The Cinema Rex fire occurred on 1978-08-19 in Abadan and is considered one of the deadliest incidents in modern Iranian history. The fire was deliberately set by revolutionaries opposing the Pahlavi government. At the time of the incident, the cinema was screening the film “The Deer” directed by Masoud Kimiai. The attackers spread flammable materials throughout entrances and inside the hall, causing the fire to spread rapidly. Hundreds of people were trapped inside the theater and died. Early reports indicated around 630 deaths, while later estimates placed the death toll at more than 677 victims. The tragedy occurred during a period of intense political unrest before the 1979 Iranian Revolution and became a significant event that fueled opposition to the Pahlavi government."
+  },
+  "startDate": "1978-08-19",
+  "images": [
+    "events/1978-cinema-rex-fire/1.jpg",
+    "events/1978-cinema-rex-fire/2.jpg",
+    "events/1978-cinema-rex-fire/3.jpeg",
+    "events/1978-cinema-rex-fire/4.jpg"
+  ],
+  "tags": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%E2%80%8C%D8%B3%D9%88%D8%B2%DB%8C_%D8%B3%DB%8C%D9%86%D9%85%D8%A7_%D8%B1%DA%A9%D8%B3_%D8%A2%D8%A8%D8%A7%D8%AF%D8%A7%D9%86",
+      "title": "Wikipedia |آتش\u200Cسوزی سینما رکس آبادان - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    }
+  ]
+}

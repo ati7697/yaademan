@@ -1,0 +1,30 @@
+{
+  "id": "1979-post-revolution-executions",
+  "name": {
+    "fa": "اعدام سران حکومت پهلوی",
+    "en": "Executions of Pahlavi Officials After the 1979 Revolution"
+  },
+  "description": {
+    "fa": "پس از انقلاب ۱۳۵۷ ایران، با رأی دادگاه\u200Cهای انقلاب اسلامی و به دستور سید روح\u200Cالله خمینی، موجی از اعدام سران و وابستگان حکومت پیشین به راه افتاد. این دادگاه\u200Cها عمدتاً به ریاست صادق خلخالی برگزار می\u200Cشد و هدف اعلام\u200Cشدهٔ آن رسیدگی به جرایم مسئولان حکومت پهلوی بود. در ۲۷ بهمن ۱۳۵۷ نخستین گروه از مقام\u200Cهای ارشد حکومت شاهنشاهی، شامل چهار امیر نیروهای مسلح، به حکم دادگاه انقلاب اعدام شدند. در ماه\u200Cها و سال\u200Cهای بعد نیز شمار زیادی از مقامات نظامی، امنیتی و اداری حکومت پیشین از جمله مسئولان ساواک، فرماندهان حکومت نظامی، افسران ارتش، و مقام\u200Cهای شهربانی و ژاندارمری اعدام شدند. بر اساس گزارش سازمان عفو بین\u200Cالملل، از زمان پیروزی انقلاب تا اسفند ۱۳۵۸ دست\u200Cکم ۴۳۸ نفر توسط دادگاه\u200Cهای انقلاب اعدام شدند. این اعدام\u200Cها واکنش شدید نهادهای حقوق بشری و جامعه بین\u200Cالمللی را برانگیخت.",
+    "en": "After the 1979 Iranian Revolution, revolutionary courts ordered a wave of executions targeting officials and affiliates of the former Pahlavi government. These trials were largely overseen by revolutionary judge Sadegh Khalkhali and carried out under the authority of Ruhollah Khomeini. On 1979-02-16 the first group of senior officials of the former monarchy, including four high-ranking military generals, were executed following rulings by the Islamic Revolutionary Court. In the months that followed, many military, intelligence, and government officials—including members of SAVAK, commanders of martial law units, army officers, and police officials—were executed. According to Amnesty International, at least 438 people were executed by revolutionary courts between the victory of the revolution and March 1980. The executions drew strong criticism from international human rights organizations and global observers."
+  },
+  "startDate": "1979-02-16",
+  "images": [
+    "events/1979-post-revolution-executions/2.jpg",
+    "events/1979-post-revolution-executions/3.jpeg",
+    "events/1979-post-revolution-executions/4.jpg"
+  ],
+  "tags": [],
+  "links": [
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AF%D8%B1_%D8%AF%D9%88%D8%B1%D9%87_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C#%D8%A7%D8%B9%D8%AF%D8%A7%D9%85_%D8%B3%D8%B1%D8%A7%D9%86_%D8%AD%DA%A9%D9%88%D9%85%D8%AA_%D9%BE%D9%87%D9%84%D9%88%DB%8C",
+      "title": "اعدام سران حکومت پهلوی",
+      "type": "wikipedia"
+    },
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D9%81%D9%87%D8%B1%D8%B3%D8%AA_%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%E2%80%8C%D8%B4%D8%AF%DA%AF%D8%A7%D9%86_%D8%B3%D8%B1%D8%B4%D9%86%D8%A7%D8%B3_%D8%A8%D9%87_%D8%AD%DA%A9%D9%85_%D8%B5%D8%A7%D8%AF%D9%82_%D8%AE%D9%84%D8%AE%D8%A7%D9%84%DB%8C",
+      "title": "فهرست اعدام\u200Cشدگان سرشناس به حکم صادق خلخالی",
+      "type": "wikipedia"
+    }
+  ]
+}

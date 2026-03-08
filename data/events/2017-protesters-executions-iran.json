@@ -1,0 +1,26 @@
+{
+  "id": "2017-protesters-executions-iran",
+  "name": {
+    "fa": "اعدام معترضان خیزش دی ۱۳۹۶",
+    "en": "Executions of Protesters of the 2017–2018 Iranian Protests"
+  },
+  "description": {
+    "fa": "در پی اعتراضات سراسری دی ۱۳۹۶ ایران، شماری از بازداشت\u200Cشدگان این اعتراضات توسط جمهوری اسلامی ایران به اعدام محکوم و حکم آنان اجرا شد. این اعتراضات که از ۷ دی ۱۳۹۶ در شهر مشهد آغاز شد، به سرعت به ده\u200Cها شهر دیگر گسترش یافت. پس از سرکوب اعتراضات، بسیاری از معترضان بازداشت شدند و برخی از آنان در دادگاه\u200Cهای انقلاب به اتهام\u200Cهایی مانند محاربه یا قتل به اعدام محکوم شدند. اجرای این احکام واکنش گسترده فعالان حقوق بشر و سازمان\u200Cهای بین\u200Cالمللی را برانگیخت.",
+    "en": "Following the nationwide protests in Iran during December 2017 and early 2018, several individuals arrested during the demonstrations were later sentenced to death and executed by the Islamic Republic. The protests began on 2017-12-28 in the city of Mashhad and quickly spread to dozens of cities across Iran. After the protests were suppressed, many demonstrators were arrested and some were later sentenced to death by revolutionary courts on charges such as moharebeh or murder. The executions drew criticism from human rights organizations and international observers."
+  },
+  "startDate": "2017-12-28",
+  "images": [],
+  "tags": [],
+  "links": [
+    {
+     "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D8%B6%D8%A7%D8%AA_%D8%AF%DB%8C_%DB%B1%DB%B3%DB%B9%DB%B6_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
+      "title": "اعتراضات دی ۱۳۹۶ ایران - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    },
+    {
+      "url": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B9%D8%AF%D8%A7%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D8%AF%D8%B1_%D8%AF%D9%88%D8%B1%D9%87_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C#%D8%A7%D8%B9%D8%AF%D8%A7%D9%85_%D8%A8%D8%B1%D8%AE%DB%8C_%D9%85%D8%B9%D8%AA%D8%B1%D8%B6%D8%A7%D9%86_%D8%AE%DB%8C%D8%B2%D8%B4_%D8%AF%DB%8C_%DB%B1%DB%B3%DB%B9%DB%B6",
+      "title": "اعدام برخی معترضان خیزش دی ۱۳۹۶ - ویکی\u200Cپدیا",
+      "type": "wikipedia"
+    }
+  ]
+}
